@@ -3,10 +3,14 @@ name: Update Coffee Live M3U
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "7,22,37,52 * * * *"
 
 permissions:
   contents: write
+
+concurrency:
+  group: update-coffee-live-m3u
+  cancel-in-progress: true
 
 jobs:
   update:
