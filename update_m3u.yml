@@ -1,0 +1,38 @@
+name: Update Coffee Live M3U
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub Actions uses UTC. This runs every 15 minutes.
+    - cron: "7,22,37,52 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate M3U
+        run: python generate_coffee_m3u.py --output coffee_live.m3u
+
+      - name: Add update timestamp
+        run: |
+          date -u '+# Updated: %Y-%m-%d %H:%M:%S UTC' >> update_log.txt
+          tail -n 50 update_log.txt > update_log.tmp && mv update_log.tmp update_log.txt
+
+      - name: Commit updated M3U
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add coffee_live.m3u update_log.txt
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "auto: update coffee live m3u"
+          git push
