@@ -1,45 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 巴拉圭 vs 法国 | 0-1 | 咪咕 | 咪咕
-https://live.666666.zip/migu/1.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 巴拉圭 vs 法国 | 0-1 | 咪咕 | CCTV5
-https://live.666666.zip/cctv/5.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 巴拉圭 vs 法国 | 0-1 | 咪咕 | 小红书
-https://live.666666.zip/xiaohongshu/1.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 巴拉圭 vs 法国 | 0-1 | 咪咕 | 粤语
-https://live.666666.zip/yueyu/index.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 巴拉圭 vs 法国 | 0-1 | 咪咕 | 备用
-https://live.666666.zip/weixing/1.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 巴拉圭 vs 法国 | 0-1 | 咪咕 | 直播10
-https://live.666666.zip/live/4459800.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 巴拉圭 vs 法国 | 0-1 | 咪咕 | 原声1
-https://pul-tenm.gkykp.com/live/hd-en-1-4459800.m3u8?txSecret=85b346e6640d43f0e9cbecb14c65699c&txTime=6A4AE1F0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1020.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 国王 vs 篮网 | 73-74 | 直播20 | 直播20
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1020.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 国王 vs 篮网 | 79-76 | 直播20 | 直播20
 https://live.666666.zip/live/3923315.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1020.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 国王 vs 篮网 | 73-74 | 直播20 | 原声12
-https://pul-tenm.gkykp.com/live/sd-2-3923315.m3u8?txSecret=bd02a2c2dd38062ac13e59d6eb0e1f68&txTime=6A4AE1F0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="厄乙",厄乙 | 波图维耶霍 vs 十月九日 | 0-0 | 直播12 | 直播12
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1020.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 国王 vs 篮网 | 79-76 | 直播20 | 原声12
+https://pul-tenm.gkykp.com/live/sd-2-3923315.m3u8?txSecret=8f1ea06a56adac51f4a7aba255047d84&txTime=6A4AE538
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="美乙",美乙 | 坦帕湾 vs 列克星敦 | 0-3 | 直播3 | 直播3
+https://live.666666.zip/live/4473048.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="美乙",美乙 | 坦帕湾 vs 列克星敦 | 0-3 | 直播3 | 原声15
+https://pul-tenm.gkykp.com/live/sd-1-4473048.m3u8?txSecret=3a2ac84b64b165531e3d3374e65722a9&txTime=6A4AE538
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 戈亚斯 vs 塞阿拉 | 1-0 | 直播5 | 直播5
+https://live.666666.zip/live/4494608.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 戈亚斯 vs 塞阿拉 | 1-0 | 直播5 | 原声52
+https://pul-tenm.gkykp.com/live/sd-1-4494608.m3u8?txSecret=97d18e42fa1ff5df3cfaa1f15cafe201&txTime=6A4AE538
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="厄乙",厄乙 | 波图维耶霍 vs 十月九日 | 0-1 | 直播12 | 直播12
 https://live.666666.zip/live/4513583.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="美预备联",美预备联 | 亚特兰大联B队 vs 多伦多FCB队 | 0-0 | 直播18 | 直播18
 https://live.666666.zip/live/4564835.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="美预备联",美预备联 | 亚特兰大联B队 vs 多伦多FCB队 | 0-0 | 直播18 | 原声87
-https://pul-tenm.gkykp.com/live/sd-1-4564835.m3u8?txSecret=9b01bd0b81353f55b3374cde1b0f2605&txTime=6A4AE1F0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 爵士 vs 老鹰 | 103-99 | 直播19 | 直播19
-https://live.666666.zip/live/3923394.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 爵士 vs 老鹰 | 103-99 | 直播19 | 原声8
-https://pul-tenm.gkykp.com/live/sd-2-3923394.m3u8?txSecret=97fb12a943a8f554e542f5563843c8c4&txTime=6A4AE1F0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="美乙",美乙 | 匹兹堡猎犬河队 vs 布鲁克林 | 0-0 | 直播1 | 直播1
-https://live.666666.zip/live/4473022.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="美乙",美乙 | 匹兹堡猎犬河队 vs 布鲁克林 | 0-0 | 直播1 | 原声53
-https://pul-tenm.gkykp.com/live/sd-1-4473022.m3u8?txSecret=2aa37133e0675bc0879598e9e78c4ee1&txTime=6A4AE1F0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="美乙",美乙 | 坦帕湾 vs 列克星敦 | 0-3 | 直播3 | 直播3
-https://live.666666.zip/live/4473048.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="美乙",美乙 | 坦帕湾 vs 列克星敦 | 0-3 | 直播3 | 原声15
-https://pul-tenm.gkykp.com/live/sd-1-4473048.m3u8?txSecret=a73b0841cfb4ecae6c555870dba41be0&txTime=6A4AE1F0
+https://pul-tenm.gkykp.com/live/sd-1-4564835.m3u8?txSecret=e4d3c53d257f203cf15c9a5f013dda4d&txTime=6A4AE538
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1023.jpg?v=1780171883879" group-title="智利杯",智利杯 | 伊基克体育 vs 科其姆波 | 0-0 | 直播23 | 直播23
 https://live.666666.zip/live/4552697.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1023.jpg?v=1780171883879" group-title="智利杯",智利杯 | 伊基克体育 vs 科其姆波 | 0-0 | 直播23 | 原声7
-https://pul-tenm.gkykp.com/live/sd-1-4552697.m3u8?txSecret=0680e4b0e99fea91cf554db8d68871e5&txTime=6A4AE1F0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1024.jpg?v=1780171883879" group-title="加拿职",加拿职 | 温哥华FC vs 多伦多国际 | 0-0 | 直播24 | 直播24
+https://pul-tenm.gkykp.com/live/sd-1-4552697.m3u8?txSecret=b16cc8d02ff9f8f19be45f9113119682&txTime=6A4AE538
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1024.jpg?v=1780171883879" group-title="加拿职",加拿职 | 温哥华FC vs 多伦多国际 | 1-0 | 直播24 | 直播24
 https://live.666666.zip/live/4492283.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1024.jpg?v=1780171883879" group-title="加拿职",加拿职 | 温哥华FC vs 多伦多国际 | 0-0 | 直播24 | 原声36
-https://pul-tenm.gkykp.com/live/sd-1-4492283.m3u8?txSecret=6d85742d860d6f0f607831898056a387&txTime=6A4AE178
