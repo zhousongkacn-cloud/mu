@@ -1,31 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1282.jpg?v=1780171883879" group-title="挪甲",挪甲 | 布莱尼 vs 桑德尼斯 | 0-0 | 原声82 | 原声82
-https://pul-tenm.gkykp.com/live/sd-1-4467774.m3u8?txSecret=486ae173b6543ce40f45407977f18db1&txTime=6A4A8688
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1311.jpg?v=1780171883879" group-title="法罗超",法罗超 | 阿吉尔 vs EB斯特雷穆尔 | 0-0 | 原声111 | 原声111
-https://pul-tenm.gkykp.com/live/sd-1-4477546.m3u8?txSecret=0ee9634c2c192c1b71a33b17c68715fd&txTime=6A4A8688
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1319.jpg?v=1780171883879" group-title="芬超",芬超 | VPS瓦萨 vs 玛丽港 | 2-0 | 原声119 | 原声119
-https://pul-tenm.gkykp.com/live/sd-1-4468140.m3u8?txSecret=6c4dfeefffc44ee9d8008c583fa9719e&txTime=6A4A8688
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1321.jpg?v=1780171883879" group-title="世非预",世非预 | 马里 vs 乌干达 | 42-30 | 原声121 | 原声121
-https://pul-tenm.gkykp.com/live/sd-2-3887750.m3u8?txSecret=44f9e1f540947a94f2fe2780708768a8&txTime=6A4A8688
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1322.jpg?v=1780171883879" group-title="拉脱超",拉脱超 | 里加足球学院 vs 奥达里加 | 0-1 | 原声122 | 原声122
-https://pul-tenm.gkykp.com/live/sd-1-4495130.m3u8?txSecret=131136a9920766a914f141b4d818972e&txTime=6A4A8688
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1210.jpg?v=1780171883879" group-title="白俄超",白俄超 | 格罗德诺 vs 捷尔任斯克兵工厂 | 0-1 | 原声10 | 原声10
-https://pul-tenm.gkykp.com/live/sd-1-4502859.m3u8?txSecret=5dcefa0f47fc22dbce2e6533986a9c0b&txTime=6A4A8688
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 加拿大 vs 摩洛哥 | 0-0 | 咪咕 | 咪咕
+https://live.666666.zip/migu/1.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 加拿大 vs 摩洛哥 | 0-0 | 咪咕 | CCTV5
+https://live.666666.zip/cctv/5.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1319.jpg?v=1780171883879" group-title="芬超",芬超 | VPS瓦萨 vs 玛丽港 | 3-0 | 原声119 | 原声119
+https://pul-tenm.gkykp.com/live/sd-1-4468140.m3u8?txSecret=2f76e580033ace39f8bf080f6f42f042&txTime=6A4A89D1
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1265.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 马里博尔 vs 潘切沃泽勒 | 0-0 | 原声65 | 原声65
-https://pul-tenm.gkykp.com/live/sd-1-4566882.m3u8?txSecret=ebefe20e349e090467447d80b0d7c940&txTime=6A4A8688
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1271.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 艾默当踢球者 vs 圣保利 | 1-1 | 原声71 | 原声71
-https://pul-tenm.gkykp.com/live/sd-1-4566905.m3u8?txSecret=f4b37a3eaa24df16a5927f888432bc4a&txTime=6A4A8688
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1272.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 弗罗茨瓦夫斯拉斯克 vs 查洛里 | 1-0 | 原声72 | 原声72
-https://pul-tenm.gkykp.com/live/sd-1-4566909.m3u8?txSecret=446aac3d3de4f6ac4dfe3f711e441cf0&txTime=6A4A8688
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1283.jpg?v=1780171883879" group-title="爱沙甲",爱沙甲 | 纳尔瓦 vs 塔林利瓦迪亚 | 0-0 | 原声83 | 原声83
-https://pul-tenm.gkykp.com/live/sd-1-4486545.m3u8?txSecret=c14fbeca2a232bb3cf4f3173c16be328&txTime=6A4A8688
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1285.jpg?v=1780171883879" group-title="爱沙甲",爱沙甲 | 派德 vs 帕尔努瓦普鲁斯 | 1-1 | 原声85 | 原声85
-https://pul-tenm.gkykp.com/live/sd-1-4486546.m3u8?txSecret=f66b34b32ef9af04df94d6c9b299a0da&txTime=6A4A8688
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1310.jpg?v=1780171883879" group-title="冰岛甲",冰岛甲 | 雷克尼尔 vs 胡萨维克 | 0-1 | 原声110 | 原声110
-https://pul-tenm.gkykp.com/live/sd-1-4486396.m3u8?txSecret=078aa4aee805dbe13dc4639793ff9289&txTime=6A4A8688
+https://pul-tenm.gkykp.com/live/sd-1-4566882.m3u8?txSecret=3e45a8976bdfb5c11f45ae1f1ac1b5cd&txTime=6A4A89D1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1282.jpg?v=1780171883879" group-title="挪甲",挪甲 | 布莱尼 vs 桑德尼斯 | 0-0 | 原声82 | 原声82
+https://pul-tenm.gkykp.com/live/sd-1-4467774.m3u8?txSecret=59f9164d4c8a79216d4f87e52f61bc60&txTime=6A4A89D1
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1323.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 立陶宛女篮U20 vs 克罗地亚女篮U20 | 36-32 | 原声123 | 原声123
-https://pul-tenm.gkykp.com/live/sd-2-3907357.m3u8?txSecret=e6552d2332fb02961bf45cb7c4465751&txTime=6A4A8688
+https://pul-tenm.gkykp.com/live/sd-2-3907357.m3u8?txSecret=3559302162a88347db55b97e8a0a8917&txTime=6A4A89D1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1210.jpg?v=1780171883879" group-title="白俄超",白俄超 | 格罗德诺 vs 捷尔任斯克兵工厂 | 0-1 | 原声10 | 原声10
+https://pul-tenm.gkykp.com/live/sd-1-4502859.m3u8?txSecret=a792748265102a1577c6be9402d97e7b&txTime=6A4A89D1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1268.jpg?v=1780171883879" group-title="冰岛乙",冰岛乙 | 马格尼 vs 沃古姆 | 2-2 | 原声68 | 原声68
+https://pul-tenm.gkykp.com/live/sd-1-4487329.m3u8?txSecret=28c4ec0e8e0feae3cf16c9bdc63bb321&txTime=6A4A89D1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1271.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 艾默当踢球者 vs 圣保利 | 1-1 | 原声71 | 原声71
+https://pul-tenm.gkykp.com/live/sd-1-4566905.m3u8?txSecret=0c7374945e77419b365a381920544354&txTime=6A4A89D1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1272.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 弗罗茨瓦夫斯拉斯克 vs 查洛里 | 2-0 | 原声72 | 原声72
+https://pul-tenm.gkykp.com/live/sd-1-4566909.m3u8?txSecret=ad1619b861574aba3839258957005277&txTime=6A4A89D1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1283.jpg?v=1780171883879" group-title="爱沙甲",爱沙甲 | 纳尔瓦 vs 塔林利瓦迪亚 | 0-2 | 原声83 | 原声83
+https://pul-tenm.gkykp.com/live/sd-1-4486545.m3u8?txSecret=86b3630d8add4a39d470a6b14f8ca9b4&txTime=6A4A89D1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1285.jpg?v=1780171883879" group-title="爱沙甲",爱沙甲 | 派德 vs 帕尔努瓦普鲁斯 | 2-1 | 原声85 | 原声85
+https://pul-tenm.gkykp.com/live/sd-1-4486546.m3u8?txSecret=50c30201c9c42e867073d267daf6aef8&txTime=6A4A89D1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1310.jpg?v=1780171883879" group-title="冰岛甲",冰岛甲 | 雷克尼尔 vs 胡萨维克 | 0-1 | 原声110 | 原声110
+https://pul-tenm.gkykp.com/live/sd-1-4486396.m3u8?txSecret=8bcee0f033ade4f406728e89a5d52357&txTime=6A4A89D1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1311.jpg?v=1780171883879" group-title="法罗超",法罗超 | 阿吉尔 vs EB斯特雷穆尔 | 0-1 | 原声111 | 原声111
+https://pul-tenm.gkykp.com/live/sd-1-4477546.m3u8?txSecret=046312d21fe98707d31e83178efe70d5&txTime=6A4A89D1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1322.jpg?v=1780171883879" group-title="拉脱超",拉脱超 | 里加足球学院 vs 奥达里加 | 1-1 | 原声122 | 原声122
+https://pul-tenm.gkykp.com/live/sd-1-4495130.m3u8?txSecret=4f4329d79dcb4b8b6f71d02676236fae&txTime=6A4A89D1
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1324.jpg?v=1780171883879" group-title="女欧U20 B",女欧U20 B | 罗马尼亚女篮U20 vs 保加利亚女篮U20 | 14-55 | 原声124 | 原声124
-https://pul-tenm.gkykp.com/live/sd-2-3907367.m3u8?txSecret=c786edb9802e2f082186534ba28ffd64&txTime=6A4A8688
+https://pul-tenm.gkykp.com/live/sd-2-3907367.m3u8?txSecret=ebdc70a2338fc9907b799b2ac4c77c1c&txTime=6A4A89D1
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1325.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 塞尔维亚女篮U20 vs 冰岛女篮U20 | 38-38 | 原声125 | 原声125
-https://pul-tenm.gkykp.com/live/sd-2-3907376.m3u8?txSecret=0989ec6239a1667560712de987e8a25d&txTime=6A4A8688
+https://pul-tenm.gkykp.com/live/sd-2-3907376.m3u8?txSecret=5598dfc2a8c88c57593ad52836a27d8d&txTime=6A4A89D1
