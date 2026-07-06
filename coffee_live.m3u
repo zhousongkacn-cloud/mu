@@ -5,11 +5,15 @@ https://live.666666.zip/migu/1.m3u8
 https://live.666666.zip/cctv/5.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 葡萄牙 vs 西班牙 | 0-1 | 咪咕 | 小红书
 https://live.666666.zip/xiaohongshu/1.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 葡萄牙 vs 西班牙 | 0-1 | 咪咕 | 低延迟
-https://live.666666.zip/weixing/1.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 葡萄牙 vs 西班牙 | 0-1 | 咪咕 | 粤语
 https://live.666666.zip/yueyu/index.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="世预美",世预美 | 委内瑞拉 vs 智利 | 2-2 | 直播6 | 直播6
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 葡萄牙 vs 西班牙 | 0-1 | 咪咕 | 低延迟
+https://live.666666.zip/weixing/1.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="世预美",世预美 | 委内瑞拉 vs 智利 | 9-19 | 直播6 | 直播6
 https://live.666666.zip/live/3887935.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="世预美",世预美 | 委内瑞拉 vs 智利 | 2-2 | 直播6 | 原声21
-https://pul-tenm.gkykp.com/live/sd-2-3887935.m3u8?txSecret=f2855c08c01c392fbdfd654714f5ea81&txTime=6A4D6C18
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="世预美",世预美 | 委内瑞拉 vs 智利 | 9-19 | 直播6 | 原声21
+https://pul-tenm.gkykp.com/live/sd-2-3887935.m3u8?txSecret=4afd965dd9e99be3f76d147e3caf3084&txTime=6A4D6FD8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 基多天主大学 vs 穆苏克鲁纳 | 0-0 | 直播2 | 直播2
+https://live.666666.zip/live/4492515.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 基多天主大学 vs 穆苏克鲁纳 | 0-0 | 直播2 | 原声30
+https://pul-tenm.gkykp.com/live/sd-1-4492515.m3u8?txSecret=3846cd628ffed175c257907a28137f89&txTime=6A4D6FD8
