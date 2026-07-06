@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 葡萄牙 vs 西班牙 | 0-1 | 咪咕 | 咪咕
 https://live.666666.zip/migu/1.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 葡萄牙 vs 西班牙 | 0-1 | 咪咕 | 小红书
-https://live.666666.zip/xiaohongshu/1.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 葡萄牙 vs 西班牙 | 0-1 | 咪咕 | CCTV5
 https://live.666666.zip/cctv/5.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 葡萄牙 vs 西班牙 | 0-1 | 咪咕 | 粤语
-https://live.666666.zip/yueyu/index.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 葡萄牙 vs 西班牙 | 0-1 | 咪咕 | 小红书
+https://live.666666.zip/xiaohongshu/1.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 葡萄牙 vs 西班牙 | 0-1 | 咪咕 | 低延迟
 https://live.666666.zip/weixing/1.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 葡萄牙 vs 西班牙 | 0-1 | 咪咕 | 直播1
-https://live.666666.zip/live/4459804.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 葡萄牙 vs 西班牙 | 0-1 | 咪咕 | 原声1
-https://pul-tenm.gkykp.com/live/hd-en-1-4459804.m3u8?txSecret=1991f8d1f2434000a12b59b6fbae9ac0&txTime=6A4D68D0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 葡萄牙 vs 西班牙 | 0-1 | 咪咕 | 粤语
+https://live.666666.zip/yueyu/index.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="世预美",世预美 | 委内瑞拉 vs 智利 | 2-2 | 直播6 | 直播6
+https://live.666666.zip/live/3887935.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="世预美",世预美 | 委内瑞拉 vs 智利 | 2-2 | 直播6 | 原声21
+https://pul-tenm.gkykp.com/live/sd-2-3887935.m3u8?txSecret=f2855c08c01c392fbdfd654714f5ea81&txTime=6A4D6C18
