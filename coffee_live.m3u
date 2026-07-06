@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="世亚预",世亚预 | 韩国 vs 日本 | 80-78 | 直播8 | 直播8
-https://live.666666.zip/live/3871444.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="世亚预",世亚预 | 韩国 vs 日本 | 80-78 | 直播8 | 原声16
-https://pul-tenm.gkykp.com/live/hd-en-2-3871444.m3u8?txSecret=4778b8fd8debf176595bddcabdb844c1&txTime=6A4CF148
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="女欧U20 B",女欧U20 B | 斯洛伐克女篮U20 vs 捷克女篮U20 | 0-0 | 直播2 | 直播2
-https://live.666666.zip/live/3907450.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="女欧U20 B",女欧U20 B | 斯洛伐克女篮U20 vs 捷克女篮U20 | 0-0 | 直播2 | 原声18
-https://pul-tenm.gkykp.com/live/sd-2-3907450.m3u8?txSecret=467967d74e44cde38ac6b2e3c64a8748&txTime=6A4CF148
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="女欧U20 B",女欧U20 B | 瑞士女篮U20 vs 葡萄牙女篮U20 | 9-14 | 直播9 | 直播9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="女欧U20 B",女欧U20 B | 瑞士女篮U20 vs 葡萄牙女篮U20 | 15-25 | 直播9 | 直播9
 https://live.666666.zip/live/3907399.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="女欧U20 B",女欧U20 B | 瑞士女篮U20 vs 葡萄牙女篮U20 | 9-14 | 直播9 | 原声9
-https://pul-tenm.gkykp.com/live/sd-2-3907399.m3u8?txSecret=0901fccf857367879540e74411603f68&txTime=6A4CF148
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="女欧U20 B",女欧U20 B | 瑞士女篮U20 vs 葡萄牙女篮U20 | 15-25 | 直播9 | 原声9
+https://pul-tenm.gkykp.com/live/sd-2-3907399.m3u8?txSecret=a651d427723bd03be0e2794f90266c8b&txTime=6A4CF490
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="女欧U20 B",女欧U20 B | 斯洛伐克女篮U20 vs 捷克女篮U20 | 7-11 | 直播2 | 直播2
+https://live.666666.zip/live/3907450.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="女欧U20 B",女欧U20 B | 斯洛伐克女篮U20 vs 捷克女篮U20 | 7-11 | 直播2 | 原声18
+https://pul-tenm.gkykp.com/live/sd-2-3907450.m3u8?txSecret=8f90d2619f1bd749a99bbf016d7632fe&txTime=6A4CF490
