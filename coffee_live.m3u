@@ -1,9 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="世亚预",世亚预 | 新西兰 vs 关岛 | 92-45 | 直播7 | 直播7
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="世亚预",世亚预 | 新西兰 vs 关岛 | 115-63 | 直播7 | 直播7
 https://live.666666.zip/live/3871431.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="世亚预",世亚预 | 新西兰 vs 关岛 | 92-45 | 直播7 | 原声7
-https://pul-tenm.gkykp.com/live/sd-2-3871431.m3u8?txSecret=d669ca5714fed20bfdba7ffb6594ebae&txTime=6A4CB548
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="蒙古超",蒙古超 | 汗加里德 vs 中央骏马 | 0-0 | 直播9 | 直播9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="世亚预",世亚预 | 新西兰 vs 关岛 | 115-63 | 直播7 | 原声7
+https://pul-tenm.gkykp.com/live/sd-2-3871431.m3u8?txSecret=a83a1db4b2064d7798946834a871854e&txTime=6A4CB890
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中U21",中U21 | 云南玉昆U20 vs 辽宁铁人U20 | 0-0 | 直播1 | 直播1
+https://live.666666.zip/live/4562204.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中U21",中U21 | 云南玉昆U20 vs 辽宁铁人U20 | 0-0 | 直播1 | 原声29
+https://pul-tenm.gkykp.com/live/sd-1-4562204.m3u8?txSecret=36d5a1b353a33b700e045e0bb048682e&txTime=6A4CB890
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="中U21",中U21 | 青岛西海岸U20 vs 武汉三镇U20 | 0-0 | 直播2 | 直播2
+https://live.666666.zip/live/4562205.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="中U21",中U21 | 青岛西海岸U20 vs 武汉三镇U20 | 0-0 | 直播2 | 原声31
+https://pul-tenm.gkykp.com/live/sd-1-4562205.m3u8?txSecret=7786d25ca97807f76b0ecca2acfb3616&txTime=6A4CB890
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="中U21",中U21 | 青岛海牛U20 vs 南通支云U20 | 0-0 | 直播3 | 直播3
+https://live.666666.zip/live/4562206.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="中U21",中U21 | 青岛海牛U20 vs 南通支云U20 | 0-0 | 直播3 | 原声53
+https://pul-tenm.gkykp.com/live/sd-1-4562206.m3u8?txSecret=03cc06070a9fa2f9e5529227b75d3a8f&txTime=6A4CB890
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="中U21",中U21 | 兰州陇原竞技U20 vs 青岛红狮U20 | 0-0 | 直播4 | 直播4
+https://live.666666.zip/live/4562207.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="中U21",中U21 | 兰州陇原竞技U20 vs 青岛红狮U20 | 0-0 | 直播4 | 原声55
+https://pul-tenm.gkykp.com/live/sd-1-4562207.m3u8?txSecret=f13290c235c261f707cf27f422e46edb&txTime=6A4CB890
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="中U21",中U21 | 临沂奕虎U20 vs 石家庄功夫U20 | 0-0 | 直播5 | 直播5
+https://live.666666.zip/live/4562208.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="中U21",中U21 | 临沂奕虎U20 vs 石家庄功夫U20 | 0-0 | 直播5 | 原声58
+https://pul-tenm.gkykp.com/live/sd-1-4562208.m3u8?txSecret=70a63d73d47c80768aef24c4afd83d3a&txTime=6A4CB890
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="蒙古超",蒙古超 | 汗加里德 vs 中央骏马 | 0-1 | 直播9 | 直播9
 https://live.666666.zip/live/4565847.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="蒙古超",蒙古超 | 汗加里德 vs 中央骏马 | 0-0 | 直播9 | 原声24
-https://pul-tenm.gkykp.com/live/sd-1-4565847.m3u8?txSecret=88b4f56a0eef611b0c168fa281532338&txTime=6A4CB548
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="蒙古超",蒙古超 | 汗加里德 vs 中央骏马 | 0-1 | 直播9 | 原声24
+https://pul-tenm.gkykp.com/live/sd-1-4565847.m3u8?txSecret=c76af030c5d94d734e328f37bc83e7d3&txTime=6A4CB890
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 高丽大学 vs 明知大学 | 37-25 | 直播11 | 直播11
+https://live.666666.zip/live/3923733.m3u8
