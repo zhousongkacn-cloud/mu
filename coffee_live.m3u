@@ -1,5 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="世亚预",世亚预 | 中国 vs 中国台北 | 54-28 | 直播6 | 直播6
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="世亚预",世亚预 | 中国 vs 中国台北 | 56-28 | 直播6 | 直播6
 https://live.666666.zip/live/3871449.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="世亚预",世亚预 | 中国 vs 中国台北 | 54-28 | 直播6 | 原声19
-https://pul-tenm.gkykp.com/live/hd-en-2-3871449.m3u8?txSecret=504d790443ffc353cc28bd58fe35d0b6&txTime=6A4CA030
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="世亚预",世亚预 | 中国 vs 中国台北 | 56-28 | 直播6 | 原声19
+https://pul-tenm.gkykp.com/live/hd-en-2-3871449.m3u8?txSecret=602edc789c1780e36fe3aafc933f0850&txTime=6A4CA378
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="世亚预",世亚预 | 新西兰 vs 关岛 | 0-0 | 直播7 | 直播7
+https://live.666666.zip/live/3871431.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="世亚预",世亚预 | 新西兰 vs 关岛 | 0-0 | 直播7 | 原声7
+https://pul-tenm.gkykp.com/live/sd-2-3871431.m3u8?txSecret=23524f71dc36995471e6ac933504a0ff&txTime=6A4CA378
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="蒙古超",蒙古超 | 汗加里德 vs 中央骏马 | 0-0 | 直播9 | 直播9
+https://live.666666.zip/live/4565847.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="蒙古超",蒙古超 | 汗加里德 vs 中央骏马 | 0-0 | 直播9 | 原声24
+https://pul-tenm.gkykp.com/live/sd-1-4565847.m3u8?txSecret=df479b66353107f74b1469cf4023e355&txTime=6A4CA378
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1219.jpg?v=1780171883879" group-title="世亚预",世亚预 | 中国 vs 中国台北 | 56-28 | 原声19 | 原声19
+https://pul-tenm.gkykp.com/live/hd-en-2-3871449.m3u8?txSecret=825d1eb71e1b1a6c793cb840ac063cd1&txTime=6A4CA3F0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1207.jpg?v=1780171883879" group-title="世亚预",世亚预 | 新西兰 vs 关岛 | 0-0 | 原声7 | 原声7
+https://pul-tenm.gkykp.com/live/sd-2-3871431.m3u8?txSecret=86a3433709b0cbc480f607ff1d54c11f&txTime=6A4CA3F0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1224.jpg?v=1780171883879" group-title="蒙古超",蒙古超 | 汗加里德 vs 中央骏马 | 0-0 | 原声24 | 原声24
+https://pul-tenm.gkykp.com/live/sd-1-4565847.m3u8?txSecret=a841c530135e59b809782d059838bad0&txTime=6A4CA3F0
