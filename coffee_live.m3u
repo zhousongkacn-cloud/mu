@@ -1,1 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 阿根廷 vs 埃及 | 0-0 | 咪咕 | 咪咕
+https://live.666666.zip/migu/1.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 阿根廷 vs 埃及 | 0-0 | 咪咕 | CCTV5
+https://live.666666.zip/cctv/5.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 以色列女篮U20 vs 立陶宛女篮U20 | 0-0 | 直播13 | 直播13
+https://live.666666.zip/live/3907368.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 以色列女篮U20 vs 立陶宛女篮U20 | 0-0 | 直播13 | 原声18
+https://pul-tenm.gkykp.com/live/sd-2-3907368.m3u8?txSecret=fa182226fd7ddf203d40b0e4ae43ed41&txTime=6A4E65F0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 波兰女篮U20 vs 塞尔维亚女篮U20 | 0-0 | 直播15 | 直播15
+https://live.666666.zip/live/3907404.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 波兰女篮U20 vs 塞尔维亚女篮U20 | 0-0 | 直播15 | 原声53
+https://pul-tenm.gkykp.com/live/sd-2-3907404.m3u8?txSecret=65365eeca0c3a689769ac1671748fb89&txTime=6A4E65F0
