@@ -3,11 +3,13 @@
 https://live.666666.zip/migu/1.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 阿根廷 vs 埃及 | 0-0 | 咪咕 | CCTV5
 https://live.666666.zip/cctv/5.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 波兰女篮U20 vs 塞尔维亚女篮U20 | 25-12 | 直播15 | 直播15
-https://live.666666.zip/live/3907404.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 波兰女篮U20 vs 塞尔维亚女篮U20 | 25-12 | 直播15 | 原声53
-https://pul-tenm.gkykp.com/live/sd-2-3907404.m3u8?txSecret=129976b279d7d20c1cea0b2e14858e01&txTime=6A4E6CF8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 以色列女篮U20 vs 立陶宛女篮U20 | 23-27 | 直播13 | 直播13
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 阿根廷 vs 埃及 | 0-0 | 咪咕 | 粤语
+https://live.666666.zip/yueyu/index.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 以色列女篮U20 vs 立陶宛女篮U20 | 26-32 | 直播13 | 直播13
 https://live.666666.zip/live/3907368.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 以色列女篮U20 vs 立陶宛女篮U20 | 23-27 | 直播13 | 原声18
-https://pul-tenm.gkykp.com/live/sd-2-3907368.m3u8?txSecret=ec7dbc60d9745d0214bd53fccfcfe1f6&txTime=6A4E6CF8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 以色列女篮U20 vs 立陶宛女篮U20 | 26-32 | 直播13 | 原声18
+https://pul-tenm.gkykp.com/live/sd-2-3907368.m3u8?txSecret=3cbf1f478fb1f677463908046907483d&txTime=6A4E7040
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 波兰女篮U20 vs 塞尔维亚女篮U20 | 35-23 | 直播15 | 直播15
+https://live.666666.zip/live/3907404.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 波兰女篮U20 vs 塞尔维亚女篮U20 | 35-23 | 直播15 | 原声53
+https://pul-tenm.gkykp.com/live/sd-2-3907404.m3u8?txSecret=cc113cb51e20580bf918e20bd93887d2&txTime=6A4E7040
