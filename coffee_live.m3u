@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中冠",中冠 | 北京勇士 vs 新疆金盾 | 0-1 | 直播1 | 直播1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中冠",中冠 | 北京勇士 vs 新疆金盾 | 0-2 | 直播1 | 直播1
 https://live.666666.zip/live/4562247.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中冠",中冠 | 北京勇士 vs 新疆金盾 | 0-1 | 直播1 | 原声36
-https://pul-tenm.gkykp.com/live/sd-1-4562247.m3u8?txSecret=72e51c714d2eb0208ed2e6f1f82cae65&txTime=6A50DBF0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中冠",中冠 | 北京勇士 vs 新疆金盾 | 0-2 | 直播1 | 原声36
+https://pul-tenm.gkykp.com/live/sd-1-4562247.m3u8?txSecret=bc056a6acfa0af86a4372cef3279378d&txTime=6A50DFB0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 奥杜斯基克 vs FK阿雷斯 | 0-0 | 直播7 | 直播7
+https://live.666666.zip/live/4519518.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 奥杜斯基克 vs FK阿雷斯 | 0-0 | 直播7 | 原声26
+https://pul-tenm.gkykp.com/live/sd-1-4519518.m3u8?txSecret=1d9ba2da4313eb124f347529792bbad1&txTime=6A50DFB0
