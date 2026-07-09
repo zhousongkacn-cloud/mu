@@ -1,37 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="加拿冠",加拿冠 | 温哥华FC vs 蒙特利尔CF | 0-0 | 直播10 | 直播10
-https://live.666666.zip/live/4566862.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="加拿冠",加拿冠 | 温哥华FC vs 蒙特利尔CF | 0-0 | 直播10 | 原声21
-https://pul-tenm.gkykp.com/live/sd-1-4566862.m3u8?txSecret=0cdc16b75b68569976af91b5d771d613&txTime=6A505BF8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中U21",中U21 | 临沂奕虎U20 vs 兰州陇原竞技U20 | 2-2 | 直播1 | 直播1
-https://live.666666.zip/live/4562209.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中U21",中U21 | 临沂奕虎U20 vs 兰州陇原竞技U20 | 2-2 | 直播1 | 原声10
-https://pul-tenm.gkykp.com/live/sd-1-4562209.m3u8?txSecret=64723b07689fc13d96dcb17e3fe85aa9&txTime=6A505BF8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="美乙",美乙 | 萨克拉门托 vs 罗德岛 | 0-0 | 直播5 | 直播5
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="美乙",美乙 | 萨克拉门托 vs 罗德岛 | 1-0 | 直播5 | 直播5
 https://live.666666.zip/live/4472997.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="美乙",美乙 | 萨克拉门托 vs 罗德岛 | 0-0 | 直播5 | 原声30
-https://pul-tenm.gkykp.com/live/sd-1-4472997.m3u8?txSecret=75dc073d9936df040b35de4742ea8846&txTime=6A505BF8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="WNBA",WNBA | 火花 vs 狂热 | 30-34 | 直播8 | 直播8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="美乙",美乙 | 萨克拉门托 vs 罗德岛 | 1-0 | 直播5 | 原声30
+https://pul-tenm.gkykp.com/live/sd-1-4472997.m3u8?txSecret=bb23132f0cb48e2468d66a369c9fc5ec&txTime=6A505FB8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中U21",中U21 | 临沂奕虎U20 vs 兰州陇原竞技U20 | 3-2 | 直播1 | 直播1
+https://live.666666.zip/live/4562209.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中U21",中U21 | 临沂奕虎U20 vs 兰州陇原竞技U20 | 3-2 | 直播1 | 原声10
+https://pul-tenm.gkykp.com/live/sd-1-4562209.m3u8?txSecret=87771310f029cd1f268805bc16ea8f8d&txTime=6A505FB8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="WNBA",WNBA | 火花 vs 狂热 | 48-41 | 直播8 | 直播8
 https://live.666666.zip/live/3908996.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="WNBA",WNBA | 火花 vs 狂热 | 30-34 | 直播8 | 原声4
-https://pul-tenm.gkykp.com/live/hd-en-2-3908996.m3u8?txSecret=90ebc13abee71a0b64a1c240cc06885e&txTime=6A505BF8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="WNBA",WNBA | 火花 vs 狂热 | 48-41 | 直播8 | 原声4
+https://pul-tenm.gkykp.com/live/hd-en-2-3908996.m3u8?txSecret=f174bd9c843b981c419201b32ad16104&txTime=6A505FB8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="加拿冠",加拿冠 | 温哥华白浪 vs 骑兵队 | 1-0 | 直播9 | 直播9
 https://live.666666.zip/live/4566866.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="加拿冠",加拿冠 | 温哥华白浪 vs 骑兵队 | 1-0 | 直播9 | 原声31
-https://pul-tenm.gkykp.com/live/sd-1-4566866.m3u8?txSecret=88e2324c026ee926220cc98b99302f61&txTime=6A505BF8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 天主教大学 vs 科洛科洛 | 58-48 | 直播13 | 直播13
+https://pul-tenm.gkykp.com/live/sd-1-4566866.m3u8?txSecret=3a4968e589b4c63a8e9d42a5c55004f8&txTime=6A505FB8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="加拿冠",加拿冠 | 温哥华FC vs 蒙特利尔CF | 0-0 | 直播10 | 直播10
+https://live.666666.zip/live/4566862.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="加拿冠",加拿冠 | 温哥华FC vs 蒙特利尔CF | 0-0 | 直播10 | 原声21
+https://pul-tenm.gkykp.com/live/sd-1-4566862.m3u8?txSecret=231bcb029e6ce4fc14984aaad35f3e94&txTime=6A505FB8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 天主教大学 vs 科洛科洛 | 62-54 | 直播13 | 直播13
 https://live.666666.zip/live/3923852.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 天主教大学 vs 科洛科洛 | 58-48 | 直播13 | 原声11
-https://pul-tenm.gkykp.com/live/sd-2-3923852.m3u8?txSecret=799d2391d6f761fe25a6345b81c67f4c&txTime=6A505BF8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1204.jpg?v=1780171883879" group-title="WNBA",WNBA | 火花 vs 狂热 | 30-34 | 原声4 | 原声4
-https://pul-tenm.gkykp.com/live/hd-en-2-3908996.m3u8?txSecret=08d05c5bb64655af6c863a4dfbf1c0fa&txTime=6A505C70
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1221.jpg?v=1780171883879" group-title="加拿冠",加拿冠 | 温哥华FC vs 蒙特利尔CF | 0-0 | 原声21 | 原声21
-https://pul-tenm.gkykp.com/live/sd-1-4566862.m3u8?txSecret=af5c566c1ed0e0a2f15e9b2be3aa16e9&txTime=6A505C70
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1230.jpg?v=1780171883879" group-title="美乙",美乙 | 萨克拉门托 vs 罗德岛 | 0-0 | 原声30 | 原声30
-https://pul-tenm.gkykp.com/live/sd-1-4472997.m3u8?txSecret=06551f9ac9805f3a98e3a4a0935f5b62&txTime=6A505C70
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1231.jpg?v=1780171883879" group-title="加拿冠",加拿冠 | 温哥华白浪 vs 骑兵队 | 1-0 | 原声31 | 原声31
-https://pul-tenm.gkykp.com/live/sd-1-4566866.m3u8?txSecret=37fb6c9486c9ab05a901e042309b0610&txTime=6A505C70
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1210.jpg?v=1780171883879" group-title="中U21",中U21 | 临沂奕虎U20 vs 兰州陇原竞技U20 | 2-2 | 原声10 | 原声10
-https://pul-tenm.gkykp.com/live/sd-1-4562209.m3u8?txSecret=c8f1b97271a5188c58187f44302c20c6&txTime=6A505C70
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1211.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 天主教大学 vs 科洛科洛 | 58-48 | 原声11 | 原声11
-https://pul-tenm.gkykp.com/live/sd-2-3923852.m3u8?txSecret=5b77e5e650595338fe51db0f9ca41882&txTime=6A505C70
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 天主教大学 vs 科洛科洛 | 62-54 | 直播13 | 原声11
+https://pul-tenm.gkykp.com/live/sd-2-3923852.m3u8?txSecret=8d900254ce404621b5560a849c7f76d0&txTime=6A505FB8
