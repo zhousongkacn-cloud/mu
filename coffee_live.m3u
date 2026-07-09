@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="WNBA",WNBA | 阳光 vs 山猫 | 80-86 | 直播7 | 直播7
-https://live.666666.zip/live/3908965.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="WNBA",WNBA | 阳光 vs 山猫 | 80-86 | 直播7 | 原声13
-https://pul-tenm.gkykp.com/live/hd-en-2-3908965.m3u8?txSecret=d9656de19e6f7f82724a831af54affcd&txTime=6A504E60
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="世预美",世预美 | 委内瑞拉 vs 哥伦比亚 | 69-80 | 直播4 | 直播4
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="世预美",世预美 | 委内瑞拉 vs 哥伦比亚 | 77-90 | 直播4 | 直播4
 https://live.666666.zip/live/3865012.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="世预美",世预美 | 委内瑞拉 vs 哥伦比亚 | 69-80 | 直播4 | 原声19
-https://pul-tenm.gkykp.com/live/sd-2-3865012.m3u8?txSecret=6b2c2625845d86721654b973dc47b8e5&txTime=6A504E60
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中U21",中U21 | 临沂奕虎U20 vs 兰州陇原竞技U20 | 0-0 | 直播1 | 直播1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="世预美",世预美 | 委内瑞拉 vs 哥伦比亚 | 77-90 | 直播4 | 原声19
+https://pul-tenm.gkykp.com/live/sd-2-3865012.m3u8?txSecret=93e82865c854f1ad742687e364fcebe5&txTime=6A505220
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中U21",中U21 | 临沂奕虎U20 vs 兰州陇原竞技U20 | 0-1 | 直播1 | 直播1
 https://live.666666.zip/live/4562209.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中U21",中U21 | 临沂奕虎U20 vs 兰州陇原竞技U20 | 0-0 | 直播1 | 原声10
-https://pul-tenm.gkykp.com/live/sd-1-4562209.m3u8?txSecret=6754d69824406fb428f14438138e086f&txTime=6A504E60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中U21",中U21 | 临沂奕虎U20 vs 兰州陇原竞技U20 | 0-1 | 直播1 | 原声10
+https://pul-tenm.gkykp.com/live/sd-1-4562209.m3u8?txSecret=a4fea86af1c39c9c484c41af4c0b8d71&txTime=6A505220
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 天主教大学 vs 科洛科洛 | 27-24 | 直播13 | 直播13
+https://live.666666.zip/live/3923852.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 天主教大学 vs 科洛科洛 | 27-24 | 直播13 | 原声11
+https://pul-tenm.gkykp.com/live/sd-2-3923852.m3u8?txSecret=30b70f68aef4837e9a527baa92a6f3be&txTime=6A505220
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1204.jpg?v=1780171883879" group-title="WNBA",WNBA | 火花 vs 狂热 | 0-0 | 原声4 | 原声4
+https://pul-tenm.gkykp.com/live/hd-en-2-3908996.m3u8?txSecret=2bc1208560971e510eb4edaf5a2b4f99&txTime=6A505220
