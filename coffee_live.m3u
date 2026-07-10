@@ -1,27 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 海登海姆 vs 卢加诺 | 0-1 | 直播13 | 直播13
-https://live.666666.zip/live/4578634.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="芬超",芬超 | VPS瓦萨 vs 塞那乔其 | 1-0 | 直播4 | 直播4
-https://live.666666.zip/live/4468143.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="芬超",芬超 | VPS瓦萨 vs 塞那乔其 | 1-0 | 直播4 | 原声20
-https://pul-tenm.gkykp.com/live/sd-1-4468143.m3u8?txSecret=a2fcb9f4b04e0e6d99e6072f2f66adba&txTime=6A528428
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 立陶宛女篮U20 vs 法国女篮U20 | 26-42 | 直播5 | 直播5
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 西班牙 vs 比利时 | 0-0 | 咪咕 | 咪咕
+https://live.666666.zip/migu/1.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 西班牙 vs 比利时 | 0-0 | 咪咕 | 直播5
 https://live.666666.zip/live/3924092.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 拉脱维亚女篮U20 vs 意大利女篮U20 | 33-35 | 直播16 | 直播16
+https://live.666666.zip/live/3924093.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 拉脱维亚女篮U20 vs 意大利女篮U20 | 33-35 | 直播16 | 原声82
+https://pul-tenm.gkykp.com/live/sd-2-3924093.m3u8?txSecret=ad4bffde3bde0cabf7a54f94665615c6&txTime=6A5287E8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 匈牙利女篮U20 vs 斯洛文尼亚女篮U20 | 35-29 | 直播6 | 直播6
 https://live.666666.zip/live/3924097.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 西班牙女篮U20 vs 土耳其女篮U20 | 23-15 | 直播8 | 直播8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 西班牙女篮U20 vs 土耳其女篮U20 | 32-24 | 直播8 | 直播8
 https://live.666666.zip/live/3924089.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 西班牙女篮U20 vs 土耳其女篮U20 | 23-15 | 直播8 | 原声25
-https://pul-tenm.gkykp.com/live/sd-2-3924089.m3u8?txSecret=768338c54b0f60e6bc49528c97ba2ca4&txTime=6A528428
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 拉脱维亚女篮U20 vs 意大利女篮U20 | 21-28 | 直播16 | 直播16
-https://live.666666.zip/live/3924093.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 拉脱维亚女篮U20 vs 意大利女篮U20 | 21-28 | 直播16 | 原声82
-https://pul-tenm.gkykp.com/live/sd-2-3924093.m3u8?txSecret=f72c4550c0d16503c4a7e236065ae2b9&txTime=6A528428
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 匈牙利U20 vs 丹麦U20 | 71-56 | 直播17 | 直播17
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="女欧U20 A",女欧U20 A | 西班牙女篮U20 vs 土耳其女篮U20 | 32-24 | 直播8 | 原声25
+https://pul-tenm.gkykp.com/live/sd-2-3924089.m3u8?txSecret=f864de56a6bf7e25ddcbeb5a2802a403&txTime=6A5287E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 匈牙利U20 vs 丹麦U20 | 79-66 | 直播17 | 直播17
 https://live.666666.zip/live/3907461.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 匈牙利U20 vs 丹麦U20 | 71-56 | 直播17 | 原声81
-https://pul-tenm.gkykp.com/live/sd-2-3907461.m3u8?txSecret=763015494c3ed93c1f0bfceca921c4b9&txTime=6A528428
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1023.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 北马其顿U20 vs 斯洛伐克U20 | 68-58 | 直播23 | 直播23
-https://live.666666.zip/live/3907419.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1023.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 北马其顿U20 vs 斯洛伐克U20 | 68-58 | 直播23 | 原声69
-https://pul-tenm.gkykp.com/live/sd-2-3907419.m3u8?txSecret=33d4fa71fea1f344624d07270056fe0e&txTime=6A528428
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 匈牙利U20 vs 丹麦U20 | 79-66 | 直播17 | 原声81
+https://pul-tenm.gkykp.com/live/sd-2-3907461.m3u8?txSecret=604a6a25748a973f1e71e74ff7097ecc&txTime=6A5287E8
