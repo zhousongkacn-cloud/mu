@@ -1,9 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 步行者 vs 骑士 | 66-52 | 直播10 | 直播10
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 步行者 vs 骑士 | 75-60 | 直播10 | 直播10
 https://live.666666.zip/live/3923425.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 步行者 vs 骑士 | 66-52 | 直播10 | 原声16
-https://pul-tenm.gkykp.com/live/sd-2-3923425.m3u8?txSecret=7e72da0d3bef5e6172b941ad84386f30&txTime=6A52B920
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 热火 vs 雄鹿 | 116-83 | 直播7 | 直播7
-https://live.666666.zip/live/3923424.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 热火 vs 雄鹿 | 116-83 | 直播7 | 原声15
-https://pul-tenm.gkykp.com/live/sd-2-3923424.m3u8?txSecret=79471a84510559628931893f327e3f42&txTime=6A52B920
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 步行者 vs 骑士 | 75-60 | 直播10 | 原声16
+https://pul-tenm.gkykp.com/live/sd-2-3923425.m3u8?txSecret=148f1015967a6dd8eec1763364390edf&txTime=6A52BC68
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="乌拉甲",乌拉甲 | 马尔多纳多 vs 阿尔比恩 | 0-0 | 直播2 | 直播2
+https://live.666666.zip/live/4569865.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="乌拉甲",乌拉甲 | 马尔多纳多 vs 阿尔比恩 | 0-0 | 直播2 | 原声23
+https://pul-tenm.gkykp.com/live/sd-1-4569865.m3u8?txSecret=53375b8fe641141eeab80a7043d016c0&txTime=6A52BC68
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 北莱昂内斯俱乐部 vs 基多天主大学 | 0-0 | 直播3 | 直播3
+https://live.666666.zip/live/4492521.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 北莱昂内斯俱乐部 vs 基多天主大学 | 0-0 | 直播3 | 原声6
+https://pul-tenm.gkykp.com/live/sd-1-4492521.m3u8?txSecret=f68806ad5278949e3aba7edbd47d2eaa&txTime=6A52BC68
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 尤文图德 vs 维拉诺瓦 | 0-0 | 直播4 | 直播4
+https://live.666666.zip/live/4494616.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 尤文图德 vs 维拉诺瓦 | 0-0 | 直播4 | 原声5
+https://pul-tenm.gkykp.com/live/sd-1-4494616.m3u8?txSecret=e5254d214f7ee81c1763f7c9e3b9b11c&txTime=6A52BC68
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 尼克斯 vs 篮网 | 0-0 | 直播11 | 直播11
+https://live.666666.zip/live/3923426.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 尼克斯 vs 篮网 | 0-0 | 直播11 | 原声24
+https://pul-tenm.gkykp.com/live/sd-2-3923426.m3u8?txSecret=5cc9985df7feebeb369db8060d1f36ce&txTime=6A52BC68
