@@ -1,13 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 快船 vs 国王 | 34-28 | 直播2 | 直播2
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 快船 vs 国王 | 39-38 | 直播2 | 直播2
 https://live.666666.zip/live/3923423.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 快船 vs 国王 | 34-28 | 直播2 | 原声54
-https://pul-tenm.gkykp.com/live/hd-en-2-3923423.m3u8?txSecret=a8742a1f4f6cc474d2edfc63f8021d22&txTime=6A51BDE0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="WNBA",WNBA | 火焰 vs 王牌 | 59-78 | 直播4 | 直播4
-https://live.666666.zip/live/3909167.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="WNBA",WNBA | 火焰 vs 王牌 | 59-78 | 直播4 | 原声37
-https://pul-tenm.gkykp.com/live/hd-en-2-3909167.m3u8?txSecret=e30f1a1a6636745606b8442b6ef3c417&txTime=6A51BDE0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="WNBA",WNBA | 水星 vs 狂热 | 79-75 | 直播6 | 直播6
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 快船 vs 国王 | 39-38 | 直播2 | 原声54
+https://pul-tenm.gkykp.com/live/hd-en-2-3923423.m3u8?txSecret=a4a18258a3bf609bcdef06c476ac0cf2&txTime=6A51BFC0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="WNBA",WNBA | 水星 vs 狂热 | 79-77 | 直播6 | 直播6
 https://live.666666.zip/live/3908933.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="WNBA",WNBA | 水星 vs 狂热 | 79-75 | 直播6 | 原声13
-https://pul-tenm.gkykp.com/live/hd-en-2-3908933.m3u8?txSecret=e7414ece688fedf8822f85ccdcfb7c88&txTime=6A51BDE0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="WNBA",WNBA | 水星 vs 狂热 | 79-77 | 直播6 | 原声13
+https://pul-tenm.gkykp.com/live/hd-en-2-3908933.m3u8?txSecret=a994afd6f9e19dc578254aa3b5b63916&txTime=6A51BFC0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="WNBA",WNBA | 火焰 vs 王牌 | 65-82 | 直播4 | 直播4
+https://live.666666.zip/live/3909167.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="WNBA",WNBA | 火焰 vs 王牌 | 65-82 | 直播4 | 原声37
+https://pul-tenm.gkykp.com/live/hd-en-2-3909167.m3u8?txSecret=6fb0fa0439e29507b559a0dd8cb30c11&txTime=6A51BFC0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 富兰克林公牛 vs 奥塔哥掘金 | 0-0 | 直播1 | 直播1
+https://live.666666.zip/live/3890067.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 富兰克林公牛 vs 奥塔哥掘金 | 0-0 | 直播1 | 原声10
+https://pul-tenm.gkykp.com/live/sd-2-3890067.m3u8?txSecret=32a3bbc95c63f5d062d7a0c9c98e9b78&txTime=6A51BFC0
