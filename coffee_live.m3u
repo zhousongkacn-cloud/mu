@@ -1,35 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 阿根廷 vs 瑞士 | 1-0 | 咪咕 | 咪咕
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 阿根廷 vs 瑞士 | 1-1 | 咪咕 | 咪咕
 https://live.666666.zip/migu/1.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 阿根廷 vs 瑞士 | 1-0 | 咪咕 | CCTV5
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 阿根廷 vs 瑞士 | 1-1 | 咪咕 | CCTV5
 https://live.666666.zip/cctv/5.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 阿根廷 vs 瑞士 | 1-0 | 咪咕 | 小红书
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 阿根廷 vs 瑞士 | 1-1 | 咪咕 | 小红书
 https://live.666666.zip/xiaohongshu/1.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 阿根廷 vs 瑞士 | 1-0 | 咪咕 | 粤语
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 阿根廷 vs 瑞士 | 1-1 | 咪咕 | 粤语
 https://live.666666.zip/yueyu/index.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 阿根廷 vs 瑞士 | 1-0 | 咪咕 | 低延迟
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 阿根廷 vs 瑞士 | 1-1 | 咪咕 | 低延迟
 https://live.666666.zip/weixing/1.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 阿根廷 vs 瑞士 | 1-0 | 咪咕 | 直播1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 阿根廷 vs 瑞士 | 1-1 | 咪咕 | 直播1
 https://live.666666.zip/live/4459811.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 阿根廷 vs 瑞士 | 1-0 | 咪咕 | 原声24
-https://pul-tenm.gkykp.com/live/hd-en-1-4459811.m3u8?txSecret=adf495ba151b53e75b972bc68de363d4&txTime=6A5449E8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 猛龙 vs 火箭 | 21-21 | 直播7 | 直播7
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 阿根廷 vs 瑞士 | 1-1 | 咪咕 | 原声24
+https://pul-tenm.gkykp.com/live/hd-en-1-4459811.m3u8?txSecret=22c4496f1bc6db054250dac8c3ddddff&txTime=6A544DA8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 猛龙 vs 火箭 | 33-32 | 直播7 | 直播7
 https://live.666666.zip/live/3923453.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 猛龙 vs 火箭 | 21-21 | 直播7 | 原声128
-https://pul-tenm.gkykp.com/live/sd-2-3923453.m3u8?txSecret=04232bcee6d324e827ffcef6cec2085a&txTime=6A5449E8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 独行侠 vs 湖人 | 0-0 | 直播5 | 直播5
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 猛龙 vs 火箭 | 33-32 | 直播7 | 原声128
+https://pul-tenm.gkykp.com/live/sd-2-3923453.m3u8?txSecret=05ac68d21c064f2996846f15b880946a&txTime=6A544DA8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 独行侠 vs 湖人 | 7-5 | 直播5 | 直播5
 https://live.666666.zip/live/3923455.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 独行侠 vs 湖人 | 0-0 | 直播5 | 原声155
-https://pul-tenm.gkykp.com/live/sd-2-3923455.m3u8?txSecret=7d10f712e20b359f2ce549e06c2bfd9c&txTime=6A5449E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 独行侠 vs 湖人 | 7-5 | 直播5 | 原声155
+https://pul-tenm.gkykp.com/live/sd-2-3923455.m3u8?txSecret=48c8c801128738cbd7202e996d05147d&txTime=6A544DA8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="美女职",美女职 | 圣地亚哥波浪女足 vs 天使城女足 | 0-2 | 直播4 | 直播4
 https://live.666666.zip/live/4510997.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="美女职",美女职 | 圣地亚哥波浪女足 vs 天使城女足 | 0-2 | 直播4 | 原声23
-https://pul-tenm.gkykp.com/live/sd-1-4510997.m3u8?txSecret=a7f3b5cb86eaf1be53a9230050b5eeac&txTime=6A5449E8
+https://pul-tenm.gkykp.com/live/sd-1-4510997.m3u8?txSecret=feeb47d785d702381cb694f713390eaf&txTime=6A544DA8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="新西兰中",新西兰中 | 内皮尔市流浪 vs 上哈特市 | 2-0 | 直播8 | 直播8
 https://live.666666.zip/live/4578517.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="新西兰中",新西兰中 | 内皮尔市流浪 vs 上哈特市 | 2-0 | 直播8 | 原声79
-https://pul-tenm.gkykp.com/live/sd-1-4578517.m3u8?txSecret=5998a4c559f84731bc5c2f453d479c42&txTime=6A5449E8
+https://pul-tenm.gkykp.com/live/sd-1-4578517.m3u8?txSecret=15fc0ddabe31794b8a55b31e8a4f181b&txTime=6A544DA8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="美预备联",美预备联 | 洛杉矶FCII队 vs 波特兰伐木工后备队 | 0-0 | 直播11 | 直播11
 https://live.666666.zip/live/4578518.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="美预备联",美预备联 | 洛杉矶FCII队 vs 波特兰伐木工后备队 | 0-0 | 直播11 | 原声84
-https://pul-tenm.gkykp.com/live/sd-1-4578518.m3u8?txSecret=0b5d9de9bf21d2ae9982b0664aafe839&txTime=6A5449E8
+https://pul-tenm.gkykp.com/live/sd-1-4578518.m3u8?txSecret=759c81807cf006222150ffdde2db38ea&txTime=6A544DA8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="美预备联",美预备联 | 皇家君主 vs 温哥华白浪后备队 | 0-0 | 直播16 | 直播16
+https://live.666666.zip/live/4576232.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="美预备联",美预备联 | 皇家君主 vs 温哥华白浪后备队 | 0-0 | 直播16 | 原声6
+https://pul-tenm.gkykp.com/live/sd-1-4576232.m3u8?txSecret=d00febc48d7e3f1055169e8a324609fb&txTime=6A544DA8
