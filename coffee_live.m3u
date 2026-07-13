@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 意大利U20 vs 土耳其U20 | 0-0 | 直播10 | 直播10
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 意大利U20 vs 土耳其U20 | 20-9 | 直播10 | 直播10
 https://live.666666.zip/live/3907418.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 意大利U20 vs 土耳其U20 | 0-0 | 直播10 | 原声46
-https://pul-tenm.gkykp.com/live/sd-2-3907418.m3u8?txSecret=edd624b8947152ab26f1c399e37c4d7d&txTime=6A568730
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 法国U20 vs 德国U20 | 14-18 | 直播9 | 直播9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 意大利U20 vs 土耳其U20 | 20-9 | 直播10 | 原声46
+https://pul-tenm.gkykp.com/live/sd-2-3907418.m3u8?txSecret=c49f664079d354db2181ed3e3507835f&txTime=6A568A78
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="冰岛超",冰岛超 | 贝雷达比历克 vs 凯夫拉维克 | 0-0 | 直播1 | 直播1
+https://live.666666.zip/live/4480142.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="冰岛超",冰岛超 | 贝雷达比历克 vs 凯夫拉维克 | 0-0 | 直播1 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4480142.m3u8?txSecret=3904d172278e065290e9559569584d7f&txTime=6A568A78
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 法国U20 vs 德国U20 | 32-22 | 直播9 | 直播9
 https://live.666666.zip/live/3907405.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 法国U20 vs 德国U20 | 14-18 | 直播9 | 原声45
-https://pul-tenm.gkykp.com/live/sd-2-3907405.m3u8?txSecret=5fe82db695a616036e639145d08b32f6&txTime=6A568730
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 法国U20 vs 德国U20 | 32-22 | 直播9 | 原声45
+https://pul-tenm.gkykp.com/live/sd-2-3907405.m3u8?txSecret=fc1386921bf36fb4ecf4a196a676c0c5&txTime=6A568A78
