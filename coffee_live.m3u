@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="瑞典超",瑞典超 | 尤尔加登 vs 哈姆斯塔德 | 2-0 | 直播4 | 直播4
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="瑞典超",瑞典超 | 尤尔加登 vs 哈姆斯塔德 | 3-0 | 直播4 | 直播4
 https://live.666666.zip/live/4467089.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="瑞典超",瑞典超 | 尤尔加登 vs 哈姆斯塔德 | 2-0 | 直播4 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4467089.m3u8?txSecret=c8c69546352bfbc37ef14e7bd36568ef&txTime=6A567C68
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="瑞典超",瑞典超 | 尤尔加登 vs 哈姆斯塔德 | 3-0 | 直播4 | 原声1
+https://pul-tenm.gkykp.com/live/sd-1-4467089.m3u8?txSecret=201cd1f69e479ba861d69469d7a5a5f4&txTime=6A568028
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="俄甲",俄甲 | 图拉兵工厂 vs 伊凡诺沃 | 2-1 | 直播3 | 直播3
 https://live.666666.zip/live/4576418.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="俄甲",俄甲 | 图拉兵工厂 vs 伊凡诺沃 | 2-1 | 直播3 | 原声85
-https://pul-tenm.gkykp.com/live/hd-en-1-4576418.m3u8?txSecret=20c260894b33df703153d23bbcaa12b0&txTime=6A567C68
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 斯洛文尼亚U20 vs 罗马尼亚U20 | 95-51 | 直播8 | 直播8
-https://live.666666.zip/live/3907406.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 斯洛文尼亚U20 vs 罗马尼亚U20 | 95-51 | 直播8 | 原声44
-https://pul-tenm.gkykp.com/live/sd-2-3907406.m3u8?txSecret=2beaa995138b17ea2709ad4718efaf5e&txTime=6A567C68
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 法国U20 vs 德国U20 | 0-0 | 直播9 | 直播9
+https://live.666666.zip/live/3907405.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 法国U20 vs 德国U20 | 0-0 | 直播9 | 原声45
+https://pul-tenm.gkykp.com/live/sd-2-3907405.m3u8?txSecret=70c880c838cb8e950547a5482facce59&txTime=6A568028
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1285.jpg?v=1780171883879" group-title="俄甲",俄甲 | 图拉兵工厂 vs 伊凡诺沃 | 2-1 | 原声85 | 原声85
+https://pul-tenm.gkykp.com/live/hd-en-1-4576418.m3u8?txSecret=775233ddf9a5ce2396fa1b80154ebfb7&txTime=6A568028
