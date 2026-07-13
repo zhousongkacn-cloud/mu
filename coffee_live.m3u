@@ -1,21 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 尼克斯 vs 活塞 | 12-11 | 直播5 | 直播5
-https://live.666666.zip/live/3923454.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 尼克斯 vs 活塞 | 12-11 | 直播5 | 原声4
-https://pul-tenm.gkykp.com/live/hd-en-2-3923454.m3u8?txSecret=7cb627280ec1b8b1ba69c1936918fd89&txTime=6A569888
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="冰岛超",冰岛超 | 贝雷达比历克 vs 凯夫拉维克 | 0-1 | 直播1 | 直播1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="冰岛超",冰岛超 | 贝雷达比历克 vs 凯夫拉维克 | 1-1 | 直播1 | 直播1
 https://live.666666.zip/live/4480142.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="冰岛超",冰岛超 | 贝雷达比历克 vs 凯夫拉维克 | 0-1 | 直播1 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4480142.m3u8?txSecret=339a377939737e09258b8a6d0e3a4539&txTime=6A569888
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 法国U20 vs 德国U20 | 65-49 | 直播9 | 直播9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="冰岛超",冰岛超 | 贝雷达比历克 vs 凯夫拉维克 | 1-1 | 直播1 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4480142.m3u8?txSecret=a54ad464cb56fd47f09e04416b88e1e2&txTime=6A569BD0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 尼克斯 vs 活塞 | 26-30 | 直播5 | 直播5
+https://live.666666.zip/live/3923454.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 尼克斯 vs 活塞 | 26-30 | 直播5 | 原声4
+https://pul-tenm.gkykp.com/live/hd-en-2-3923454.m3u8?txSecret=7ce9e59551765bb9d25ac58609ca2c15&txTime=6A569BD0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 步行者 vs 猛龙 | 0-0 | 直播6 | 直播6
+https://live.666666.zip/live/3923452.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 法国U20 vs 德国U20 | 88-59 | 直播9 | 直播9
 https://live.666666.zip/live/3907405.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 法国U20 vs 德国U20 | 65-49 | 直播9 | 原声45
-https://pul-tenm.gkykp.com/live/sd-2-3907405.m3u8?txSecret=224f3bacb73aa92f8b0fb5cf705cc229&txTime=6A569888
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 意大利U20 vs 土耳其U20 | 47-37 | 直播10 | 直播10
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 法国U20 vs 德国U20 | 88-59 | 直播9 | 原声45
+https://pul-tenm.gkykp.com/live/sd-2-3907405.m3u8?txSecret=c0e45f6455074637532bac1582a0f9c6&txTime=6A569BD0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 意大利U20 vs 土耳其U20 | 53-45 | 直播10 | 直播10
 https://live.666666.zip/live/3907418.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 意大利U20 vs 土耳其U20 | 47-37 | 直播10 | 原声46
-https://pul-tenm.gkykp.com/live/sd-2-3907418.m3u8?txSecret=5cd88ce063d53d3604acda38cef3a553&txTime=6A569888
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="冰岛甲",冰岛甲 | 维斯特里 vs 费基尔 | 0-0 | 直播11 | 直播11
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 意大利U20 vs 土耳其U20 | 53-45 | 直播10 | 原声46
+https://pul-tenm.gkykp.com/live/sd-2-3907418.m3u8?txSecret=8d063f21517ed616f9444aaa9ceca260&txTime=6A569BD0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="冰岛甲",冰岛甲 | 维斯特里 vs 费基尔 | 0-2 | 直播11 | 直播11
 https://live.666666.zip/live/4486402.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="冰岛甲",冰岛甲 | 维斯特里 vs 费基尔 | 0-0 | 直播11 | 原声56
-https://pul-tenm.gkykp.com/live/sd-1-4486402.m3u8?txSecret=7d49a20a086ff786fb53ef7d8ca2d63e&txTime=6A569888
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="冰岛甲",冰岛甲 | 维斯特里 vs 费基尔 | 0-2 | 直播11 | 原声56
+https://pul-tenm.gkykp.com/live/sd-1-4486402.m3u8?txSecret=6c7699767e4cfd248a1136489ef6d63b&txTime=6A569BD0
