@@ -1,15 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中U21",中U21 | 广东广州豹U20 vs 天津津门虎U20 | 0-1 | 直播1 | 直播1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中U21",中U21 | 广东广州豹U20 vs 天津津门虎U20 | 0-2 | 直播1 | 直播1
 https://live.666666.zip/live/4551188.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中U21",中U21 | 广东广州豹U20 vs 天津津门虎U20 | 0-1 | 直播1 | 原声13
-https://pul-tenm.gkykp.com/live/sd-1-4551188.m3u8?txSecret=f0408560d299392b3a124c8e630a4f42&txTime=6A560BE8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="越青锦U2",越青锦U2 | 同奈U21 vs PVF越南U21 | 0-4 | 直播5 | 直播5
-https://live.666666.zip/live/4584761.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="越青锦U2",越青锦U2 | 同奈U21 vs PVF越南U21 | 0-4 | 直播5 | 原声11
-https://pul-tenm.gkykp.com/live/sd-1-4584761.m3u8?txSecret=b98949bce08e4260136a3122d513b142&txTime=6A560BE8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="越青锦U2",越青锦U2 | 岘港U21 vs 河内公安U21 | 1-1 | 直播6 | 直播6
-https://live.666666.zip/live/4584762.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="越青锦U2",越青锦U2 | 岘港U21 vs 河内公安U21 | 1-1 | 直播6 | 原声28
-https://pul-tenm.gkykp.com/live/sd-1-4584762.m3u8?txSecret=a33901e523270e4a3ed5de28d87aae34&txTime=6A560BE8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1240.jpg?v=1780171883879" group-title="澳南甲",澳南甲 | 阿德莱德蓝鹰 vs 莫德柏里喷射机 | 0-1 | 原声40 | 原声40
-https://pul-tenm.gkykp.com/live/sd-1-4507788.m3u8?txSecret=14f1498bca581cc0a458283244e02a33&txTime=6A560BE8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中U21",中U21 | 广东广州豹U20 vs 天津津门虎U20 | 0-2 | 直播1 | 原声13
+https://pul-tenm.gkykp.com/live/sd-1-4551188.m3u8?txSecret=89b849c1b79abaaaefb7d3b699b853cb&txTime=6A560F30
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1240.jpg?v=1780171883879" group-title="澳南甲",澳南甲 | 阿德莱德蓝鹰 vs 莫德柏里喷射机 | 1-1 | 原声40 | 原声40
+https://pul-tenm.gkykp.com/live/sd-1-4507788.m3u8?txSecret=6fa4643a828d6f8628929d3c2a749dd3&txTime=6A560F30
