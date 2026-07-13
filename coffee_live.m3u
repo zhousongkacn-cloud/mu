@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中U21",中U21 | 广东广州豹U20 vs 天津津门虎U20 | 0-2 | 直播1 | 直播1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中U21",中U21 | 广东广州豹U20 vs 天津津门虎U20 | 0-4 | 直播1 | 直播1
 https://live.666666.zip/live/4551188.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中U21",中U21 | 广东广州豹U20 vs 天津津门虎U20 | 0-2 | 直播1 | 原声13
-https://pul-tenm.gkykp.com/live/sd-1-4551188.m3u8?txSecret=89b849c1b79abaaaefb7d3b699b853cb&txTime=6A560F30
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中U21",中U21 | 广东广州豹U20 vs 天津津门虎U20 | 0-4 | 直播1 | 原声13
+https://pul-tenm.gkykp.com/live/sd-1-4551188.m3u8?txSecret=2b348c7fdef29247d78a3537bdd1d757&txTime=6A5612F0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="澳维甲",澳维甲 | 布琳狮子 vs 布伦瑞克城 | 0-0 | 直播3 | 直播3
+https://live.666666.zip/live/4470428.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="澳维甲",澳维甲 | 布琳狮子 vs 布伦瑞克城 | 0-0 | 直播3 | 原声92
+https://pul-tenm.gkykp.com/live/sd-1-4470428.m3u8?txSecret=c37b97d094d75984f49d02aab20b123d&txTime=6A5612F0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1240.jpg?v=1780171883879" group-title="澳南甲",澳南甲 | 阿德莱德蓝鹰 vs 莫德柏里喷射机 | 1-1 | 原声40 | 原声40
-https://pul-tenm.gkykp.com/live/sd-1-4507788.m3u8?txSecret=6fa4643a828d6f8628929d3c2a749dd3&txTime=6A560F30
+https://pul-tenm.gkykp.com/live/sd-1-4507788.m3u8?txSecret=ed5ba69020a92f1411d721386d4695c2&txTime=6A5612F0
