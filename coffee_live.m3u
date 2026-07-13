@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1020.jpg?v=1780171883879" group-title="中甲",中甲 | 宁波队 vs 佛山南狮 | 1-0 | 直播20 | 直播20
-https://live.666666.zip/live/4505278.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1020.jpg?v=1780171883879" group-title="中甲",中甲 | 宁波队 vs 佛山南狮 | 1-0 | 直播20 | 原声23
-https://pul-tenm.gkykp.com/live/sd-1-4505278.m3u8?txSecret=c47cb3983d7e54db3a8f9f5d6fcd5b24&txTime=6A562F10
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 立陶宛U20 vs 波兰U20 | 67-39 | 直播8 | 直播8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="女东南锦",女东南锦 | 新加坡女足 vs 老挝女足 | 0-0 | 直播4 | 直播4
+https://live.666666.zip/live/4575244.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="女东南锦",女东南锦 | 新加坡女足 vs 老挝女足 | 0-0 | 直播4 | 原声5
+https://pul-tenm.gkykp.com/live/sd-1-4575244.m3u8?txSecret=b99fe1564e145e90830a4750aa1a2741&txTime=6A5632D0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 立陶宛U20 vs 波兰U20 | 86-53 | 直播8 | 直播8
 https://live.666666.zip/live/3907359.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 立陶宛U20 vs 波兰U20 | 67-39 | 直播8 | 原声38
-https://pul-tenm.gkykp.com/live/sd-2-3907359.m3u8?txSecret=3efe232bb507fe863568ace62b7e9107&txTime=6A562F10
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 以色列U20 vs 捷克U20 | 79-61 | 直播7 | 直播7
-https://live.666666.zip/live/3907393.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 以色列U20 vs 捷克U20 | 79-61 | 直播7 | 原声37
-https://pul-tenm.gkykp.com/live/sd-2-3907393.m3u8?txSecret=34316428f744bc8082c725c37213c996&txTime=6A562F10
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 立陶宛U20 vs 波兰U20 | 86-53 | 直播8 | 原声38
+https://pul-tenm.gkykp.com/live/sd-2-3907359.m3u8?txSecret=dbad7e1a336f3de2f10776aff836d517&txTime=6A5632D0
