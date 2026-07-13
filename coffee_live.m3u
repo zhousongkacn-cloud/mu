@@ -1,13 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 凯尔特人 vs 老鹰 | 31-50 | 直播7 | 直播7
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 凯尔特人 vs 老鹰 | 39-54 | 直播7 | 直播7
 https://live.666666.zip/live/3923451.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 凯尔特人 vs 老鹰 | 31-50 | 直播7 | 原声17
-https://pul-tenm.gkykp.com/live/hd-en-2-3923451.m3u8?txSecret=935e403f832ba40e47cb13d0f2508091&txTime=6A56BBB0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 米内罗美洲 vs 隆德里纳 | 0-0 | 直播3 | 直播3
-https://live.666666.zip/live/4494612.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 米内罗美洲 vs 隆德里纳 | 0-0 | 直播3 | 原声14
-https://pul-tenm.gkykp.com/live/sd-1-4494612.m3u8?txSecret=2b1c5d6926c5a98f105cc15d6b654ad7&txTime=6A56BBB0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 凯尔特人 vs 老鹰 | 39-54 | 直播7 | 原声17
+https://pul-tenm.gkykp.com/live/hd-en-2-3923451.m3u8?txSecret=b4ddacfce43b9e6774392170da2a9a22&txTime=6A56BF70
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="乌拉甲",乌拉甲 | 塞罗拉尔戈 vs 防卫者体育 | 1-1 | 直播2 | 直播2
 https://live.666666.zip/live/4569869.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="乌拉甲",乌拉甲 | 塞罗拉尔戈 vs 防卫者体育 | 1-1 | 直播2 | 原声12
-https://pul-tenm.gkykp.com/live/sd-1-4569869.m3u8?txSecret=4c2198c52fcfb6e9e44a846b006542c9&txTime=6A56BBB0
+https://pul-tenm.gkykp.com/live/sd-1-4569869.m3u8?txSecret=88323261daacc43f4f0b16b6e405f2d0&txTime=6A56BF70
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 米内罗美洲 vs 隆德里纳 | 1-0 | 直播3 | 直播3
+https://live.666666.zip/live/4494612.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 米内罗美洲 vs 隆德里纳 | 1-0 | 直播3 | 原声14
+https://pul-tenm.gkykp.com/live/sd-1-4494612.m3u8?txSecret=43f8e52a69df98fba2eaccf0fc081411&txTime=6A56BF70
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="WNBA",WNBA | 梦想 vs 火花 | 0-0 | 直播8 | 直播8
+https://live.666666.zip/live/3909256.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="WNBA",WNBA | 梦想 vs 火花 | 0-0 | 直播8 | 原声10
+https://pul-tenm.gkykp.com/live/hd-en-2-3909256.m3u8?txSecret=a54c44170695ac5c6fa668c69d8017b1&txTime=6A56BF70
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 灰熊 vs 独行侠 | 0-0 | 直播9 | 直播9
+https://live.666666.zip/live/3923449.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 灰熊 vs 独行侠 | 0-0 | 直播9 | 原声18
+https://pul-tenm.gkykp.com/live/hd-en-2-3923449.m3u8?txSecret=f0ad81c73bae90096a36c50f3981158d&txTime=6A56BF70
