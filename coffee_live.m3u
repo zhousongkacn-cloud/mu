@@ -1,19 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 法国 vs 西班牙 | 0-2 | 咪咕 | 咪咕
-https://live.666666.zip/migu/1.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 法国 vs 西班牙 | 0-2 | 咪咕 | CCTV5
-https://live.666666.zip/cctv/5.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 法国 vs 西班牙 | 0-2 | 咪咕 | 小红书
-https://live.666666.zip/xiaohongshu/1.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 法国 vs 西班牙 | 0-2 | 咪咕 | 低延迟
-https://live.666666.zip/weixing/1.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 法国 vs 西班牙 | 0-2 | 咪咕 | 粤语
-https://live.666666.zip/yueyu/index.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 火箭 vs 76人 | 59-34 | 直播6 | 直播6
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 火箭 vs 76人 | 65-44 | 直播6 | 直播6
 https://live.666666.zip/live/3923437.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 火箭 vs 76人 | 59-34 | 直播6 | 原声62
-https://pul-tenm.gkykp.com/live/hd-en-2-3923437.m3u8?txSecret=ebd7deb9ba93efe9999f48c5f995b04c&txTime=6A57F818
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 科索沃U20 vs 亚美尼亚U20 | 81-67 | 直播17 | 直播17
-https://live.666666.zip/live/3907386.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 科索沃U20 vs 亚美尼亚U20 | 81-67 | 直播17 | 原声61
-https://pul-tenm.gkykp.com/live/sd-2-3907386.m3u8?txSecret=cc8b35f3015ce2325a59853c488ba7ab&txTime=6A57F818
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 火箭 vs 76人 | 65-44 | 直播6 | 原声62
+https://pul-tenm.gkykp.com/live/hd-en-2-3923437.m3u8?txSecret=9a986679b5bab2481942890749a5cb9e&txTime=6A57FBD8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 马卡拉 vs 穆苏克鲁纳 | 0-0 | 直播5 | 直播5
+https://live.666666.zip/live/4492534.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 马卡拉 vs 穆苏克鲁纳 | 0-0 | 直播5 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4492534.m3u8?txSecret=037ee0cba27d5b34959bc742b7f61582&txTime=6A57FBD8
