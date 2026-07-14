@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 法国 vs 西班牙 | 0-2 | 咪咕 | 咪咕
 https://live.666666.zip/migu/1.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 法国 vs 西班牙 | 0-2 | 咪咕 | 小红书
-https://live.666666.zip/xiaohongshu/1.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 法国 vs 西班牙 | 0-2 | 咪咕 | CCTV5
 https://live.666666.zip/cctv/5.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 法国 vs 西班牙 | 0-2 | 咪咕 | 小红书
+https://live.666666.zip/xiaohongshu/1.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 法国 vs 西班牙 | 0-2 | 咪咕 | 低延迟
 https://live.666666.zip/weixing/1.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",世界杯 | 法国 vs 西班牙 | 0-2 | 咪咕 | 粤语
 https://live.666666.zip/yueyu/index.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 火箭 vs 76人 | 45-27 | 直播6 | 直播6
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 火箭 vs 76人 | 59-34 | 直播6 | 直播6
 https://live.666666.zip/live/3923437.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 火箭 vs 76人 | 45-27 | 直播6 | 原声62
-https://pul-tenm.gkykp.com/live/hd-en-2-3923437.m3u8?txSecret=7df15fe2170001dc12e887923a0e6f8f&txTime=6A57F548
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 科索沃U20 vs 亚美尼亚U20 | 77-65 | 直播17 | 直播17
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 火箭 vs 76人 | 59-34 | 直播6 | 原声62
+https://pul-tenm.gkykp.com/live/hd-en-2-3923437.m3u8?txSecret=ebd7deb9ba93efe9999f48c5f995b04c&txTime=6A57F818
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 科索沃U20 vs 亚美尼亚U20 | 81-67 | 直播17 | 直播17
 https://live.666666.zip/live/3907386.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 科索沃U20 vs 亚美尼亚U20 | 77-65 | 直播17 | 原声61
-https://pul-tenm.gkykp.com/live/sd-2-3907386.m3u8?txSecret=d6cc49386f1ba611b1033c5d3f53d698&txTime=6A57F548
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 科索沃U20 vs 亚美尼亚U20 | 81-67 | 直播17 | 原声61
+https://pul-tenm.gkykp.com/live/sd-2-3907386.m3u8?txSecret=cc8b35f3015ce2325a59853c488ba7ab&txTime=6A57F818
