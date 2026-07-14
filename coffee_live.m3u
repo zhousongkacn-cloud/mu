@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 火箭 vs 76人 | 81-55 | 直播6 | 直播6
-https://live.666666.zip/live/3923437.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 火箭 vs 76人 | 81-55 | 直播6 | 原声62
-https://pul-tenm.gkykp.com/live/hd-en-2-3923437.m3u8?txSecret=cc8dd20223596ce7e66560003dff5f77&txTime=6A57FF20
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 马卡拉 vs 穆苏克鲁纳 | 0-1 | 直播5 | 直播5
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="玻利甲",玻利甲 | 奥鲁罗 vs 拉巴斯准备 | 0-0 | 直播1 | 直播1
+https://live.666666.zip/live/4525927.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="玻利甲",玻利甲 | 奥鲁罗 vs 拉巴斯准备 | 0-0 | 直播1 | 原声4
+https://pul-tenm.gkykp.com/live/sd-1-4525927.m3u8?txSecret=500bbe427838737da0de9dcb65490136&txTime=6A5802E0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 马卡拉 vs 穆苏克鲁纳 | 1-1 | 直播5 | 直播5
 https://live.666666.zip/live/4492534.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 马卡拉 vs 穆苏克鲁纳 | 0-1 | 直播5 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4492534.m3u8?txSecret=d9e26d23d4ec36289adc75a47156c409&txTime=6A57FF20
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 马卡拉 vs 穆苏克鲁纳 | 1-1 | 直播5 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4492534.m3u8?txSecret=89dc77bfd7105ec5e21ed52e9f5f16b1&txTime=6A5802E0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 篮网 vs 国王 | 0-0 | 直播7 | 直播7
+https://live.666666.zip/live/3923435.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 篮网 vs 国王 | 0-0 | 直播7 | 原声45
+https://pul-tenm.gkykp.com/live/hd-en-2-3923435.m3u8?txSecret=5d5bc736631708641524a54bc0dff8ad&txTime=6A5802E0
