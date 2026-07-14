@@ -1,23 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="WNBA",WNBA | 阳光 vs 火焰 | 19-16 | 直播4 | 直播4
-https://live.666666.zip/live/3909189.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="WNBA",WNBA | 阳光 vs 火焰 | 19-16 | 直播4 | 原声57
-https://pul-tenm.gkykp.com/live/hd-en-2-3909189.m3u8?txSecret=ca5ecfb8a0e2a0203e3f0e2a8244b6b4&txTime=6A57A3B8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="欧冠",欧冠 | 古比斯 vs 华达 | 0-0 | 直播1 | 直播1
 https://live.666666.zip/live/4556523.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="欧冠",欧冠 | 古比斯 vs 华达 | 0-0 | 直播1 | 原声5
-https://pul-tenm.gkykp.com/live/sd-1-4556523.m3u8?txSecret=80b4cfd22e5d224d2456dec63cfd7396&txTime=6A57A3B8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 波斯尼亚U20 vs 塞浦路斯U20 | 70-49 | 直播9 | 直播9
-https://live.666666.zip/live/3907410.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 波斯尼亚U20 vs 塞浦路斯U20 | 70-49 | 直播9 | 原声23
-https://pul-tenm.gkykp.com/live/sd-2-3907410.m3u8?txSecret=5fdf492f51f39b03831b2bbbada50164&txTime=6A57A3B8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 比尔森 vs 普莱西亚 | 2-0 | 直播10 | 直播10
-https://live.666666.zip/live/4585602.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 保加利亚U20 vs 丹麦U20 | 49-21 | 直播11 | 直播11
+https://pul-tenm.gkykp.com/live/sd-1-4556523.m3u8?txSecret=7e54b9022951e1347a497bc0a47bb5d8&txTime=6A57A610
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="WNBA",WNBA | 阳光 vs 火焰 | 32-23 | 直播4 | 直播4
+https://live.666666.zip/live/3909189.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="WNBA",WNBA | 阳光 vs 火焰 | 32-23 | 直播4 | 原声57
+https://pul-tenm.gkykp.com/live/hd-en-2-3909189.m3u8?txSecret=8a5d06aebdb464337375401e8c4753f0&txTime=6A57A610
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 保加利亚U20 vs 丹麦U20 | 61-30 | 直播11 | 直播11
 https://live.666666.zip/live/3907447.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 保加利亚U20 vs 丹麦U20 | 49-21 | 直播11 | 原声53
-https://pul-tenm.gkykp.com/live/sd-2-3907447.m3u8?txSecret=5d7dd7f1ee8dd6a5aa77bd5b55bd8d1a&txTime=6A57A3B8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 保加利亚U20 vs 丹麦U20 | 61-30 | 直播11 | 原声53
+https://pul-tenm.gkykp.com/live/sd-2-3907447.m3u8?txSecret=797af4623d0336b63acb474d8053fb44&txTime=6A57A610
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 韦恩威斯巴登 vs 冈山绿雉 | 1-0 | 直播12 | 直播12
 https://live.666666.zip/live/4585352.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 韦恩威斯巴登 vs 冈山绿雉 | 1-0 | 直播12 | 原声28
-https://pul-tenm.gkykp.com/live/sd-1-4585352.m3u8?txSecret=30c14e223e020b5ad68f81a8e0e2497d&txTime=6A57A3B8
+https://pul-tenm.gkykp.com/live/sd-1-4585352.m3u8?txSecret=77adf4efdf1bf91d2d312829797db2cd&txTime=6A57A610
