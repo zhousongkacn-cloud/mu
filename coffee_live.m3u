@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="中女锦",中女锦 | 北京大学女篮 vs 厦门银行女篮 | 40-43 | 直播5 | 直播5
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="中女锦",中女锦 | 北京大学女篮 vs 厦门银行女篮 | 42-43 | 直播5 | 直播5
 https://live.666666.zip/live/3924119.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="中女锦",中女锦 | 北京大学女篮 vs 厦门银行女篮 | 40-43 | 直播5 | 原声7
-https://pul-tenm.gkykp.com/live/sd-2-3924119.m3u8?txSecret=fcc3737bf597293f5b1d4e61a0698640&txTime=6A587DB0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="中女锦",中女锦 | 北京大学女篮 vs 厦门银行女篮 | 42-43 | 直播5 | 原声7
+https://pul-tenm.gkykp.com/live/sd-2-3924119.m3u8?txSecret=76ac14adef414979ea31ae1c4ae9623d&txTime=6A588170
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 塔拉纳基 vs 尼尔逊巨人 | 0-0 | 直播8 | 直播8
+https://live.666666.zip/live/3890057.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 塔拉纳基 vs 尼尔逊巨人 | 0-0 | 直播8 | 原声25
+https://pul-tenm.gkykp.com/live/sd-2-3890057.m3u8?txSecret=9f5519437979e123585027c727387d1c&txTime=6A588170
