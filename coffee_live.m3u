@@ -1,5 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 塔拉纳基 vs 尼尔逊巨人 | 27-41 | 直播8 | 直播8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中冠",中冠 | 广州志诚 vs 贵州栩烽棠 | 0-0 | 直播1 | 直播1
+https://live.666666.zip/live/4565907.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 塔拉纳基 vs 尼尔逊巨人 | 36-47 | 直播8 | 直播8
 https://live.666666.zip/live/3890057.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 塔拉纳基 vs 尼尔逊巨人 | 27-41 | 直播8 | 原声25
-https://pul-tenm.gkykp.com/live/sd-2-3890057.m3u8?txSecret=cb312c06dc1371d4e027b5ca9fa73ebb&txTime=6A588BC0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 塔拉纳基 vs 尼尔逊巨人 | 36-47 | 直播8 | 原声25
+https://pul-tenm.gkykp.com/live/sd-2-3890057.m3u8?txSecret=21f707d6140b12e90ba80796cc86858f&txTime=6A588F08
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="中女锦",中女锦 | 北京首钢园女篮 vs 福建金篮女篮 | 0-0 | 直播9 | 直播9
+https://live.666666.zip/live/3924120.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1034.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | CSA布加勒斯特星 vs 图纳里 | 0-0 | 直播34 | 直播34
+https://live.666666.zip/live/4585459.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1034.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | CSA布加勒斯特星 vs 图纳里 | 0-0 | 直播34 | 原声21
+https://pul-tenm.gkykp.com/live/sd-1-4585459.m3u8?txSecret=eb50718bd68bd566c61271325cb633d1&txTime=6A588F80
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1225.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 塔拉纳基 vs 尼尔逊巨人 | 36-47 | 原声25 | 原声25
+https://pul-tenm.gkykp.com/live/sd-2-3890057.m3u8?txSecret=2877d6d347c9422f40ed95da90dab1f5&txTime=6A588F80
