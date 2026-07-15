@@ -1,11 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 萨尔茨堡红牛 vs 大阪钢巴 | 0-2 | 直播4 | 直播4
 https://live.666666.zip/live/4585388.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 德国U20 vs 拉脱维亚U20 | 24-19 | 直播9 | 直播9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 克罗地亚U20 vs 捷克U20 | 0-0 | 直播6 | 直播6
+https://live.666666.zip/live/3924483.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 克罗地亚U20 vs 捷克U20 | 0-0 | 直播6 | 原声35
+https://pul-tenm.gkykp.com/live/sd-2-3924483.m3u8?txSecret=a1bb25561c6c96847814d1b995277619&txTime=6A58E3E0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 德国U20 vs 拉脱维亚U20 | 29-21 | 直播9 | 直播9
 https://live.666666.zip/live/3924480.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 德国U20 vs 拉脱维亚U20 | 24-19 | 直播9 | 原声17
-https://pul-tenm.gkykp.com/live/sd-2-3924480.m3u8?txSecret=4a33cec2260ec73287730ea1bd072ea4&txTime=6A58E200
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 塞浦路斯U20 vs 亚美尼亚U20 | 29-12 | 直播2 | 直播2
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 德国U20 vs 拉脱维亚U20 | 29-21 | 直播9 | 原声17
+https://pul-tenm.gkykp.com/live/sd-2-3924480.m3u8?txSecret=cd45414c0fa2e7d042c64a0eb0ee0399&txTime=6A58E3E0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 塞浦路斯U20 vs 亚美尼亚U20 | 32-13 | 直播2 | 直播2
 https://live.666666.zip/live/3907449.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 塞浦路斯U20 vs 亚美尼亚U20 | 29-12 | 直播2 | 原声13
-https://pul-tenm.gkykp.com/live/sd-2-3907449.m3u8?txSecret=35cb2106deb72aaf124b51289de5280c&txTime=6A58E200
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 塞浦路斯U20 vs 亚美尼亚U20 | 32-13 | 直播2 | 原声13
+https://pul-tenm.gkykp.com/live/sd-2-3907449.m3u8?txSecret=a947822cb3a4abb055cdd84940853e33&txTime=6A58E3E0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 葡萄牙U20 vs 科索沃U20 | 0-0 | 直播3 | 直播3
+https://live.666666.zip/live/3907352.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 葡萄牙U20 vs 科索沃U20 | 0-0 | 直播3 | 原声34
+https://pul-tenm.gkykp.com/live/sd-2-3907352.m3u8?txSecret=4f095c6a4ab8d5c666921c80d45087ec&txTime=6A58E3E0
