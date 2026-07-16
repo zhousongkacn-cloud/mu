@@ -1,7 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 奥塔哥掘金 vs 泰莱之鹰 | 61-61 | 直播4 | 直播4
-https://live.666666.zip/live/3890063.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 奥塔哥掘金 vs 泰莱之鹰 | 61-61 | 直播4 | 原声88
-https://pul-tenm.gkykp.com/live/sd-2-3890063.m3u8?txSecret=a00ecf6ff7d729cd5a4a55eeba8da7b6&txTime=6A59E448
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="中女锦",中女锦 | 厦门银行女篮 vs 四川远达美乐女篮 | 2-8 | 直播5 | 直播5
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="中女锦",中女锦 | 厦门银行女篮 vs 四川远达美乐女篮 | 10-23 | 直播5 | 直播5
 https://live.666666.zip/live/3924123.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="中女锦",中女锦 | 厦门银行女篮 vs 四川远达美乐女篮 | 10-23 | 直播5 | 原声7
+https://pul-tenm.gkykp.com/live/sd-2-3924123.m3u8?txSecret=988b62b965146b8c091eb1cb49d26437&txTime=6A59E790
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 奥塔哥掘金 vs 泰莱之鹰 | 74-69 | 直播4 | 直播4
+https://live.666666.zip/live/3890063.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 奥塔哥掘金 vs 泰莱之鹰 | 74-69 | 直播4 | 原声88
+https://pul-tenm.gkykp.com/live/sd-2-3890063.m3u8?txSecret=a9af692ee70e99813915708fb896d5d3&txTime=6A59E790
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="越青锦U2",越青锦U2 | 黄安嘉莱U21 vs 乂安蓝江U21 | 0-0 | 直播12 | 直播12
+https://live.666666.zip/live/4584748.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="越青锦U2",越青锦U2 | 黄安嘉莱U21 vs 乂安蓝江U21 | 0-0 | 直播12 | 原声31
+https://pul-tenm.gkykp.com/live/sd-1-4584748.m3u8?txSecret=7bf85f072f68606d0f3e7122b60a0970&txTime=6A59E790
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="越青锦U2",越青锦U2 | 西宁U21 vs 越电信U21 | 0-0 | 直播13 | 直播13
+https://live.666666.zip/live/4584749.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="越青锦U2",越青锦U2 | 西宁U21 vs 越电信U21 | 0-0 | 直播13 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4584749.m3u8?txSecret=05619a71134a79b972039e511883c18a&txTime=6A59E790
