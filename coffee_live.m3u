@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="澳南甲",澳南甲 | 富勒姆联 vs 坎伯兰联 | 0-2 | 直播3 | 直播3
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="澳南甲",澳南甲 | 富勒姆联 vs 坎伯兰联 | 1-2 | 直播3 | 直播3
 https://live.666666.zip/live/4507872.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="澳南甲",澳南甲 | 富勒姆联 vs 坎伯兰联 | 0-2 | 直播3 | 原声25
-https://pul-tenm.gkykp.com/live/sd-1-4507872.m3u8?txSecret=807fa48f113af3bf23404403b59c64b1&txTime=6A5A0428
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="女东南锦",女东南锦 | 马来西亚女足 vs 新加坡女足 | 1-3 | 直播6 | 直播6
-https://live.666666.zip/live/4575245.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="女东南锦",女东南锦 | 马来西亚女足 vs 新加坡女足 | 1-3 | 直播6 | 原声90
-https://pul-tenm.gkykp.com/live/sd-1-4575245.m3u8?txSecret=742bbc8dfbd052d07cc1a97d78751abd&txTime=6A5A0428
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="澳南甲",澳南甲 | 富勒姆联 vs 坎伯兰联 | 1-2 | 直播3 | 原声25
+https://pul-tenm.gkykp.com/live/sd-1-4507872.m3u8?txSecret=a54d5a6fdc1971e12a7689aae66f5972&txTime=6A5A0770
