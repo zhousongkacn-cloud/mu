@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中女锦",中女锦 | 上海浦发银行女篮 vs 北京首钢园女篮 | 56-86 | 直播1 | 直播1
-https://live.666666.zip/live/3924122.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中女锦",中女锦 | 上海浦发银行女篮 vs 北京首钢园女篮 | 56-86 | 直播1 | 原声87
-https://pul-tenm.gkykp.com/live/sd-2-3924122.m3u8?txSecret=5fa120a9c38e0d9fcc70df9a7bcd7ac3&txTime=6A59DD40
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 奥塔哥掘金 vs 泰莱之鹰 | 39-35 | 直播4 | 直播4
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 奥塔哥掘金 vs 泰莱之鹰 | 48-44 | 直播4 | 直播4
 https://live.666666.zip/live/3890063.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 奥塔哥掘金 vs 泰莱之鹰 | 39-35 | 直播4 | 原声88
-https://pul-tenm.gkykp.com/live/sd-2-3890063.m3u8?txSecret=4c954b050f8bca428084d188653fb410&txTime=6A59DD40
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 奥塔哥掘金 vs 泰莱之鹰 | 48-44 | 直播4 | 原声88
+https://pul-tenm.gkykp.com/live/sd-2-3890063.m3u8?txSecret=0b9c71d66abc85915c506e9574585946&txTime=6A59E088
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="中女锦",中女锦 | 厦门银行女篮 vs 四川远达美乐女篮 | 0-0 | 直播5 | 直播5
+https://live.666666.zip/live/3924123.m3u8
