@@ -1,29 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 波兰U20 vs 捷克U20 | 85-74 | 直播14 | 直播14
-https://live.666666.zip/live/3925000.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 波兰U20 vs 捷克U20 | 85-74 | 直播14 | 原声57
-https://pul-tenm.gkykp.com/live/sd-2-3925000.m3u8?txSecret=cf62cb5239dee198f41c0ace0f2591e7&txTime=6A5A2750
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中冠",中冠 | 重庆瀚达 vs 广州联澳体 | 3-1 | 直播1 | 直播1
-https://live.666666.zip/live/4565881.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中冠",中冠 | 重庆瀚达 vs 广州联澳体 | 3-1 | 直播1 | 原声30
-https://pul-tenm.gkykp.com/live/sd-1-4565881.m3u8?txSecret=5b6f4acda57cc573d92ff8ccea3029dc&txTime=6A5A2750
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="中女锦",中女锦 | 福建金篮女篮 vs 北京大学女篮 | 60-58 | 直播4 | 直播4
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="中女锦",中女锦 | 福建金篮女篮 vs 北京大学女篮 | 74-68 | 直播4 | 直播4
 https://live.666666.zip/live/3924124.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="中女锦",中女锦 | 福建金篮女篮 vs 北京大学女篮 | 60-58 | 直播4 | 原声33
-https://pul-tenm.gkykp.com/live/sd-2-3924124.m3u8?txSecret=42a4f7f967a2928b60583e214c18e14d&txTime=6A5A2750
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="中女锦",中女锦 | 福建金篮女篮 vs 北京大学女篮 | 74-68 | 直播4 | 原声33
+https://pul-tenm.gkykp.com/live/sd-2-3924124.m3u8?txSecret=cb848db4502a77612dcad0dde4c8d5ea&txTime=6A5A2A98
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 拖雷斯 vs 阿克托比B队 | 0-1 | 直播5 | 直播5
+https://live.666666.zip/live/4519524.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 拖雷斯 vs 阿克托比B队 | 0-1 | 直播5 | 原声39
+https://pul-tenm.gkykp.com/live/sd-1-4519524.m3u8?txSecret=4d156a7d035c2046c396b837ef100b0e&txTime=6A5A2A98
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 普斯卡什学院 vs 巴萨克赛尔 | 0-2 | 直播9 | 直播9
 https://live.666666.zip/live/4586010.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 普斯卡什学院 vs 巴萨克赛尔 | 0-2 | 直播9 | 原声41
-https://pul-tenm.gkykp.com/live/sd-1-4586010.m3u8?txSecret=80eb79978a9e32fdbab0c3ef1d9621aa&txTime=6A5A2750
+https://pul-tenm.gkykp.com/live/sd-1-4586010.m3u8?txSecret=0bbf1299bdfd9e732bf90e2343a08eab&txTime=6A5A2A98
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | FK阿雷斯 vs 图兰FC | 0-1 | 直播10 | 直播10
+https://live.666666.zip/live/4519522.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | FK阿雷斯 vs 图兰FC | 0-1 | 直播10 | 原声101
+https://pul-tenm.gkykp.com/live/sd-1-4519522.m3u8?txSecret=e12dac53e59e709d422285a91047dbd4&txTime=6A5A2A98
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 埃基巴斯图兹 vs 卡拉干达矿工 | 0-1 | 直播11 | 直播11
 https://live.666666.zip/live/4519523.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 埃基巴斯图兹 vs 卡拉干达矿工 | 0-1 | 直播11 | 原声48
-https://pul-tenm.gkykp.com/live/sd-1-4519523.m3u8?txSecret=d422202e7f5040d552d1108e2912ab2e&txTime=6A5A2750
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 法国U20 vs 克罗地亚U20 | 42-45 | 直播15 | 直播15
+https://pul-tenm.gkykp.com/live/sd-1-4519523.m3u8?txSecret=328da7bc2a36b41f0865169d42db44ac&txTime=6A5A2A98
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 波兰U20 vs 捷克U20 | 90-83 | 直播14 | 直播14
+https://live.666666.zip/live/3925000.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 法国U20 vs 克罗地亚U20 | 48-56 | 直播15 | 直播15
 https://live.666666.zip/live/3924999.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 法国U20 vs 克罗地亚U20 | 42-45 | 直播15 | 原声58
-https://pul-tenm.gkykp.com/live/sd-2-3924999.m3u8?txSecret=f0d80ae22f70d9a2752cb619b26f94ed&txTime=6A5A2750
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="欧锦U20 A",欧锦U20 A | 法国U20 vs 克罗地亚U20 | 48-56 | 直播15 | 原声58
+https://pul-tenm.gkykp.com/live/sd-2-3924999.m3u8?txSecret=d766f911d82372c3dff2a02ee22e02ee&txTime=6A5A2A98
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 阿梅德 vs 巴统迪纳摩 | 2-0 | 直播16 | 直播16
 https://live.666666.zip/live/4586172.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 阿梅德 vs 巴统迪纳摩 | 2-0 | 直播16 | 原声43
-https://pul-tenm.gkykp.com/live/sd-1-4586172.m3u8?txSecret=9b92b9ec4c3d6311421bc104b6804f56&txTime=6A5A2750
+https://pul-tenm.gkykp.com/live/sd-1-4586172.m3u8?txSecret=ae5285adf954f66092624096181eb942&txTime=6A5A2A98
