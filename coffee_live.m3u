@@ -1,23 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 掘金 vs 开拓者 | 0-0 | 直播10 | 直播10
 https://live.666666.zip/live/3923401.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 老鹰 vs 灰熊 | 57-90 | 直播13 | 直播13
-https://live.666666.zip/live/3923403.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 老鹰 vs 灰熊 | 57-90 | 直播13 | 原声72
-https://pul-tenm.gkykp.com/live/hd-en-2-3923403.m3u8?txSecret=c12baf893a432efd0fbb0c9a7674783a&txTime=6A5ADDA8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 掘金 vs 开拓者 | 0-0 | 直播10 | 原声55
+https://pul-tenm.gkykp.com/live/hd-en-2-3923401.m3u8?txSecret=b56ac9bb850b24a4f2e3b1e0babba6d4&txTime=6A5AE168
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 热火 vs 猛龙 | 70-72 | 直播14 | 直播14
+https://live.666666.zip/live/3923402.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 热火 vs 猛龙 | 70-72 | 直播14 | 原声74
+https://pul-tenm.gkykp.com/live/hd-en-2-3923402.m3u8?txSecret=c8ec99c98859c8034a773613bd41d1c5&txTime=6A5AE168
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="美职业",美职业 | 圣路易斯城 vs 堪萨斯城竞技 | 2-1 | 直播8 | 直播8
 https://live.666666.zip/live/4460324.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="美职业",美职业 | 圣路易斯城 vs 堪萨斯城竞技 | 2-1 | 直播8 | 原声53
-https://pul-tenm.gkykp.com/live/hd-en-1-4460324.m3u8?txSecret=cf845a2ced4bf736e52ea77769fb3d5e&txTime=6A5ADDA8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 热火 vs 猛龙 | 57-64 | 直播14 | 直播14
-https://live.666666.zip/live/3923402.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 热火 vs 猛龙 | 57-64 | 直播14 | 原声74
-https://pul-tenm.gkykp.com/live/hd-en-2-3923402.m3u8?txSecret=6fcff125617ae01e30cf75ce5983776d&txTime=6A5ADDA8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="墨西超",墨西超 | 内卡萨 vs 亚特兰特 | 0-0 | 直播9 | 直播9
+https://pul-tenm.gkykp.com/live/hd-en-1-4460324.m3u8?txSecret=eb0973ec77cf113de7ca9bd303464d97&txTime=6A5AE168
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="墨西超",墨西超 | 内卡萨 vs 亚特兰特 | 0-1 | 直播9 | 直播9
 https://live.666666.zip/live/4553795.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="墨西超",墨西超 | 内卡萨 vs 亚特兰特 | 0-0 | 直播9 | 原声54
-https://pul-tenm.gkykp.com/live/hd-en-1-4553795.m3u8?txSecret=f6a3821074a9dc6c054e54e15b44e58b&txTime=6A5ADDA8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="墨西超",墨西超 | 内卡萨 vs 亚特兰特 | 0-1 | 直播9 | 原声54
+https://pul-tenm.gkykp.com/live/hd-en-1-4553795.m3u8?txSecret=5431f4d3bb5910e6ab88c576521c252e&txTime=6A5AE168
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1780171883879" group-title="阿根廷杯",阿根廷杯 | 萨米恩托 vs 博卡青年 | 0-1 | 直播25 | 直播25
 https://live.666666.zip/live/4529542.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1780171883879" group-title="阿根廷杯",阿根廷杯 | 萨米恩托 vs 博卡青年 | 0-1 | 直播25 | 原声29
-https://pul-tenm.gkykp.com/live/sd-1-4529542.m3u8?txSecret=177d3f56cd7d584d057becfeb3ca7f66&txTime=6A5ADDA8
+https://pul-tenm.gkykp.com/live/sd-1-4529542.m3u8?txSecret=b2eeb92ebb25e1ffe6b4a618a9460765&txTime=6A5AE168
