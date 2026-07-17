@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 掘金 vs 开拓者 | 41-42 | 直播10 | 直播10
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 掘金 vs 开拓者 | 50-48 | 直播10 | 直播10
 https://live.666666.zip/live/3923401.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 掘金 vs 开拓者 | 41-42 | 直播10 | 原声55
-https://pul-tenm.gkykp.com/live/hd-en-2-3923401.m3u8?txSecret=0312067955d7142906bef9ee779d040d&txTime=6A5AEC30
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="墨西超",墨西超 | 内卡萨 vs 亚特兰特 | 1-1 | 直播9 | 直播9
-https://live.666666.zip/live/4553795.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="墨西超",墨西超 | 内卡萨 vs 亚特兰特 | 1-1 | 直播9 | 原声54
-https://pul-tenm.gkykp.com/live/hd-en-1-4553795.m3u8?txSecret=f1a1ba7d656035c7b593602fb941b6bb&txTime=6A5AEC30
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="美职业",美职业 | 西雅图海湾人 vs 波特兰伐木工 | 0-0 | 直播3 | 直播3
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 掘金 vs 开拓者 | 50-48 | 直播10 | 原声55
+https://pul-tenm.gkykp.com/live/hd-en-2-3923401.m3u8?txSecret=51b56d605ac49097ca90c5db4ade852f&txTime=6A5AEF78
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="美职业",美职业 | 西雅图海湾人 vs 波特兰伐木工 | 0-1 | 直播3 | 直播3
 https://live.666666.zip/live/4460326.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="美职业",美职业 | 西雅图海湾人 vs 波特兰伐木工 | 0-0 | 直播3 | 原声64
-https://pul-tenm.gkykp.com/live/hd-en-1-4460326.m3u8?txSecret=a0bfbab0501e1d3efef68f7c85672b1f&txTime=6A5AEC30
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="美职业",美职业 | 西雅图海湾人 vs 波特兰伐木工 | 0-1 | 直播3 | 原声64
+https://pul-tenm.gkykp.com/live/hd-en-1-4460326.m3u8?txSecret=2291439eb5a001611eb4490adc3c10d9&txTime=6A5AEF78
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="墨西超",墨西超 | 蒂华纳 vs 老虎大学 | 0-0 | 直播5 | 直播5
 https://live.666666.zip/live/4553796.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="墨西超",墨西超 | 蒂华纳 vs 老虎大学 | 0-0 | 直播5 | 原声77
-https://pul-tenm.gkykp.com/live/sd-1-4553796.m3u8?txSecret=5de3d665cb4cf980068172fd259532eb&txTime=6A5AEC30
+https://pul-tenm.gkykp.com/live/sd-1-4553796.m3u8?txSecret=4b66cf01b21c4191b602f8ce9809f740&txTime=6A5AEF78
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | UAT走鹃 vs 墨西哥U23 | 2-0 | 直播16 | 直播16
 https://live.666666.zip/live/4588422.m3u8
