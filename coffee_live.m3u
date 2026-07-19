@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2222.jpg?v=1780171883879" group-title="世界杯",世界杯 | 西班牙 vs 阿根廷 | 0-0 | CCTV5 | CCTV5
 https://live.666666.zip/cctv/5.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2222.jpg?v=1780171883879" group-title="世界杯",世界杯 | 西班牙 vs 阿根廷 | 0-0 | CCTV5 | 咪咕
-https://live.666666.zip/migu/1.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2222.jpg?v=1780171883879" group-title="世界杯",世界杯 | 西班牙 vs 阿根廷 | 0-0 | CCTV5 | 小红书
 https://live.666666.zip/xiaohongshu/1.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2222.jpg?v=1780171883879" group-title="世界杯",世界杯 | 西班牙 vs 阿根廷 | 0-0 | CCTV5 | 咪咕
+https://live.666666.zip/migu/1.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2222.jpg?v=1780171883879" group-title="世界杯",世界杯 | 西班牙 vs 阿根廷 | 0-0 | CCTV5 | 粤语
 https://live.666666.zip/yueyu/index.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2222.jpg?v=1780171883879" group-title="世界杯",世界杯 | 西班牙 vs 阿根廷 | 0-0 | CCTV5 | 低延迟
@@ -12,12 +12,16 @@ https://live.666666.zip/sat/1.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2222.jpg?v=1780171883879" group-title="世界杯",世界杯 | 西班牙 vs 阿根廷 | 0-0 | CCTV5 | 直播3
 https://live.666666.zip/live/4459815.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2222.jpg?v=1780171883879" group-title="世界杯",世界杯 | 西班牙 vs 阿根廷 | 0-0 | CCTV5 | 原声14
-https://pul-tenm.gkykp.com/live/hd-en-1-4459815.m3u8?txSecret=a655d7a111468c8eb79d924c2e782e8a&txTime=6A5E7DC8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 冰岛U20 vs 乌克兰U20 | 40-48 | 直播7 | 直播7
-https://live.666666.zip/live/3925177.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 冰岛U20 vs 乌克兰U20 | 40-48 | 直播7 | 原声23
-https://pul-tenm.gkykp.com/live/sd-2-3925177.m3u8?txSecret=bdb1628e4ac5a1d8fb0ac2e1adb8d0c7&txTime=6A5E7DC8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="WNBA",WNBA | 梦想 vs 天空 | 0-0 | 直播5 | 直播5
+https://pul-tenm.gkykp.com/live/hd-en-1-4459815.m3u8?txSecret=b78edf662e3b1883c8cddd3087f25df4&txTime=6A5E8188
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="WNBA",WNBA | 梦想 vs 天空 | 2-2 | 直播5 | 直播5
 https://live.666666.zip/live/3909009.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="WNBA",WNBA | 梦想 vs 天空 | 0-0 | 直播5 | 原声30
-https://pul-tenm.gkykp.com/live/hd-en-2-3909009.m3u8?txSecret=1b012e42c6811ec7a5f79d373dadd124&txTime=6A5E7DC8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="WNBA",WNBA | 梦想 vs 天空 | 2-2 | 直播5 | 原声30
+https://pul-tenm.gkykp.com/live/hd-en-2-3909009.m3u8?txSecret=61101e1fddebfc71012632905bb203fe&txTime=6A5E8188
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 冰岛U20 vs 乌克兰U20 | 52-56 | 直播7 | 直播7
+https://live.666666.zip/live/3925177.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="欧锦U20 B",欧锦U20 B | 冰岛U20 vs 乌克兰U20 | 52-56 | 直播7 | 原声23
+https://pul-tenm.gkykp.com/live/sd-2-3925177.m3u8?txSecret=b61d18755ea14f9e107b705439c19cca&txTime=6A5E8188
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="秘鲁",秘鲁 | 桑托斯足球俱乐部 vs 比尼斯纳勒 | 0-0 | 直播11 | 直播11
+https://live.666666.zip/live/4559887.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="秘鲁",秘鲁 | 桑托斯足球俱乐部 vs 比尼斯纳勒 | 0-0 | 直播11 | 原声19
+https://pul-tenm.gkykp.com/live/sd-1-4559887.m3u8?txSecret=35370788d7b078489dba73af967b6d25&txTime=6A5E8188
