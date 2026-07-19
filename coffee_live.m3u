@@ -1,17 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="墨西超",墨西超 | 克雷塔罗 vs 墨西哥美洲 | 0-0 | 直播5 | 直播5
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="墨西超",墨西超 | 克雷塔罗 vs 墨西哥美洲 | 0-1 | 直播5 | 直播5
 https://live.666666.zip/live/4553803.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="墨西超",墨西超 | 克雷塔罗 vs 墨西哥美洲 | 0-0 | 直播5 | 原声49
-https://pul-tenm.gkykp.com/live/sd-1-4553803.m3u8?txSecret=b84cdd5b443027737339128e6e0d66ee&txTime=6A5DA790
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 坎特伯雷公羊 vs 奥克兰鳄蜥 | 80-65 | 直播6 | 直播6
-https://live.666666.zip/live/3890084.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 坎特伯雷公羊 vs 奥克兰鳄蜥 | 80-65 | 直播6 | 原声27
-https://pul-tenm.gkykp.com/live/sd-2-3890084.m3u8?txSecret=6e0885200f4626a5a63edc6fc1265b9f&txTime=6A5DA790
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="澳东部女联",澳东部女联 | 伊拉瓦拉鹰女篮 vs 彭里斯黑豹女篮 | 50-22 | 直播9 | 直播9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="墨西超",墨西超 | 克雷塔罗 vs 墨西哥美洲 | 0-1 | 直播5 | 原声49
+https://pul-tenm.gkykp.com/live/sd-1-4553803.m3u8?txSecret=087d78278b80004ec366bbf1b22e14f6&txTime=6A5DAAD8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="澳威超",澳威超 | 黑镇市足球俱乐部 vs 圣乔治城 | 0-0 | 直播1 | 直播1
+https://live.666666.zip/live/4473442.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="澳威超",澳威超 | 黑镇市足球俱乐部 vs 圣乔治城 | 0-0 | 直播1 | 原声68
+https://pul-tenm.gkykp.com/live/sd-1-4473442.m3u8?txSecret=107bc0ee1e9b41b758832d7efa83e9b6&txTime=6A5DAAD8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="澳威超",澳威超 | 马可尼 vs 悉尼联 | 0-0 | 直播2 | 直播2
+https://live.666666.zip/live/4473486.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="澳威超",澳威超 | 马可尼 vs 悉尼联 | 0-0 | 直播2 | 原声121
+https://pul-tenm.gkykp.com/live/sd-1-4473486.m3u8?txSecret=e1de5a731f2caa2da30a7c8bc82199c0&txTime=6A5DAAD8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="澳东部女联",澳东部女联 | 伊拉瓦拉鹰女篮 vs 彭里斯黑豹女篮 | 71-38 | 直播9 | 直播9
 https://live.666666.zip/live/3912899.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="澳东部女联",澳东部女联 | 伊拉瓦拉鹰女篮 vs 彭里斯黑豹女篮 | 50-22 | 直播9 | 原声119
-https://pul-tenm.gkykp.com/live/sd-2-3912899.m3u8?txSecret=676429fb932f1885ecabb40af3864f1c&txTime=6A5DA790
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="澳东部女联",澳东部女联 | 伊拉瓦拉鹰女篮 vs 彭里斯黑豹女篮 | 71-38 | 直播9 | 原声119
+https://pul-tenm.gkykp.com/live/sd-2-3912899.m3u8?txSecret=3e7b28a1617bc75c8dd9379151bf89a1&txTime=6A5DAAD8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="澳昆女超",澳昆女超 | 棕榈滩女足 vs 洛根闪电女足 | 0-0 | 直播14 | 直播14
+https://live.666666.zip/live/4588823.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="澳昆女超",澳昆女超 | 棕榈滩女足 vs 洛根闪电女足 | 0-0 | 直播14 | 原声98
+https://pul-tenm.gkykp.com/live/sd-1-4588823.m3u8?txSecret=a3eca7bf4511b63f4e40fb61a354e518&txTime=6A5DAAD8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="澳塔女超",澳塔女超 | 南霍巴特女足 vs 朗塞斯顿联女足 | 1-0 | 直播19 | 直播19
 https://live.666666.zip/live/4588458.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="澳塔女超",澳塔女超 | 南霍巴特女足 vs 朗塞斯顿联女足 | 1-0 | 直播19 | 原声96
-https://pul-tenm.gkykp.com/live/sd-1-4588458.m3u8?txSecret=e0f2b6a274ad1fe276ac9b84049610dd&txTime=6A5DA790
+https://pul-tenm.gkykp.com/live/sd-1-4588458.m3u8?txSecret=ebb633cc060e444d5cef321d0c0ffbd9&txTime=6A5DAAD8
