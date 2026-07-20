@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 灰熊 vs 勇士 | 90-92 | 直播6 | 直播6
-https://live.666666.zip/live/3925182.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="夏季联赛",夏季联赛 | 灰熊 vs 勇士 | 90-92 | 直播6 | 原声45
-https://pul-tenm.gkykp.com/live/hd-en-2-3925182.m3u8?txSecret=b2b011421542215566a205d423f1fd34&txTime=6A5EDCF0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="美预备联",美预备联 | 皇家君主 vs 塔科马反抗者 | 1-3 | 直播5 | 直播5
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="美预备联",美预备联 | 皇家君主 vs 塔科马反抗者 | 1-4 | 直播5 | 直播5
 https://live.666666.zip/live/4585393.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="美预备联",美预备联 | 皇家君主 vs 塔科马反抗者 | 1-3 | 直播5 | 原声92
-https://pul-tenm.gkykp.com/live/sd-1-4585393.m3u8?txSecret=05f9c10cfc1028b129084b49a6c5c9d3&txTime=6A5EDCF0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="美预备联",美预备联 | 皇家君主 vs 塔科马反抗者 | 1-4 | 直播5 | 原声92
+https://pul-tenm.gkykp.com/live/sd-1-4585393.m3u8?txSecret=39f874f2538b5c17fe253516fc6b7318&txTime=6A5EE038
