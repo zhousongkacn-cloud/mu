@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="足协杯",足协杯 | 云南玉昆 vs 成都蓉城 | 3-3 | 直播1 | 直播1
-https://live.666666.zip/live/4562225.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="足协杯",足协杯 | 云南玉昆 vs 成都蓉城 | 3-3 | 直播1 | 原声46
-https://pul-tenm.gkykp.com/live/sd-1-4562225.m3u8?txSecret=1367b3eb3e0528496bdb0924850dffef&txTime=6A60D280
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="足协杯",足协杯 | 河南队 vs 大连英博 | 1-1 | 直播6 | 直播6
 https://live.666666.zip/live/4562229.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="足协杯",足协杯 | 河南队 vs 大连英博 | 1-1 | 直播6 | 原声47
-https://pul-tenm.gkykp.com/live/sd-1-4562229.m3u8?txSecret=367a81792e6e18dd648cce3bf078423d&txTime=6A60D280
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="足协杯",足协杯 | 武汉三镇 vs 山东泰山 | 1-1 | 直播3 | 直播3
-https://live.666666.zip/live/4562226.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="足协杯",足协杯 | 武汉三镇 vs 山东泰山 | 1-1 | 直播3 | 原声43
-https://pul-tenm.gkykp.com/live/sd-1-4562226.m3u8?txSecret=ab759dd2265666704cbb4ffd64c7a581&txTime=6A60D280
+https://pul-tenm.gkykp.com/live/sd-1-4562229.m3u8?txSecret=c76ad39118465f9d9adf9313eef75321&txTime=6A60D3E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="足协杯",足协杯 | 云南玉昆 vs 成都蓉城 | 3-3 | 直播1 | 直播1
+https://live.666666.zip/live/4562225.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="足协杯",足协杯 | 云南玉昆 vs 成都蓉城 | 3-3 | 直播1 | 原声46
+https://pul-tenm.gkykp.com/live/sd-1-4562225.m3u8?txSecret=74de914cd946976a74bee646d2824bfc&txTime=6A60D3E8
