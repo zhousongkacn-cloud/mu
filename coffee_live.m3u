@@ -1,9 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="哥伦杯",哥伦杯 | 国民竞技 vs 锡帕基拉老虎 | 1-0 | 直播3 | 直播3
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="南球杯",南球杯 | 乌拉圭民族 vs 堤格雷 | 0-0 | 直播1 | 直播1
+https://live.666666.zip/live/4546908.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="南球杯",南球杯 | 乌拉圭民族 vs 堤格雷 | 0-0 | 直播1 | 原声6
+https://pul-tenm.gkykp.com/live/sd-1-4546908.m3u8?txSecret=ff1ab6fe165af4969aae6ca9c25a7f44&txTime=6A613CE8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="哥伦杯",哥伦杯 | 国民竞技 vs 锡帕基拉老虎 | 2-0 | 直播3 | 直播3
 https://live.666666.zip/live/4544614.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="哥伦杯",哥伦杯 | 国民竞技 vs 锡帕基拉老虎 | 1-0 | 直播3 | 原声28
-https://pul-tenm.gkykp.com/live/sd-1-4544614.m3u8?txSecret=4fe7c09403b2761c73dd16b12d6a455c&txTime=6A6139A0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="哥伦杯",哥伦杯 | 国民竞技 vs 锡帕基拉老虎 | 2-0 | 直播3 | 原声28
+https://pul-tenm.gkykp.com/live/sd-1-4544614.m3u8?txSecret=7eb42efbdf398c859f53193425a29fd5&txTime=6A613CE8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 利伯塔德洛哈 vs 德芬 | 0-0 | 直播5 | 直播5
 https://live.666666.zip/live/4492548.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 利伯塔德洛哈 vs 德芬 | 0-0 | 直播5 | 原声5
-https://pul-tenm.gkykp.com/live/sd-1-4492548.m3u8?txSecret=04e76117f81513b4c95ff464ba41993b&txTime=6A6139A0
+https://pul-tenm.gkykp.com/live/sd-1-4492548.m3u8?txSecret=7ddb85596c42d151aad7bfcb3ba25c56&txTime=6A613D60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1206.jpg?v=1780171883879" group-title="南球杯",南球杯 | 乌拉圭民族 vs 堤格雷 | 0-0 | 原声6 | 原声6
+https://pul-tenm.gkykp.com/live/sd-1-4546908.m3u8?txSecret=0dc09014aed733a27c0fc182597a3d25&txTime=6A613D60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1228.jpg?v=1780171883879" group-title="哥伦杯",哥伦杯 | 国民竞技 vs 锡帕基拉老虎 | 2-0 | 原声28 | 原声28
+https://pul-tenm.gkykp.com/live/sd-1-4544614.m3u8?txSecret=c719883669ccdd6568fd610d73c50954&txTime=6A613D60
