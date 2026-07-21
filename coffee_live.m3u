@@ -1,9 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="足协杯",足协杯 | 河南队 vs 大连英博 | 1-1 | 直播6 | 直播6
-https://live.666666.zip/live/4562229.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="足协杯",足协杯 | 河南队 vs 大连英博 | 1-1 | 直播6 | 原声47
-https://pul-tenm.gkykp.com/live/sd-1-4562229.m3u8?txSecret=f2437f9812a0bbe2e63872fb350c3098&txTime=6A60D730
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="足协杯",足协杯 | 云南玉昆 vs 成都蓉城 | 3-3 | 直播1 | 直播1
-https://live.666666.zip/live/4562225.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="足协杯",足协杯 | 云南玉昆 vs 成都蓉城 | 3-3 | 直播1 | 原声46
-https://pul-tenm.gkykp.com/live/sd-1-4562225.m3u8?txSecret=3863a1efc5b75eebc55befc39ce429db&txTime=6A60D730
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="乌兹超",乌兹超 | 塔什干棉农 vs 花刺子模乌尔根奇 | 0-0 | 直播2 | 直播2
+https://live.666666.zip/live/4488081.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="乌兹超",乌兹超 | 塔什干棉农 vs 花刺子模乌尔根奇 | 0-0 | 直播2 | 原声11
+https://pul-tenm.gkykp.com/live/sd-1-4488081.m3u8?txSecret=2a0a1922237575b5d189f45bc09c2959&txTime=6A60DAF0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="乌兹超",乌兹超 | 索格迪纳吉扎克 vs 费尔干纳夫兹 | 0-0 | 直播7 | 直播7
+https://live.666666.zip/live/4488082.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="乌兹超",乌兹超 | 索格迪纳吉扎克 vs 费尔干纳夫兹 | 0-0 | 直播7 | 原声51
+https://pul-tenm.gkykp.com/live/sd-1-4488082.m3u8?txSecret=4e7b14afec593a5776a450f5f5cbf0a1&txTime=6A60DAF0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="乌兹超",乌兹超 | 布哈拉 vs 缔造者 | 0-0 | 直播18 | 直播18
+https://live.666666.zip/live/4488076.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="乌兹超",乌兹超 | 布哈拉 vs 缔造者 | 0-0 | 直播18 | 原声52
+https://pul-tenm.gkykp.com/live/sd-1-4488076.m3u8?txSecret=75337f1334831ade50fbf79528564845&txTime=6A60DAF0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 柏林赫塔 vs 马梅洛迪日落 | 0-0 | 直播19 | 直播19
+https://live.666666.zip/live/4591015.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 柏林赫塔 vs 马梅洛迪日落 | 0-0 | 直播19 | 原声27
+https://pul-tenm.gkykp.com/live/sd-1-4591015.m3u8?txSecret=54b2ad9f6fb0e2a1fdfed39cf8284052&txTime=6A60DAF0
