@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="墨西超",墨西超 | 蓝十字 vs 普埃布拉 | 1-1 | 直播3 | 直播3
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="墨西超",墨西超 | 蓝十字 vs 普埃布拉 | 2-1 | 直播3 | 直播3
 https://live.666666.zip/live/4553804.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="墨西超",墨西超 | 蓝十字 vs 普埃布拉 | 1-1 | 直播3 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4553804.m3u8?txSecret=a0eb36e738526ae9b4343df1cf9e193a&txTime=6A617C30
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 维拉诺瓦 vs 福塔雷萨 | 2-1 | 直播10 | 直播10
-https://live.666666.zip/live/4494638.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 维拉诺瓦 vs 福塔雷萨 | 2-1 | 直播10 | 原声58
-https://pul-tenm.gkykp.com/live/sd-1-4494638.m3u8?txSecret=8a65e8ecec61d11c4a39d43acf79967e&txTime=6A617C30
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="墨西超",墨西超 | 蓝十字 vs 普埃布拉 | 2-1 | 直播3 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4553804.m3u8?txSecret=1a85ba51f2f4d86cd7b69f41b1881296&txTime=6A617FF0
