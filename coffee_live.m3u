@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 山谷独立 vs 理工大学竞技 | 0-0 | 直播6 | 直播6
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="南球杯",南球杯 | 麦德林独立 vs 瓦斯科达伽马 | 0-0 | 直播1 | 直播1
+https://live.666666.zip/live/4546906.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="南球杯",南球杯 | 麦德林独立 vs 瓦斯科达伽马 | 0-0 | 直播1 | 原声3
+https://pul-tenm.gkykp.com/live/sd-1-4546906.m3u8?txSecret=4b3651d127da56c1b38fec98d35fa1c7&txTime=6A629229
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 山谷独立 vs 理工大学竞技 | 1-0 | 直播6 | 直播6
 https://live.666666.zip/live/4492546.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 山谷独立 vs 理工大学竞技 | 0-0 | 直播6 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4492546.m3u8?txSecret=8720a08ad58989d4a3d5a92449efeab6&txTime=6A628EE0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 山谷独立 vs 理工大学竞技 | 1-0 | 直播6 | 原声1
+https://pul-tenm.gkykp.com/live/sd-1-4492546.m3u8?txSecret=cc7b858b508800e1e52680560c2b3db9&txTime=6A629229
