@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="中女锦",中女锦 | 河南豫光金铅女篮 vs 东莞新彤盛女篮 | 43-47 | 直播8 | 直播8
-https://live.666666.zip/live/3924155.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 泰莱之鹰 vs 惠灵顿圣徒 | 34-48 | 直播10 | 直播10
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="中女甲",中女甲 | 重庆奥体女足 vs 河南女足 | 0-0 | 直播7 | 直播7
+https://live.666666.zip/live/4537646.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="中女甲",中女甲 | 重庆奥体女足 vs 河南女足 | 0-0 | 直播7 | 原声86
+https://pul-tenm.gkykp.com/live/sd-1-4537646.m3u8?txSecret=e5df97a5dfe4927b96e4bed21fbf7ff5&txTime=6A632289
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 泰莱之鹰 vs 惠灵顿圣徒 | 43-58 | 直播10 | 直播10
 https://live.666666.zip/live/3923839.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 泰莱之鹰 vs 惠灵顿圣徒 | 34-48 | 直播10 | 原声83
-https://pul-tenm.gkykp.com/live/sd-2-3923839.m3u8?txSecret=eea345dfc927b9aed33251269e3028e2&txTime=6A631EC8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 泰莱之鹰 vs 惠灵顿圣徒 | 43-58 | 直播10 | 原声83
+https://pul-tenm.gkykp.com/live/sd-2-3923839.m3u8?txSecret=768dab5d36f7dab97fc5d7ce6b08d49f&txTime=6A632289
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="越青锦U2",越青锦U2 | TT河内U21 vs 乂安蓝江U21 | 0-0 | 直播14 | 直播14
+https://live.666666.zip/live/4593795.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="越青锦U2",越青锦U2 | TT河内U21 vs 乂安蓝江U21 | 0-0 | 直播14 | 原声24
+https://pul-tenm.gkykp.com/live/sd-1-4593795.m3u8?txSecret=19749e5beea3c22868ed421a0389fb1c&txTime=6A632289
