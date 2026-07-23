@@ -1,11 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="欧足联",欧足联 | 马利舍瓦 vs 希伯尼安 | 0-0 | 直播1 | 直播1
+https://live.666666.zip/live/4590886.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="欧足联",欧足联 | 马利舍瓦 vs 希伯尼安 | 0-0 | 直播1 | 原声21
+https://pul-tenm.gkykp.com/live/sd-1-4590886.m3u8?txSecret=7d1400cc65a0e0f0f4d9d8559c939564&txTime=6A637670
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 卡斯比阿克套B队 vs 埃基巴斯图兹 | 3-0 | 直播15 | 直播15
 https://live.666666.zip/live/4523025.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 卡斯比阿克套B队 vs 埃基巴斯图兹 | 3-0 | 直播15 | 原声59
-https://pul-tenm.gkykp.com/live/sd-1-4523025.m3u8?txSecret=b7afd57efbde1cfad99b2cd7938911f0&txTime=6A637328
+https://pul-tenm.gkykp.com/live/sd-1-4523025.m3u8?txSecret=af4355da9f5a9596541118c12059c0d8&txTime=6A637670
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 贾伊克 vs 汗腾格里 | 1-0 | 直播16 | 直播16
 https://live.666666.zip/live/4523024.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 贾伊克 vs 汗腾格里 | 1-0 | 直播16 | 原声68
-https://pul-tenm.gkykp.com/live/sd-1-4523024.m3u8?txSecret=646587e017c075ba26fc0856b93bdb79&txTime=6A637328
+https://pul-tenm.gkykp.com/live/sd-1-4523024.m3u8?txSecret=98f15f869fb41cfef85d05fc8b161c5c&txTime=6A637670
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="国际友谊",国际友谊 | 伊朗女足U20 vs 乌兹别克女足U20 | 1-0 | 直播17 | 直播17
 https://live.666666.zip/live/4592515.m3u8
