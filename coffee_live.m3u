@@ -1,57 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="巴西甲",巴西甲 | 科里蒂巴 vs 帕尔梅拉斯 | 0-2 | 直播9 | 直播9
-https://live.666666.zip/live/4465744.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="巴西甲",巴西甲 | 科里蒂巴 vs 帕尔梅拉斯 | 0-2 | 直播9 | 原声12
-https://pul-tenm.gkykp.com/live/sd-1-4465744.m3u8?txSecret=1dd3e734d938bf2505ffd4d822778557&txTime=6A62AB00
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1028.jpg?v=1780171883879" group-title="WNBA",WNBA | 狂热 vs 阳光 | 0-0 | 直播28 | 直播28
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="美职业",美职业 | 迈阿密国际 vs 芝加哥火焰 | 1-1 | 直播13 | 直播13
+https://live.666666.zip/live/4460343.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="美职业",美职业 | 迈阿密国际 vs 芝加哥火焰 | 1-1 | 直播13 | 原声41
+https://pul-tenm.gkykp.com/live/sd-1-4460343.m3u8?txSecret=d0bad926615f5203588bb3539b25906b&txTime=6A62ADD0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1026.jpg?v=1780171883879" group-title="WNBA",WNBA | 自由人 vs 天空 | 54-52 | 直播26 | 直播26
+https://live.666666.zip/live/3909181.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1026.jpg?v=1780171883879" group-title="WNBA",WNBA | 自由人 vs 天空 | 54-52 | 直播26 | 原声28
+https://pul-tenm.gkykp.com/live/hd-en-2-3909181.m3u8?txSecret=1fbf72107921772ae8807041785e5156&txTime=6A62ADD0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1028.jpg?v=1780171883879" group-title="WNBA",WNBA | 狂热 vs 阳光 | 12-11 | 直播28 | 直播28
 https://live.666666.zip/live/3909115.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1028.jpg?v=1780171883879" group-title="WNBA",WNBA | 狂热 vs 阳光 | 0-0 | 直播28 | 原声7
-https://pul-tenm.gkykp.com/live/hd-en-2-3909115.m3u8?txSecret=cef01c9c2eb2ea27eac77ca62139c0ee&txTime=6A62AB00
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1028.jpg?v=1780171883879" group-title="WNBA",WNBA | 狂热 vs 阳光 | 12-11 | 直播28 | 原声7
+https://pul-tenm.gkykp.com/live/hd-en-2-3909115.m3u8?txSecret=769e44e2e2da866056828a6927897464&txTime=6A62ADD0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="美乙",美乙 | 列克星敦 vs 奥克兰根 | 0-0 | 直播5 | 直播5
 https://live.666666.zip/live/4473079.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="美乙",美乙 | 列克星敦 vs 奥克兰根 | 0-0 | 直播5 | 原声23
-https://pul-tenm.gkykp.com/live/sd-1-4473079.m3u8?txSecret=0fdf6b257611360bbe35fd60df8cc453&txTime=6A62AB00
+https://pul-tenm.gkykp.com/live/sd-1-4473079.m3u8?txSecret=c158540a67b7fb5ac4a8edf5d351ce66&txTime=6A62ADD0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 塞阿拉 vs 雷加塔斯巴西 | 0-1 | 直播7 | 直播7
 https://live.666666.zip/live/4494633.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 塞阿拉 vs 雷加塔斯巴西 | 0-1 | 直播7 | 原声18
-https://pul-tenm.gkykp.com/live/sd-1-4494633.m3u8?txSecret=338acdad3bce76985c0beab275926224&txTime=6A62AB00
+https://pul-tenm.gkykp.com/live/sd-1-4494633.m3u8?txSecret=1d9ba63c73200870681c78f696ebfe46&txTime=6A62ADD0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 铁路工人 vs 庞特普雷塔 | 2-2 | 直播8 | 直播8
 https://live.666666.zip/live/4494637.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 铁路工人 vs 庞特普雷塔 | 2-2 | 直播8 | 原声22
-https://pul-tenm.gkykp.com/live/sd-1-4494637.m3u8?txSecret=07191b2acdfcd14a491049faf9a4c692&txTime=6A62AB00
+https://pul-tenm.gkykp.com/live/sd-1-4494637.m3u8?txSecret=e130aad2e5f4503e169a7dc7f05c62e5&txTime=6A62ADD0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="巴西甲",巴西甲 | 科里蒂巴 vs 帕尔梅拉斯 | 1-3 | 直播9 | 直播9
+https://live.666666.zip/live/4465744.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="巴西甲",巴西甲 | 科里蒂巴 vs 帕尔梅拉斯 | 1-3 | 直播9 | 原声12
+https://pul-tenm.gkykp.com/live/sd-1-4465744.m3u8?txSecret=ace35cdbf71fa9440c3edf781c7ccb93&txTime=6A62ADD0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 戈亚斯 vs 累西腓体育 | 0-1 | 直播10 | 直播10
 https://live.666666.zip/live/4494635.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="美职业",美职业 | 费城联合 vs 纽约红牛 | 1-0 | 直播11 | 直播11
 https://live.666666.zip/live/4460346.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="美职业",美职业 | 费城联合 vs 纽约红牛 | 1-0 | 直播11 | 原声45
-https://pul-tenm.gkykp.com/live/sd-1-4460346.m3u8?txSecret=47b97e82b1ba3fdeb9629bf8b5c141a0&txTime=6A62AB00
+https://pul-tenm.gkykp.com/live/sd-1-4460346.m3u8?txSecret=caca4e32639a4dde86bfcb96b399d9f4&txTime=6A62ADD0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="美职业",美职业 | 新英格兰革命 vs 多伦多FC | 0-0 | 直播12 | 直播12
 https://live.666666.zip/live/4460345.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="美职业",美职业 | 新英格兰革命 vs 多伦多FC | 0-0 | 直播12 | 原声44
-https://pul-tenm.gkykp.com/live/sd-1-4460345.m3u8?txSecret=babbeca4775c4dbc823b43c21c808a62&txTime=6A62AB00
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="美职业",美职业 | 迈阿密国际 vs 芝加哥火焰 | 0-1 | 直播13 | 直播13
-https://live.666666.zip/live/4460343.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="美职业",美职业 | 迈阿密国际 vs 芝加哥火焰 | 0-1 | 直播13 | 原声41
-https://pul-tenm.gkykp.com/live/sd-1-4460343.m3u8?txSecret=ddf0de7a29ce9f8dcdfa1c58e3463307&txTime=6A62AB00
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="美职业",美职业 | 哥伦布机员 vs 纽约城 | 0-0 | 直播14 | 直播14
+https://pul-tenm.gkykp.com/live/sd-1-4460345.m3u8?txSecret=e455506709729b68e0a8652083857879&txTime=6A62ADD0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="美职业",美职业 | 哥伦布机员 vs 纽约城 | 0-1 | 直播14 | 直播14
 https://live.666666.zip/live/4460339.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="美职业",美职业 | 哥伦布机员 vs 纽约城 | 0-0 | 直播14 | 原声36
-https://pul-tenm.gkykp.com/live/sd-1-4460339.m3u8?txSecret=8349c1068fef4d3ee2e382d1c933a301&txTime=6A62AB00
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="美职业",美职业 | 辛辛那提FC vs 温哥华白浪 | 1-1 | 直播15 | 直播15
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="美职业",美职业 | 哥伦布机员 vs 纽约城 | 0-1 | 直播14 | 原声36
+https://pul-tenm.gkykp.com/live/sd-1-4460339.m3u8?txSecret=1495b9ac6a4f6f47ef00de0c45504c97&txTime=6A62ADD0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="美职业",美职业 | 辛辛那提FC vs 温哥华白浪 | 2-2 | 直播15 | 直播15
 https://live.666666.zip/live/4460336.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="美职业",美职业 | 辛辛那提FC vs 温哥华白浪 | 1-1 | 直播15 | 原声5
-https://pul-tenm.gkykp.com/live/sd-1-4460336.m3u8?txSecret=ca9e08b83b5998dab30ffc91c1e7a058&txTime=6A62AB00
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1026.jpg?v=1780171883879" group-title="WNBA",WNBA | 自由人 vs 天空 | 48-46 | 直播26 | 直播26
-https://live.666666.zip/live/3909181.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1026.jpg?v=1780171883879" group-title="WNBA",WNBA | 自由人 vs 天空 | 48-46 | 直播26 | 原声28
-https://pul-tenm.gkykp.com/live/hd-en-2-3909181.m3u8?txSecret=9b50ae22d91032d573f54b445922faf7&txTime=6A62AB00
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1027.jpg?v=1780171883879" group-title="WNBA",WNBA | 神秘人 vs 王牌 | 24-22 | 直播27 | 直播27
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="美职业",美职业 | 辛辛那提FC vs 温哥华白浪 | 2-2 | 直播15 | 原声5
+https://pul-tenm.gkykp.com/live/sd-1-4460336.m3u8?txSecret=cc5861c131eb5959d33322556464d622&txTime=6A62ADD0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="美职业",美职业 | 夏洛特FC vs 亚特兰大联 | 0-0 | 直播17 | 直播17
+https://live.666666.zip/live/4460349.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="美职业",美职业 | 夏洛特FC vs 亚特兰大联 | 0-0 | 直播17 | 原声55
+https://pul-tenm.gkykp.com/live/sd-1-4460349.m3u8?txSecret=9229496b0c99640cceace6857e29bed5&txTime=6A62ADD0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1027.jpg?v=1780171883879" group-title="WNBA",WNBA | 神秘人 vs 王牌 | 37-34 | 直播27 | 直播27
 https://live.666666.zip/live/3909082.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1027.jpg?v=1780171883879" group-title="WNBA",WNBA | 神秘人 vs 王牌 | 24-22 | 直播27 | 原声47
-https://pul-tenm.gkykp.com/live/hd-en-2-3909082.m3u8?txSecret=5458d68ce56c81119de97d8c8ba9b405&txTime=6A62AB00
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1027.jpg?v=1780171883879" group-title="WNBA",WNBA | 神秘人 vs 王牌 | 37-34 | 直播27 | 原声47
+https://pul-tenm.gkykp.com/live/hd-en-2-3909082.m3u8?txSecret=f3fec436da64902d4e6e4814b9cb8dd0&txTime=6A62ADD0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1031.jpg?v=1780171883879" group-title="美预备联",美预备联 | 卡罗莱娜 vs 迈阿密国际B队 | 2-0 | 直播31 | 直播31
 https://live.666666.zip/live/4589263.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1031.jpg?v=1780171883879" group-title="美预备联",美预备联 | 卡罗莱娜 vs 迈阿密国际B队 | 2-0 | 直播31 | 原声9
-https://pul-tenm.gkykp.com/live/sd-1-4589263.m3u8?txSecret=7e39a253872b21f58dfec5b093216a99&txTime=6A62AB00
+https://pul-tenm.gkykp.com/live/sd-1-4589263.m3u8?txSecret=bd491888067a92c1060fb0530e71d5bf&txTime=6A62ADD0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1032.jpg?v=1780171883879" group-title="多米联",多米联 | 蓝色沃特斯FC vs 米德尔汉联足球俱乐部 | 0-0 | 直播32 | 直播32
 https://live.666666.zip/live/4592450.m3u8
