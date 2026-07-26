@@ -1,67 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中超",中超 | 浙江队 vs 大连英博 | 3-2 | 直播1 | 直播1
-https://live.666666.zip/live/4498937.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中超",中超 | 浙江队 vs 大连英博 | 3-2 | 直播1 | 原声92
-https://pul-tenm.gkykp.com/live/hd-zh-1-4498937.m3u8?txSecret=c47e57dabe3a0d7a35d63b89663fb93a&txTime=6A6763E8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1049.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 特拉布宗 vs 法兰克福 | 0-1 | 直播49 | 直播49
-https://live.666666.zip/live/4595180.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="挪超",挪超 | 布兰 vs 瓦勒伦加 | 1-3 | 直播4 | 直播4
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="挪超",挪超 | 布兰 vs 瓦勒伦加 | 2-3 | 直播4 | 直播4
 https://live.666666.zip/live/4467621.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="挪超",挪超 | 布兰 vs 瓦勒伦加 | 1-3 | 直播4 | 原声77
-https://pul-tenm.gkykp.com/live/sd-1-4467621.m3u8?txSecret=782d911da9691d282cbd131afb1a6053&txTime=6A6763E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="挪超",挪超 | 布兰 vs 瓦勒伦加 | 2-3 | 直播4 | 原声77
+https://pul-tenm.gkykp.com/live/sd-1-4467621.m3u8?txSecret=e89984c47afe1e7ccfa6de6e405a247e&txTime=6A6767A9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="芬超",芬超 | 赫尔辛基 vs TPS图尔库 | 0-0 | 直播7 | 直播7
+https://live.666666.zip/live/4468158.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="芬超",芬超 | 赫尔辛基 vs TPS图尔库 | 0-0 | 直播7 | 原声83
+https://pul-tenm.gkykp.com/live/sd-1-4468158.m3u8?txSecret=d6563f04672f7969a2c616251b862a4e&txTime=6A6767A9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1034.jpg?v=1780171883879" group-title="俄超",俄超 | 莫火车头 vs 格罗兹尼 | 1-0 | 直播34 | 直播34
+https://live.666666.zip/live/4564086.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1034.jpg?v=1780171883879" group-title="俄超",俄超 | 莫火车头 vs 格罗兹尼 | 1-0 | 直播34 | 原声46
+https://pul-tenm.gkykp.com/live/sd-1-4564086.m3u8?txSecret=8b5bdd45931a9046b814390c32ecd5e4&txTime=6A6767A9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1036.jpg?v=1780171883879" group-title="哈萨超",哈萨超 | 凯拉特 vs 奥达巴斯 | 1-0 | 直播36 | 直播36
+https://live.666666.zip/live/4507285.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1036.jpg?v=1780171883879" group-title="哈萨超",哈萨超 | 凯拉特 vs 奥达巴斯 | 1-0 | 直播36 | 原声184
+https://pul-tenm.gkykp.com/live/sd-1-4507285.m3u8?txSecret=12c16d01b6800c615d3683bb751fc2c6&txTime=6A6767A9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1037.jpg?v=1780171883879" group-title="丹麦超",丹麦超 | 哥本哈根 vs 林比 | 0-0 | 直播37 | 直播37
+https://live.666666.zip/live/4553668.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1037.jpg?v=1780171883879" group-title="丹麦超",丹麦超 | 哥本哈根 vs 林比 | 0-0 | 直播37 | 原声185
+https://pul-tenm.gkykp.com/live/sd-1-4553668.m3u8?txSecret=1541337b56b59e76c2d1b04059c9b172&txTime=6A6767A9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1049.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 特拉布宗 vs 法兰克福 | 0-2 | 直播49 | 直播49
+https://live.666666.zip/live/4595180.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="俄甲",俄甲 | 乌法 vs SKA哈巴罗夫斯克 | 0-0 | 直播2 | 直播2
 https://live.666666.zip/live/4469374.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="捷甲",捷甲 | 布拉格斯拉维亚 vs 斯洛瓦茨科 | 4-1 | 直播5 | 直播5
 https://live.666666.zip/live/4568760.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="捷甲",捷甲 | 布拉格斯拉维亚 vs 斯洛瓦茨科 | 4-1 | 直播5 | 原声18
-https://pul-tenm.gkykp.com/live/sd-1-4568760.m3u8?txSecret=89ae4c6e174ec23f01d3bc2a72bfe10f&txTime=6A6763E8
+https://pul-tenm.gkykp.com/live/sd-1-4568760.m3u8?txSecret=df14b81d41d8d6f9b895e4a765296689&txTime=6A6767A9
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="哈萨超",哈萨超 | 叶利迈塞米 vs 卡伊萨尔 | 0-0 | 直播6 | 直播6
 https://live.666666.zip/live/4507289.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="哈萨超",哈萨超 | 叶利迈塞米 vs 卡伊萨尔 | 0-0 | 直播6 | 原声44
-https://pul-tenm.gkykp.com/live/sd-1-4507289.m3u8?txSecret=c0c1da24884d5715257d772b976ba5be&txTime=6A6763E8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="芬超",芬超 | 赫尔辛基 vs TPS图尔库 | 0-0 | 直播7 | 直播7
-https://live.666666.zip/live/4468158.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="芬超",芬超 | 赫尔辛基 vs TPS图尔库 | 0-0 | 直播7 | 原声83
-https://pul-tenm.gkykp.com/live/sd-1-4468158.m3u8?txSecret=a41e75f8f5f2a4d7fef19f549e8fb793&txTime=6A6763E8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="哈萨超",哈萨超 | 阿斯塔纳 vs 阿勒泰瑟美 | 0-0 | 直播8 | 直播8
+https://pul-tenm.gkykp.com/live/sd-1-4507289.m3u8?txSecret=33bc09f33b1d0af9afa4cf40d1ba8ed6&txTime=6A6767A9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="哈萨超",哈萨超 | 阿斯塔纳 vs 阿勒泰瑟美 | 1-1 | 直播8 | 直播8
 https://live.666666.zip/live/4507284.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="哈萨超",哈萨超 | 阿斯塔纳 vs 阿勒泰瑟美 | 0-0 | 直播8 | 原声31
-https://pul-tenm.gkykp.com/live/sd-1-4507284.m3u8?txSecret=fe9efcfc786ae475788e00aa172ee04f&txTime=6A6763E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="哈萨超",哈萨超 | 阿斯塔纳 vs 阿勒泰瑟美 | 1-1 | 直播8 | 原声31
+https://pul-tenm.gkykp.com/live/sd-1-4507284.m3u8?txSecret=ec4f6585f0c9db190de6ffdf5dc94352&txTime=6A6767A9
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1027.jpg?v=1780171883879" group-title="哈萨超",哈萨超 | 杜保尔 vs 阿特劳 | 1-0 | 直播27 | 直播27
 https://live.666666.zip/live/4507287.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1027.jpg?v=1780171883879" group-title="哈萨超",哈萨超 | 杜保尔 vs 阿特劳 | 1-0 | 直播27 | 原声110
-https://pul-tenm.gkykp.com/live/sd-1-4507287.m3u8?txSecret=772f9c3186b6f848c5df8a7512101466&txTime=6A6763E8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1029.jpg?v=1780171883879" group-title="丹麦超",丹麦超 | 桑德捷斯基 vs 中日德兰 | 2-3 | 直播29 | 直播29
-https://live.666666.zip/live/4553665.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1029.jpg?v=1780171883879" group-title="丹麦超",丹麦超 | 桑德捷斯基 vs 中日德兰 | 2-3 | 直播29 | 原声43
-https://pul-tenm.gkykp.com/live/sd-1-4553665.m3u8?txSecret=d1a23189a80b7eb462f51e01af97973f&txTime=6A6763E8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1031.jpg?v=1780171883879" group-title="波兰甲",波兰甲 | 琴斯托霍瓦 vs 华沙普洛克 | 0-2 | 直播31 | 直播31
+https://pul-tenm.gkykp.com/live/sd-1-4507287.m3u8?txSecret=f462a5819bab94a28dea497105bfd140&txTime=6A6767A9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1031.jpg?v=1780171883879" group-title="波兰甲",波兰甲 | 琴斯托霍瓦 vs 华沙普洛克 | 1-2 | 直播31 | 直播31
 https://live.666666.zip/live/4559251.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1031.jpg?v=1780171883879" group-title="波兰甲",波兰甲 | 琴斯托霍瓦 vs 华沙普洛克 | 0-2 | 直播31 | 原声80
-https://pul-tenm.gkykp.com/live/sd-1-4559251.m3u8?txSecret=5e5e1df969e1bab830a51105fef5910a&txTime=6A6763E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1031.jpg?v=1780171883879" group-title="波兰甲",波兰甲 | 琴斯托霍瓦 vs 华沙普洛克 | 1-2 | 直播31 | 原声80
+https://pul-tenm.gkykp.com/live/sd-1-4559251.m3u8?txSecret=2d7fb29bb0bb8764e41368be96709cbc&txTime=6A6767A9
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1032.jpg?v=1780171883879" group-title="俄甲",俄甲 | 列宁格勒人 vs 乌拉尔 | 0-0 | 直播32 | 直播32
 https://live.666666.zip/live/4576430.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1032.jpg?v=1780171883879" group-title="俄甲",俄甲 | 列宁格勒人 vs 乌拉尔 | 0-0 | 直播32 | 原声182
-https://pul-tenm.gkykp.com/live/sd-1-4576430.m3u8?txSecret=ed0efeb144f19164dc7df40fa05a2e83&txTime=6A6763E8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1034.jpg?v=1780171883879" group-title="俄超",俄超 | 莫火车头 vs 格罗兹尼 | 0-0 | 直播34 | 直播34
-https://live.666666.zip/live/4564086.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1034.jpg?v=1780171883879" group-title="俄超",俄超 | 莫火车头 vs 格罗兹尼 | 0-0 | 直播34 | 原声46
-https://pul-tenm.gkykp.com/live/sd-1-4564086.m3u8?txSecret=294ff77c64b786315151357e184c49c1&txTime=6A6763E8
+https://pul-tenm.gkykp.com/live/sd-1-4576430.m3u8?txSecret=3d149a00e9fb6ed0663f0bb0d6b4aff0&txTime=6A6767A9
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1035.jpg?v=1780171883879" group-title="俄甲",俄甲 | 莫斯科鱼雷 vs 雅罗斯拉夫尔辛尼克 | 0-0 | 直播35 | 直播35
 https://live.666666.zip/live/4576433.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1035.jpg?v=1780171883879" group-title="俄甲",俄甲 | 莫斯科鱼雷 vs 雅罗斯拉夫尔辛尼克 | 0-0 | 直播35 | 原声183
-https://pul-tenm.gkykp.com/live/sd-1-4576433.m3u8?txSecret=5b90caa8b9a2093ab89937330f177627&txTime=6A6763E8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1036.jpg?v=1780171883879" group-title="哈萨超",哈萨超 | 凯拉特 vs 奥达巴斯 | 0-0 | 直播36 | 直播36
-https://live.666666.zip/live/4507285.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1036.jpg?v=1780171883879" group-title="哈萨超",哈萨超 | 凯拉特 vs 奥达巴斯 | 0-0 | 直播36 | 原声184
-https://pul-tenm.gkykp.com/live/sd-1-4507285.m3u8?txSecret=3c01992311f60051198b31641b04eb29&txTime=6A6763E8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1037.jpg?v=1780171883879" group-title="丹麦超",丹麦超 | 哥本哈根 vs 林比 | 0-0 | 直播37 | 直播37
-https://live.666666.zip/live/4553668.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1037.jpg?v=1780171883879" group-title="丹麦超",丹麦超 | 哥本哈根 vs 林比 | 0-0 | 直播37 | 原声185
-https://pul-tenm.gkykp.com/live/sd-1-4553668.m3u8?txSecret=70fb4df883c4c8cbdc6f63515c731b13&txTime=6A6763E8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1048.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 兹沃勒 vs 雅典AEK | 0-1 | 直播48 | 直播48
+https://pul-tenm.gkykp.com/live/sd-1-4576433.m3u8?txSecret=6319bb4626070ff0dd55c94abdaed35d&txTime=6A6767A9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1048.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 兹沃勒 vs 雅典AEK | 1-1 | 直播48 | 直播48
 https://live.666666.zip/live/4595179.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1048.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 兹沃勒 vs 雅典AEK | 0-1 | 直播48 | 原声29
-https://pul-tenm.gkykp.com/live/sd-1-4595179.m3u8?txSecret=faf0e9df354663ac8bb8e40b51c73149&txTime=6A6763E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1048.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 兹沃勒 vs 雅典AEK | 1-1 | 直播48 | 原声29
+https://pul-tenm.gkykp.com/live/sd-1-4595179.m3u8?txSecret=5ce67544f45fcf5751c8937154cd5b0b&txTime=6A6767A9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1050.jpg?v=1780171883879" group-title="苏联杯",苏联杯 | 圣米伦 vs 邓弗姆林 | 0-0 | 直播50 | 直播50
+https://live.666666.zip/live/4550553.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1050.jpg?v=1780171883879" group-title="苏联杯",苏联杯 | 圣米伦 vs 邓弗姆林 | 0-0 | 直播50 | 原声10
+https://pul-tenm.gkykp.com/live/sd-1-4550553.m3u8?txSecret=f66e4963adb85e1f53ac088bfd083ec1&txTime=6A6767A9
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1377.jpg?v=1780171883879" group-title="瑞典甲",瑞典甲 | 卢恩斯基尔 vs 桑德维根斯 | 2-0 | 原声177 | 原声177
-https://pul-tenm.gkykp.com/live/sd-1-4469374.m3u8?txSecret=c364e93ff7bbb29498abdad5ef82b1d0&txTime=6A6763E8
+https://pul-tenm.gkykp.com/live/sd-1-4469374.m3u8?txSecret=cf88443b978ae8e10472ce6b16a61843&txTime=6A6767A9
