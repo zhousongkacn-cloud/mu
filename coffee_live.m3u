@@ -1,17 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="澳威超",澳威超 | 洛克达尔 vs 萨瑟兰鲨鱼 | 1-1 | 直播2 | 直播2
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="澳威超",澳威超 | 洛克达尔 vs 萨瑟兰鲨鱼 | 1-2 | 直播2 | 直播2
 https://live.666666.zip/live/4473427.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="澳威超",澳威超 | 洛克达尔 vs 萨瑟兰鲨鱼 | 1-1 | 直播2 | 原声142
-https://pul-tenm.gkykp.com/live/sd-1-4473427.m3u8?txSecret=12557e1e720d9b6044a98e0c60ecdda2&txTime=6A66F728
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="澳威超",澳威超 | 洛克达尔 vs 萨瑟兰鲨鱼 | 1-2 | 直播2 | 原声142
+https://pul-tenm.gkykp.com/live/sd-1-4473427.m3u8?txSecret=e8ca634d6e170703f38b01222c9f3df2&txTime=6A66FA70
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="中女锦",中女锦 | 黑龙江上东女篮 vs 陕西榆林天泽女篮 | 0-0 | 直播9 | 直播9
+https://live.666666.zip/live/3924174.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="中女锦",中女锦 | 黑龙江上东女篮 vs 陕西榆林天泽女篮 | 0-0 | 直播9 | 原声151
+https://pul-tenm.gkykp.com/live/sd-2-3924174.m3u8?txSecret=cb2dba2a3263a7c60589d336cab8f751&txTime=6A66FA70
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="澳威超",澳威超 | 卧龙海岸狼队 vs 黑镇市足球俱乐部 | 0-2 | 直播12 | 直播12
 https://live.666666.zip/live/4473463.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="澳威超",澳威超 | 卧龙海岸狼队 vs 黑镇市足球俱乐部 | 0-2 | 直播12 | 原声149
-https://pul-tenm.gkykp.com/live/sd-1-4473463.m3u8?txSecret=c1e62570ee4ea109ccd199d12aaf552e&txTime=6A66F6B0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 坎特伯雷公羊 vs 富兰克林公牛 | 0-0 | 直播13 | 直播13
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 坎特伯雷公羊 vs 富兰克林公牛 | 22-19 | 直播13 | 直播13
 https://live.666666.zip/live/3923838.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 坎特伯雷公羊 vs 富兰克林公牛 | 0-0 | 直播13 | 原声150
-https://pul-tenm.gkykp.com/live/sd-2-3923838.m3u8?txSecret=4308923f05123bc226e171606f4a928f&txTime=6A66F728
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="澳威北超",澳威北超 | 卡赫巴赫 vs 贝尔蒙特斯旺西SC | 2-1 | 直播14 | 直播14
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 坎特伯雷公羊 vs 富兰克林公牛 | 22-19 | 直播13 | 原声150
+https://pul-tenm.gkykp.com/live/sd-2-3923838.m3u8?txSecret=df28402d111e2600df53d4f14992b82d&txTime=6A66FA70
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="澳威北超",澳威北超 | 卡赫巴赫 vs 贝尔蒙特斯旺西SC | 3-1 | 直播14 | 直播14
 https://live.666666.zip/live/4498437.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="澳威北超",澳威北超 | 卡赫巴赫 vs 贝尔蒙特斯旺西SC | 2-1 | 直播14 | 原声4
-https://pul-tenm.gkykp.com/live/sd-1-4498437.m3u8?txSecret=f1d1e15f0feb218875e0bf1741309ab1&txTime=6A66F728
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="澳威北超",澳威北超 | 卡赫巴赫 vs 贝尔蒙特斯旺西SC | 3-1 | 直播14 | 原声4
+https://pul-tenm.gkykp.com/live/sd-1-4498437.m3u8?txSecret=7dc5cef116425de586eb37cc4e2f35a0&txTime=6A66FA70
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="澳首超",澳首超 | 堪培拉祖云达斯 vs 莫纳洛黑豹 | 0-0 | 直播17 | 直播17
+https://live.666666.zip/live/4498549.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="澳首超",澳首超 | 堪培拉祖云达斯 vs 莫纳洛黑豹 | 0-0 | 直播17 | 原声22
+https://pul-tenm.gkykp.com/live/sd-1-4498549.m3u8?txSecret=770380a0f342e9be4e54fc10ca70146f&txTime=6A66FA70
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1020.jpg?v=1780171883879" group-title="澳达超",澳达超 | 帕默斯顿流浪 vs 加鲁达FC | 0-0 | 直播20 | 直播20
+https://live.666666.zip/live/4595838.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1020.jpg?v=1780171883879" group-title="澳达超",澳达超 | 帕默斯顿流浪 vs 加鲁达FC | 0-0 | 直播20 | 原声25
+https://pul-tenm.gkykp.com/live/sd-1-4595838.m3u8?txSecret=a3a08135fd8596eec58f15ff07f7e53f&txTime=6A66FA70
