@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="墨联",墨联 | 太空人 vs 走鹃 | 8-9 | 直播9 | 直播9
-https://live.666666.zip/live/3925241.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="美青杯",美青杯 | 哥斯达黎加U20 vs 墨西哥U20 | 0-0 | 直播10 | 直播10
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="美青杯",美青杯 | 哥斯达黎加U20 vs 墨西哥U20 | 0-1 | 直播10 | 直播10
 https://live.666666.zip/live/4589448.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="美青杯",美青杯 | 哥斯达黎加U20 vs 墨西哥U20 | 0-0 | 直播10 | 原声20
-https://pul-tenm.gkykp.com/live/sd-1-4589448.m3u8?txSecret=df217f51799534c9a5f13173a7d4597f&txTime=6A6965A8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中女锦",中女锦 | 陕西榆林天泽女篮 vs 武汉盛帆黄鹤女篮 | 27-29 | 直播1 | 直播1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="美青杯",美青杯 | 哥斯达黎加U20 vs 墨西哥U20 | 0-1 | 直播10 | 原声20
+https://pul-tenm.gkykp.com/live/sd-1-4589448.m3u8?txSecret=ef0bc56d779de9e9db1d97bb69887517&txTime=6A6968F0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中女锦",中女锦 | 陕西榆林天泽女篮 vs 武汉盛帆黄鹤女篮 | 41-34 | 直播1 | 直播1
 https://live.666666.zip/live/3924177.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中女锦",中女锦 | 陕西榆林天泽女篮 vs 武汉盛帆黄鹤女篮 | 27-29 | 直播1 | 原声1
-https://pul-tenm.gkykp.com/live/sd-2-3924177.m3u8?txSecret=3ec303d24e5f23ca9a9b33edbc470472&txTime=6A6965A8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中女锦",中女锦 | 陕西榆林天泽女篮 vs 武汉盛帆黄鹤女篮 | 41-34 | 直播1 | 原声1
+https://pul-tenm.gkykp.com/live/sd-2-3924177.m3u8?txSecret=876fab8bc3c4c63dbf4bc158453024af&txTime=6A6968F0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="墨联",墨联 | 太空人 vs 走鹃 | 22-19 | 直播9 | 直播9
+https://live.666666.zip/live/3925241.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="墨联",墨联 | 太空人 vs 走鹃 | 22-19 | 直播9 | 原声24
+https://pul-tenm.gkykp.com/live/sd-2-3925241.m3u8?txSecret=45d4c2188d4e784ba9c9e6fa6aba70e0&txTime=6A6968F0
