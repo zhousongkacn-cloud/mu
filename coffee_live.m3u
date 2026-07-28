@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="美青杯",美青杯 | 海地U20 vs 古巴U20 | 0-0 | 直播3 | 直播3
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="美青杯",美青杯 | 海地U20 vs 古巴U20 | 1-0 | 直播3 | 直播3
 https://live.666666.zip/live/4589443.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="美青杯",美青杯 | 海地U20 vs 古巴U20 | 0-0 | 直播3 | 原声94
-https://pul-tenm.gkykp.com/live/sd-1-4589443.m3u8?txSecret=131e5fcfa668a0f123fe812e6aa5e498&txTime=6A6A6CA0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1029.jpg?v=1780171883879" group-title="冰岛甲",冰岛甲 | 艾格尔 vs 嘉德维克 | 0-1 | 直播29 | 直播29
-https://live.666666.zip/live/4486415.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1029.jpg?v=1780171883879" group-title="冰岛甲",冰岛甲 | 艾格尔 vs 嘉德维克 | 0-1 | 直播29 | 原声84
-https://pul-tenm.gkykp.com/live/sd-1-4486415.m3u8?txSecret=d5e171cee83276f2a189faf899b1c987&txTime=6A6A6CA0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="美青杯",美青杯 | 海地U20 vs 古巴U20 | 1-0 | 直播3 | 原声94
+https://pul-tenm.gkykp.com/live/sd-1-4589443.m3u8?txSecret=ee8bd8e4d4b4411b3ab7dc37b83a2bdb&txTime=6A6A6D18
