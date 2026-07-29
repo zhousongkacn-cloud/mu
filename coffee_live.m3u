@@ -1,9 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 南部鲨鱼 vs 怀伊 | 94-79 | 直播5 | 直播5
-https://live.666666.zip/live/3925671.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="新西兰联",新西兰联 | 南部鲨鱼 vs 怀伊 | 94-79 | 直播5 | 原声5
-https://pul-tenm.gkykp.com/live/sd-2-3925671.m3u8?txSecret=3b37ff19677db81ad208e397805f6a69&txTime=6A6B0E58
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="澳首U23",澳首U23 | 布林达贝拉蓝U23 vs 昆比亚城市U23 | 0-0 | 直播6 | 直播6
 https://live.666666.zip/live/4601193.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="澳首U23",澳首U23 | 布林达贝拉蓝U23 vs 昆比亚城市U23 | 0-0 | 直播6 | 原声103
-https://pul-tenm.gkykp.com/live/sd-1-4601193.m3u8?txSecret=5389f7118923dd86d64d68f33c608190&txTime=6A6B0ED0
+https://pul-tenm.gkykp.com/live/sd-1-4601193.m3u8?txSecret=d35501788f7f41b13e530216c088d283&txTime=6A6B1218
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="中女锦",中女锦 | 陕西榆林天泽女篮 vs 赣州赣星女篮 | 0-0 | 直播8 | 直播8
+https://live.666666.zip/live/3924183.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="中女锦",中女锦 | 陕西榆林天泽女篮 vs 赣州赣星女篮 | 0-0 | 直播8 | 原声20
+https://pul-tenm.gkykp.com/live/sd-2-3924183.m3u8?txSecret=f9efb2551f776a17d8ba97847c734d43&txTime=6A6B1218
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 塞尔塔 vs 维塞乌 | 0-0 | 直播13 | 直播13
+https://live.666666.zip/live/4596072.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1780171883879" group-title="越女联",越女联 | 胡志明市女足 vs 河内B队女足 | 0-0 | 直播25 | 直播25
+https://live.666666.zip/live/4552809.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1026.jpg?v=1780171883879" group-title="越女联",越女联 | 胡志明市B队女足 vs 河内女足 | 0-0 | 直播26 | 直播26
+https://live.666666.zip/live/4552808.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1026.jpg?v=1780171883879" group-title="越女联",越女联 | 胡志明市B队女足 vs 河内女足 | 0-0 | 直播26 | 原声87
+https://pul-tenm.gkykp.com/live/sd-1-4552808.m3u8?txSecret=73e7c9ba5e799e7b7cab4f916ac3cbd1&txTime=6A6B1218
