@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="厄乙",厄乙 | 竞技足球会 vs 波图维耶霍 | 0-0 | 直播9 | 直播9
-https://live.666666.zip/live/4513605.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1039.jpg?v=1780171883879" group-title="欧足联",欧足联 | 根特 vs LNZ切尔卡瑟 | 0-0 | 直播39 | 直播39
 https://live.666666.zip/live/4556599.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1039.jpg?v=1780171883879" group-title="欧足联",欧足联 | 根特 vs LNZ切尔卡瑟 | 0-0 | 直播39 | 原声116
-https://pul-tenm.gkykp.com/live/sd-1-4556599.m3u8?txSecret=e715093166b08b17ae74baedf4ba6b28&txTime=6A6D0CD0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="哥伦杯",哥伦杯 | 恩维加多 vs 云斯卡尔达斯 | 0-1 | 直播8 | 直播8
-https://live.666666.zip/live/4544625.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="哥伦杯",哥伦杯 | 恩维加多 vs 云斯卡尔达斯 | 0-1 | 直播8 | 原声3
-https://pul-tenm.gkykp.com/live/sd-1-4544625.m3u8?txSecret=39236f53d0a4334aafccb40f16210030&txTime=6A6D0CD0
+https://pul-tenm.gkykp.com/live/sd-1-4556599.m3u8?txSecret=00b7c07ecd0cb1e2d96527a04c30152f&txTime=6A6D1019
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1045.jpg?v=1780171883879" group-title="欧足联",欧足联 | 科佩尔 vs NSI鲁纳维克 | 0-2 | 直播45 | 直播45
 https://live.666666.zip/live/4590938.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1045.jpg?v=1780171883879" group-title="欧足联",欧足联 | 科佩尔 vs NSI鲁纳维克 | 0-2 | 直播45 | 原声63
-https://pul-tenm.gkykp.com/live/sd-1-4590938.m3u8?txSecret=5514852ac1902ab432e18cbb77039f54&txTime=6A6D0CD0
+https://pul-tenm.gkykp.com/live/sd-1-4590938.m3u8?txSecret=035fa1c8985c13554f6d1557b78ec562&txTime=6A6D1019
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="哥伦杯",哥伦杯 | 恩维加多 vs 云斯卡尔达斯 | 0-2 | 直播8 | 直播8
+https://live.666666.zip/live/4544625.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="哥伦杯",哥伦杯 | 恩维加多 vs 云斯卡尔达斯 | 0-2 | 直播8 | 原声3
+https://pul-tenm.gkykp.com/live/sd-1-4544625.m3u8?txSecret=6c010523d1f0318d7e861130ff5184d2&txTime=6A6D1019
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="厄乙",厄乙 | 竞技足球会 vs 波图维耶霍 | 1-0 | 直播9 | 直播9
+https://live.666666.zip/live/4513605.m3u8
