@@ -1,9 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1243.jpg?v=1780171883879" group-title="东南锦",东南锦 | 印尼 vs 越南 | 0-2 | 原声43 | 原声43
-https://pul-tenm.gkykp.com/live/sd-1-4546500.m3u8?txSecret=a5926e7575762c098b6fc277930a083b&txTime=6A71F3A8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1226.jpg?v=1780171883879" group-title="乌克超",乌克超 | 切尔诺夫策 vs LNZ切尔卡瑟 | 0-0 | 原声26 | 原声26
-https://pul-tenm.gkykp.com/live/sd-1-4569623.m3u8?txSecret=6b33f41e5cc0369811b855ae04d0a9ef&txTime=6A71F3A8
+https://pul-tenm.gkykp.com/live/sd-1-4546500.m3u8?txSecret=604938e5418304db1641724771392e50&txTime=6A71F769
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1203.jpg?v=1780171883879" group-title="俄甲",俄甲 | 乌法 vs 卡玛斯 | 0-0 | 原声3 | 原声3
-https://pul-tenm.gkykp.com/live/sd-1-4576443.m3u8?txSecret=ed3aede5b7d1963419e9c752062d586e&txTime=6A71F3A8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1220.jpg?v=1780171883879" group-title="冰岛甲",冰岛甲 | 维斯特里 vs 格洛塔 | 0-1 | 原声20 | 原声20
-https://pul-tenm.gkykp.com/live/sd-1-4486420.m3u8?txSecret=691a46c2ace4b00092cef8bbf298075e&txTime=6A71F3A8
+https://pul-tenm.gkykp.com/live/sd-1-4576443.m3u8?txSecret=5e25bb0ae09872c818908b91be13637b&txTime=6A71F769
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1220.jpg?v=1780171883879" group-title="冰岛甲",冰岛甲 | 维斯特里 vs 格洛塔 | 0-2 | 原声20 | 原声20
+https://pul-tenm.gkykp.com/live/sd-1-4486420.m3u8?txSecret=4e2cb3cc0cbdebdd7b0dd0298f923610&txTime=6A71F769
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1225.jpg?v=1780171883879" group-title="乌兹超",乌兹超 | 库鲁维奇科坎 vs 特尔梅兹 | 0-0 | 原声25 | 原声25
+https://pul-tenm.gkykp.com/live/sd-1-4488095.m3u8?txSecret=019cfc871abadb85b1502350fb398aff&txTime=6A71F769
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1226.jpg?v=1780171883879" group-title="乌克超",乌克超 | 切尔诺夫策 vs LNZ切尔卡瑟 | 0-0 | 原声26 | 原声26
+https://pul-tenm.gkykp.com/live/sd-1-4569623.m3u8?txSecret=dd20e29bcd32ae9c18229e516872a600&txTime=6A71F769
