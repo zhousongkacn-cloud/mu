@@ -1,11 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1231.jpg?v=1780171883879" group-title="东南锦",东南锦 | 柬埔寨 vs 东帝汶 | 1-0 | 原声31 | 原声31
-https://pul-tenm.gkykp.com/live/sd-1-4555136.m3u8?txSecret=1401137d5019d8f0dc8bb0cfcfe8dc00&txTime=6A71C630
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1265.jpg?v=1780171883879" group-title="澳维甲",澳维甲 | 墨尔本胜利青年队 vs 墨尔本塞尔维 | 1-0 | 原声65 | 原声65
-https://pul-tenm.gkykp.com/live/sd-1-4470358.m3u8?txSecret=50bc7cf75d67c11d0893fc51ca0f24d2&txTime=6A71C630
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1227.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 清州KB之星女篮 vs 越南女篮 | 51-31 | 原声27 | 原声27
-https://pul-tenm.gkykp.com/live/sd-2-3926176.m3u8?txSecret=895c8aba98cc3b3b4081e277024018bf&txTime=6A71C630
+https://pul-tenm.gkykp.com/live/sd-1-4555136.m3u8?txSecret=0f406d62c07d810db1efd40fc79c889e&txTime=6A71C978
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1227.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 清州KB之星女篮 vs 越南女篮 | 73-37 | 原声27 | 原声27
+https://pul-tenm.gkykp.com/live/sd-2-3926176.m3u8?txSecret=ef5399e65180a74ac8d23d818208796b&txTime=6A71C978
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1229.jpg?v=1780171883879" group-title="越女联",越女联 | 越南煤矿女足 vs 河南丰富女足 | 0-0 | 原声29 | 原声29
-https://pul-tenm.gkykp.com/live/sd-1-4552813.m3u8?txSecret=09a64dd3a3907c99a67a5299d2c5a3f6&txTime=6A71C630
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1259.jpg?v=1780171883879" group-title="越女联",越女联 | 胡志明市B队女足 vs 河内B队女足 | 2-2 | 原声59 | 原声59
-https://pul-tenm.gkykp.com/live/sd-1-4552812.m3u8?txSecret=7a445d41a37f2a30454e0ecb17f8c8d6&txTime=6A71C630
+https://pul-tenm.gkykp.com/live/sd-1-4552813.m3u8?txSecret=fa892eda216d6ea5790e8ca71fc51b62&txTime=6A71C978
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1265.jpg?v=1780171883879" group-title="澳维甲",澳维甲 | 墨尔本胜利青年队 vs 墨尔本塞尔维 | 1-0 | 原声65 | 原声65
+https://pul-tenm.gkykp.com/live/sd-1-4470358.m3u8?txSecret=768be4a5610cada504541d19e0b8804c&txTime=6A71C978
