@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1223.jpg?v=1780171883879" group-title="越女联",越女联 | 胡志明市女足 vs 河内女足 | 1-0 | 原声23 | 原声23
-https://pul-tenm.gkykp.com/live/sd-1-4552811.m3u8?txSecret=7eb456b2cd06dd5f0d71c0aa854fd28d&txTime=6A71BB68
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1227.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 清州KB之星女篮 vs 越南女篮 | 15-9 | 原声27 | 原声27
-https://pul-tenm.gkykp.com/live/sd-2-3926176.m3u8?txSecret=7c6523ad03687d829f78e657d96dc976&txTime=6A71BB68
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1223.jpg?v=1780171883879" group-title="越女联",越女联 | 胡志明市女足 vs 河内女足 | 2-0 | 原声23 | 原声23
+https://pul-tenm.gkykp.com/live/sd-1-4552811.m3u8?txSecret=1c49f8be24f9e412ecaaa3a95f0cc8c0&txTime=6A71BEB0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1227.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 清州KB之星女篮 vs 越南女篮 | 27-21 | 原声27 | 原声27
+https://pul-tenm.gkykp.com/live/sd-2-3926176.m3u8?txSecret=b4c5198fbea1f460897aeee906fad2d3&txTime=6A71BEB0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1229.jpg?v=1780171883879" group-title="越女联",越女联 | 越南煤矿女足 vs 河南丰富女足 | 0-0 | 原声29 | 原声29
-https://pul-tenm.gkykp.com/live/sd-1-4552813.m3u8?txSecret=7cec960be46e720add9b2a7db33515c9&txTime=6A71BB68
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1259.jpg?v=1780171883879" group-title="越女联",越女联 | 胡志明市B队女足 vs 河内B队女足 | 0-2 | 原声59 | 原声59
-https://pul-tenm.gkykp.com/live/sd-1-4552812.m3u8?txSecret=b92d9f14280e263f7df6b1fa969f20c1&txTime=6A71BB68
+https://pul-tenm.gkykp.com/live/sd-1-4552813.m3u8?txSecret=37087cca94f70f9694bf0f9d71f20d7d&txTime=6A71BEB0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1231.jpg?v=1780171883879" group-title="东南锦",东南锦 | 柬埔寨 vs 东帝汶 | 0-0 | 原声31 | 原声31
+https://pul-tenm.gkykp.com/live/sd-1-4555136.m3u8?txSecret=ec4a80e6c463f71b29d8097dd2611403&txTime=6A71BEB0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1259.jpg?v=1780171883879" group-title="越女联",越女联 | 胡志明市B队女足 vs 河内B队女足 | 1-2 | 原声59 | 原声59
+https://pul-tenm.gkykp.com/live/sd-1-4552812.m3u8?txSecret=2023560e421fe8df4d40a6b00c99aa9c&txTime=6A71BEB0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1265.jpg?v=1780171883879" group-title="澳维甲",澳维甲 | 墨尔本胜利青年队 vs 墨尔本塞尔维 | 0-0 | 原声65 | 原声65
+https://pul-tenm.gkykp.com/live/sd-1-4470358.m3u8?txSecret=e1a8ab50f086d5a33f765b046747e2b1&txTime=6A71BEB0
