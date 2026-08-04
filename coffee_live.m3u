@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="哥伦甲",哥伦甲 | 拉尼洛斯 vs 福塔雷绍查 | 1-1 | 直播4 | 直播4
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="哥伦甲",哥伦甲 | 拉尼洛斯 vs 福塔雷绍查 | 2-1 | 直播4 | 直播4
 https://live.666666.zip/live/4569221.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="哥伦甲",哥伦甲 | 拉尼洛斯 vs 福塔雷绍查 | 1-1 | 直播4 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4569221.m3u8?txSecret=f4ba20af37b7256781f9ad049a96d2a2&txTime=6A73AB58
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="哥伦甲",哥伦甲 | 拉尼洛斯 vs 福塔雷绍查 | 2-1 | 直播4 | 原声1
+https://pul-tenm.gkykp.com/live/sd-1-4569221.m3u8?txSecret=d0490c7d8c2446f4de5af26052c3460e&txTime=6A73AEA0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1235.jpg?v=1780171883879" group-title="美青杯",美青杯 | 哥斯达黎加U20 vs 海地U20 | 1-1 | 原声35 | 原声35
-https://pul-tenm.gkykp.com/live/sd-1-4608802.m3u8?txSecret=a4d9a3ac331cfee285cc3684d4e94d91&txTime=6A73AB58
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1239.jpg?v=1780171883879" group-title="委内超",委内超 | 卡拉波波 vs 图积兰奴斯 | 1-1 | 原声39 | 原声39
-https://pul-tenm.gkykp.com/live/sd-1-4609003.m3u8?txSecret=7e69cfa086e0f77b58055c24051d8069&txTime=6A73AB58
+https://pul-tenm.gkykp.com/live/sd-1-4608802.m3u8?txSecret=58512beeb9ff1cb75becdbd8c8eaa46d&txTime=6A73AEA0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1239.jpg?v=1780171883879" group-title="委内超",委内超 | 卡拉波波 vs 图积兰奴斯 | 1-0 | 原声39 | 原声39
+https://pul-tenm.gkykp.com/live/sd-1-4609003.m3u8?txSecret=aefda9be18220faa013d4c28b58a313f&txTime=6A73AEA0
