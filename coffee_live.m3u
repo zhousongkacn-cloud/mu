@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1215.jpg?v=1780171883879" group-title="WNBA",WNBA | 自由人 vs 风暴 | 70-65 | 原声15 | 原声15
-https://pul-tenm.gkykp.com/live/hd-en-2-3909245.m3u8?txSecret=5a505b371384ce9081733abb8c789345&txTime=6A728390
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1215.jpg?v=1780171883879" group-title="WNBA",WNBA | 自由人 vs 风暴 | 85-68 | 原声15 | 原声15
+https://pul-tenm.gkykp.com/live/hd-en-2-3909245.m3u8?txSecret=d15fedabdb209b7e27021904a10aba75&txTime=6A728750
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1232.jpg?v=1780171883879" group-title="WNBA",WNBA | 梦想 vs 王牌 | 56-79 | 原声32 | 原声32
+https://pul-tenm.gkykp.com/live/hd-en-2-3908975.m3u8?txSecret=f8408639b772975077b973a18485b443&txTime=6A728750
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1247.jpg?v=1780171883879" group-title="阿甲",阿甲 | 飓风队 vs 图库曼竞技 | 0-0 | 原声47 | 原声47
-https://pul-tenm.gkykp.com/live/sd-1-4539663.m3u8?txSecret=24fb7d35d61f00e0a674bab60c3a3679&txTime=6A728390
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1232.jpg?v=1780171883879" group-title="WNBA",WNBA | 梦想 vs 王牌 | 40-57 | 原声32 | 原声32
-https://pul-tenm.gkykp.com/live/hd-en-2-3908975.m3u8?txSecret=ee56957c86c74d404348eb5b9eae9ca3&txTime=6A728390
+https://pul-tenm.gkykp.com/live/sd-1-4539663.m3u8?txSecret=8176c62a8cb37a66557789e159a0dec4&txTime=6A728750
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1236.jpg?v=1780171883879" group-title="巴西杯",巴西杯 | 巴拉纳竞技 vs 维多利亚 | 1-0 | 原声36 | 原声36
-https://pul-tenm.gkykp.com/live/sd-1-4546327.m3u8?txSecret=7b2472e81c5680294f1be542dc81668c&txTime=6A728390
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1210.jpg?v=1780171883879" group-title="女南美锦标",女南美锦标 | 哥伦比亚女篮 vs 阿根廷女篮 | 18-19 | 原声10 | 原声10
-https://pul-tenm.gkykp.com/live/sd-2-3926853.m3u8?txSecret=29de6761c89e44a7cb8a7e98b15807e1&txTime=6A728390
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1217.jpg?v=1780171883879" group-title="委内超",委内超 | 加拉加斯 vs 梅里达大学生 | 2-2 | 原声17 | 原声17
-https://pul-tenm.gkykp.com/live/sd-1-4602647.m3u8?txSecret=5e76812ac8918ae48a2bb2119da83b6f&txTime=6A728390
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1222.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 基多大学体育 vs 德芬 | 0-0 | 原声22 | 原声22
-https://pul-tenm.gkykp.com/live/sd-1-4492568.m3u8?txSecret=2b812ac1b3adaf14b18e80bcae8ba0eb&txTime=6A728390
+https://pul-tenm.gkykp.com/live/sd-1-4546327.m3u8?txSecret=492d7308dc10a5ca2c56a2373db8dc7d&txTime=6A728750
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1238.jpg?v=1780171883879" group-title="阿甲",阿甲 | 科尔多瓦中央 vs 圣洛伦索 | 0-0 | 原声38 | 原声38
-https://pul-tenm.gkykp.com/live/sd-1-4539658.m3u8?txSecret=eb55b4dabee1c40a47a0be553bef1854&txTime=6A728390
+https://pul-tenm.gkykp.com/live/sd-1-4539658.m3u8?txSecret=627ba100416fffecf29e00686cb06490&txTime=6A728750
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1210.jpg?v=1780171883879" group-title="女南美锦标",女南美锦标 | 哥伦比亚女篮 vs 阿根廷女篮 | 22-22 | 原声10 | 原声10
+https://pul-tenm.gkykp.com/live/sd-2-3926853.m3u8?txSecret=816b4524e77249724c9eb8d8083e1ed9&txTime=6A728750
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1222.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 基多大学体育 vs 德芬 | 0-0 | 原声22 | 原声22
+https://pul-tenm.gkykp.com/live/sd-1-4492568.m3u8?txSecret=746a920ea19aea8b13f1df0341a4ba8b&txTime=6A728750
