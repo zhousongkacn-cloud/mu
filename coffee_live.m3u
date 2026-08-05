@@ -1,21 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="澳首U23",澳首U23 | 昆比亚城市U23 vs 塔格拉诺联U23 | 0-1 | 直播2 | 直播2
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="澳首U23",澳首U23 | 昆比亚城市U23 vs 塔格拉诺联U23 | 0-2 | 直播2 | 直播2
 https://live.666666.zip/live/4609007.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="澳首U23",澳首U23 | 昆比亚城市U23 vs 塔格拉诺联U23 | 0-1 | 直播2 | 原声72
-https://pul-tenm.gkykp.com/live/sd-1-4609007.m3u8?txSecret=0b14e199394ce935b9c046ecdbb31730&txTime=6A744950
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="澳首U23",澳首U23 | 昆比亚城市U23 vs 塔格拉诺联U23 | 0-2 | 直播2 | 原声72
+https://pul-tenm.gkykp.com/live/sd-1-4609007.m3u8?txSecret=2a8cd87fdce22439bceaf8eede1bfb27&txTime=6A744C98
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="中乙",中乙 | 上海海港B队 vs 山西崇德荣海 | 0-1 | 直播9 | 直播9
 https://live.666666.zip/live/4512916.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="中乙",中乙 | 上海海港B队 vs 山西崇德荣海 | 0-1 | 直播9 | 原声38
-https://pul-tenm.gkykp.com/live/sd-1-4512916.m3u8?txSecret=4a65269233ca44382e99270bd08e29ab&txTime=6A744950
+https://pul-tenm.gkykp.com/live/sd-1-4512916.m3u8?txSecret=5e9b83d78a007011150f4c0951c083e9&txTime=6A744C98
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 比利亚雷亚尔 vs 莱万特 | 0-0 | 直播14 | 直播14
 https://live.666666.zip/live/4603118.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 比利亚雷亚尔 vs 莱万特 | 0-0 | 直播14 | 原声4
-https://pul-tenm.gkykp.com/live/sd-1-4603118.m3u8?txSecret=45726838001e9a8a97751049a1378776&txTime=6A744950
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 广东东阳光U19 vs 天津先行者U19 | 51-34 | 直播18 | 直播18
+https://pul-tenm.gkykp.com/live/sd-1-4603118.m3u8?txSecret=fa1704976aa036144fffa67f2bc04ac3&txTime=6A744C98
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 广东东阳光U19 vs 天津先行者U19 | 55-38 | 直播18 | 直播18
 https://live.666666.zip/live/3926936.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 广东东阳光U19 vs 天津先行者U19 | 51-34 | 直播18 | 原声2
-https://pul-tenm.gkykp.com/live/sd-2-3926936.m3u8?txSecret=c7e9e41e235d25c3136b691b27d14634&txTime=6A744950
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1234.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 新疆广汇U19 vs 上海久事U19 | 28-47 | 原声34 | 原声34
-https://pul-tenm.gkykp.com/live/sd-2-3926935.m3u8?txSecret=3d36d9621a854c9c651082f5eab758bd&txTime=6A744950
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1281.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 江苏肯帝亚U19 vs 合肥狂风U19 | 58-41 | 原声81 | 原声81
-https://pul-tenm.gkykp.com/live/sd-2-3926933.m3u8?txSecret=4aa39733f1105e17c02b8310cfddcc8f&txTime=6A744950
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 广东东阳光U19 vs 天津先行者U19 | 55-38 | 直播18 | 原声2
+https://pul-tenm.gkykp.com/live/sd-2-3926936.m3u8?txSecret=026a4c09e3a972855ccd434f83cae69e&txTime=6A744C98
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1207.jpg?v=1780171883879" group-title="中乙",中乙 | 长春喜都 vs 大连英博B队 | 0-0 | 原声7 | 原声7
+https://pul-tenm.gkykp.com/live/sd-1-4512932.m3u8?txSecret=75735f654e4679a01ded5b0bde5ef61a&txTime=6A744C98
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1234.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 新疆广汇U19 vs 上海久事U19 | 29-49 | 原声34 | 原声34
+https://pul-tenm.gkykp.com/live/sd-2-3926935.m3u8?txSecret=401e9d06423e0f1b71dc743abeec021e&txTime=6A744C98
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1281.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 江苏肯帝亚U19 vs 合肥狂风U19 | 73-53 | 原声81 | 原声81
+https://pul-tenm.gkykp.com/live/sd-2-3926933.m3u8?txSecret=e9fdf5b8cae31596bda8c944ec73c078&txTime=6A744C98
