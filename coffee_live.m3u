@@ -1,5 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="澳首U23",澳首U23 | 昆比亚城市U23 vs 塔格拉诺联U23 | 0-0 | 直播2 | 直播2
 https://live.666666.zip/live/4609007.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="澳首U23",澳首U23 | 昆比亚城市U23 vs 塔格拉诺联U23 | 0-0 | 直播2 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4609007.m3u8?txSecret=25ee7390822b369f4592be7f20fa3e8f&txTime=6A743B40
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="澳首U23",澳首U23 | 昆比亚城市U23 vs 塔格拉诺联U23 | 0-0 | 直播2 | 原声72
+https://pul-tenm.gkykp.com/live/sd-1-4609007.m3u8?txSecret=829de1211059fd66b4caf5362e07ece7&txTime=6A743F00
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 比利亚雷亚尔 vs 莱万特 | 0-0 | 直播14 | 直播14
+https://live.666666.zip/live/4603118.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 比利亚雷亚尔 vs 莱万特 | 0-0 | 直播14 | 原声4
+https://pul-tenm.gkykp.com/live/sd-1-4603118.m3u8?txSecret=64fcb2b8842b3e6afb6305aa84f3d353&txTime=6A743F00
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 广东东阳光U19 vs 天津先行者U19 | 0-0 | 直播18 | 直播18
+https://live.666666.zip/live/3926936.m3u8
