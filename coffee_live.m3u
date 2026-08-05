@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 吉林东北虎U19 vs 北京首钢U19 | 35-38 | 直播6 | 直播6
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="澳首U23",澳首U23 | 昆比亚城市U23 vs 塔格拉诺联U23 | 0-0 | 直播2 | 直播2
+https://live.666666.zip/live/4609007.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="澳首U23",澳首U23 | 昆比亚城市U23 vs 塔格拉诺联U23 | 0-0 | 直播2 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4609007.m3u8?txSecret=64970584a886a90255dc08919d7ec979&txTime=6A7437F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 吉林东北虎U19 vs 北京首钢U19 | 74-63 | 直播6 | 直播6
 https://live.666666.zip/live/3926930.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 吉林东北虎U19 vs 北京首钢U19 | 35-38 | 直播6 | 原声36
-https://pul-tenm.gkykp.com/live/sd-2-3926930.m3u8?txSecret=581d53aa329b73497bc18cb6b60a9b5e&txTime=6A743078
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 黑龙江U19 vs 长沙湾田勇胜U19 | 50-44 | 直播8 | 直播8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 吉林东北虎U19 vs 北京首钢U19 | 74-63 | 直播6 | 原声36
+https://pul-tenm.gkykp.com/live/sd-2-3926930.m3u8?txSecret=7941478aa8069d000ccb186456c6dd5a&txTime=6A7437F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 黑龙江U19 vs 长沙湾田勇胜U19 | 78-68 | 直播8 | 直播8
 https://live.666666.zip/live/3926932.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 黑龙江U19 vs 长沙湾田勇胜U19 | 50-44 | 直播8 | 原声46
-https://pul-tenm.gkykp.com/live/sd-2-3926932.m3u8?txSecret=f529c7fdd456945132a0a8f3eb336769&txTime=6A743078
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1272.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 浙江稠州银行U19 vs 广州龙狮U19 | 37-43 | 原声72 | 原声72
-https://pul-tenm.gkykp.com/live/sd-2-3926931.m3u8?txSecret=74e622833dcb113bfbfeab4e53c1cddb&txTime=6A743078
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 黑龙江U19 vs 长沙湾田勇胜U19 | 78-68 | 直播8 | 原声46
+https://pul-tenm.gkykp.com/live/sd-2-3926932.m3u8?txSecret=81b742e2e82e2b0442e22d0f15b31907&txTime=6A7437F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1272.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 浙江稠州银行U19 vs 广州龙狮U19 | 58-76 | 原声72 | 原声72
+https://pul-tenm.gkykp.com/live/sd-2-3926931.m3u8?txSecret=9c4ae21dca933fb0bcb0d1372922309e&txTime=6A7437F8
