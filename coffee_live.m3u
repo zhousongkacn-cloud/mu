@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 阿兰马雷秋田女篮 vs 龙仁三星女篮 | 79-54 | 直播3 | 直播3
-https://live.666666.zip/live/3926978.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 新疆广汇U19 vs 广州龙狮U19 | 53-72 | 直播5 | 直播5
+https://live.666666.zip/live/3927283.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 新疆广汇U19 vs 广州龙狮U19 | 53-72 | 直播5 | 原声35
+https://pul-tenm.gkykp.com/live/sd-2-3927283.m3u8?txSecret=9ebd2ef90ba1a7fcb7ab0bf46b1a92c9&txTime=6A758900
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 天津先行者U19 vs 北京首钢U19 | 64-99 | 直播4 | 直播4
+https://live.666666.zip/live/3927282.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 天津先行者U19 vs 北京首钢U19 | 64-99 | 直播4 | 原声22
+https://pul-tenm.gkykp.com/live/sd-2-3927282.m3u8?txSecret=c5c11518de086ba20c1736abc1ff0d23&txTime=6A758900
