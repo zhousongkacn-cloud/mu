@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="澳NBL",澳NBL | 东南墨尔本凤凰 vs 日本B联赛联队 | 87-48 | 直播6 | 直播6
-https://live.666666.zip/live/3926046.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="印尼总杯",印尼总杯 | 佩西加雅加达 vs 阿雷马 | 2-1 | 直播11 | 直播11
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="印尼总杯",印尼总杯 | 佩西加雅加达 vs 阿雷马 | 4-1 | 直播11 | 直播11
 https://live.666666.zip/live/4609810.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="印尼总杯",印尼总杯 | 佩西加雅加达 vs 阿雷马 | 2-1 | 直播11 | 原声77
-https://pul-tenm.gkykp.com/live/sd-1-4609810.m3u8?txSecret=f7bad0473d1f5b641190194163ebec2d&txTime=6A75AFE8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="澳南甲",澳南甲 | 塞利斯贝瑞联 vs 南阿德莱德黑豹 | 0-2 | 直播15 | 直播15
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="印尼总杯",印尼总杯 | 佩西加雅加达 vs 阿雷马 | 4-1 | 直播11 | 原声77
+https://pul-tenm.gkykp.com/live/sd-1-4609810.m3u8?txSecret=ae8dff3c63f4fcb29193f19d572a37d0&txTime=6A75B3A9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="澳NBL",澳NBL | 东南墨尔本凤凰 vs 日本B联赛联队 | 113-60 | 直播6 | 直播6
+https://live.666666.zip/live/3926046.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 四川金强U19 vs 广东东阳光U19 | 0-0 | 直播10 | 直播10
+https://live.666666.zip/live/3927286.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="中国NBL U19",中国NBL U19 | 辽宁沈阳三生U19 vs 上海久事U19 | 0-0 | 直播12 | 直播12
+https://live.666666.zip/live/3927287.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="澳南甲",澳南甲 | 塞利斯贝瑞联 vs 南阿德莱德黑豹 | 1-2 | 直播15 | 直播15
 https://live.666666.zip/live/4507888.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="澳南甲",澳南甲 | 塞利斯贝瑞联 vs 南阿德莱德黑豹 | 0-2 | 直播15 | 原声82
-https://pul-tenm.gkykp.com/live/sd-1-4507888.m3u8?txSecret=5e0b94d713059ff9ed7b03c2cc40126b&txTime=6A75AFE8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="澳南甲",澳南甲 | 塞利斯贝瑞联 vs 南阿德莱德黑豹 | 1-2 | 直播15 | 原声82
+https://pul-tenm.gkykp.com/live/sd-1-4507888.m3u8?txSecret=4fdb8dc14c28485bcef1628e1b7bc982&txTime=6A75B3A9
