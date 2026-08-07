@@ -1,31 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="阿甲",阿甲 | 圣塔菲联 vs 拉努斯 | 2-1 | 直播5 | 直播5
-https://live.666666.zip/live/4539655.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="WNBA",WNBA | 狂热 vs 王牌 | 42-37 | 直播11 | 直播11
+https://live.666666.zip/live/3909043.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="WNBA",WNBA | 狂热 vs 王牌 | 42-37 | 直播11 | 原声53
+https://pul-tenm.gkykp.com/live/hd-en-2-3909043.m3u8?txSecret=2503ff77681df655ca59d920533439c4&txTime=6A767108
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1021.jpg?v=1780171883879" group-title="巴西杯",巴西杯 | 科林蒂安 vs 巴西国际 | 1-0 | 直播21 | 直播21
 https://live.666666.zip/live/4546335.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1021.jpg?v=1780171883879" group-title="巴西杯",巴西杯 | 科林蒂安 vs 巴西国际 | 1-0 | 直播21 | 原声56
-https://pul-tenm.gkykp.com/live/sd-1-4546335.m3u8?txSecret=3aec86b1a268f02ca0d5abebee2f95f6&txTime=6A766DC1
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="WNBA",WNBA | 狂热 vs 王牌 | 42-24 | 直播11 | 直播11
-https://live.666666.zip/live/3909043.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="WNBA",WNBA | 狂热 vs 王牌 | 42-24 | 直播11 | 原声53
-https://pul-tenm.gkykp.com/live/hd-en-2-3909043.m3u8?txSecret=e39a04136681927d8111537e8a73ee98&txTime=6A766DC1
+https://pul-tenm.gkykp.com/live/sd-1-4546335.m3u8?txSecret=0e7ccc10fba0ea4d72dfbf59eacbc481&txTime=6A767108
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="联盟杯",联盟杯 | 纽约城 vs 桑托斯拉古纳 | 0-0 | 直播1 | 直播1
 https://live.666666.zip/live/4515710.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="联盟杯",联盟杯 | 纽约城 vs 桑托斯拉古纳 | 0-0 | 直播1 | 原声64
-https://pul-tenm.gkykp.com/live/sd-1-4515710.m3u8?txSecret=b5a9e6f1ddd353c97c1f721fa4549935&txTime=6A766DC1
+https://pul-tenm.gkykp.com/live/sd-1-4515710.m3u8?txSecret=2e023a41e6718d316da112f88a90f283&txTime=6A767108
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="玻利甲",玻利甲 | 布鲁明 vs 拉巴斯准备 | 0-0 | 直播2 | 直播2
 https://live.666666.zip/live/4543811.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="玻利甲",玻利甲 | 布鲁明 vs 拉巴斯准备 | 0-0 | 直播2 | 原声59
-https://pul-tenm.gkykp.com/live/sd-1-4543811.m3u8?txSecret=32c24450efae40000a69c83b78fd390e&txTime=6A766DC1
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="墨西乙",墨西乙 | 特拉斯卡拉 vs 阿莱布里赫 | 0-2 | 直播6 | 直播6
-https://live.666666.zip/live/4578787.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="墨西乙",墨西乙 | 特拉斯卡拉 vs 阿莱布里赫 | 0-2 | 直播6 | 原声49
-https://pul-tenm.gkykp.com/live/sd-1-4578787.m3u8?txSecret=041c2d8cea78081f31ffa26694dd302f&txTime=6A766DC1
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="委内超",委内超 | 卡贝略港学院 vs 加拉加斯 | 1-1 | 直播7 | 直播7
+https://pul-tenm.gkykp.com/live/sd-1-4543811.m3u8?txSecret=25ee23f07f6549e360fecf78fbf8dea5&txTime=6A767108
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="委内超",委内超 | 卡贝略港学院 vs 加拉加斯 | 2-1 | 直播7 | 直播7
 https://live.666666.zip/live/4609034.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="委内超",委内超 | 卡贝略港学院 vs 加拉加斯 | 1-1 | 直播7 | 原声52
-https://pul-tenm.gkykp.com/live/sd-1-4609034.m3u8?txSecret=fc553491730edc783873ea48da0f566f&txTime=6A766DC1
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1022.jpg?v=1780171883879" group-title="巴西杯",巴西杯 | 维多利亚 vs 巴拉纳竞技 | 1-0 | 直播22 | 直播22
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="委内超",委内超 | 卡贝略港学院 vs 加拉加斯 | 2-1 | 直播7 | 原声52
+https://pul-tenm.gkykp.com/live/sd-1-4609034.m3u8?txSecret=4bad881c8d9ae1022d4173353ebd9a11&txTime=6A767108
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1022.jpg?v=1780171883879" group-title="巴西杯",巴西杯 | 维多利亚 vs 巴拉纳竞技 | 2-0 | 直播22 | 直播22
 https://live.666666.zip/live/4546344.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1022.jpg?v=1780171883879" group-title="巴西杯",巴西杯 | 维多利亚 vs 巴拉纳竞技 | 1-0 | 直播22 | 原声20
-https://pul-tenm.gkykp.com/live/sd-1-4546344.m3u8?txSecret=952827ac142dde8d2cb7e4961df85ce0&txTime=6A766DC1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1264.jpg?v=1780171883879" group-title="联盟杯",联盟杯 | 纽约城 vs 桑托斯拉古纳 | 0-0 | 原声64 | 原声64
+https://pul-tenm.gkykp.com/live/sd-1-4515710.m3u8?txSecret=5d1a2d97c273cf8cd23e882929cfe1af&txTime=6A767180
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1253.jpg?v=1780171883879" group-title="WNBA",WNBA | 狂热 vs 王牌 | 42-37 | 原声53 | 原声53
+https://pul-tenm.gkykp.com/live/hd-en-2-3909043.m3u8?txSecret=2ca6237846970847319a4ef755292f56&txTime=6A767180
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1256.jpg?v=1780171883879" group-title="巴西杯",巴西杯 | 科林蒂安 vs 巴西国际 | 1-0 | 原声56 | 原声56
+https://pul-tenm.gkykp.com/live/sd-1-4546335.m3u8?txSecret=a9eb74e7b56baa2e9391088a9c18d7b6&txTime=6A767180
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1209.jpg?v=1780171883879" group-title="联盟杯",联盟杯 | 蓝十字 vs 费城联合 | 0-0 | 原声9 | 原声9
+https://pul-tenm.gkykp.com/live/sd-1-4515709.m3u8?txSecret=232b61bd7511ec3228c10118a7d51b3d&txTime=6A767180
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1252.jpg?v=1780171883879" group-title="委内超",委内超 | 卡贝略港学院 vs 加拉加斯 | 2-1 | 原声52 | 原声52
+https://pul-tenm.gkykp.com/live/sd-1-4609034.m3u8?txSecret=0eb129288eafeec2c48e506c4f282b45&txTime=6A767180
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1259.jpg?v=1780171883879" group-title="玻利甲",玻利甲 | 布鲁明 vs 拉巴斯准备 | 0-0 | 原声59 | 原声59
+https://pul-tenm.gkykp.com/live/sd-1-4543811.m3u8?txSecret=0ad3a4396e36b99b87b05b42d201bef6&txTime=6A767180
