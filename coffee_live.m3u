@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="联盟杯",联盟杯 | 波特兰伐木工 vs 普埃布拉 | 5-1 | 直播6 | 直播6
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="联盟杯",联盟杯 | 波特兰伐木工 vs 普埃布拉 | 5-2 | 直播6 | 直播6
 https://live.666666.zip/live/4515711.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="联盟杯",联盟杯 | 波特兰伐木工 vs 普埃布拉 | 5-1 | 直播6 | 原声11
-https://pul-tenm.gkykp.com/live/sd-1-4515711.m3u8?txSecret=4e61f03429c9322d3a9dc9d173404c9f&txTime=6A76AD09
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="墨联",墨联 | 野狼 vs 太阳 | 73-78 | 直播15 | 直播15
-https://live.666666.zip/live/3924028.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="墨联",墨联 | 野狼 vs 太阳 | 73-78 | 直播15 | 原声31
-https://pul-tenm.gkykp.com/live/sd-2-3924028.m3u8?txSecret=999b816d00109f9c0972be5e8d7172fa&txTime=6A76AD09
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="墨联",墨联 | 皇家部队 vs 金人 | 82-90 | 直播19 | 直播19
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="联盟杯",联盟杯 | 波特兰伐木工 vs 普埃布拉 | 5-2 | 直播6 | 原声11
+https://pul-tenm.gkykp.com/live/sd-1-4515711.m3u8?txSecret=701718e747ff150ca8a5715406a157eb&txTime=6A76B0C9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="墨联",墨联 | 皇家部队 vs 金人 | 86-92 | 直播19 | 直播19
 https://live.666666.zip/live/3923945.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="墨联",墨联 | 皇家部队 vs 金人 | 82-90 | 直播19 | 原声30
-https://pul-tenm.gkykp.com/live/sd-2-3923945.m3u8?txSecret=9b0a05a049797e2e15900ed5d596f58f&txTime=6A76AD09
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1260.jpg?v=1780171883879" group-title="墨联",墨联 | 红魔鬼 vs 草莓种植者 | 63-66 | 原声60 | 原声60
-https://pul-tenm.gkykp.com/live/sd-2-3924022.m3u8?txSecret=63d5c265dcdd9828254e87e54636be6a&txTime=6A76AD09
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="墨联",墨联 | 皇家部队 vs 金人 | 86-92 | 直播19 | 原声30
+https://pul-tenm.gkykp.com/live/sd-2-3923945.m3u8?txSecret=7aa22c392ec438d6efb75a47d4b3521e&txTime=6A76B051
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1260.jpg?v=1780171883879" group-title="墨联",墨联 | 红魔鬼 vs 草莓种植者 | 72-77 | 原声60 | 原声60
+https://pul-tenm.gkykp.com/live/sd-2-3924022.m3u8?txSecret=d9873dbf7a6e3d7344560e6bc4a916f3&txTime=6A76B0C9
