@@ -1,3 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1256.jpg?v=1780171883879" group-title="委内超",委内超 | 祖利亚诺 vs 梅里达大学生 | 2-0 | 原声56 | 原声56
-https://pul-tenm.gkykp.com/live/sd-1-4610846.m3u8?txSecret=295015fc7885f07baa7834c205dc507c&txTime=6A7B9098
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 利伯塔德洛哈 vs 基多天主大学 | 0-0 | 直播4 | 直播4
+https://live.666666.zip/live/4492575.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 利伯塔德洛哈 vs 基多天主大学 | 0-0 | 直播4 | 原声3
+https://pul-tenm.gkykp.com/live/sd-1-4492575.m3u8?txSecret=f9d63e60786bde755ce0c0054f14735b&txTime=6A7B93E0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="巴拉甲",巴拉甲 | 亚松森自由 vs 特立尼登斯 | 0-0 | 直播5 | 直播5
+https://live.666666.zip/live/4609068.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="巴拉甲",巴拉甲 | 亚松森自由 vs 特立尼登斯 | 0-0 | 直播5 | 原声5
+https://pul-tenm.gkykp.com/live/sd-1-4609068.m3u8?txSecret=39227002be9825d05989e4e5db64aba3&txTime=6A7B93E0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1256.jpg?v=1780171883879" group-title="委内超",委内超 | 祖利亚诺 vs 梅里达大学生 | 3-0 | 原声56 | 原声56
+https://pul-tenm.gkykp.com/live/sd-1-4610846.m3u8?txSecret=9c9d925174dfdceec1d529ffe8bf0aec&txTime=6A7B93E0
