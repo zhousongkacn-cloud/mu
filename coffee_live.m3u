@@ -1,15 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中U21",中U21 | 上海海港U20 vs 湖北青年星U20 | 2-2 | 直播1 | 直播1
-https://live.666666.zip/live/4551205.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="中U21",中U21 | 上海海港U20 vs 湖北青年星U20 | 2-2 | 直播1 | 原声8
-https://pul-tenm.gkykp.com/live/sd-1-4551205.m3u8?txSecret=f09d105ce2cf1d01a6f5dc067ce6c7dd&txTime=6A7B2018
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="乌克超",乌克超 | 普莱西亚 vs 哈尔科夫冶金 | 1-0 | 直播2 | 直播2
-https://live.666666.zip/live/4569639.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="乌克超",乌克超 | 普莱西亚 vs 哈尔科夫冶金 | 1-0 | 直播2 | 原声24
-https://pul-tenm.gkykp.com/live/sd-1-4569639.m3u8?txSecret=886aaff347176d214b7228fabc656a8d&txTime=6A7B2018
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="国际赛女",国际赛女 | 中国女篮U18 vs 新西兰女篮U18 | 100-44 | 直播4 | 直播4
-https://live.666666.zip/live/3930650.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1032.jpg?v=1780171883879" group-title="乌兹甲",乌兹甲 | 洛钦 vs 特尔杜 | 0-1 | 直播32 | 直播32
 https://live.666666.zip/live/4525601.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1032.jpg?v=1780171883879" group-title="乌兹甲",乌兹甲 | 洛钦 vs 特尔杜 | 0-1 | 直播32 | 原声115
-https://pul-tenm.gkykp.com/live/sd-1-4525601.m3u8?txSecret=72fd933d9e1863ba96f9c694381e63f8&txTime=6A7B2018
+https://pul-tenm.gkykp.com/live/sd-1-4525601.m3u8?txSecret=48b3a272e9d81fe983c4716f86b2f9ea&txTime=6A7B23D8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="乌克超",乌克超 | 普莱西亚 vs 哈尔科夫冶金 | 1-0 | 直播2 | 直播2
+https://live.666666.zip/live/4569639.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="乌克超",乌克超 | 普莱西亚 vs 哈尔科夫冶金 | 1-0 | 直播2 | 原声24
+https://pul-tenm.gkykp.com/live/sd-1-4569639.m3u8?txSecret=3f0420f8566b7bd4a440fda5857c55db&txTime=6A7B23D8
