@@ -33,9 +33,9 @@ https://live.666666.zip/live/4467830.m3u8
 https://live.666666.zip/live/4577845.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="葡甲",葡甲 | 本菲卡B队 vs 雷克索斯 | 1-0 | 直播9 | 原声14
 https://pul-tenm.gkykp.com/live/sd-1-4577845.m3u8?txSecret=ccb690f82690d6e639d0e6ace04da2e5&txTime=6A7B5BA0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="瑞典甲",瑞典甲 | 诺尔比 vs 奥雷布洛 | 1-0 | 直播10 | 直播10
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="瑞典甲",瑞典甲 | 诺尔比 vs 奥雷布洛 | 2-0 | 直播10 | 直播10
 https://live.666666.zip/live/4469391.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="瑞典甲",瑞典甲 | 诺尔比 vs 奥雷布洛 | 1-0 | 直播10 | 原声12
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="瑞典甲",瑞典甲 | 诺尔比 vs 奥雷布洛 | 2-0 | 直播10 | 原声12
 https://pul-tenm.gkykp.com/live/sd-1-4469391.m3u8?txSecret=0f5a6112c1f43d4741165d01ee06d25b&txTime=6A7B5BA0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1023.jpg?v=1780171883879" group-title="亚美超",亚美超 | 艾拉斯克特 vs BKMA | 2-0 | 直播23 | 直播23
 https://live.666666.zip/live/4578884.m3u8
@@ -49,5 +49,25 @@ https://pul-tenm.gkykp.com/live/sd-1-4550350.m3u8?txSecret=a70984323494a97e91b56
 https://live.666666.zip/live/4495152.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1780171883879" group-title="拉脱超",拉脱超 | 里加足球学院 vs 格洛比纳 | 4-0 | 直播25 | 原声67
 https://pul-tenm.gkykp.com/live/sd-1-4495152.m3u8?txSecret=58c4fc2ba4527162ba6558aeb80b4383&txTime=6A7B5BA0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1201.jpg?v=1780171883879" group-title="瑞典超",瑞典超 | 天狼星 vs 布洛马波卡纳 | 2-2 | 原声1 | 原声1
+https://pul-tenm.gkykp.com/live/sd-1-4467126.m3u8?txSecret=6bf926114e28cadb27d06b0d8e3fdbaa&txTime=6A7B5C18
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1206.jpg?v=1780171883879" group-title="俄超",俄超 | 沃罗涅日火炬 vs 格罗兹尼 | 0-0 | 原声6 | 原声6
+https://pul-tenm.gkykp.com/live/sd-1-4564169.m3u8?txSecret=ec3b1e506e4cee843526db691cca3502&txTime=6A7B5C18
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1208.jpg?v=1780171883879" group-title="立陶甲",立陶甲 | 维尔纽斯投资 vs 帕尼维斯 | 0-2 | 原声8 | 原声8
+https://pul-tenm.gkykp.com/live/sd-1-4550350.m3u8?txSecret=2852a7946ad4183e25ba26ee30bb65c2&txTime=6A7B5C18
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1209.jpg?v=1780171883879" group-title="保甲",保甲 | 弗拉察博特夫 vs 索非亚斯拉维亚 | 0-1 | 原声9 | 原声9
+https://pul-tenm.gkykp.com/live/sd-1-4554071.m3u8?txSecret=69750f5b8a0f1db15d2b81ba5120558a&txTime=6A7B5C18
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1212.jpg?v=1780171883879" group-title="瑞典甲",瑞典甲 | 诺尔比 vs 奥雷布洛 | 2-0 | 原声12 | 原声12
+https://pul-tenm.gkykp.com/live/sd-1-4469391.m3u8?txSecret=f8d37e66db82a23778397c44c3855eb7&txTime=6A7B5C18
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1213.jpg?v=1780171883879" group-title="斯亚甲",斯亚甲 | 穆拉 vs 拉多姆列 | 0-1 | 原声13 | 原声13
+https://pul-tenm.gkykp.com/live/sd-1-4560920.m3u8?txSecret=9f314658336006bc23739bc0a2dd4855&txTime=6A7B5C18
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1214.jpg?v=1780171883879" group-title="葡甲",葡甲 | 本菲卡B队 vs 雷克索斯 | 1-0 | 原声14 | 原声14
+https://pul-tenm.gkykp.com/live/sd-1-4577845.m3u8?txSecret=c15327934bbadd523485d9cfff98f56e&txTime=6A7B5C18
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1220.jpg?v=1780171883879" group-title="亚美超",亚美超 | 艾拉斯克特 vs BKMA | 2-0 | 原声20 | 原声20
+https://pul-tenm.gkykp.com/live/sd-1-4578884.m3u8?txSecret=02522404fa576974cec4653ccfc288c4&txTime=6A7B5C18
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1227.jpg?v=1780171883879" group-title="葡甲",葡甲 | 路西塔尼亚 vs 波尔图B队 | 1-0 | 原声27 | 原声27
+https://pul-tenm.gkykp.com/live/sd-1-4577848.m3u8?txSecret=0641792828cdd5d8d703fe7da744ea02&txTime=6A7B5C18
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1267.jpg?v=1780171883879" group-title="拉脱超",拉脱超 | 里加足球学院 vs 格洛比纳 | 4-0 | 原声67 | 原声67
+https://pul-tenm.gkykp.com/live/sd-1-4495152.m3u8?txSecret=f996b1e6dc4bd8ba5e660dc025879636&txTime=6A7B5C18
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1268.jpg?v=1780171883879" group-title="法罗超",法罗超 | 克拉克斯维克 vs 托尔斯港 | 0-0 | 原声68 | 原声68
-https://pul-tenm.gkykp.com/live/sd-1-4477553.m3u8?txSecret=26050170319aa44061586034e4c650a9&txTime=6A7B5BA0
+https://pul-tenm.gkykp.com/live/sd-1-4477553.m3u8?txSecret=a72452c719e12094b5f34d35996e7341&txTime=6A7B5C18
