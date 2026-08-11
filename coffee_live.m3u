@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="亚挑联",亚挑联 | 帕罗FC vs 阿布穆斯林 | 2-0 | 直播1 | 直播1
-https://live.666666.zip/live/4584780.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="亚挑联",亚挑联 | 帕罗FC vs 阿布穆斯林 | 2-0 | 直播1 | 原声66
-https://pul-tenm.gkykp.com/live/sd-1-4584780.m3u8?txSecret=40d19a30665744fb3b733ae9a748d8f1&txTime=6A7C78A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="菲州长杯",菲州长杯 | 公路勇士 vs 菲律宾电信TNT | 103-106 | 直播12 | 直播12
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="亚挑联",亚挑联 | 比什凯克多多伊足球会 vs 霍姆斯跃进 | 0-0 | 直播2 | 直播2
+https://live.666666.zip/live/4584781.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="俄杯",俄杯 | 圣彼得堡迪纳摩 vs FC 10 | 0-0 | 直播5 | 直播5
+https://live.666666.zip/live/4607409.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="俄杯",俄杯 | 圣彼得堡迪纳摩 vs FC 10 | 0-0 | 直播5 | 原声41
+https://pul-tenm.gkykp.com/live/sd-1-4607409.m3u8?txSecret=2b438e25633296b684537d1aaa99cd21&txTime=6A7C7BE8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="菲州长杯",菲州长杯 | 公路勇士 vs 菲律宾电信TNT | 114-109 | 直播12 | 直播12
 https://live.666666.zip/live/3925298.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="菲州长杯",菲州长杯 | 公路勇士 vs 菲律宾电信TNT | 103-106 | 直播12 | 原声65
-https://pul-tenm.gkykp.com/live/sd-2-3925298.m3u8?txSecret=0de0e89a5de2d5a5e1dac53e88bf590d&txTime=6A7C78A0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="菲州长杯",菲州长杯 | 公路勇士 vs 菲律宾电信TNT | 114-109 | 直播12 | 原声65
+https://pul-tenm.gkykp.com/live/sd-2-3925298.m3u8?txSecret=37ef129b74d30dcdd09c05e30ce16e23&txTime=6A7C7BE8
