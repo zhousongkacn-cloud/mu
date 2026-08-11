@@ -1,19 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="WNBA",WNBA | 梦想 vs 节奏 | 53-38 | 直播14 | 直播14
-https://live.666666.zip/live/3909065.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="WNBA",WNBA | 梦想 vs 节奏 | 53-38 | 直播14 | 原声33
-https://pul-tenm.gkykp.com/live/hd-en-2-3909065.m3u8?txSecret=de8c0c1c263ee31ec0d32a809f194596&txTime=6A7BC518
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="智利甲",智利甲 | 奥达科斯 vs 努布伦斯 | 1-1 | 直播1 | 直播1
 https://live.666666.zip/live/4476414.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="智利甲",智利甲 | 奥达科斯 vs 努布伦斯 | 1-1 | 直播1 | 原声7
-https://pul-tenm.gkykp.com/live/sd-1-4476414.m3u8?txSecret=94f65d9f03e414b566d366f06babe315&txTime=6A7BC518
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="阿甲",阿甲 | 圣塔菲联 vs 科尔多瓦中央 | 1-0 | 直播12 | 直播12
-https://live.666666.zip/live/4539685.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="阿甲",阿甲 | 圣塔菲联 vs 科尔多瓦中央 | 1-0 | 直播12 | 原声36
-https://pul-tenm.gkykp.com/live/sd-1-4539685.m3u8?txSecret=43c3797a501f235c8a7f667b2e4b483d&txTime=6A7BC518
+https://pul-tenm.gkykp.com/live/sd-1-4476414.m3u8?txSecret=fb545f3b85a5cb6d085c558e285dc227&txTime=6A7BC8D8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 昆卡竞技 vs 曼塔 | 1-1 | 直播10 | 直播10
 https://live.666666.zip/live/4492569.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="厄瓜甲",厄瓜甲 | 昆卡竞技 vs 曼塔 | 1-1 | 直播10 | 原声21
-https://pul-tenm.gkykp.com/live/sd-1-4492569.m3u8?txSecret=8af90e8d6bc1bdfbe5a0f64583299f14&txTime=6A7BC518
+https://pul-tenm.gkykp.com/live/sd-1-4492569.m3u8?txSecret=1f7a00648ec74468db47e0edbf0667b0&txTime=6A7BC8D8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="墨女超",墨女超 | 托卢卡女足 vs 华雷斯女足 | 0-0 | 直播11 | 直播11
 https://live.666666.zip/live/4599435.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="阿甲",阿甲 | 圣塔菲联 vs 科尔多瓦中央 | 1-0 | 直播12 | 直播12
+https://live.666666.zip/live/4539685.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="阿甲",阿甲 | 圣塔菲联 vs 科尔多瓦中央 | 1-0 | 直播12 | 原声36
+https://pul-tenm.gkykp.com/live/sd-1-4539685.m3u8?txSecret=dcdfe5e0204463976c0f026e0d7de26d&txTime=6A7BC8D8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="墨女超",墨女超 | 莱昂女足 vs 老虎大学女足 | 0-0 | 直播13 | 直播13
+https://live.666666.zip/live/4599436.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="WNBA",WNBA | 梦想 vs 节奏 | 54-39 | 直播14 | 直播14
+https://live.666666.zip/live/3909065.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="WNBA",WNBA | 梦想 vs 节奏 | 54-39 | 直播14 | 原声33
+https://pul-tenm.gkykp.com/live/hd-en-2-3909065.m3u8?txSecret=5944fc6dd234d507258d9a0b17a0a73c&txTime=6A7BC8D8
