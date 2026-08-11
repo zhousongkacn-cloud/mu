@@ -1,15 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="南球杯",南球杯 | 博卡青年 vs 雷科莱塔 | 0-1 | 直播2 | 直播2
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="南球杯",南球杯 | 博卡青年 vs 雷科莱塔 | 2-1 | 直播2 | 直播2
 https://live.666666.zip/live/4609837.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="南球杯",南球杯 | 博卡青年 vs 雷科莱塔 | 0-1 | 直播2 | 原声14
-https://pul-tenm.gkykp.com/live/sd-1-4609837.m3u8?txSecret=0e1dbd5dc68ba99c7c7fb879644b05d6&txTime=6A7CFA78
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="南球杯",南球杯 | 博卡青年 vs 雷科莱塔 | 2-1 | 直播2 | 原声14
+https://pul-tenm.gkykp.com/live/sd-1-4609837.m3u8?txSecret=f7dcabdd3bbf0f532eeff1245f0a5950&txTime=6A7CFE38
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="自由杯",自由杯 | 弗鲁米嫩塞 vs 门多萨独立 | 0-0 | 直播1 | 直播1
 https://live.666666.zip/live/4592452.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="自由杯",自由杯 | 弗鲁米嫩塞 vs 门多萨独立 | 0-0 | 直播1 | 原声12
-https://pul-tenm.gkykp.com/live/sd-1-4592452.m3u8?txSecret=9208f050241e1eba7ec64bdd245bd87a&txTime=6A7CFA78
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 阿瓦伊 vs 雷加塔斯巴西 | 0-0 | 直播4 | 直播4
+https://pul-tenm.gkykp.com/live/sd-1-4592452.m3u8?txSecret=a68ac8a47c9ba6cb582af6d8ed7108ed&txTime=6A7CFE38
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 阿瓦伊 vs 雷加塔斯巴西 | 0-1 | 直播4 | 直播4
 https://live.666666.zip/live/4494649.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 阿瓦伊 vs 雷加塔斯巴西 | 0-0 | 直播4 | 原声18
-https://pul-tenm.gkykp.com/live/sd-1-4494649.m3u8?txSecret=50a7cf7242fef9c09f1f24b7fd38f559&txTime=6A7CFA78
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1235.jpg?v=1780171883879" group-title="加拿冠",加拿冠 | 渥太华竞技 vs 魁北克苏普拉 | 0-0 | 原声35 | 原声35
-https://pul-tenm.gkykp.com/live/sd-1-4569979.m3u8?txSecret=bd34d28cc54dae43508e9ae0b9570dfa&txTime=6A7CFA78
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 阿瓦伊 vs 雷加塔斯巴西 | 0-1 | 直播4 | 原声18
+https://pul-tenm.gkykp.com/live/sd-1-4494649.m3u8?txSecret=0ac1e9259253228481424afefbf7a49d&txTime=6A7CFE38
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1235.jpg?v=1780171883879" group-title="加拿冠",加拿冠 | 渥太华竞技 vs 魁北克苏普拉 | 0-1 | 原声35 | 原声35
+https://pul-tenm.gkykp.com/live/sd-1-4569979.m3u8?txSecret=4aed5ff1104b0def315209d769952596&txTime=6A7CFE38
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1259.jpg?v=1780171883879" group-title="智利乙",智利乙 | 蒙特港 vs 西班牙联合 | 0-0 | 原声59 | 原声59
+https://pul-tenm.gkykp.com/live/sd-1-4481982.m3u8?txSecret=dfeb5312e365722b515d6032d104b39c&txTime=6A7CFE38
