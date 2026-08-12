@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 台湾艺大 vs 黎明学院 | 21-30 | 直播13 | 直播13
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="菲州长杯",菲州长杯 | 巨人崛起者 vs 生力啤 | 0-0 | 直播7 | 直播7
+https://live.666666.zip/live/3925317.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="菲州长杯",菲州长杯 | 巨人崛起者 vs 生力啤 | 0-0 | 直播7 | 原声2
+https://pul-tenm.gkykp.com/live/sd-2-3925317.m3u8?txSecret=e8f4ff3b115102d855edcc3a8d225133&txTime=6A7D8AD8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 台湾艺大 vs 黎明学院 | 32-37 | 直播13 | 直播13
 https://live.666666.zip/live/3931253.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 台湾艺大 vs 黎明学院 | 21-30 | 直播13 | 原声12
-https://pul-tenm.gkykp.com/live/sd-2-3931253.m3u8?txSecret=ba54a03ddb8db586807cc871e0d66407&txTime=6A7D8718
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="澳首超",澳首超 | 布伦达贝拉 vs 塔格拉诺联 | 0-2 | 直播17 | 直播17
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 台湾艺大 vs 黎明学院 | 32-37 | 直播13 | 原声12
+https://pul-tenm.gkykp.com/live/sd-2-3931253.m3u8?txSecret=8f9e573b1925bcb3e7ff20d068e7257d&txTime=6A7D8AD8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="澳首超",澳首超 | 布伦达贝拉 vs 塔格拉诺联 | 0-4 | 直播17 | 直播17
 https://live.666666.zip/live/4498556.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="澳首超",澳首超 | 布伦达贝拉 vs 塔格拉诺联 | 0-2 | 直播17 | 原声43
-https://pul-tenm.gkykp.com/live/sd-1-4498556.m3u8?txSecret=51624c3c95b3bc83b2d756cf8b4d1425&txTime=6A7D8718
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="澳首超",澳首超 | 布伦达贝拉 vs 塔格拉诺联 | 0-4 | 直播17 | 原声43
+https://pul-tenm.gkykp.com/live/sd-1-4498556.m3u8?txSecret=da014aa03f675bb358842f51a3c01808&txTime=6A7D8AD8
