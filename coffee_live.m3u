@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="联盟杯",联盟杯 | 老虎大学 vs 温哥华白浪 | 1-1 | 直播1 | 直播1
-https://live.666666.zip/live/4515735.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="联盟杯",联盟杯 | 老虎大学 vs 温哥华白浪 | 1-1 | 直播1 | 原声44
-https://pul-tenm.gkykp.com/live/sd-1-4515735.m3u8?txSecret=b76058696a4aaeb4d15ec7dc19742e78&txTime=6A7D4758
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="墨联",墨联 | 太阳 vs 蜜蜂 | 57-41 | 直播19 | 直播19
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="墨联",墨联 | 太阳 vs 蜜蜂 | 59-44 | 直播19 | 直播19
 https://live.666666.zip/live/3923963.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="墨联",墨联 | 太阳 vs 蜜蜂 | 57-41 | 直播19 | 原声16
-https://pul-tenm.gkykp.com/live/sd-2-3923963.m3u8?txSecret=8be5affa3c7d927db7ae3c96944cf300&txTime=6A7D4758
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1221.jpg?v=1780171883879" group-title="墨联",墨联 | 黑豹 vs 野狼 | 97-79 | 原声21 | 原声21
-https://pul-tenm.gkykp.com/live/sd-2-3923930.m3u8?txSecret=a5f85488352379fc7e8ffc5804b7b875&txTime=6A7D4758
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="墨联",墨联 | 太阳 vs 蜜蜂 | 59-44 | 直播19 | 原声16
+https://pul-tenm.gkykp.com/live/sd-2-3923963.m3u8?txSecret=03cd2591126e1713dc39e3c3144574f6&txTime=6A7D4848
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1221.jpg?v=1780171883879" group-title="墨联",墨联 | 黑豹 vs 野狼 | 103-79 | 原声21 | 原声21
+https://pul-tenm.gkykp.com/live/sd-2-3923930.m3u8?txSecret=9d93d023485881f1fd9c2da79392dc85&txTime=6A7D4848
