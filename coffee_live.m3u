@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="国际赛",国际赛 | 中国 vs 乌拉圭 | 63-57 | 直播8 | 直播8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="国际赛",国际赛 | 中国 vs 乌拉圭 | 79-69 | 直播8 | 直播8
 https://live.666666.zip/live/3925214.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="国际赛",国际赛 | 中国 vs 乌拉圭 | 63-57 | 直播8 | 原声5
-https://pul-tenm.gkykp.com/live/hd-zh-2-3925214.m3u8?txSecret=017bd79d97f75a04192092033a71bc9c&txTime=6A7F10D8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="国际赛",国际赛 | 中国 vs 乌拉圭 | 79-69 | 直播8 | 原声5
+https://pul-tenm.gkykp.com/live/hd-zh-2-3925214.m3u8?txSecret=ae02d2de3f2952c2db46a3a62aa4fc15&txTime=6A7F1498
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 阿克托比B队 vs 卡拉干达矿工 | 0-0 | 直播2 | 直播2
 https://live.666666.zip/live/4519534.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 阿克托比B队 vs 卡拉干达矿工 | 0-0 | 直播2 | 原声4
-https://pul-tenm.gkykp.com/live/sd-1-4519534.m3u8?txSecret=a8f4bdafe4896dfb55b51a3482f9f00b&txTime=6A7F10D8
+https://pul-tenm.gkykp.com/live/sd-1-4519534.m3u8?txSecret=1d940f16aecd752fc5176bc096287652&txTime=6A7F1498
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 卡拉特B队 vs 奥杜斯基克 | 0-0 | 直播6 | 直播6
 https://live.666666.zip/live/4519535.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 卡拉特B队 vs 奥杜斯基克 | 0-0 | 直播6 | 原声12
-https://pul-tenm.gkykp.com/live/sd-1-4519535.m3u8?txSecret=b669294a5a591a1fecf9918f67e57bec&txTime=6A7F10D8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="亚锦U18",亚锦U18 | 新西兰U18 vs 叙利亚U18 | 63-54 | 直播9 | 直播9
-https://live.666666.zip/live/3926211.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="亚锦U18",亚锦U18 | 新西兰U18 vs 叙利亚U18 | 63-54 | 直播9 | 原声22
-https://pul-tenm.gkykp.com/live/sd-2-3926211.m3u8?txSecret=ae643ce5bd39f51938be27abed319b64&txTime=6A7F10D8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1211.jpg?v=1780171883879" group-title="CBA夏季赛",CBA夏季赛 | 新疆 vs 宁波 | 38-40 | 原声11 | 原声11
-https://pul-tenm.gkykp.com/live/sd-2-3925752.m3u8?txSecret=a741fba3d6fab62903ecb5514c174dbf&txTime=6A7F10D8
+https://pul-tenm.gkykp.com/live/sd-1-4519535.m3u8?txSecret=fe9a0d8960c0c7f19c0e4045269ea5e5&txTime=6A7F1498
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1211.jpg?v=1780171883879" group-title="CBA夏季赛",CBA夏季赛 | 新疆 vs 宁波 | 43-44 | 原声11 | 原声11
+https://pul-tenm.gkykp.com/live/sd-2-3925752.m3u8?txSecret=9b55e764d5f6924dfa0a4ecf389d30e9&txTime=6A7F1498
