@@ -1,15 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="国际赛",国际赛 | 中国 vs 乌拉圭 | 82-76 | 直播8 | 直播8
-https://live.666666.zip/live/3925214.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="国际赛",国际赛 | 中国 vs 乌拉圭 | 82-76 | 直播8 | 原声5
-https://pul-tenm.gkykp.com/live/hd-zh-2-3925214.m3u8?txSecret=0c1252d12450cbb677bb2b9d7ce68b3a&txTime=6A7F1678
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 阿克托比B队 vs 卡拉干达矿工 | 0-0 | 直播2 | 直播2
 https://live.666666.zip/live/4519534.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 阿克托比B队 vs 卡拉干达矿工 | 0-0 | 直播2 | 原声4
-https://pul-tenm.gkykp.com/live/sd-1-4519534.m3u8?txSecret=3a3d0c38e47e97cd0bb97837be0bb340&txTime=6A7F1678
+https://pul-tenm.gkykp.com/live/sd-1-4519534.m3u8?txSecret=479d1f2a88c5a7aad420761ef54f7168&txTime=6A7F1858
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="国际赛",国际赛 | 中国 vs 乌拉圭 | 83-78 | 直播8 | 直播8
+https://live.666666.zip/live/3925214.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="国际赛",国际赛 | 中国 vs 乌拉圭 | 83-78 | 直播8 | 原声5
+https://pul-tenm.gkykp.com/live/hd-zh-2-3925214.m3u8?txSecret=0aa27b9fcb80f376a11d942277743c98&txTime=6A7F17E0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 卡拉特B队 vs 奥杜斯基克 | 0-0 | 直播6 | 直播6
 https://live.666666.zip/live/4519535.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 卡拉特B队 vs 奥杜斯基克 | 0-0 | 直播6 | 原声12
-https://pul-tenm.gkykp.com/live/sd-1-4519535.m3u8?txSecret=69ab51f6b3bc819f167f4aef5427bc9a&txTime=6A7F1678
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1211.jpg?v=1780171883879" group-title="CBA夏季赛",CBA夏季赛 | 新疆 vs 宁波 | 49-53 | 原声11 | 原声11
-https://pul-tenm.gkykp.com/live/sd-2-3925752.m3u8?txSecret=922f50a6b0f99865f6818cee103da255&txTime=6A7F1678
+https://pul-tenm.gkykp.com/live/sd-1-4519535.m3u8?txSecret=641be1e23314bfbf0e88e6efe3fb2943&txTime=6A7F1858
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 列弗宁 vs 艾里斯利马索尔 | 0-0 | 直播11 | 直播11
+https://live.666666.zip/live/4613992.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="球会友谊",球会友谊 | 列弗宁 vs 艾里斯利马索尔 | 0-0 | 直播11 | 原声22
+https://pul-tenm.gkykp.com/live/sd-1-4613992.m3u8?txSecret=174eada2068bdbfd8c223fcb809d87dc&txTime=6A7F1858
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1211.jpg?v=1780171883879" group-title="CBA夏季赛",CBA夏季赛 | 新疆 vs 宁波 | 56-54 | 原声11 | 原声11
+https://pul-tenm.gkykp.com/live/sd-2-3925752.m3u8?txSecret=7e4f9af5fd70f4408629e01925014931&txTime=6A7F1858
