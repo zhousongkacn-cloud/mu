@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1231.jpg?v=1780171883879" group-title="亚锦U18",亚锦U18 | 中国台北U18 vs 菲律宾U18 | 29-53 | 原声31 | 原声31
-https://pul-tenm.gkykp.com/live/sd-2-3926210.m3u8?txSecret=0752a2f5cba34986e818b63646a5e5c6&txTime=6A7ED7A8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="澳NBL",澳NBL | 伊拉瓦拉老鹰 vs 圣玛丽学院 | 0-0 | 直播3 | 直播3
+https://live.666666.zip/live/3926044.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="CBA夏季赛",CBA夏季赛 | 山西 vs 青岛 | 0-0 | 直播1 | 直播1
+https://live.666666.zip/live/3925751.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1231.jpg?v=1780171883879" group-title="亚锦U18",亚锦U18 | 中国台北U18 vs 菲律宾U18 | 31-57 | 原声31 | 原声31
+https://pul-tenm.gkykp.com/live/sd-2-3926210.m3u8?txSecret=aebccf45ba109c8add34e3260d12f399&txTime=6A7ED898
