@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="秘鲁甲",秘鲁甲 | 格劳竞技 vs 卡哈马卡商业联 | 1-0 | 直播7 | 直播7
-https://live.666666.zip/live/4550724.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="秘鲁甲",秘鲁甲 | 格劳竞技 vs 卡哈马卡商业联 | 1-0 | 直播7 | 原声10
-https://pul-tenm.gkykp.com/live/sd-1-4550724.m3u8?txSecret=c323c58d41a75e94fdd0598d14702cb2&txTime=6A80E160
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="巴拉甲",巴拉甲 | 雷科莱塔 vs 五月二日体育会 | 0-1 | 直播8 | 直播8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="乌拉甲",乌拉甲 | 波士顿河 vs 达努比奥 | 0-0 | 直播1 | 直播1
+https://live.666666.zip/live/4613112.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="乌拉甲",乌拉甲 | 波士顿河 vs 达努比奥 | 0-0 | 直播1 | 原声23
+https://pul-tenm.gkykp.com/live/sd-1-4613112.m3u8?txSecret=d07ae933b2bd495f79d3d0a1e5e7c23f&txTime=6A80E4A8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="巴拉甲",巴拉甲 | 雷科莱塔 vs 五月二日体育会 | 0-2 | 直播8 | 直播8
 https://live.666666.zip/live/4609069.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="巴拉甲",巴拉甲 | 雷科莱塔 vs 五月二日体育会 | 0-1 | 直播8 | 原声17
-https://pul-tenm.gkykp.com/live/sd-1-4609069.m3u8?txSecret=0fdbcd94a28700c858623efc44188e89&txTime=6A80E160
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="巴拉甲",巴拉甲 | 雷科莱塔 vs 五月二日体育会 | 0-2 | 直播8 | 原声17
+https://pul-tenm.gkykp.com/live/sd-1-4609069.m3u8?txSecret=d50c5835390deebe3cb4f3b8c83e0f56&txTime=6A80E4A8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="美预备联",美预备联 | 亚特兰大联B队 vs 纽约红牛B队 | 1-2 | 直播13 | 直播13
 https://live.666666.zip/live/4611493.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="美预备联",美预备联 | 亚特兰大联B队 vs 纽约红牛B队 | 1-2 | 直播13 | 原声103
-https://pul-tenm.gkykp.com/live/sd-1-4611493.m3u8?txSecret=e6ee23ca702086eaf00375924487c4f1&txTime=6A80E160
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="哥斯乙",哥斯乙 | 肯梅利塔 vs 摩拉维亚足球 | 0-0 | 直播14 | 直播14
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="哥斯乙",哥斯乙 | 肯梅利塔 vs 摩拉维亚足球 | 1-0 | 直播14 | 直播14
 https://live.666666.zip/live/4594537.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="哥斯乙",哥斯乙 | 肯梅利塔 vs 摩拉维亚足球 | 0-0 | 直播14 | 原声199
-https://pul-tenm.gkykp.com/live/sd-1-4594537.m3u8?txSecret=86e9ab9b4c6d6257157e6a6f8474a222&txTime=6A80E160
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="哥斯乙",哥斯乙 | 肯梅利塔 vs 摩拉维亚足球 | 1-0 | 直播14 | 原声199
+https://pul-tenm.gkykp.com/live/sd-1-4594537.m3u8?txSecret=779b5ceb1f94795948f02da7c84a3993&txTime=6A80E4A8
