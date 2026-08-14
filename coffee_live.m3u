@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="联盟杯",联盟杯 | 波特兰伐木工 vs 蒂华纳 | 1-1 | 直播2 | 直播2
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="联盟杯",联盟杯 | 波特兰伐木工 vs 蒂华纳 | 2-1 | 直播2 | 直播2
 https://live.666666.zip/live/4515746.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="联盟杯",联盟杯 | 波特兰伐木工 vs 蒂华纳 | 1-1 | 直播2 | 原声42
-https://pul-tenm.gkykp.com/live/sd-1-4515746.m3u8?txSecret=5fa3660ac400a8febfde5f6c6a1c0384&txTime=6A7FE3C8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="WNBA",WNBA | 王牌 vs 神秘人 | 79-70 | 直播3 | 直播3
-https://live.666666.zip/live/3909071.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="WNBA",WNBA | 王牌 vs 神秘人 | 79-70 | 直播3 | 原声62
-https://pul-tenm.gkykp.com/live/hd-en-2-3909071.m3u8?txSecret=c2b5fa930a5cbac025f8d6c4d3c5f64f&txTime=6A7FE3C8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="联盟杯",联盟杯 | 波特兰伐木工 vs 蒂华纳 | 2-1 | 直播2 | 原声42
+https://pul-tenm.gkykp.com/live/sd-1-4515746.m3u8?txSecret=600898b7d7db7e439a9e8ac1a8408bf0&txTime=6A7FE789
