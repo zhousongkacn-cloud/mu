@@ -1,33 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="菲州长杯",菲州长杯 | 马尼拉电气 vs 基尼巴国王 | 92-84 | 直播19 | 直播19
-https://live.666666.zip/live/3925340.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="菲州长杯",菲州长杯 | 马尼拉电气 vs 基尼巴国王 | 92-84 | 直播19 | 原声46
-https://pul-tenm.gkykp.com/live/sd-2-3925340.m3u8?txSecret=a1f9c82693aa859ca5409ee1849cd92d&txTime=6A806CA9
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1020.jpg?v=1780171883879" group-title="CBA夏季赛",CBA夏季赛 | 青岛 vs 北控 | 65-81 | 直播20 | 直播20
-https://live.666666.zip/live/3925754.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1020.jpg?v=1780171883879" group-title="CBA夏季赛",CBA夏季赛 | 青岛 vs 北控 | 65-81 | 直播20 | 原声100
-https://pul-tenm.gkykp.com/live/sd-2-3925754.m3u8?txSecret=38380d75e0a1c07ae965330b304ed7e9&txTime=6A806CA9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1026.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 中国台北蓝队 vs 日本琼斯队 | 66-61 | 直播26 | 直播26
+https://live.666666.zip/live/3931347.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1026.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 中国台北蓝队 vs 日本琼斯队 | 66-61 | 直播26 | 原声97
+https://pul-tenm.gkykp.com/live/sd-2-3931347.m3u8?txSecret=f70d12cd3c083fea9b04e1618547b4ba&txTime=6A807068
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="俄超",俄超 | 奥伦堡 vs 莫斯科火车头 | 0-0 | 直播2 | 直播2
+https://live.666666.zip/live/4564103.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="俄超",俄超 | 奥伦堡 vs 莫斯科火车头 | 0-0 | 直播2 | 原声102
+https://pul-tenm.gkykp.com/live/sd-1-4564103.m3u8?txSecret=c2b5751644efd5d8fa35a061559e5371&txTime=6A807068
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1021.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 拖雷斯 vs 图兰FC | 0-0 | 直播21 | 直播21
 https://live.666666.zip/live/4519537.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1021.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 拖雷斯 vs 图兰FC | 0-0 | 直播21 | 原声101
-https://pul-tenm.gkykp.com/live/sd-1-4519537.m3u8?txSecret=80bfbe1f64d7bd9b6a8a53374bead8b3&txTime=6A806CA9
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1026.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 中国台北蓝队 vs 日本琼斯队 | 52-49 | 直播26 | 直播26
-https://live.666666.zip/live/3931347.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1026.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 中国台北蓝队 vs 日本琼斯队 | 52-49 | 直播26 | 原声97
-https://pul-tenm.gkykp.com/live/sd-2-3931347.m3u8?txSecret=e7347418c469927db6e0679876d63c86&txTime=6A806CA9
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1041.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 埃基巴斯图兹 vs 贾伊克 | 1-1 | 直播41 | 直播41
-https://live.666666.zip/live/4523030.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1041.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 埃基巴斯图兹 vs 贾伊克 | 1-1 | 直播41 | 原声194
-https://pul-tenm.gkykp.com/live/sd-1-4523030.m3u8?txSecret=7161f66b3c7b3ecf9612b73ba5939639&txTime=6A806CA9
+https://pul-tenm.gkykp.com/live/sd-1-4519537.m3u8?txSecret=9182c6036fb9c8461343b42ceb4138a7&txTime=6A807068
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1028.jpg?v=1780171883879" group-title="乌兹超",乌兹超 | 纳曼干新春 vs 缔造者 | 0-0 | 直播28 | 直播28
+https://live.666666.zip/live/4488113.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1028.jpg?v=1780171883879" group-title="乌兹超",乌兹超 | 纳曼干新春 vs 缔造者 | 0-0 | 直播28 | 原声103
+https://pul-tenm.gkykp.com/live/sd-1-4488113.m3u8?txSecret=433a40512c978325ca6fb785d2b59f00&txTime=6A807068
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1029.jpg?v=1780171883879" group-title="亚锦U18",亚锦U18 | 日本U18 vs 印度U18 | 0-0 | 直播29 | 直播29
+https://live.666666.zip/live/3926216.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1030.jpg?v=1780171883879" group-title="俄青联",俄青联 | 圣彼得堡泽尼特青年队 vs 克拉斯诺达尔青年队 | 0-0 | 直播30 | 直播30
+https://live.666666.zip/live/4506580.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1030.jpg?v=1780171883879" group-title="俄青联",俄青联 | 圣彼得堡泽尼特青年队 vs 克拉斯诺达尔青年队 | 0-0 | 直播30 | 原声197
+https://pul-tenm.gkykp.com/live/sd-1-4506580.m3u8?txSecret=620ba94a43429550f769881f0ec2a9b4&txTime=6A807068
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1031.jpg?v=1780171883879" group-title="俄青联",俄青联 | 马哈奇卡拉青年队 vs 莫斯科切尔塔诺沃青年队 | 0-0 | 直播31 | 直播31
+https://live.666666.zip/live/4506574.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1031.jpg?v=1780171883879" group-title="俄青联",俄青联 | 马哈奇卡拉青年队 vs 莫斯科切尔塔诺沃青年队 | 0-0 | 直播31 | 原声198
+https://pul-tenm.gkykp.com/live/sd-1-4506574.m3u8?txSecret=e2b662c9fc3e0464d139c56a8087906d&txTime=6A807068
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1042.jpg?v=1780171883879" group-title="乌兹甲",乌兹甲 | 加云 vs 费尔干纳国立大学 | 0-0 | 直播42 | 直播42
 https://live.666666.zip/live/4525607.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1042.jpg?v=1780171883879" group-title="乌兹甲",乌兹甲 | 加云 vs 费尔干纳国立大学 | 0-0 | 直播42 | 原声196
-https://pul-tenm.gkykp.com/live/sd-1-4525607.m3u8?txSecret=72f318a654d597b892f1119653db0454&txTime=6A806CA9
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1218.jpg?v=1780171883879" group-title="中超",中超 | 青岛西海岸 vs 重庆铜梁龙 | 0-0 | 原声18 | 原声18
-https://pul-tenm.gkykp.com/live/hd-zh-1-4498880.m3u8?txSecret=b12a084a059da43137ba0a06e6e19b24&txTime=6A806CA9
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1393.jpg?v=1780171883879" group-title="俄青联",俄青联 | 喀山鲁宾青年队 vs 莫斯科罗迪纳青年队 | 0-0 | 原声193 | 原声193
-https://pul-tenm.gkykp.com/live/sd-1-4506577.m3u8?txSecret=31eaa871ae4e70634dd865874363daec&txTime=6A806D20
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1394.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 埃基巴斯图兹 vs 贾伊克 | 1-1 | 原声194 | 原声194
-https://pul-tenm.gkykp.com/live/sd-1-4523030.m3u8?txSecret=affc370b479d7b27d79806eea88258fc&txTime=6A806D20
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1396.jpg?v=1780171883879" group-title="乌兹甲",乌兹甲 | 加云 vs 费尔干纳国立大学 | 0-0 | 原声196 | 原声196
-https://pul-tenm.gkykp.com/live/sd-1-4525607.m3u8?txSecret=4a2021c4f3fed742de726b63006c3086&txTime=6A806D20
+https://pul-tenm.gkykp.com/live/sd-1-4525607.m3u8?txSecret=612e89047b47c5a216028c5feaadf2d0&txTime=6A807068
