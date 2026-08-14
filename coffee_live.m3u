@@ -1,9 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 马来西亚 vs 约旦 | 63-48 | 直播14 | 直播14
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 马来西亚 vs 约旦 | 72-69 | 直播14 | 直播14
 https://live.666666.zip/live/3931376.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 马来西亚 vs 约旦 | 63-48 | 直播14 | 原声67
-https://pul-tenm.gkykp.com/live/sd-2-3931376.m3u8?txSecret=bd1d62f841ad5d4ae79d11befa49c099&txTime=6A802749
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 马来西亚 vs 约旦 | 72-69 | 直播14 | 原声67
+https://pul-tenm.gkykp.com/live/sd-2-3931376.m3u8?txSecret=a26bb900b20fc7ee1dcf4de997b49bd5&txTime=6A802A18
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1021.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 中国台北白队 vs 加州大学尔湾分校 | 0-0 | 直播21 | 直播21
+https://live.666666.zip/live/3931373.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1021.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 中国台北白队 vs 加州大学尔湾分校 | 0-0 | 直播21 | 原声69
+https://pul-tenm.gkykp.com/live/sd-2-3931373.m3u8?txSecret=bdfe5b77ca5ddf64369d33601acd295e&txTime=6A802A18
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1036.jpg?v=1780171883879" group-title="俄青联",俄青联 | 乌拉尔青年队 vs 罗斯杜夫青年队 | 0-0 | 直播36 | 直播36
 https://live.666666.zip/live/4506579.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1265.jpg?v=1780171883879" group-title="亚锦U18",亚锦U18 | 伊朗U18 vs 卡塔尔U18 | 49-26 | 原声65 | 原声65
-https://pul-tenm.gkykp.com/live/sd-2-3926214.m3u8?txSecret=af2f998df76b85027d2b25c2a95ef18a&txTime=6A802749
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1037.jpg?v=1780171883879" group-title="俄青联",俄青联 | 诺夫哥罗德青年队 vs 科诺普廖夫青年队 | 0-0 | 直播37 | 直播37
+https://live.666666.zip/live/4506576.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1265.jpg?v=1780171883879" group-title="亚锦U18",亚锦U18 | 伊朗U18 vs 卡塔尔U18 | 51-27 | 原声65 | 原声65
+https://pul-tenm.gkykp.com/live/sd-2-3926214.m3u8?txSecret=675b24a78b462054c30e7952778ead00&txTime=6A802A18
