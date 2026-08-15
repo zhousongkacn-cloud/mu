@@ -1,197 +1,181 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="日职联",日职联 | 鹿岛鹿角 vs 名古屋鲸鱼 | 1-1 | 直播3 | 直播3
-https://live.666666.zip/live/4555162.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="日职联",日职联 | 鹿岛鹿角 vs 名古屋鲸鱼 | 1-1 | 直播3 | 原声160
-https://pul-tenm.gkykp.com/live/sd-1-4555162.m3u8?txSecret=79b5a780dd42285b8de1c53870c6db7a&txTime=6A819831
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1054.jpg?v=1780171883879" group-title="中超",中超 | 辽宁铁人 vs 深圳新鹏城 | 0-0 | 直播54 | 直播54
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1054.jpg?v=1780171883879" group-title="中超",中超 | 辽宁铁人 vs 深圳新鹏城 | 1-0 | 直播54 | 直播54
 https://live.666666.zip/live/4498883.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1054.jpg?v=1780171883879" group-title="中超",中超 | 辽宁铁人 vs 深圳新鹏城 | 0-0 | 直播54 | 原声6
-https://pul-tenm.gkykp.com/live/hd-zh-1-4498883.m3u8?txSecret=c8bae96643c6469b43385db7816d3a10&txTime=6A8197B9
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1026.jpg?v=1780171883879" group-title="日职联",日职联 | 冈山绿雉 vs 长崎成功丸 | 0-0 | 直播26 | 直播26
-https://live.666666.zip/live/4555170.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1026.jpg?v=1780171883879" group-title="日职联",日职联 | 冈山绿雉 vs 长崎成功丸 | 0-0 | 直播26 | 原声59
-https://pul-tenm.gkykp.com/live/sd-1-4555170.m3u8?txSecret=99b2e5a878b59037dd54a8a48984d28e&txTime=6A819832
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1054.jpg?v=1780171883879" group-title="中超",中超 | 辽宁铁人 vs 深圳新鹏城 | 1-0 | 直播54 | 原声6
+https://pul-tenm.gkykp.com/live/hd-zh-1-4498883.m3u8?txSecret=31f6e884545fb1efe55de3f23e2d9d6c&txTime=6A819B79
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="日职联",日职联 | 清水心跳 vs 横滨水手 | 0-1 | 直播7 | 直播7
+https://live.666666.zip/live/4555173.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="日职联",日职联 | 清水心跳 vs 横滨水手 | 0-1 | 直播7 | 原声50
+https://pul-tenm.gkykp.com/live/sd-1-4555173.m3u8?txSecret=14c28a4893c54a1b2b2b24ff7767d322&txTime=6A819B79
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1048.jpg?v=1780171883879" group-title="韩K联",韩K联 | 光州FC vs 浦项铁人 | 0-1 | 直播48 | 直播48
+https://live.666666.zip/live/4480445.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1048.jpg?v=1780171883879" group-title="韩K联",韩K联 | 光州FC vs 浦项铁人 | 0-1 | 直播48 | 原声73
+https://pul-tenm.gkykp.com/live/sd-1-4480445.m3u8?txSecret=2070e2f34efea8566500895840744f5e&txTime=6A819B79
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1028.jpg?v=1780171883879" group-title="日职联",日职联 | 川崎前锋 vs 京都不死鸟 | 1-0 | 直播28 | 直播28
+https://live.666666.zip/live/4555167.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1028.jpg?v=1780171883879" group-title="日职联",日职联 | 川崎前锋 vs 京都不死鸟 | 1-0 | 直播28 | 原声122
+https://pul-tenm.gkykp.com/live/sd-1-4555167.m3u8?txSecret=6aa04e0c4185f53f1ae37bc32d7ada57&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1029.jpg?v=1780171883879" group-title="日职联",日职联 | 浦和红钻 vs 广岛三箭 | 1-2 | 直播29 | 直播29
 https://live.666666.zip/live/4555168.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1029.jpg?v=1780171883879" group-title="日职联",日职联 | 浦和红钻 vs 广岛三箭 | 1-2 | 直播29 | 原声175
-https://pul-tenm.gkykp.com/live/sd-1-4555168.m3u8?txSecret=e5ade941ab7cb046ec71d501631489ab&txTime=6A819832
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1048.jpg?v=1780171883879" group-title="韩K联",韩K联 | 光州FC vs 浦项铁人 | 0-0 | 直播48 | 直播48
-https://live.666666.zip/live/4480445.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1048.jpg?v=1780171883879" group-title="韩K联",韩K联 | 光州FC vs 浦项铁人 | 0-0 | 直播48 | 原声73
-https://pul-tenm.gkykp.com/live/sd-1-4480445.m3u8?txSecret=1302103325227623304f4562d97d9667&txTime=6A819832
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="日职联",日职联 | 清水心跳 vs 横滨水手 | 0-0 | 直播7 | 直播7
-https://live.666666.zip/live/4555173.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="日职联",日职联 | 清水心跳 vs 横滨水手 | 0-0 | 直播7 | 原声50
-https://pul-tenm.gkykp.com/live/sd-1-4555173.m3u8?txSecret=836c67c2d9efe15a56794d644633eab1&txTime=6A819831
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="中乙",中乙 | 北京理工 vs 长春喜都 | 0-0 | 直播11 | 直播11
+https://pul-tenm.gkykp.com/live/sd-1-4555168.m3u8?txSecret=368703081ffe8b6e597d57601017c242&txTime=6A819B79
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1086.jpg?v=1780171883879" group-title="亚锦U18",亚锦U18 | 巴林U18 vs 新西兰U18 | 4-18 | 直播86 | 直播86
+https://live.666666.zip/live/3926218.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="中乙",中乙 | 北京理工 vs 长春喜都 | 1-0 | 直播11 | 直播11
 https://live.666666.zip/live/4513084.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="中乙",中乙 | 北京理工 vs 长春喜都 | 0-0 | 直播11 | 原声87
-https://pul-tenm.gkykp.com/live/sd-1-4513084.m3u8?txSecret=074b2b6479a95251d8a392fb127bd24b&txTime=6A819832
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="中乙",中乙 | 北京理工 vs 长春喜都 | 1-0 | 直播11 | 原声87
+https://pul-tenm.gkykp.com/live/sd-1-4513084.m3u8?txSecret=c6e87e19b5db3fe6e27697064a480880&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="中乙",中乙 | 山东泰山B队 vs 大连英博B队 | 0-0 | 直播15 | 直播15
 https://live.666666.zip/live/4513093.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="中乙",中乙 | 山东泰山B队 vs 大连英博B队 | 0-0 | 直播15 | 原声88
-https://pul-tenm.gkykp.com/live/sd-1-4513093.m3u8?txSecret=64c747c9f4e63e0efe2ffaba0bbe390b&txTime=6A819832
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="日职丙",日职丙 | 北九州向日葵 vs 赞岐釜玉海 | 0-0 | 直播17 | 直播17
-https://live.666666.zip/live/4555921.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="日职丙",日职丙 | 北九州向日葵 vs 赞岐釜玉海 | 0-0 | 直播17 | 原声165
-https://pul-tenm.gkykp.com/live/sd-1-4555921.m3u8?txSecret=4d3e4f0e14c74907ec66a7c5afe74eb3&txTime=6A819831
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="日职丙",日职丙 | FC岐阜 vs 高知联合 | 7-0 | 直播18 | 直播18
-https://live.666666.zip/live/4555927.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="日职丙",日职丙 | FC岐阜 vs 高知联合 | 7-0 | 直播18 | 原声166
-https://pul-tenm.gkykp.com/live/sd-1-4555927.m3u8?txSecret=b32fdd1a2759e706c1753aa724db9832&txTime=6A819831
+https://pul-tenm.gkykp.com/live/sd-1-4513093.m3u8?txSecret=3f0bf23029d787032361e96cc1dc7ab2&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="澳南超",澳南超 | 白城伍德维尔 vs 阿德莱德城 | 0-2 | 直播19 | 直播19
 https://live.666666.zip/live/4466994.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="澳南超",澳南超 | 白城伍德维尔 vs 阿德莱德城 | 0-2 | 直播19 | 原声67
-https://pul-tenm.gkykp.com/live/sd-1-4466994.m3u8?txSecret=1070368e4ae54a4b53a5ab9d2ddea072&txTime=6A819831
+https://pul-tenm.gkykp.com/live/sd-1-4466994.m3u8?txSecret=68c9637aba293520106ac32347a5e569&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1020.jpg?v=1780171883879" group-title="澳南超",澳南超 | 地铁之星 vs 克罗伊登国王 | 1-0 | 直播20 | 直播20
 https://live.666666.zip/live/4466995.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1020.jpg?v=1780171883879" group-title="澳南超",澳南超 | 地铁之星 vs 克罗伊登国王 | 1-0 | 直播20 | 原声169
-https://pul-tenm.gkykp.com/live/sd-1-4466995.m3u8?txSecret=ea924d93023d26bbe344d85a71a7c190&txTime=6A819831
+https://pul-tenm.gkykp.com/live/sd-1-4466995.m3u8?txSecret=02e7b98592d96cb5e29d8f0aa8f0a7a2&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1021.jpg?v=1780171883879" group-title="澳南超",澳南超 | 帕拉山骑士 vs 阿德莱德彗星 | 1-5 | 直播21 | 直播21
 https://live.666666.zip/live/4466996.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1022.jpg?v=1780171883879" group-title="澳南超",澳南超 | 斯特尔特狮队 vs 坎贝尔市体育馆 | 1-3 | 直播22 | 直播22
 https://live.666666.zip/live/4466997.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1022.jpg?v=1780171883879" group-title="澳南超",澳南超 | 斯特尔特狮队 vs 坎贝尔市体育馆 | 1-3 | 直播22 | 原声171
-https://pul-tenm.gkykp.com/live/sd-1-4466997.m3u8?txSecret=345b07688b442fd829bdd161611e4890&txTime=6A819831
+https://pul-tenm.gkykp.com/live/sd-1-4466997.m3u8?txSecret=10594cf2bff475545f5e2ab7cbb6af82&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1023.jpg?v=1780171883879" group-title="澳南超",澳南超 | 西阿德莱德SC vs 普雷福特 | 1-2 | 直播23 | 直播23
 https://live.666666.zip/live/4466998.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1023.jpg?v=1780171883879" group-title="澳南超",澳南超 | 西阿德莱德SC vs 普雷福特 | 1-2 | 直播23 | 原声172
-https://pul-tenm.gkykp.com/live/sd-1-4466998.m3u8?txSecret=d829faef07a1ed13e16f9892a8a553f6&txTime=6A819831
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1024.jpg?v=1780171883879" group-title="澳南超",澳南超 | 托列斯比卡拉 vs 阿德莱德联青年队 | 1-1 | 直播24 | 直播24
+https://pul-tenm.gkykp.com/live/sd-1-4466998.m3u8?txSecret=c6f6c74ea7cb72b47a2578c82e94c7b8&txTime=6A819B79
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1024.jpg?v=1780171883879" group-title="澳南超",澳南超 | 托列斯比卡拉 vs 阿德莱德联青年队 | 2-1 | 直播24 | 直播24
 https://live.666666.zip/live/4466999.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1024.jpg?v=1780171883879" group-title="澳南超",澳南超 | 托列斯比卡拉 vs 阿德莱德联青年队 | 1-1 | 直播24 | 原声173
-https://pul-tenm.gkykp.com/live/sd-1-4466999.m3u8?txSecret=9d122b16e0108ea5585bce4e903af5b6&txTime=6A819831
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1780171883879" group-title="日职乙",日职乙 | 藤枝MYFC vs 磐城FC | 2-1 | 直播25 | 直播25
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1024.jpg?v=1780171883879" group-title="澳南超",澳南超 | 托列斯比卡拉 vs 阿德莱德联青年队 | 2-1 | 直播24 | 原声173
+https://pul-tenm.gkykp.com/live/sd-1-4466999.m3u8?txSecret=6e82382b83a67d86b7980bd68b621962&txTime=6A819B79
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1780171883879" group-title="日职乙",日职乙 | 藤枝MYFC vs 磐城FC | 3-1 | 直播25 | 直播25
 https://live.666666.zip/live/4555632.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1780171883879" group-title="日职乙",日职乙 | 藤枝MYFC vs 磐城FC | 2-1 | 直播25 | 原声174
-https://pul-tenm.gkykp.com/live/sd-1-4555632.m3u8?txSecret=442fe04ada0d7a58f24365b359a3363c&txTime=6A819832
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1780171883879" group-title="日职乙",日职乙 | 藤枝MYFC vs 磐城FC | 3-1 | 直播25 | 原声174
+https://pul-tenm.gkykp.com/live/sd-1-4555632.m3u8?txSecret=1faa9660437cd17c9773ba0b15b30979&txTime=6A819B79
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1026.jpg?v=1780171883879" group-title="日职联",日职联 | 冈山绿雉 vs 长崎成功丸 | 0-0 | 直播26 | 直播26
+https://live.666666.zip/live/4555170.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1026.jpg?v=1780171883879" group-title="日职联",日职联 | 冈山绿雉 vs 长崎成功丸 | 0-0 | 直播26 | 原声59
+https://pul-tenm.gkykp.com/live/sd-1-4555170.m3u8?txSecret=f4d60cd9ee8149df254f296f79cf5ece&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1027.jpg?v=1780171883879" group-title="日职联",日职联 | 千叶市原 vs 町田泽维亚 | 0-2 | 直播27 | 直播27
 https://live.666666.zip/live/4555157.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1027.jpg?v=1780171883879" group-title="日职联",日职联 | 千叶市原 vs 町田泽维亚 | 0-2 | 直播27 | 原声65
-https://pul-tenm.gkykp.com/live/sd-1-4555157.m3u8?txSecret=e984fd4bf6a63dd6ab34d4aa6b363300&txTime=6A819832
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1028.jpg?v=1780171883879" group-title="日职联",日职联 | 川崎前锋 vs 京都不死鸟 | 1-0 | 直播28 | 直播28
-https://live.666666.zip/live/4555167.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1028.jpg?v=1780171883879" group-title="日职联",日职联 | 川崎前锋 vs 京都不死鸟 | 1-0 | 直播28 | 原声122
-https://pul-tenm.gkykp.com/live/sd-1-4555167.m3u8?txSecret=feb4b035be9a283e39d1d61a9516a560&txTime=6A819832
+https://pul-tenm.gkykp.com/live/sd-1-4555157.m3u8?txSecret=38d7ae6c3ed4c8bf2c1a8db652d6f3ef&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1030.jpg?v=1780171883879" group-title="日职联",日职联 | 神户胜利船 vs FC东京 | 1-1 | 直播30 | 直播30
 https://live.666666.zip/live/4555171.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1030.jpg?v=1780171883879" group-title="日职联",日职联 | 神户胜利船 vs FC东京 | 1-1 | 直播30 | 原声176
-https://pul-tenm.gkykp.com/live/sd-1-4555171.m3u8?txSecret=07afd6b50bf892ae9ffeda3506c7bea5&txTime=6A819832
+https://pul-tenm.gkykp.com/live/sd-1-4555171.m3u8?txSecret=688289381bd003c5bfd2d7d248636ab0&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1033.jpg?v=1780171883879" group-title="乌克超",乌克超 | 克里夫巴斯 vs 利维贝雷 | 1-0 | 直播33 | 直播33
 https://live.666666.zip/live/4569645.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1033.jpg?v=1780171883879" group-title="乌克超",乌克超 | 克里夫巴斯 vs 利维贝雷 | 1-0 | 直播33 | 原声179
-https://pul-tenm.gkykp.com/live/sd-1-4569645.m3u8?txSecret=d07567205d0e3847f84f33b565b49cd5&txTime=6A819832
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1034.jpg?v=1780171883879" group-title="韩女联",韩女联 | 康津天鹅女足 vs 仁川现代女足 | 0-1 | 直播34 | 直播34
+https://pul-tenm.gkykp.com/live/sd-1-4569645.m3u8?txSecret=7180c43ade0231dc6e06b90312ec8e5e&txTime=6A819B79
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1034.jpg?v=1780171883879" group-title="韩女联",韩女联 | 康津天鹅女足 vs 仁川现代女足 | 1-1 | 直播34 | 直播34
 https://live.666666.zip/live/4514735.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1035.jpg?v=1780171883879" group-title="韩女联",韩女联 | 世宗体育女足 vs 华川KSPO女足 | 0-0 | 直播35 | 直播35
 https://live.666666.zip/live/4514736.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1035.jpg?v=1780171883879" group-title="韩女联",韩女联 | 世宗体育女足 vs 华川KSPO女足 | 0-0 | 直播35 | 原声181
-https://pul-tenm.gkykp.com/live/sd-1-4514736.m3u8?txSecret=fcacb6cc58cb5aa656f7a7383d339166&txTime=6A8197B8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1036.jpg?v=1780171883879" group-title="日职乙",日职乙 | 新潟天鹅 vs 札幌冈萨多 | 1-1 | 直播36 | 直播36
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1036.jpg?v=1780171883879" group-title="日职乙",日职乙 | 新潟天鹅 vs 札幌冈萨多 | 2-1 | 直播36 | 直播36
 https://live.666666.zip/live/4555541.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1036.jpg?v=1780171883879" group-title="日职乙",日职乙 | 新潟天鹅 vs 札幌冈萨多 | 1-1 | 直播36 | 原声182
-https://pul-tenm.gkykp.com/live/sd-1-4555541.m3u8?txSecret=83a905b4c80c1a24420a34adb477912b&txTime=6A819832
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1036.jpg?v=1780171883879" group-title="日职乙",日职乙 | 新潟天鹅 vs 札幌冈萨多 | 2-1 | 直播36 | 原声182
+https://pul-tenm.gkykp.com/live/sd-1-4555541.m3u8?txSecret=1a4bc141dadec86e8aa03a192cc3bf78&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1037.jpg?v=1780171883879" group-title="日职乙",日职乙 | 仙台七夕 vs 大分三神 | 0-0 | 直播37 | 直播37
 https://live.666666.zip/live/4555542.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1037.jpg?v=1780171883879" group-title="日职乙",日职乙 | 仙台七夕 vs 大分三神 | 0-0 | 直播37 | 原声183
-https://pul-tenm.gkykp.com/live/sd-1-4555542.m3u8?txSecret=bcd42a90192971d1b59e5b8110d93776&txTime=6A819832
+https://pul-tenm.gkykp.com/live/sd-1-4555542.m3u8?txSecret=74fbfd3c244b84be7b81fd9be6dfcc59&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1038.jpg?v=1780171883879" group-title="日职乙",日职乙 | FC今治 vs RB大宫松鼠 | 1-2 | 直播38 | 直播38
 https://live.666666.zip/live/4555543.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1038.jpg?v=1780171883879" group-title="日职乙",日职乙 | FC今治 vs RB大宫松鼠 | 1-2 | 直播38 | 原声184
-https://pul-tenm.gkykp.com/live/sd-1-4555543.m3u8?txSecret=4fad26c4d3db907b0320f6b2bcf97a1a&txTime=6A819832
+https://pul-tenm.gkykp.com/live/sd-1-4555543.m3u8?txSecret=512123d04195b4674528c25027c935ac&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1039.jpg?v=1780171883879" group-title="日职乙",日职乙 | 甲府风林 vs 宫崎棒牛鸟 | 1-1 | 直播39 | 直播39
 https://live.666666.zip/live/4555547.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1039.jpg?v=1780171883879" group-title="日职乙",日职乙 | 甲府风林 vs 宫崎棒牛鸟 | 1-1 | 直播39 | 原声185
-https://pul-tenm.gkykp.com/live/sd-1-4555547.m3u8?txSecret=b4108ba70ebc4a9e668af4eb257b618b&txTime=6A819832
+https://pul-tenm.gkykp.com/live/sd-1-4555547.m3u8?txSecret=ab4dee8f272c8db314c9315c1c41f26e&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1040.jpg?v=1780171883879" group-title="日职乙",日职乙 | 湘南丽海 vs 山形山神 | 0-0 | 直播40 | 直播40
 https://live.666666.zip/live/4555551.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1040.jpg?v=1780171883879" group-title="日职乙",日职乙 | 湘南丽海 vs 山形山神 | 0-0 | 直播40 | 原声186
-https://pul-tenm.gkykp.com/live/sd-1-4555551.m3u8?txSecret=2cc89b4206b61fbd45902bcfe472d800&txTime=6A819832
+https://pul-tenm.gkykp.com/live/sd-1-4555551.m3u8?txSecret=a2170f0b65367ef974e27a6540fec83e&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1041.jpg?v=1780171883879" group-title="日职丙",日职丙 | 熊本深红 vs 枥木SC | 0-0 | 直播41 | 直播41
 https://live.666666.zip/live/4555919.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1041.jpg?v=1780171883879" group-title="日职丙",日职丙 | 熊本深红 vs 枥木SC | 0-0 | 直播41 | 原声187
-https://pul-tenm.gkykp.com/live/sd-1-4555919.m3u8?txSecret=20a6d41c6131086d9cbae33d65f9d7a5&txTime=6A819832
+https://pul-tenm.gkykp.com/live/sd-1-4555919.m3u8?txSecret=0127a765d057d373ecaa0ffe716b6d4b&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1042.jpg?v=1780171883879" group-title="日职丙",日职丙 | 山口雷法 vs FC琉球冲绳 | 1-0 | 直播42 | 直播42
 https://live.666666.zip/live/4555925.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1042.jpg?v=1780171883879" group-title="日职丙",日职丙 | 山口雷法 vs FC琉球冲绳 | 1-0 | 直播42 | 原声188
-https://pul-tenm.gkykp.com/live/sd-1-4555925.m3u8?txSecret=11f901eb8bf88442d0a437a902cec8ef&txTime=6A819832
+https://pul-tenm.gkykp.com/live/sd-1-4555925.m3u8?txSecret=786dbdf86c1edad46650234ba3869603&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1043.jpg?v=1780171883879" group-title="日职丙",日职丙 | 金泽共进 vs 福岛联 | 0-2 | 直播43 | 直播43
 https://live.666666.zip/live/4555931.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1043.jpg?v=1780171883879" group-title="日职丙",日职丙 | 金泽共进 vs 福岛联 | 0-2 | 直播43 | 原声189
-https://pul-tenm.gkykp.com/live/sd-1-4555931.m3u8?txSecret=28f724ed17b13d3de8235cc8decc3329&txTime=6A819832
+https://pul-tenm.gkykp.com/live/sd-1-4555931.m3u8?txSecret=87549c08909f842255619933ec5118be&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1044.jpg?v=1780171883879" group-title="日职丙",日职丙 | 群马草津温泉 vs SC相模原 | 0-2 | 直播44 | 直播44
 https://live.666666.zip/live/4555936.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1044.jpg?v=1780171883879" group-title="日职丙",日职丙 | 群马草津温泉 vs SC相模原 | 0-2 | 直播44 | 原声190
-https://pul-tenm.gkykp.com/live/sd-1-4555936.m3u8?txSecret=0f5c9568a0da7005f47f4d477ae3812e&txTime=6A819832
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1045.jpg?v=1780171883879" group-title="瑞典乙",瑞典乙 | BK奥林匹克 vs 阿里安娜 | 0-0 | 直播45 | 直播45
+https://pul-tenm.gkykp.com/live/sd-1-4555936.m3u8?txSecret=36834a502bcb0a92b40533d2059d5318&txTime=6A819B79
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1045.jpg?v=1780171883879" group-title="瑞典乙",瑞典乙 | BK奥林匹克 vs 阿里安娜 | 1-0 | 直播45 | 直播45
 https://live.666666.zip/live/4475316.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1045.jpg?v=1780171883879" group-title="瑞典乙",瑞典乙 | BK奥林匹克 vs 阿里安娜 | 0-0 | 直播45 | 原声10
-https://pul-tenm.gkykp.com/live/sd-1-4475316.m3u8?txSecret=8967c2bce6d764f3a1de31d25578ee52&txTime=6A819832
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1045.jpg?v=1780171883879" group-title="瑞典乙",瑞典乙 | BK奥林匹克 vs 阿里安娜 | 1-0 | 直播45 | 原声10
+https://pul-tenm.gkykp.com/live/sd-1-4475316.m3u8?txSecret=0361f1998d65d7747d1ca959bed7c2b7&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1046.jpg?v=1780171883879" group-title="韩K联",韩K联 | 济州SK vs 安养FC | 0-0 | 直播46 | 直播46
 https://live.666666.zip/live/4480425.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1046.jpg?v=1780171883879" group-title="韩K联",韩K联 | 济州SK vs 安养FC | 0-0 | 直播46 | 原声158
-https://pul-tenm.gkykp.com/live/sd-1-4480425.m3u8?txSecret=0961fb3b56820a2fe6355277f96b338f&txTime=6A819832
+https://pul-tenm.gkykp.com/live/sd-1-4480425.m3u8?txSecret=16b1e340deb5e3fed9e1540aa315afd7&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1050.jpg?v=1780171883879" group-title="韩K2联",韩K2联 | 釜山偶像 vs 华城FC | 0-0 | 直播50 | 直播50
 https://live.666666.zip/live/4481162.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1050.jpg?v=1780171883879" group-title="韩K2联",韩K2联 | 釜山偶像 vs 华城FC | 0-0 | 直播50 | 原声74
-https://pul-tenm.gkykp.com/live/sd-1-4481162.m3u8?txSecret=f5bc04c4eb36ac7f64176eb85a0c666e&txTime=6A819832
+https://pul-tenm.gkykp.com/live/sd-1-4481162.m3u8?txSecret=b32b4d5c7b6d96ac9cc0f67062752464&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1051.jpg?v=1780171883879" group-title="韩K2联",韩K2联 | 忠北清州 vs 全南天龙 | 0-0 | 直播51 | 直播51
 https://live.666666.zip/live/4481163.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1051.jpg?v=1780171883879" group-title="韩K2联",韩K2联 | 忠北清州 vs 全南天龙 | 0-0 | 直播51 | 原声75
-https://pul-tenm.gkykp.com/live/sd-1-4481163.m3u8?txSecret=0cfe13b3d6ae467d9389cbe3b5d3a440&txTime=6A819832
+https://pul-tenm.gkykp.com/live/sd-1-4481163.m3u8?txSecret=a3928e5569df1ea6125517c1b9ef7918&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1052.jpg?v=1780171883879" group-title="韩K2联",韩K2联 | 金海 vs 庆南FC | 0-0 | 直播52 | 直播52
 https://live.666666.zip/live/4481164.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1052.jpg?v=1780171883879" group-title="韩K2联",韩K2联 | 金海 vs 庆南FC | 0-0 | 直播52 | 原声79
-https://pul-tenm.gkykp.com/live/sd-1-4481164.m3u8?txSecret=1210ba4d78c6a5fe8180f6e80942f82b&txTime=6A819832
+https://pul-tenm.gkykp.com/live/sd-1-4481164.m3u8?txSecret=6b7114f7c522066f40812ea9c57f1ba1&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1053.jpg?v=1780171883879" group-title="韩K2联",韩K2联 | 水原三星 vs 水原FC | 1-0 | 直播53 | 直播53
 https://live.666666.zip/live/4481165.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1053.jpg?v=1780171883879" group-title="韩K2联",韩K2联 | 水原三星 vs 水原FC | 1-0 | 直播53 | 原声84
-https://pul-tenm.gkykp.com/live/sd-1-4481165.m3u8?txSecret=d535f32456755a0883b101ebaf04893f&txTime=6A819832
+https://pul-tenm.gkykp.com/live/sd-1-4481165.m3u8?txSecret=12d9d83ef5e134a1f7bd5e4b9eae4d53&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1056.jpg?v=1780171883879" group-title="德乙",德乙 | 菲尔特 vs 纽伦堡 | 0-0 | 直播56 | 直播56
 https://live.666666.zip/live/4566545.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1056.jpg?v=1780171883879" group-title="德乙",德乙 | 菲尔特 vs 纽伦堡 | 0-0 | 直播56 | 原声85
-https://pul-tenm.gkykp.com/live/sd-1-4566545.m3u8?txSecret=7d4d0efe7fea7eab9c27a2a931d916ef&txTime=6A819832
+https://pul-tenm.gkykp.com/live/sd-1-4566545.m3u8?txSecret=f3dceb6d68b800f294ea92a9973410d7&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1057.jpg?v=1780171883879" group-title="德乙",德乙 | 奥斯纳布吕克 vs 马格德堡 | 0-0 | 直播57 | 直播57
 https://live.666666.zip/live/4566574.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1057.jpg?v=1780171883879" group-title="德乙",德乙 | 奥斯纳布吕克 vs 马格德堡 | 0-0 | 直播57 | 原声70
-https://pul-tenm.gkykp.com/live/sd-1-4566574.m3u8?txSecret=25e13df112b61f452384657bffcff6cd&txTime=6A8197B9
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1060.jpg?v=1780171883879" group-title="丹麦甲",丹麦甲 | 希勒罗德 vs 奥胡斯费马 | 0-0 | 直播60 | 直播60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1060.jpg?v=1780171883879" group-title="丹麦甲",丹麦甲 | 希勒罗德 vs 奥胡斯费马 | 0-1 | 直播60 | 直播60
 https://live.666666.zip/live/4553461.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1060.jpg?v=1780171883879" group-title="丹麦甲",丹麦甲 | 希勒罗德 vs 奥胡斯费马 | 0-0 | 直播60 | 原声159
-https://pul-tenm.gkykp.com/live/sd-1-4553461.m3u8?txSecret=5b6b4a444f59ab7d934e510d5b1163f3&txTime=6A819832
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1069.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 马来西亚 vs 中国台北白队 | 50-50 | 直播69 | 直播69
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1060.jpg?v=1780171883879" group-title="丹麦甲",丹麦甲 | 希勒罗德 vs 奥胡斯费马 | 0-1 | 直播60 | 原声159
+https://pul-tenm.gkykp.com/live/sd-1-4553461.m3u8?txSecret=348aa00d63c4f89936752edede6feb52&txTime=6A819B79
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1069.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 马来西亚 vs 中国台北白队 | 60-64 | 直播69 | 直播69
 https://live.666666.zip/live/3931348.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1069.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 马来西亚 vs 中国台北白队 | 50-50 | 直播69 | 原声167
-https://pul-tenm.gkykp.com/live/sd-2-3931348.m3u8?txSecret=86e7fedb05ae239c2c46b94e7fb81606&txTime=6A819831
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1069.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 马来西亚 vs 中国台北白队 | 60-64 | 直播69 | 原声167
+https://pul-tenm.gkykp.com/live/sd-2-3931348.m3u8?txSecret=3582880f0055df10d8ad39045f851b3c&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1083.jpg?v=1780171883879" group-title="瑞典乙",瑞典乙 | 安吉尔霍姆斯 vs 特罗尔海坦 | 0-0 | 直播83 | 直播83
 https://live.666666.zip/live/4475311.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1083.jpg?v=1780171883879" group-title="瑞典乙",瑞典乙 | 安吉尔霍姆斯 vs 特罗尔海坦 | 0-0 | 直播83 | 原声199
-https://pul-tenm.gkykp.com/live/sd-1-4475311.m3u8?txSecret=4295b7c0c6b15ef2f7e4889dafb12c7a&txTime=6A819832
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1084.jpg?v=1780171883879" group-title="瑞典乙",瑞典乙 | 卡尔堡斯 vs 斯托克松德 | 0-0 | 直播84 | 直播84
+https://pul-tenm.gkykp.com/live/sd-1-4475311.m3u8?txSecret=b1fe4041d7318f540ceddfa8cc26fe52&txTime=6A819B79
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1084.jpg?v=1780171883879" group-title="瑞典乙",瑞典乙 | 卡尔堡斯 vs 斯托克松德 | 1-0 | 直播84 | 直播84
 https://live.666666.zip/live/4475554.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1084.jpg?v=1780171883879" group-title="瑞典乙",瑞典乙 | 卡尔堡斯 vs 斯托克松德 | 0-0 | 直播84 | 原声17
-https://pul-tenm.gkykp.com/live/sd-1-4475554.m3u8?txSecret=e9fee2096b6d33c4e2e656414ff0c6a5&txTime=6A819832
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1084.jpg?v=1780171883879" group-title="瑞典乙",瑞典乙 | 卡尔堡斯 vs 斯托克松德 | 1-0 | 直播84 | 原声17
+https://pul-tenm.gkykp.com/live/sd-1-4475554.m3u8?txSecret=a3a5a81f3df97a646412336602058f51&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1085.jpg?v=1780171883879" group-title="瑞典乙",瑞典乙 | 耶夫勒 vs 于默奥 | 0-0 | 直播85 | 直播85
 https://live.666666.zip/live/4475553.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1085.jpg?v=1780171883879" group-title="瑞典乙",瑞典乙 | 耶夫勒 vs 于默奥 | 0-0 | 直播85 | 原声23
-https://pul-tenm.gkykp.com/live/sd-1-4475553.m3u8?txSecret=92d2e2e545a05e9ad2c9b98523d38b62&txTime=6A819832
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1086.jpg?v=1780171883879" group-title="亚锦U18",亚锦U18 | 巴林U18 vs 新西兰U18 | 0-0 | 直播86 | 直播86
-https://live.666666.zip/live/3926218.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1094.jpg?v=1780171883879" group-title="国际赛",国际赛 | 日本 vs 韩国 | 46-27 | 直播94 | 直播94
+https://pul-tenm.gkykp.com/live/sd-1-4475553.m3u8?txSecret=4ee082fb34054cc1dac48997caf614b4&txTime=6A819B79
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1094.jpg?v=1780171883879" group-title="国际赛",国际赛 | 日本 vs 韩国 | 50-29 | 直播94 | 直播94
 https://live.666666.zip/live/3931368.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1094.jpg?v=1780171883879" group-title="国际赛",国际赛 | 日本 vs 韩国 | 46-27 | 直播94 | 原声37
-https://pul-tenm.gkykp.com/live/sd-2-3931368.m3u8?txSecret=16fe4bc6e0e7a714bcf0371e039eaceb&txTime=6A819832
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1094.jpg?v=1780171883879" group-title="国际赛",国际赛 | 日本 vs 韩国 | 50-29 | 直播94 | 原声37
+https://pul-tenm.gkykp.com/live/sd-2-3931368.m3u8?txSecret=d37912829dffade2f734edf996b4ebd7&txTime=6A819B79
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1271.jpg?v=1780171883879" group-title="德乙",德乙 | 柏林赫塔 vs 海登海姆 | 1-0 | 原声71 | 原声71
+https://pul-tenm.gkykp.com/live/sd-1-4566528.m3u8?txSecret=b453801c4a48632729b4e79259ab3b98&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1377.jpg?v=1780171883879" group-title="日职联",日职联 | 福冈黄蜂 vs 大阪樱花 | 2-0 | 原声177 | 原声177
-https://pul-tenm.gkykp.com/live/sd-1-4555206.m3u8?txSecret=3756fde54e98bb39080a19665cd0e7ca&txTime=6A819832
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1235.jpg?v=1780171883879" group-title="韩K联",韩K联 | FC首尔 vs 大田市民 | 0-0 | 原声35 | 原声35
-https://pul-tenm.gkykp.com/live/sd-1-4480438.m3u8?txSecret=ca1fc0baf721d7024c72b15337244b79&txTime=6A819832
+https://pul-tenm.gkykp.com/live/sd-1-4555206.m3u8?txSecret=d8f41f2b0a3503a39dd4df0e5611db06&txTime=6A819B79
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1235.jpg?v=1780171883879" group-title="韩K联",韩K联 | FC首尔 vs 大田市民 | 0-1 | 原声35 | 原声35
+https://pul-tenm.gkykp.com/live/sd-1-4480438.m3u8?txSecret=985afa112b694026b5a2ea0e5348730b&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1269.jpg?v=1780171883879" group-title="俄甲",俄甲 | 车里雅宾斯克 vs 莫斯科鱼雷 | 0-1 | 原声69 | 原声69
-https://pul-tenm.gkykp.com/live/sd-1-4576455.m3u8?txSecret=935732c77c4e7536d977de8184eae18f&txTime=6A819832
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1271.jpg?v=1780171883879" group-title="德乙",德乙 | 柏林赫塔 vs 海登海姆 | 0-0 | 原声71 | 原声71
-https://pul-tenm.gkykp.com/live/sd-1-4566528.m3u8?txSecret=686a34d1fcfe2bbaf3aa13997f535fc6&txTime=6A819832
+https://pul-tenm.gkykp.com/live/sd-1-4576455.m3u8?txSecret=4bde05d5adef352fa13fd9236c7546e7&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1286.jpg?v=1780171883879" group-title="中甲",中甲 | 无锡吴钩 vs 广州豹 | 0-0 | 原声86 | 原声86
-https://pul-tenm.gkykp.com/live/sd-1-4505367.m3u8?txSecret=0754cfc80027cd40ec90e065a44fd059&txTime=6A819832
+https://pul-tenm.gkykp.com/live/sd-1-4505367.m3u8?txSecret=e0f4214cc5b53978adb863c058637695&txTime=6A819B79
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1289.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 原州东浦新世代 vs 中国台北蓝队 | 0-0 | 原声89 | 原声89
-https://pul-tenm.gkykp.com/live/sd-2-3931353.m3u8?txSecret=801ac4c02231bc904e6892d61c243c20&txTime=6A819832
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1378.jpg?v=1780171883879" group-title="中甲",中甲 | 延边龙鼎 vs 大连鲲城 | 1-0 | 原声178 | 原声178
-https://pul-tenm.gkykp.com/live/sd-1-4505365.m3u8?txSecret=3fdb303eb62b3d2b5f2d4107f5a50e52&txTime=6A819832
+https://pul-tenm.gkykp.com/live/sd-2-3931353.m3u8?txSecret=35096d459998f71d173a46bf2f218e09&txTime=6A819B79
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1378.jpg?v=1780171883879" group-title="中甲",中甲 | 延边龙鼎 vs 大连鲲城 | 1-1 | 原声178 | 原声178
+https://pul-tenm.gkykp.com/live/sd-1-4505365.m3u8?txSecret=09365e6b5e43c94c8659a50fb86b6148&txTime=6A819B79
