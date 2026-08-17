@@ -1,15 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="墨西超",墨西超 | 蒂华纳 vs 蓝十字 | 1-1 | 直播2 | 直播2
+https://live.666666.zip/live/4553828.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="墨西超",墨西超 | 蒂华纳 vs 蓝十字 | 1-1 | 直播2 | 原声147
+https://pul-tenm.gkykp.com/live/sd-1-4553828.m3u8?txSecret=59a1b294f7110c2ebd552c50b37d8d46&txTime=6A83DC08
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="美职业",美职业 | 西雅图海湾人 vs 温哥华白浪 | 0-0 | 直播1 | 直播1
 https://live.666666.zip/live/4460451.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="美职业",美职业 | 西雅图海湾人 vs 温哥华白浪 | 0-0 | 直播1 | 原声145
-https://pul-tenm.gkykp.com/live/hd-en-1-4460451.m3u8?txSecret=74dbb5c5fe0a191f9e63af33d5daf464&txTime=6A83D8C0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="墨西超",墨西超 | 蒂华纳 vs 蓝十字 | 1-0 | 直播2 | 直播2
-https://live.666666.zip/live/4553828.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="墨西超",墨西超 | 蒂华纳 vs 蓝十字 | 1-0 | 直播2 | 原声147
-https://pul-tenm.gkykp.com/live/sd-1-4553828.m3u8?txSecret=9a566371016a7c86e7bd0bd3a38f1595&txTime=6A83D8C0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="美预备联",美预备联 | 洛杉矶FCII队 vs 塔科马反抗者 | 4-3 | 直播6 | 直播6
-https://live.666666.zip/live/4613157.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="美预备联",美预备联 | 洛杉矶FCII队 vs 塔科马反抗者 | 4-3 | 直播6 | 原声41
-https://pul-tenm.gkykp.com/live/sd-1-4613157.m3u8?txSecret=a63efd4b1889be574487b3c513d13240&txTime=6A83D8C0
+https://pul-tenm.gkykp.com/live/hd-en-1-4460451.m3u8?txSecret=7be518da4e8b549af3a228d0ce6d73ff&txTime=6A83DC08
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1244.jpg?v=1780171883879" group-title="美预备联",美预备联 | 圣何塞地震后备队 vs 圣路易斯市B队 | 0-2 | 原声44 | 原声44
-https://pul-tenm.gkykp.com/live/sd-1-4613158.m3u8?txSecret=3b259adf8d23787c0d90903a4c3daa10&txTime=6A83D8C0
+https://pul-tenm.gkykp.com/live/sd-1-4613158.m3u8?txSecret=24c09affae56fe683305e6b59d4409a6&txTime=6A83DC08
