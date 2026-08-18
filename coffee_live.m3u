@@ -1,27 +1,35 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="欧冠",欧冠 | 萨格勒布迪纳摩 vs 维京 | 0-0 | 直播2 | 直播2
+https://live.666666.zip/live/4608836.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="欧冠",欧冠 | 费内巴切 vs 里昂 | 0-0 | 直播4 | 直播4
+https://live.666666.zip/live/4608842.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="欧冠",欧冠 | 费内巴切 vs 里昂 | 0-0 | 直播4 | 原声10
+https://pul-tenm.gkykp.com/live/sd-1-4608842.m3u8?txSecret=ab35521c7872701cd3019bb4f196e599&txTime=6A85FD30
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="沙特王杯",沙特王杯 | 迪里耶 vs 利雅得胜利 | 1-3 | 直播7 | 直播7
 https://live.666666.zip/live/4570039.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="沙特王杯",沙特王杯 | 迪里耶 vs 利雅得胜利 | 1-3 | 直播7 | 原声3
-https://pul-tenm.gkykp.com/live/sd-1-4570039.m3u8?txSecret=40b0ebaf74d846d08a23457eb9a3d023&txTime=6A85F970
+https://pul-tenm.gkykp.com/live/sd-1-4570039.m3u8?txSecret=83d73003a37d65750a9e241bb853e5f0&txTime=6A85FD30
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1021.jpg?v=1780171883879" group-title="俄杯",俄杯 | 格罗兹尼 vs 沃罗涅日火炬 | 2-0 | 直播21 | 直播21
 https://live.666666.zip/live/4566112.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1021.jpg?v=1780171883879" group-title="俄杯",俄杯 | 格罗兹尼 vs 沃罗涅日火炬 | 2-0 | 直播21 | 原声39
-https://pul-tenm.gkykp.com/live/sd-1-4566112.m3u8?txSecret=3a8d6367faf7fda1973977e8675ab38d&txTime=6A85F970
+https://pul-tenm.gkykp.com/live/sd-1-4566112.m3u8?txSecret=27e42dfcead5fefe1915c8b6053726d4&txTime=6A85FD30
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1022.jpg?v=1780171883879" group-title="俄杯",俄杯 | 罗斯托夫 vs 莫斯科火车头 | 0-0 | 直播22 | 直播22
 https://live.666666.zip/live/4566135.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1022.jpg?v=1780171883879" group-title="俄杯",俄杯 | 罗斯托夫 vs 莫斯科火车头 | 0-0 | 直播22 | 原声40
-https://pul-tenm.gkykp.com/live/sd-1-4566135.m3u8?txSecret=0ba00d33e4c9c3529caed54b29a63e80&txTime=6A85F970
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1023.jpg?v=1780171883879" group-title="沙特王杯",沙特王杯 | 费萨里 vs 新未来城体育 | 1-1 | 直播23 | 直播23
+https://pul-tenm.gkykp.com/live/sd-1-4566135.m3u8?txSecret=316fb890b952fc93136355aa0ff720ca&txTime=6A85FD30
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1023.jpg?v=1780171883879" group-title="沙特王杯",沙特王杯 | 费萨里 vs 新未来城体育 | 1-2 | 直播23 | 直播23
 https://live.666666.zip/live/4570051.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1029.jpg?v=1780171883879" group-title="希腊杯",希腊杯 | 莱瓦贾科斯 vs 特里波利斯 | 1-0 | 直播29 | 直播29
 https://live.666666.zip/live/4607422.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1029.jpg?v=1780171883879" group-title="希腊杯",希腊杯 | 莱瓦贾科斯 vs 特里波利斯 | 1-0 | 直播29 | 原声53
-https://pul-tenm.gkykp.com/live/sd-1-4607422.m3u8?txSecret=3e4cabe797158eac088b5e3f0065f604&txTime=6A85F970
+https://pul-tenm.gkykp.com/live/sd-1-4607422.m3u8?txSecret=58dc25f190ae820c751ba7dc59521f3d&txTime=6A85FD30
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1036.jpg?v=1780171883879" group-title="瑞典杯",瑞典杯 | IFK斯克维德 vs 法尔肯堡 | 1-1 | 直播36 | 直播36
 https://live.666666.zip/live/4613404.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1037.jpg?v=1780171883879" group-title="丹麦杯",丹麦杯 | 尼克宾 vs 纳斯特维德 | 1-1 | 直播37 | 直播37
 https://live.666666.zip/live/4614073.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1037.jpg?v=1780171883879" group-title="丹麦杯",丹麦杯 | 尼克宾 vs 纳斯特维德 | 1-1 | 直播37 | 原声66
-https://pul-tenm.gkykp.com/live/sd-1-4614073.m3u8?txSecret=f106e83bf748c9fa02c4069a262c935b&txTime=6A85F970
+https://pul-tenm.gkykp.com/live/sd-1-4614073.m3u8?txSecret=482700a9002f68f3c82ff2b358b62e57&txTime=6A85FD30
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1209.jpg?v=1780171883879" group-title="欧冠",欧冠 | 索非亚列夫斯基 vs 雅典AEK | 0-0 | 原声9 | 原声9
+https://pul-tenm.gkykp.com/live/sd-1-4608834.m3u8?txSecret=b19a465b0df5d4d069ed385365b3fbc7&txTime=6A85FD30
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1259.jpg?v=1780171883879" group-title="瑞典杯",瑞典杯 | 艾斯基斯杜拿 vs 奥迪沃特 | 3-3 | 原声59 | 原声59
-https://pul-tenm.gkykp.com/live/sd-1-4559664.m3u8?txSecret=15ea0ab995300ae45bc2f92efe64b1aa&txTime=6A85F970
+https://pul-tenm.gkykp.com/live/sd-1-4559664.m3u8?txSecret=633b59c231696af792db08ef6a8c1d12&txTime=6A85FD30
