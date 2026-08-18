@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 加州大学尔湾分校 vs 中国台北白队 | 53-43 | 直播1 | 直播1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 加州大学尔湾分校 vs 中国台北白队 | 65-48 | 直播1 | 直播1
 https://live.666666.zip/live/3931367.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 加州大学尔湾分校 vs 中国台北白队 | 53-43 | 直播1 | 原声61
-https://pul-tenm.gkykp.com/live/sd-2-3931367.m3u8?txSecret=8c71efb76ac892c7fa0a28aa22245a40&txTime=6A8588F0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 加州大学尔湾分校 vs 中国台北白队 | 65-48 | 直播1 | 原声61
+https://pul-tenm.gkykp.com/live/sd-2-3931367.m3u8?txSecret=cbd3c9a18aa684af8a70d134ab8a511f&txTime=6A858C38
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 中国台北蓝队 vs 原州东浦新世代 | 0-0 | 直播3 | 直播3
+https://live.666666.zip/live/3931372.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 中国台北蓝队 vs 原州东浦新世代 | 0-0 | 直播3 | 原声79
+https://pul-tenm.gkykp.com/live/sd-2-3931372.m3u8?txSecret=ed52255d9e8e2c2e05e0fdd7c1cd44b9&txTime=6A858C38
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="澳达超",澳达超 | 明迪尔爱瑟斯 vs 达尔文奥林匹克 | 0-1 | 直播10 | 直播10
 https://live.666666.zip/live/4620792.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="澳达超",澳达超 | 明迪尔爱瑟斯 vs 达尔文奥林匹克 | 0-1 | 直播10 | 原声34
-https://pul-tenm.gkykp.com/live/sd-1-4620792.m3u8?txSecret=84314bb538988b7b2bbdb627f212d2c3&txTime=6A8588F0
+https://pul-tenm.gkykp.com/live/sd-1-4620792.m3u8?txSecret=db6f7480229ec71e4f6ebcaf7102d530&txTime=6A858C38
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1278.jpg?v=1780171883879" group-title="澳足总",澳足总 | 南区突击者 vs 悉尼FC | 0-1 | 原声78 | 原声78
-https://pul-tenm.gkykp.com/live/sd-1-4613918.m3u8?txSecret=f7c7e2bcd6d07268cb26f4e22b4bd6fe&txTime=6A8588F0
+https://pul-tenm.gkykp.com/live/sd-1-4613918.m3u8?txSecret=dc8653ac5c919c4558de9ef2bbd4682a&txTime=6A858C38
