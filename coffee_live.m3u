@@ -1,17 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1035.jpg?v=1780171883879" group-title="中超",中超 | 上海申花 vs 北京国安 | 0-0 | 直播35 | 直播35
+https://live.666666.zip/live/4498914.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1035.jpg?v=1780171883879" group-title="中超",中超 | 上海申花 vs 北京国安 | 0-0 | 直播35 | 原声85
+https://pul-tenm.gkykp.com/live/hd-zh-1-4498914.m3u8?txSecret=037aa82581297932c7d672c1a4cc6001&txTime=6A859340
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 中国台北蓝队 vs 原州东浦新世代 | 0-0 | 直播3 | 直播3
 https://live.666666.zip/live/3931372.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 中国台北蓝队 vs 原州东浦新世代 | 0-0 | 直播3 | 原声79
-https://pul-tenm.gkykp.com/live/sd-2-3931372.m3u8?txSecret=0bb20ffe1925c630d34b1062a0547b9f&txTime=6A858FF8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 加州大学尔湾分校 vs 中国台北白队 | 76-55 | 直播1 | 直播1
-https://live.666666.zip/live/3931367.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 加州大学尔湾分校 vs 中国台北白队 | 76-55 | 直播1 | 原声61
-https://pul-tenm.gkykp.com/live/sd-2-3931367.m3u8?txSecret=fbfa07b5223d59b30dbb05bbed1cf049&txTime=6A858FF8
+https://pul-tenm.gkykp.com/live/sd-2-3931372.m3u8?txSecret=5dc1259b0898522d595cbaadda70abd6&txTime=6A859340
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="澳达超",澳达超 | 明迪尔爱瑟斯 vs 达尔文奥林匹克 | 0-1 | 直播10 | 直播10
 https://live.666666.zip/live/4620792.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="澳达超",澳达超 | 明迪尔爱瑟斯 vs 达尔文奥林匹克 | 0-1 | 直播10 | 原声34
-https://pul-tenm.gkykp.com/live/sd-1-4620792.m3u8?txSecret=aa52ec52c4266e04491e2a0e2ed46787&txTime=6A858FF8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1278.jpg?v=1780171883879" group-title="澳足总",澳足总 | 南区突击者 vs 悉尼FC | 0-1 | 原声78 | 原声78
-https://pul-tenm.gkykp.com/live/sd-1-4613918.m3u8?txSecret=cb4f10a9cb2de46720b173ebcc64b594&txTime=6A858FF8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1280.jpg?v=1780171883879" group-title="亚锦U18",亚锦U18 | 韩国U18 vs 日本U18 | 18-17 | 原声80 | 原声80
-https://pul-tenm.gkykp.com/live/sd-2-3926231.m3u8?txSecret=461c5bd33514673cd6d1f993306277d5&txTime=6A858FF8
+https://pul-tenm.gkykp.com/live/sd-1-4620792.m3u8?txSecret=bb1697fb50b750efbd8686c8c988f581&txTime=6A859340
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1280.jpg?v=1780171883879" group-title="亚锦U18",亚锦U18 | 韩国U18 vs 日本U18 | 26-29 | 原声80 | 原声80
+https://pul-tenm.gkykp.com/live/sd-2-3926231.m3u8?txSecret=16cf7088775a76fdd97ab6169557d9b3&txTime=6A859340
