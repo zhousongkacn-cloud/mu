@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1035.jpg?v=1780171883879" group-title="中超",中超 | 上海申花 vs 北京国安 | 0-0 | 直播35 | 直播35
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1035.jpg?v=1780171883879" group-title="中超",中超 | 上海申花 vs 北京国安 | 0-1 | 直播35 | 直播35
 https://live.666666.zip/live/4498914.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1035.jpg?v=1780171883879" group-title="中超",中超 | 上海申花 vs 北京国安 | 0-0 | 直播35 | 原声85
-https://pul-tenm.gkykp.com/live/hd-zh-1-4498914.m3u8?txSecret=4c11db007def66f3c519fb92f7f8ae30&txTime=6A859E08
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 中国台北蓝队 vs 原州东浦新世代 | 25-29 | 直播3 | 直播3
-https://live.666666.zip/live/3931372.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 中国台北蓝队 vs 原州东浦新世代 | 25-29 | 直播3 | 原声79
-https://pul-tenm.gkykp.com/live/sd-2-3931372.m3u8?txSecret=efeb77b1d834333e7362d289ffa43f8d&txTime=6A859E08
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="澳达超",澳达超 | 明迪尔爱瑟斯 vs 达尔文奥林匹克 | 0-2 | 直播10 | 直播10
-https://live.666666.zip/live/4620792.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="澳达超",澳达超 | 明迪尔爱瑟斯 vs 达尔文奥林匹克 | 0-2 | 直播10 | 原声34
-https://pul-tenm.gkykp.com/live/sd-1-4620792.m3u8?txSecret=e308c1f895fd96b58359aa82af67009c&txTime=6A859E08
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="英乙U21",英乙U21 | 布里斯托尔城U21 vs 维冈竞技U21 | 0-0 | 直播11 | 直播11
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1035.jpg?v=1780171883879" group-title="中超",中超 | 上海申花 vs 北京国安 | 0-1 | 直播35 | 原声85
+https://pul-tenm.gkykp.com/live/hd-zh-1-4498914.m3u8?txSecret=0864a670fe6ac4b5b65a3c241fe65c2c&txTime=6A85A150
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="英乙U21",英乙U21 | 布里斯托尔城U21 vs 维冈竞技U21 | 1-0 | 直播11 | 直播11
 https://live.666666.zip/live/4613401.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="英乙U21",英乙U21 | 布里斯托尔城U21 vs 维冈竞技U21 | 0-0 | 直播11 | 原声71
-https://pul-tenm.gkykp.com/live/sd-1-4613401.m3u8?txSecret=375187b722dca85e9be851c3a37505bc&txTime=6A859E08
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1280.jpg?v=1780171883879" group-title="亚锦U18",亚锦U18 | 韩国U18 vs 日本U18 | 39-39 | 原声80 | 原声80
-https://pul-tenm.gkykp.com/live/sd-2-3926231.m3u8?txSecret=25844912d4908d4d46d28a073898c1a1&txTime=6A859E08
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="英乙U21",英乙U21 | 布里斯托尔城U21 vs 维冈竞技U21 | 1-0 | 直播11 | 原声71
+https://pul-tenm.gkykp.com/live/sd-1-4613401.m3u8?txSecret=057ef22543539fdc06bcece95f69574f&txTime=6A85A150
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 中国台北蓝队 vs 原州东浦新世代 | 44-48 | 直播3 | 直播3
+https://live.666666.zip/live/3931372.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 中国台北蓝队 vs 原州东浦新世代 | 44-48 | 直播3 | 原声79
+https://pul-tenm.gkykp.com/live/sd-2-3931372.m3u8?txSecret=f58a021836c447e19fa5a11915f3cb82&txTime=6A85A150
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1280.jpg?v=1780171883879" group-title="亚锦U18",亚锦U18 | 韩国U18 vs 日本U18 | 52-51 | 原声80 | 原声80
+https://pul-tenm.gkykp.com/live/sd-2-3926231.m3u8?txSecret=e692d8cdb07a53fc10895f51c8b76cef&txTime=6A85A150
