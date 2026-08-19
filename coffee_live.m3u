@@ -1,27 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1780171883879" group-title="中超",中超 | 上海海港 vs 大连英博 | 0-1 | 直播25 | 直播25
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1780171883879" group-title="中超",中超 | 上海海港 vs 大连英博 | 1-1 | 直播25 | 直播25
 https://live.666666.zip/live/4498922.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1780171883879" group-title="中超",中超 | 上海海港 vs 大连英博 | 0-1 | 直播25 | 原声61
-https://pul-tenm.gkykp.com/live/hd-en-1-4498922.m3u8?txSecret=35696a54e4bd69e79a26bb66c4728361&txTime=6A86FD98
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1780171883879" group-title="中超",中超 | 上海海港 vs 大连英博 | 1-1 | 直播25 | 原声61
+https://pul-tenm.gkykp.com/live/hd-en-1-4498922.m3u8?txSecret=f3e039c85811dd10d0091be7134442dc&txTime=6A8700E0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="东南锦",东南锦 | 越南 vs 马来西亚 | 0-0 | 直播2 | 直播2
 https://live.666666.zip/live/4612553.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="东南锦",东南锦 | 越南 vs 马来西亚 | 0-0 | 直播2 | 原声34
-https://pul-tenm.gkykp.com/live/sd-1-4612553.m3u8?txSecret=68f42d0603addd78e291e77d5523e8dd&txTime=6A86FD98
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 日本琼斯队 vs 中国台北蓝队 | 55-36 | 直播6 | 直播6
+https://pul-tenm.gkykp.com/live/sd-1-4612553.m3u8?txSecret=bccd4b329e8a676502b6089c4f611e2d&txTime=6A8700E0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 日本琼斯队 vs 中国台北蓝队 | 66-44 | 直播6 | 直播6
 https://live.666666.zip/live/3931354.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 日本琼斯队 vs 中国台北蓝队 | 55-36 | 直播6 | 原声76
-https://pul-tenm.gkykp.com/live/sd-2-3931354.m3u8?txSecret=4e035ea983af528c70e6dbc1302d9b04&txTime=6A86FD98
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 日本琼斯队 vs 中国台北蓝队 | 66-44 | 直播6 | 原声76
+https://pul-tenm.gkykp.com/live/sd-2-3931354.m3u8?txSecret=a264d33a50f296fdb10b274da95df0bc&txTime=6A8700E0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="俄杯",俄杯 | 苏维埃之翼 vs 泽尼特 | 0-0 | 直播8 | 直播8
 https://live.666666.zip/live/4566133.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="俄杯",俄杯 | 苏维埃之翼 vs 泽尼特 | 0-0 | 直播8 | 原声72
-https://pul-tenm.gkykp.com/live/sd-1-4566133.m3u8?txSecret=40f357059ba807cf84b6892715521bd8&txTime=6A86FD98
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="韩足总",韩足总 | 釜山偶像 vs 富川FC | 0-0 | 直播12 | 直播12
-https://live.666666.zip/live/4613900.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="韩足总",韩足总 | 釜山偶像 vs 富川FC | 0-0 | 直播12 | 原声70
-https://pul-tenm.gkykp.com/live/sd-1-4613900.m3u8?txSecret=95fe5cbf94500d14d3b3d78a4cb1a60d&txTime=6A86FD98
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1026.jpg?v=1780171883879" group-title="中乙",中乙 | 海门珂缔缘 vs 青岛红狮 | 1-1 | 直播26 | 直播26
-https://live.666666.zip/live/4513141.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1026.jpg?v=1780171883879" group-title="中乙",中乙 | 海门珂缔缘 vs 青岛红狮 | 1-1 | 直播26 | 原声50
-https://pul-tenm.gkykp.com/live/sd-1-4513141.m3u8?txSecret=a0c6cc11a189d2153862a6e237bdbad4&txTime=6A86FD98
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1274.jpg?v=1780171883879" group-title="韩足总",韩足总 | 江原FC vs 城南FC | 0-0 | 原声74 | 原声74
-https://pul-tenm.gkykp.com/live/sd-1-4613907.m3u8?txSecret=ebca24474d398a311baa766fe451dafb&txTime=6A86FD98
+https://pul-tenm.gkykp.com/live/sd-1-4566133.m3u8?txSecret=99d8f5c79db0db3689985ac59f68cf60&txTime=6A8700E0
