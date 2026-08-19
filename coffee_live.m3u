@@ -1,17 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1780171883879" group-title="中超",中超 | 上海海港 vs 大连英博 | 1-1 | 直播25 | 直播25
-https://live.666666.zip/live/4498922.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1780171883879" group-title="中超",中超 | 上海海港 vs 大连英博 | 1-1 | 直播25 | 原声61
-https://pul-tenm.gkykp.com/live/hd-en-1-4498922.m3u8?txSecret=f3e039c85811dd10d0091be7134442dc&txTime=6A8700E0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="东南锦",东南锦 | 越南 vs 马来西亚 | 0-0 | 直播2 | 直播2
 https://live.666666.zip/live/4612553.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="东南锦",东南锦 | 越南 vs 马来西亚 | 0-0 | 直播2 | 原声34
-https://pul-tenm.gkykp.com/live/sd-1-4612553.m3u8?txSecret=bccd4b329e8a676502b6089c4f611e2d&txTime=6A8700E0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 日本琼斯队 vs 中国台北蓝队 | 66-44 | 直播6 | 直播6
-https://live.666666.zip/live/3931354.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 日本琼斯队 vs 中国台北蓝队 | 66-44 | 直播6 | 原声76
-https://pul-tenm.gkykp.com/live/sd-2-3931354.m3u8?txSecret=a264d33a50f296fdb10b274da95df0bc&txTime=6A8700E0
+https://pul-tenm.gkykp.com/live/sd-1-4612553.m3u8?txSecret=6cd85526deb08fa6ef9b4a7ec2088b02&txTime=6A8704A0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="俄杯",俄杯 | 苏维埃之翼 vs 泽尼特 | 0-0 | 直播8 | 直播8
 https://live.666666.zip/live/4566133.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="俄杯",俄杯 | 苏维埃之翼 vs 泽尼特 | 0-0 | 直播8 | 原声72
-https://pul-tenm.gkykp.com/live/sd-1-4566133.m3u8?txSecret=99d8f5c79db0db3689985ac59f68cf60&txTime=6A8700E0
+https://pul-tenm.gkykp.com/live/sd-1-4566133.m3u8?txSecret=7feab3bc51c6a22c51fab9a78455a2c4&txTime=6A8704A0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 日本琼斯队 vs 中国台北蓝队 | 84-57 | 直播6 | 直播6
+https://live.666666.zip/live/3931354.m3u8
