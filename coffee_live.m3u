@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="南球杯",南球杯 | 圣保罗 vs 玻利瓦尔 | 0-0 | 直播4 | 直播4
-https://live.666666.zip/live/4609840.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="WNBA",WNBA | 阳光 vs 火花 | 76-57 | 直播11 | 直播11
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="WNBA",WNBA | 阳光 vs 火花 | 85-76 | 直播11 | 直播11
 https://live.666666.zip/live/3909126.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="南球杯",南球杯 | 圣保罗 vs 玻利瓦尔 | 1-0 | 直播4 | 直播4
+https://live.666666.zip/live/4609840.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="南球杯",南球杯 | 圣保罗 vs 玻利瓦尔 | 1-0 | 直播4 | 原声28
+https://pul-tenm.gkykp.com/live/sd-1-4609840.m3u8?txSecret=7b65b92697ca34647cbf56b81fae3dca&txTime=6A865118
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="WNBA",WNBA | 天空 vs 自由人 | 0-0 | 直播14 | 直播14
+https://live.666666.zip/live/3909059.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 累西腓航海 vs 塞阿拉 | 0-0 | 直播3 | 直播3
 https://live.666666.zip/live/4495723.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="自由杯",自由杯 | 托利马体育 vs 山谷独立 | 0-1 | 直播8 | 直播8
@@ -10,8 +14,12 @@ https://live.666666.zip/live/4592453.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="阿根廷杯",阿根廷杯 | 班菲尔德 vs 米德兰 | 2-0 | 直播9 | 直播9
 https://live.666666.zip/live/4549944.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="阿根廷杯",阿根廷杯 | 班菲尔德 vs 米德兰 | 2-0 | 直播9 | 原声24
-https://pul-tenm.gkykp.com/live/sd-1-4549944.m3u8?txSecret=918652aecd2d4d6ed75e866abe273b83&txTime=6A864DD0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="奥女资格",奥女资格 | 南苏丹女篮 vs 阿根廷女篮 | 36-44 | 直播12 | 直播12
+https://pul-tenm.gkykp.com/live/sd-1-4549944.m3u8?txSecret=41b07fd2b5b64a40d96d0d27b7b4c57f&txTime=6A865118
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="奥女资格",奥女资格 | 南苏丹女篮 vs 阿根廷女篮 | 52-49 | 直播12 | 直播12
 https://live.666666.zip/live/3931250.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1249.jpg?v=1780171883879" group-title="玻利杯",玻利杯 | 最强者 vs 东方石油 | 0-0 | 原声49 | 原声49
-https://pul-tenm.gkykp.com/live/sd-1-4613693.m3u8?txSecret=f6bb5d32e2f967fe3e33eeb88ce5f08d&txTime=6A864DD0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="WNBA",WNBA | 王牌 vs 梦想 | 0-0 | 直播13 | 直播13
+https://live.666666.zip/live/3908963.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="WNBA",WNBA | 王牌 vs 梦想 | 0-0 | 直播13 | 原声7
+https://pul-tenm.gkykp.com/live/hd-en-2-3908963.m3u8?txSecret=91fba44add05ac3a9cd177a278f0a471&txTime=6A865118
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1249.jpg?v=1780171883879" group-title="玻利杯",玻利杯 | 最强者 vs 东方石油 | 1-0 | 原声49 | 原声49
+https://pul-tenm.gkykp.com/live/sd-1-4613693.m3u8?txSecret=89178596eb5382b0b417767fd51e62ff&txTime=6A865118
