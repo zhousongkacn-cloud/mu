@@ -1,49 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 约旦 vs 中国台北白队 | 38-39 | 直播2 | 直播2
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 约旦 vs 中国台北白队 | 53-46 | 直播2 | 直播2
 https://live.666666.zip/live/3931349.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 约旦 vs 中国台北白队 | 38-39 | 直播2 | 原声56
-https://pul-tenm.gkykp.com/live/sd-2-3931349.m3u8?txSecret=5240c4ce933d6b01c29b531f9a958dcb&txTime=6A86DA70
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="韩足总",韩足总 | 安养FC vs 济州SK | 0-0 | 直播13 | 直播13
-https://live.666666.zip/live/4613906.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="韩足总",韩足总 | 安养FC vs 济州SK | 0-0 | 直播13 | 原声75
-https://pul-tenm.gkykp.com/live/sd-1-4613906.m3u8?txSecret=efdd6903803eed4f89e65e200cd83f9c&txTime=6A86DA70
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="韩足总",韩足总 | 浦项铁人 vs 晋州市民 | 0-1 | 直播18 | 直播18
-https://live.666666.zip/live/4613904.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="韩足总",韩足总 | 浦项铁人 vs 晋州市民 | 0-1 | 直播18 | 原声49
-https://pul-tenm.gkykp.com/live/sd-1-4613904.m3u8?txSecret=c13a28354f43474d1426779283a10361&txTime=6A86DA70
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 约旦 vs 中国台北白队 | 53-46 | 直播2 | 原声56
+https://pul-tenm.gkykp.com/live/sd-2-3931349.m3u8?txSecret=bf37c2082dd7fba5537b1d38fed71d98&txTime=6A86DD40
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="澳维超",澳维超 | 普雷斯顿莱恩 vs 墨尔本市NPL | 0-0 | 直播1 | 直播1
 https://live.666666.zip/live/4476119.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="澳维超",澳维超 | 普雷斯顿莱恩 vs 墨尔本市NPL | 0-0 | 直播1 | 原声73
-https://pul-tenm.gkykp.com/live/sd-1-4476119.m3u8?txSecret=351834a2600d53db41756b11db0f2a84&txTime=6A86DA70
+https://pul-tenm.gkykp.com/live/sd-1-4476119.m3u8?txSecret=7a4bd2d050cc6f7ec81314b76ca6ca91&txTime=6A86DD40
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="澳足总",澳足总 | 莱卡特老虎 vs 墨尔本胜利 | 0-0 | 直播4 | 直播4
 https://live.666666.zip/live/4613916.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="澳足总",澳足总 | 莱卡特老虎 vs 墨尔本胜利 | 0-0 | 直播4 | 原声68
-https://pul-tenm.gkykp.com/live/sd-1-4613916.m3u8?txSecret=e2f1b93accc53eef92c303d60989b18a&txTime=6A86DA70
+https://pul-tenm.gkykp.com/live/sd-1-4613916.m3u8?txSecret=dcd5cab5655a94b2ce6d616bd6da203e&txTime=6A86DD40
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="韩足总",韩足总 | 安养FC vs 济州SK | 0-0 | 直播13 | 直播13
+https://live.666666.zip/live/4613906.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="韩足总",韩足总 | 安养FC vs 济州SK | 0-0 | 直播13 | 原声75
+https://pul-tenm.gkykp.com/live/sd-1-4613906.m3u8?txSecret=531c94a7996b8ceba9c053f97625048e&txTime=6A86DD40
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="韩足总",韩足总 | 蔚山市民 vs 光州FC | 0-1 | 直播5 | 直播5
 https://live.666666.zip/live/4613905.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="韩足总",韩足总 | 蔚山市民 vs 光州FC | 0-1 | 直播5 | 原声63
-https://pul-tenm.gkykp.com/live/sd-1-4613905.m3u8?txSecret=4ed857ef3b8ec68e96ba66265dc77441&txTime=6A86DA70
+https://pul-tenm.gkykp.com/live/sd-1-4613905.m3u8?txSecret=c5e3d3b23c4fd5a001bea532c81b7336&txTime=6A86DD40
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 日本琼斯队 vs 中国台北蓝队 | 0-0 | 直播6 | 直播6
+https://live.666666.zip/live/3931354.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 日本琼斯队 vs 中国台北蓝队 | 0-0 | 直播6 | 原声76
+https://pul-tenm.gkykp.com/live/sd-2-3931354.m3u8?txSecret=f1d97936799e0f7df6495c8c698ae8f4&txTime=6A86DD40
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="韩足总",韩足总 | 釜山偶像 vs 富川FC | 0-0 | 直播12 | 直播12
 https://live.666666.zip/live/4613900.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="韩足总",韩足总 | 釜山偶像 vs 富川FC | 0-0 | 直播12 | 原声70
-https://pul-tenm.gkykp.com/live/sd-1-4613900.m3u8?txSecret=4802205459ec720ff45443668251d518&txTime=6A86DA70
+https://pul-tenm.gkykp.com/live/sd-1-4613900.m3u8?txSecret=3bbfd394e91760eae5edef56ed2fbe63&txTime=6A86DD40
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="天皇杯",天皇杯 | 铃鹿无限 vs 兵库县巴萨拉FC | 0-0 | 直播14 | 直播14
 https://live.666666.zip/live/4609432.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="天皇杯",天皇杯 | 铃鹿无限 vs 兵库县巴萨拉FC | 0-0 | 直播14 | 原声44
-https://pul-tenm.gkykp.com/live/sd-1-4609432.m3u8?txSecret=d7e6c3cb54820d274a01e52aa75bd2c9&txTime=6A86DA70
+https://pul-tenm.gkykp.com/live/sd-1-4609432.m3u8?txSecret=ab312a3dea2a964f1422827173fd2261&txTime=6A86DD40
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="韩足总",韩足总 | 忠南牙山 vs 大田市民 | 1-1 | 直播16 | 直播16
 https://live.666666.zip/live/4613899.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="韩足总",韩足总 | 忠南牙山 vs 大田市民 | 1-1 | 直播16 | 原声31
-https://pul-tenm.gkykp.com/live/sd-1-4613899.m3u8?txSecret=15ec3da63b90f672828ea5d4528f9a70&txTime=6A86DA70
+https://pul-tenm.gkykp.com/live/sd-1-4613899.m3u8?txSecret=388d0a8997c3c2dea3761ebcac78374f&txTime=6A86DD40
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="韩足总",韩足总 | 全北现代 vs 唐津市民 | 1-1 | 直播17 | 直播17
 https://live.666666.zip/live/4613901.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="韩足总",韩足总 | 全北现代 vs 唐津市民 | 1-1 | 直播17 | 原声43
-https://pul-tenm.gkykp.com/live/sd-1-4613901.m3u8?txSecret=56593247b56d7a76fdcfea861ef01b06&txTime=6A86DA70
+https://pul-tenm.gkykp.com/live/sd-1-4613901.m3u8?txSecret=c80ef2d38257d4580a8917d950785c8f&txTime=6A86DD40
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="韩足总",韩足总 | 浦项铁人 vs 晋州市民 | 0-1 | 直播18 | 直播18
+https://live.666666.zip/live/4613904.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="韩足总",韩足总 | 浦项铁人 vs 晋州市民 | 0-1 | 直播18 | 原声49
+https://pul-tenm.gkykp.com/live/sd-1-4613904.m3u8?txSecret=2fd9153dc8e4cd128318e8f36364bc68&txTime=6A86DD40
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="韩足总",韩足总 | 金浦市民 vs 金泉尚武 | 0-1 | 直播19 | 直播19
 https://live.666666.zip/live/4613902.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="韩足总",韩足总 | 金浦市民 vs 金泉尚武 | 0-1 | 直播19 | 原声92
-https://pul-tenm.gkykp.com/live/sd-1-4613902.m3u8?txSecret=466aa5cecfccc46abd5da441de7cfb81&txTime=6A86DA70
+https://pul-tenm.gkykp.com/live/sd-1-4613902.m3u8?txSecret=d726366867f0366d6194bf89895e9b61&txTime=6A86DD40
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1274.jpg?v=1780171883879" group-title="韩足总",韩足总 | 江原FC vs 城南FC | 0-0 | 原声74 | 原声74
-https://pul-tenm.gkykp.com/live/sd-1-4613907.m3u8?txSecret=cae3ed0f031981662a468325c2aff3b7&txTime=6A86DA70
+https://pul-tenm.gkykp.com/live/sd-1-4613907.m3u8?txSecret=5de2636894301205851ed62f66a0acfc&txTime=6A86DD40
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1302.jpg?v=1780171883879" group-title="澳达超",澳达超 | 阿祖里FC vs 达尔文港 | 0-0 | 原声102 | 原声102
-https://pul-tenm.gkykp.com/live/sd-1-4621899.m3u8?txSecret=6a85d90862cfbaa8237d9ff1356719b9&txTime=6A86DA70
+https://pul-tenm.gkykp.com/live/sd-1-4621899.m3u8?txSecret=7435c4adc90198a3986492d5f4660cc6&txTime=6A86DD40
