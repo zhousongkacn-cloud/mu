@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 约旦 vs 加州大学尔湾分校 | 4-10 | 直播1 | 直播1
-https://live.666666.zip/live/3931359.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 约旦 vs 加州大学尔湾分校 | 4-10 | 直播1 | 原声4
-https://pul-tenm.gkykp.com/live/sd-2-3931359.m3u8?txSecret=11f2b5d1f85f93c079b6a693fc2c93c0&txTime=6A87DE98
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="亚锦U18",亚锦U18 | 菲律宾U18 vs 叙利亚U18 | 9-13 | 直播6 | 直播6
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="亚锦U18",亚锦U18 | 菲律宾U18 vs 叙利亚U18 | 14-19 | 直播6 | 直播6
 https://live.666666.zip/live/3933272.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="亚锦U18",亚锦U18 | 菲律宾U18 vs 叙利亚U18 | 14-19 | 直播6 | 原声57
+https://pul-tenm.gkykp.com/live/sd-2-3933272.m3u8?txSecret=8fb675e37eac5873b0df00c860372be9&txTime=6A87E1E0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 约旦 vs 加州大学尔湾分校 | 19-23 | 直播1 | 直播1
+https://live.666666.zip/live/3931359.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 约旦 vs 加州大学尔湾分校 | 19-23 | 直播1 | 原声4
+https://pul-tenm.gkykp.com/live/sd-2-3931359.m3u8?txSecret=130aaf381107723dcee316baea5e1db2&txTime=6A87E1E0
