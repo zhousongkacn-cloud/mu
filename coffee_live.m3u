@@ -1,13 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="中女锦",中女锦 | 上海交通大学女篮 vs 厦门银行女篮 | 69-63 | 直播2 | 直播2
-https://live.666666.zip/live/3931422.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="中女锦",中女锦 | 上海交通大学女篮 vs 厦门银行女篮 | 69-63 | 直播2 | 原声5
-https://pul-tenm.gkykp.com/live/sd-2-3931422.m3u8?txSecret=1e376b16dc65423927be1820d6146b47&txTime=6A883A00
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 杜保尔B队 vs 汗腾格里 | 3-3 | 直播6 | 直播6
-https://live.666666.zip/live/4523594.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 杜保尔B队 vs 汗腾格里 | 3-3 | 直播6 | 原声22
-https://pul-tenm.gkykp.com/live/sd-1-4523594.m3u8?txSecret=679e402db5aaf6126cf82be236eedf3c&txTime=6A883A00
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1260.jpg?v=1780171883879" group-title="亚锦U18",亚锦U18 | 日本U18 vs 卡塔尔U18 | 38-35 | 原声60 | 原声60
-https://pul-tenm.gkykp.com/live/sd-2-3933306.m3u8?txSecret=78147f452040255fa1f0dbfb6b0f7ba6&txTime=6A883A00
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1254.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | SGA竞技 vs 中国台北蓝队 | 15-10 | 原声54 | 原声54
-https://pul-tenm.gkykp.com/live/sd-2-3931361.m3u8?txSecret=acd0e105859f40eca8200dc4be51138a&txTime=6A883A00
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="中女锦",中女锦 | 东莞新世纪女篮 vs 陕西榆林天泽女篮 | 0-0 | 直播7 | 直播7
+https://live.666666.zip/live/3931423.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 奥杜斯基克 vs 埃基巴斯图兹 | 0-0 | 直播8 | 直播8
+https://live.666666.zip/live/4519538.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 奥杜斯基克 vs 埃基巴斯图兹 | 0-0 | 直播8 | 原声56
+https://pul-tenm.gkykp.com/live/sd-1-4519538.m3u8?txSecret=46d3385d2ade3fd7e8519d0fb2d0054e&txTime=6A883D49
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | FK阿雷斯 vs 拖雷斯 | 0-0 | 直播10 | 直播10
+https://live.666666.zip/live/4519539.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | FK阿雷斯 vs 拖雷斯 | 0-0 | 直播10 | 原声81
+https://pul-tenm.gkykp.com/live/sd-1-4519539.m3u8?txSecret=be7771581e2c669fe1c6daedf25c1de1&txTime=6A883D49
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 叶利迈塞米B队 vs 阿克托比B队 | 0-0 | 直播11 | 直播11
+https://live.666666.zip/live/4523595.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="哈萨甲",哈萨甲 | 叶利迈塞米B队 vs 阿克托比B队 | 0-0 | 直播11 | 原声109
+https://pul-tenm.gkykp.com/live/sd-1-4523595.m3u8?txSecret=872e8cba8c8ae100acaea5e3069b4957&txTime=6A883D49
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1260.jpg?v=1780171883879" group-title="亚锦U18",亚锦U18 | 日本U18 vs 卡塔尔U18 | 41-39 | 原声60 | 原声60
+https://pul-tenm.gkykp.com/live/sd-2-3933306.m3u8?txSecret=5d591e0bdac26f75c3c9a9acddbdb21b&txTime=6A883D48
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1254.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | SGA竞技 vs 中国台北蓝队 | 33-23 | 原声54 | 原声54
+https://pul-tenm.gkykp.com/live/sd-2-3931361.m3u8?txSecret=372f6a3e24d8a1bee0281498cb7c4aa7&txTime=6A883D48
