@@ -1,17 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="中女锦",中女锦 | 东莞新世纪女篮 vs 陕西榆林天泽女篮 | 53-52 | 直播7 | 直播7
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="中女锦",中女锦 | 东莞新世纪女篮 vs 陕西榆林天泽女篮 | 61-61 | 直播7 | 直播7
 https://live.666666.zip/live/3931423.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="乌兹甲",乌兹甲 | 洛钦 vs 加云 | 1-0 | 直播9 | 直播9
 https://live.666666.zip/live/4525616.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="乌兹甲",乌兹甲 | 洛钦 vs 加云 | 1-0 | 直播9 | 原声37
-https://pul-tenm.gkykp.com/live/sd-1-4525616.m3u8?txSecret=687373d2dec52c06947dda464c52043a&txTime=6A885968
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1023.jpg?v=1780171883879" group-title="乌兹超",乌兹超 | 缔造者 vs 库鲁维奇科坎 | 0-0 | 直播23 | 直播23
+https://pul-tenm.gkykp.com/live/sd-1-4525616.m3u8?txSecret=1109c5f20e6658ed984cb685f6ccd06b&txTime=6A885D28
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1022.jpg?v=1780171883879" group-title="罗杯",罗杯 | CSA布加勒斯特星 vs FK米耶尔库雷亚丘克 | 0-0 | 直播22 | 直播22
+https://live.666666.zip/live/4617965.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1022.jpg?v=1780171883879" group-title="罗杯",罗杯 | CSA布加勒斯特星 vs FK米耶尔库雷亚丘克 | 0-0 | 直播22 | 原声44
+https://pul-tenm.gkykp.com/live/sd-1-4617965.m3u8?txSecret=3a6b48222beab3d39d983d9fbdb8b742&txTime=6A885D28
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1023.jpg?v=1780171883879" group-title="乌兹超",乌兹超 | 缔造者 vs 库鲁维奇科坎 | 0-1 | 直播23 | 直播23
 https://live.666666.zip/live/4488116.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1023.jpg?v=1780171883879" group-title="乌兹超",乌兹超 | 缔造者 vs 库鲁维奇科坎 | 0-0 | 直播23 | 原声50
-https://pul-tenm.gkykp.com/live/sd-1-4488116.m3u8?txSecret=409508500e7c70c7cd47cd79d2395bdf&txTime=6A885968
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1231.jpg?v=1780171883879" group-title="亚美超",亚美超 | FK瓦尼 vs 休尼克FC | 1-1 | 原声31 | 原声31
-https://pul-tenm.gkykp.com/live/sd-1-4578967.m3u8?txSecret=667013e60a304181087b4a2464b9357e&txTime=6A885968
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1324.jpg?v=1780171883879" group-title="乌兹甲",乌兹甲 | 莫比乌兹奥林匹克 vs 努库斯咸海 | 2-1 | 原声124 | 原声124
-https://pul-tenm.gkykp.com/live/sd-1-4525617.m3u8?txSecret=f9d9376128327e88f7a2a9807e52d377&txTime=6A885968
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1023.jpg?v=1780171883879" group-title="乌兹超",乌兹超 | 缔造者 vs 库鲁维奇科坎 | 0-1 | 直播23 | 原声50
+https://pul-tenm.gkykp.com/live/sd-1-4488116.m3u8?txSecret=d4483351f4c60d7069a14e875f1ef81a&txTime=6A885D28
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1027.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 乌克兰 vs 亚利桑那大学 | 11-20 | 直播27 | 直播27
+https://live.666666.zip/live/3933330.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1027.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 乌克兰 vs 亚利桑那大学 | 11-20 | 直播27 | 原声31
+https://pul-tenm.gkykp.com/live/sd-2-3933330.m3u8?txSecret=48edcc33ae9dffbc26f51c282d534f77&txTime=6A885D28
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1261.jpg?v=1780171883879" group-title="卡塔尔联",卡塔尔联 | 威柯拉 vs 卡塔尔SC | 0-0 | 原声61 | 原声61
+https://pul-tenm.gkykp.com/live/sd-1-4591211.m3u8?txSecret=3b040099d44a51dee16052dcf669e855&txTime=6A885D28
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1325.jpg?v=1780171883879" group-title="乌兹甲",乌兹甲 | 雅潘FK vs 塔什干棉农B队 | 0-0 | 原声125 | 原声125
-https://pul-tenm.gkykp.com/live/sd-1-4525618.m3u8?txSecret=1b1aea71897fe61b9966f910cc517346&txTime=6A885968
+https://pul-tenm.gkykp.com/live/sd-1-4525618.m3u8?txSecret=7b83b73fd5b5aa052ecc1337c5017c70&txTime=6A885D28
