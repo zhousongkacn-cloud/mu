@@ -1,33 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="日职联",日职联 | FC东京 vs 千叶市原 | 1-0 | 直播7 | 直播7
-https://live.666666.zip/live/4555272.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="日职联",日职联 | FC东京 vs 千叶市原 | 1-0 | 直播7 | 原声16
-https://pul-tenm.gkykp.com/live/sd-1-4555272.m3u8?txSecret=227bede4d2fbc804f1124383642abb0a&txTime=6A899289
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="澳维女超",澳维女超 | 班特列女足 vs 普雷斯顿狮队女足 | 0-0 | 直播8 | 直播8
-https://live.666666.zip/live/4537025.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="澳维女超",澳维女超 | 班特列女足 vs 普雷斯顿狮队女足 | 0-0 | 直播8 | 原声58
-https://pul-tenm.gkykp.com/live/sd-1-4537025.m3u8?txSecret=fa9289929407b8e38f71a5186416b4a0&txTime=6A899289
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="香港超",香港超 | 东方 vs 至尊沙田 | 0-0 | 直播10 | 直播10
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="香港超",香港超 | 东方 vs 至尊沙田 | 1-0 | 直播10 | 直播10
 https://live.666666.zip/live/4602341.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="香港超",香港超 | 东方 vs 至尊沙田 | 0-0 | 直播10 | 原声5
-https://pul-tenm.gkykp.com/live/sd-1-4602341.m3u8?txSecret=d8e750bafa858857e1f7fc0f9dd3df2c&txTime=6A899289
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="中U21",中U21 | 宁波俱乐部U20 vs 武汉三镇U20 | 0-0 | 直播12 | 直播12
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="香港超",香港超 | 东方 vs 至尊沙田 | 1-0 | 直播10 | 原声5
+https://pul-tenm.gkykp.com/live/sd-1-4602341.m3u8?txSecret=416440fe1fba373290b6ffb0dc50121f&txTime=6A8995D1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="中U21",中U21 | 宁波俱乐部U20 vs 武汉三镇U20 | 0-1 | 直播12 | 直播12
 https://live.666666.zip/live/4621288.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="中U21",中U21 | 宁波俱乐部U20 vs 武汉三镇U20 | 0-0 | 直播12 | 原声62
-https://pul-tenm.gkykp.com/live/sd-1-4621288.m3u8?txSecret=974ecd2262635ce12ff8a2a054291036&txTime=6A899289
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="中女锦",中女锦 | 上海交通大学女篮 vs 山西竹叶青酒女篮 | 12-9 | 直播14 | 直播14
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="中U21",中U21 | 宁波俱乐部U20 vs 武汉三镇U20 | 0-1 | 直播12 | 原声62
+https://pul-tenm.gkykp.com/live/sd-1-4621288.m3u8?txSecret=b2489c78833e5c3a4e4f3f79ab402c54&txTime=6A8995D1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="中女锦",中女锦 | 上海交通大学女篮 vs 山西竹叶青酒女篮 | 21-23 | 直播14 | 直播14
 https://live.666666.zip/live/3931427.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="中女锦",中女锦 | 上海交通大学女篮 vs 山西竹叶青酒女篮 | 12-9 | 直播14 | 原声22
-https://pul-tenm.gkykp.com/live/sd-2-3931427.m3u8?txSecret=08eb27d842e867196fa7cd6c747aa2f4&txTime=6A899289
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="中女锦",中女锦 | 上海交通大学女篮 vs 山西竹叶青酒女篮 | 21-23 | 直播14 | 原声22
+https://pul-tenm.gkykp.com/live/sd-2-3931427.m3u8?txSecret=5307eef6ef1b41076eecd313eec9e8f1&txTime=6A8995D1
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="澳达超",澳达超 | 加鲁达FC vs 达尔文奥林匹克 | 0-1 | 直播16 | 直播16
 https://live.666666.zip/live/4622260.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="澳达超",澳达超 | 加鲁达FC vs 达尔文奥林匹克 | 0-1 | 直播16 | 原声13
-https://pul-tenm.gkykp.com/live/sd-1-4622260.m3u8?txSecret=9ae04af913403997f5f2104a83c9c826&txTime=6A899289
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="乌克兰杯",乌克兰杯 | 基辅火车头 vs 普罗比霍洛登卡 | 0-1 | 直播18 | 直播18
+https://pul-tenm.gkykp.com/live/sd-1-4622260.m3u8?txSecret=aed4bffd99dde581b629002376d45e05&txTime=6A8995D1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="乌克兰杯",乌克兰杯 | 基辅火车头 vs 普罗比霍洛登卡 | 1-2 | 直播18 | 直播18
 https://live.666666.zip/live/4610219.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="乌克兰杯",乌克兰杯 | 基辅火车头 vs 普罗比霍洛登卡 | 0-1 | 直播18 | 原声23
-https://pul-tenm.gkykp.com/live/sd-1-4610219.m3u8?txSecret=9032ef33b8a43a37bee199acfa15d1c7&txTime=6A899289
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1023.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 约旦 vs 强大集团 | 50-52 | 直播23 | 直播23
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="乌克兰杯",乌克兰杯 | 基辅火车头 vs 普罗比霍洛登卡 | 1-2 | 直播18 | 原声23
+https://pul-tenm.gkykp.com/live/sd-1-4610219.m3u8?txSecret=d2b80f68189e24d8708887b5f4a3c113&txTime=6A8995D1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1023.jpg?v=1780171883879" group-title="琼斯杯",琼斯杯 | 约旦 vs 强大集团 | 72-64 | 直播23 | 直播23
 https://live.666666.zip/live/3934042.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1222.jpg?v=1780171883879" group-title="中女锦",中女锦 | 上海交通大学女篮 vs 山西竹叶青酒女篮 | 21-23 | 原声22 | 原声22
+https://pul-tenm.gkykp.com/live/sd-2-3931427.m3u8?txSecret=8164782be41b68c107a0d0305974a9fe&txTime=6A899648
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1223.jpg?v=1780171883879" group-title="乌克兰杯",乌克兰杯 | 基辅火车头 vs 普罗比霍洛登卡 | 1-2 | 原声23 | 原声23
+https://pul-tenm.gkykp.com/live/sd-1-4610219.m3u8?txSecret=25761216d0e60f0f1d0ed2e1d1adeefd&txTime=6A899648
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1241.jpg?v=1780171883879" group-title="乌克兰杯",乌克兰杯 | 普迪亚 vs FC维多尼古拉耶夫卡 | 1-2 | 原声41 | 原声41
-https://pul-tenm.gkykp.com/live/sd-1-4610224.m3u8?txSecret=10e6de410772390255764bc42ca47892&txTime=6A899289
+https://pul-tenm.gkykp.com/live/sd-1-4610224.m3u8?txSecret=7f4b0120c50048ecbcb2dc6d0cd184b4&txTime=6A899648
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1262.jpg?v=1780171883879" group-title="中U21",中U21 | 宁波俱乐部U20 vs 武汉三镇U20 | 0-1 | 原声62 | 原声62
+https://pul-tenm.gkykp.com/live/sd-1-4621288.m3u8?txSecret=f853cf8b5cdbfc51f4250e922f9c8cd9&txTime=6A899648
