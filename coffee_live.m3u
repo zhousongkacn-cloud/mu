@@ -7,6 +7,10 @@ https://live.666666.zip/live/4558449.m3u8
 https://live.666666.zip/live/4550846.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1056.jpg?v=1780171883879" group-title="法甲",法甲 | 马赛 vs 斯特拉斯堡 | 0-0 | 直播56 | 原声154
 https://pul-tenm.gkykp.com/live/hd-en-1-4550846.m3u8?txSecret=478ce0e8c8c323aba4c5300621e39c6e&txTime=6A89F4F9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1046.jpg?v=1780171883879" group-title="沙特超",沙特超 | 胡拜尔库迪西亚 vs 吉达联合 | 0-1 | 直播46 | 直播46
+https://live.666666.zip/live/4599553.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1046.jpg?v=1780171883879" group-title="沙特超",沙特超 | 胡拜尔库迪西亚 vs 吉达联合 | 0-1 | 直播46 | 原声145
+https://pul-tenm.gkykp.com/live/sd-1-4599553.m3u8?txSecret=a8d7a2c6f098a1c7dd9befd93e46f241&txTime=6A89F4F9
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="保甲",保甲 | 查洛摩利 vs 多瑙 | 0-0 | 直播3 | 直播3
 https://live.666666.zip/live/4554085.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="保甲",保甲 | 查洛摩利 vs 多瑙 | 0-0 | 直播3 | 原声146
@@ -43,10 +47,6 @@ https://live.666666.zip/live/4553160.m3u8
 https://live.666666.zip/live/4599552.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1045.jpg?v=1780171883879" group-title="沙特超",沙特超 | 费萨里 vs 新未来城体育 | 0-1 | 直播45 | 原声144
 https://pul-tenm.gkykp.com/live/sd-1-4599552.m3u8?txSecret=0e65eabfdd15be5bf12d1013286ab2b9&txTime=6A89F481
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1046.jpg?v=1780171883879" group-title="沙特超",沙特超 | 胡拜尔库迪西亚 vs 吉达联合 | 0-1 | 直播46 | 直播46
-https://live.666666.zip/live/4599553.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1046.jpg?v=1780171883879" group-title="沙特超",沙特超 | 胡拜尔库迪西亚 vs 吉达联合 | 0-1 | 直播46 | 原声145
-https://pul-tenm.gkykp.com/live/sd-1-4599553.m3u8?txSecret=a8d7a2c6f098a1c7dd9befd93e46f241&txTime=6A89F4F9
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1047.jpg?v=1780171883879" group-title="斯亚甲",斯亚甲 | 卢布尔雅那奥林匹亚 vs 伦达瓦 | 0-0 | 直播47 | 直播47
 https://live.666666.zip/live/4560930.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1047.jpg?v=1780171883879" group-title="斯亚甲",斯亚甲 | 卢布尔雅那奥林匹亚 vs 伦达瓦 | 0-0 | 直播47 | 原声147
@@ -86,11 +86,11 @@ https://pul-tenm.gkykp.com/live/sd-1-4577869.m3u8?txSecret=aa8e7f4120c0b352b1002
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1081.jpg?v=1780171883879" group-title="沙特甲",沙特甲 | 麦加统一 vs 哈萨正义 | 0-1 | 直播81 | 直播81
 https://live.666666.zip/live/4601962.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1081.jpg?v=1780171883879" group-title="沙特甲",沙特甲 | 麦加统一 vs 哈萨正义 | 0-1 | 直播81 | 原声74
-https://pul-tenm.gkykp.com/live/sd-1-4601962.m3u8?txSecret=1622384f8b53b8564d8f3790c53701ad&txTime=6A89F481
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1280.jpg?v=1780171883879" group-title="西甲",西甲 | 贝蒂斯 vs 皇家社会 | 0-0 | 原声80 | 原声80
-https://pul-tenm.gkykp.com/live/hd-en-1-4565329.m3u8?txSecret=65899082a2087cc995d16610419b91fc&txTime=6A89F4F9
+https://pul-tenm.gkykp.com/live/sd-1-4601962.m3u8?txSecret=f70feca67dd231b050d3796d4f80d152&txTime=6A89F4F9
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1243.jpg?v=1780171883879" group-title="克亚甲",克亚甲 | 鲁达士 vs 萨格勒布火车头 | 2-1 | 原声43 | 原声43
 https://pul-tenm.gkykp.com/live/sd-1-4552928.m3u8?txSecret=3d3ddb6c3bbba8b0029618d2f0a9eb59&txTime=6A89F4F9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1280.jpg?v=1780171883879" group-title="西甲",西甲 | 贝蒂斯 vs 皇家社会 | 0-0 | 原声80 | 原声80
+https://pul-tenm.gkykp.com/live/hd-en-1-4565329.m3u8?txSecret=65899082a2087cc995d16610419b91fc&txTime=6A89F4F9
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1286.jpg?v=1780171883879" group-title="瑞士挑",瑞士挑 | 纳沙泰尔 vs 乌契 | 1-2 | 原声86 | 原声86
 https://pul-tenm.gkykp.com/live/sd-1-4556780.m3u8?txSecret=c250dba909b6896b382cf6f8ac0000c2&txTime=6A89F4F9
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1329.jpg?v=1780171883879" group-title="奥乙",奥乙 | 阿德米拉 vs 第一维也纳 | 0-0 | 原声129 | 原声129
