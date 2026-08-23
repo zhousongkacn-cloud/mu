@@ -1,61 +1,59 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1211.jpg?v=1780171883879" group-title="英超",英超 | 曼城 vs 伯恩茅斯 | 0-1 | 原声11 | 原声11
-https://pul-tenm.gkykp.com/live/hd-en-1-4558470.m3u8?txSecret=1a7063a380390f2bb8dfbcd31a07938c&txTime=6A8C46E1
+https://pul-tenm.gkykp.com/live/hd-en-1-4558470.m3u8?txSecret=46b5a443dfd5b99f6a849292e419d302&txTime=6A8C4AA0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1229.jpg?v=1780171883879" group-title="中超",中超 | 重庆铜梁龙 vs 大连英博 | 0-1 | 原声29 | 原声29
-https://pul-tenm.gkykp.com/live/hd-zh-1-4498871.m3u8?txSecret=12f3199429a252f2f8f43d741c21e9de&txTime=6A8C46E1
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1205.jpg?v=1780171883879" group-title="英超",英超 | 布莱顿 vs 阿斯顿维拉 | 3-0 | 原声5 | 原声5
-https://pul-tenm.gkykp.com/live/hd-en-1-4558465.m3u8?txSecret=d61ea59413f39777c811b4c0cd586dc3&txTime=6A8C46E1
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1298.jpg?v=1780171883879" group-title="中超",中超 | 上海海港 vs 青岛海牛 | 2-1 | 原声98 | 原声98
-https://pul-tenm.gkykp.com/live/hd-zh-1-4498870.m3u8?txSecret=b505ba7df6ea091c336f306c85187231&txTime=6A8C46E1
+https://pul-tenm.gkykp.com/live/hd-zh-1-4498871.m3u8?txSecret=3b8621e7fb11fe0d29e5ecb64ee2d75c&txTime=6A8C4AA0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1205.jpg?v=1780171883879" group-title="英超",英超 | 布莱顿 vs 阿斯顿维拉 | 4-0 | 原声5 | 原声5
+https://pul-tenm.gkykp.com/live/hd-en-1-4558465.m3u8?txSecret=756da3b1cb584cbda610aba05a446557&txTime=6A8C4AA0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1235.jpg?v=1780171883879" group-title="瑞典超",瑞典超 | 哥德堡 vs 埃尔夫斯堡 | 1-0 | 原声35 | 原声35
-https://pul-tenm.gkykp.com/live/sd-1-4467138.m3u8?txSecret=d65b8bcf6f982c97783cccfd3df4796e&txTime=6A8C46E1
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1202.jpg?v=1780171883879" group-title="芬超",芬超 | 赫尔辛基 vs 格尼斯坦 | 2-0 | 原声2 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4468182.m3u8?txSecret=93f52cf80fe4eeaf9b34f6ce78132d94&txTime=6A8C46E1
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1209.jpg?v=1780171883879" group-title="法甲",法甲 | 昂热 vs 里尔 | 0-1 | 原声9 | 原声9
-https://pul-tenm.gkykp.com/live/hd-en-1-4550842.m3u8?txSecret=d238eb18b87bc21510d52e2c11dbe25f&txTime=6A8C46E1
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1204.jpg?v=1780171883879" group-title="俄超",俄超 | 莫斯科迪纳摩 vs 莫斯科罗迪纳 | 2-1 | 原声4 | 原声4
-https://pul-tenm.gkykp.com/live/sd-1-4564130.m3u8?txSecret=6d8cad6d5164e04dabfec7e660c7f9e1&txTime=6A8C46E1
+https://pul-tenm.gkykp.com/live/sd-1-4467138.m3u8?txSecret=7d3cc8d9b05ab1f6d37234b08085195f&txTime=6A8C4AA0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1202.jpg?v=1780171883879" group-title="芬超",芬超 | 赫尔辛基 vs 格尼斯坦 | 2-1 | 原声2 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4468182.m3u8?txSecret=f6abe4c535e0957848fa8444d2c102bf&txTime=6A8C4AA0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1204.jpg?v=1780171883879" group-title="俄超",俄超 | 莫斯科迪纳摩 vs 莫斯科罗迪纳 | 3-1 | 原声4 | 原声4
+https://pul-tenm.gkykp.com/live/sd-1-4564130.m3u8?txSecret=1b9e88d3c9fbb243206da374333ab472&txTime=6A8C4AA0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1209.jpg?v=1780171883879" group-title="法甲",法甲 | 昂热 vs 里尔 | 0-2 | 原声9 | 原声9
+https://pul-tenm.gkykp.com/live/hd-en-1-4550842.m3u8?txSecret=b9410ec0575e32ae18eb6c61e99db2d4&txTime=6A8C4AA0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1210.jpg?v=1780171883879" group-title="瑞典甲",瑞典甲 | 布莱格 vs 北欧联FC | 0-2 | 原声10 | 原声10
-https://pul-tenm.gkykp.com/live/sd-1-4469404.m3u8?txSecret=cd44ebb844a5e9c6148441bdb3b6105c&txTime=6A8C46E1
+https://pul-tenm.gkykp.com/live/sd-1-4469404.m3u8?txSecret=de050f12228dbb99eb0d3052eb41aac4&txTime=6A8C4AA0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1212.jpg?v=1780171883879" group-title="瑞典女超",瑞典女超 | 维特斯约女足 vs 诺尔雪平女足 | 1-1 | 原声12 | 原声12
-https://pul-tenm.gkykp.com/live/sd-1-4466474.m3u8?txSecret=bf597e5658615550ece1878ebbd99023&txTime=6A8C46E1
+https://pul-tenm.gkykp.com/live/sd-1-4466474.m3u8?txSecret=dcc11af3abecb9f1148be58a9476cb54&txTime=6A8C4AA0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1213.jpg?v=1780171883879" group-title="德国杯",德国杯 | VfB1921 vs 美因茨 | 0-0 | 原声13 | 原声13
-https://pul-tenm.gkykp.com/live/sd-1-4550520.m3u8?txSecret=972a5715e2866639723327bbc5cf8102&txTime=6A8C46E1
+https://pul-tenm.gkykp.com/live/sd-1-4550520.m3u8?txSecret=8dd51b6e344edcd0f549348370e042e6&txTime=6A8C4AA0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1215.jpg?v=1780171883879" group-title="丹麦超",丹麦超 | 中日德兰 vs 兰讷斯 | 1-0 | 原声15 | 原声15
-https://pul-tenm.gkykp.com/live/sd-1-4553689.m3u8?txSecret=da37f723c1e5dd85477fc3139a046733&txTime=6A8C46E1
+https://pul-tenm.gkykp.com/live/sd-1-4553689.m3u8?txSecret=3090c5a65ff7334e647f2054bd123fbe&txTime=6A8C4AA0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1216.jpg?v=1780171883879" group-title="罗甲",罗甲 | 舍佩斯 vs 法鲁尔 | 0-0 | 原声16 | 原声16
-https://pul-tenm.gkykp.com/live/sd-1-4567538.m3u8?txSecret=b32c68a0f9dab54ef2699a1682d99508&txTime=6A8C46E1
+https://pul-tenm.gkykp.com/live/sd-1-4567538.m3u8?txSecret=18deb9083f582f87b9340936797cf589&txTime=6A8C4AA0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1222.jpg?v=1780171883879" group-title="俄甲",俄甲 | 列宁格勒人 vs 车里雅宾斯克 | 0-0 | 原声22 | 原声22
-https://pul-tenm.gkykp.com/live/sd-1-4576474.m3u8?txSecret=2f16c20b3acd7d6b46361b883f251a49&txTime=6A8C46E1
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1224.jpg?v=1780171883879" group-title="奥女甲",奥女甲 | 布根兰南部女足 vs 克莱尼姆臣女足 | 0-0 | 原声24 | 原声24
-https://pul-tenm.gkykp.com/live/sd-1-4577359.m3u8?txSecret=0a2c689e445e99aec3a1e1eded5df51f&txTime=6A8C46E1
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1225.jpg?v=1780171883879" group-title="丹麦超",丹麦超 | 奥胡斯 vs 欧登塞 | 1-2 | 原声25 | 原声25
-https://pul-tenm.gkykp.com/live/sd-1-4553687.m3u8?txSecret=d319d88567eaf0d1937adc7344b354b0&txTime=6A8C46E1
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1228.jpg?v=1780171883879" group-title="德国杯",德国杯 | 威斯法利亚利耶尼恩 vs 德累斯顿 | 0-0 | 原声28 | 原声28
-https://pul-tenm.gkykp.com/live/sd-1-4550521.m3u8?txSecret=81fed45b3faa9ffb859cb2cb005f293a&txTime=6A8C46E1
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1249.jpg?v=1780171883879" group-title="瑞典女超",瑞典女超 | 皮特奥女足 vs IK乌普撒拉女足 | 2-0 | 原声49 | 原声49
-https://pul-tenm.gkykp.com/live/sd-1-4466473.m3u8?txSecret=b50cf3d95789d1fe97f6473e3d5dc49d&txTime=6A8C46E1
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1257.jpg?v=1780171883879" group-title="瑞士超",瑞士超 | 年轻人 vs 瓦杜兹 | 3-2 | 原声57 | 原声57
-https://pul-tenm.gkykp.com/live/sd-1-4556651.m3u8?txSecret=faa38b0a25d0d24df65123203caee7f9&txTime=6A8C46E1
+https://pul-tenm.gkykp.com/live/sd-1-4576474.m3u8?txSecret=1cdfa0b68c9e95d5cf9a25327f087893&txTime=6A8C4AA0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1224.jpg?v=1780171883879" group-title="奥女甲",奥女甲 | 布根兰南部女足 vs 克莱尼姆臣女足 | 0-1 | 原声24 | 原声24
+https://pul-tenm.gkykp.com/live/sd-1-4577359.m3u8?txSecret=fbd4bf967024e8e0f3c21123751e07a9&txTime=6A8C4AA0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1225.jpg?v=1780171883879" group-title="丹麦超",丹麦超 | 奥胡斯 vs 欧登塞 | 2-2 | 原声25 | 原声25
+https://pul-tenm.gkykp.com/live/sd-1-4553687.m3u8?txSecret=c18992627b36325b79af4c1c8fcca181&txTime=6A8C4AA0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1226.jpg?v=1780171883879" group-title="葡甲",葡甲 | 佩纳菲尔 vs 葡萄牙体育B队 | 1-0 | 原声26 | 原声26
+https://pul-tenm.gkykp.com/live/sd-1-4577867.m3u8?txSecret=538ac0c09952d2b112a189146d713844&txTime=6A8C4AA0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1228.jpg?v=1780171883879" group-title="德国杯",德国杯 | 威斯法利亚利耶尼恩 vs 德累斯顿 | 0-1 | 原声28 | 原声28
+https://pul-tenm.gkykp.com/live/sd-1-4550521.m3u8?txSecret=cad4035929534080015d4b9efc6bd50d&txTime=6A8C4AA0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1249.jpg?v=1780171883879" group-title="瑞典女超",瑞典女超 | 皮特奥女足 vs IK乌普撒拉女足 | 5-1 | 原声49 | 原声49
+https://pul-tenm.gkykp.com/live/sd-1-4466473.m3u8?txSecret=ee69bd06abc7a1764cf245e3cd5649a5&txTime=6A8C4AA0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1257.jpg?v=1780171883879" group-title="瑞士超",瑞士超 | 年轻人 vs 瓦杜兹 | 4-2 | 原声57 | 原声57
+https://pul-tenm.gkykp.com/live/sd-1-4556651.m3u8?txSecret=4a25fedf4526964a55ef6f1332d65e03&txTime=6A8C4AA0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1258.jpg?v=1780171883879" group-title="荷甲",荷甲 | 埃因霍温 vs 格罗宁根 | 3-1 | 原声58 | 原声58
-https://pul-tenm.gkykp.com/live/sd-1-4552170.m3u8?txSecret=e3adddc9c94e16c1867c25b1fc10ad70&txTime=6A8C46E1
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1259.jpg?v=1780171883879" group-title="德国杯",德国杯 | 布伦瑞克 vs 柏林联合 | 0-0 | 原声59 | 原声59
-https://pul-tenm.gkykp.com/live/sd-1-4550513.m3u8?txSecret=cb2f88308df95eb68ad64d7b16b5bc5f&txTime=6A8C46E1
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1266.jpg?v=1780171883879" group-title="中女锦",中女锦 | 上海交通大学女篮 vs 大连文体旅女篮 | 61-56 | 原声66 | 原声66
-https://pul-tenm.gkykp.com/live/sd-2-3936012.m3u8?txSecret=f24ac551f7b9b6bab3665e08e7d83f71&txTime=6A8C46E1
+https://pul-tenm.gkykp.com/live/sd-1-4552170.m3u8?txSecret=0bc01264f0e7fb094207d3b9951b7651&txTime=6A8C4AA0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1259.jpg?v=1780171883879" group-title="德国杯",德国杯 | 布伦瑞克 vs 柏林联合 | 1-0 | 原声59 | 原声59
+https://pul-tenm.gkykp.com/live/sd-1-4550513.m3u8?txSecret=569fee09dc2ffb05808980730499e0a5&txTime=6A8C4AA0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1266.jpg?v=1780171883879" group-title="中女锦",中女锦 | 上海交通大学女篮 vs 大连文体旅女篮 | 71-68 | 原声66 | 原声66
+https://pul-tenm.gkykp.com/live/sd-2-3936012.m3u8?txSecret=eb10cdb13272ac487ecaa6d6a3b3d4d5&txTime=6A8C4AA0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1287.jpg?v=1780171883879" group-title="芬超",芬超 | 古比斯 vs 玛丽港 | 2-4 | 原声87 | 原声87
-https://pul-tenm.gkykp.com/live/sd-1-4468181.m3u8?txSecret=eacb2c029f8b3c1e4f8b0030f1e78d05&txTime=6A8C46E1
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1296.jpg?v=1780171883879" group-title="德国杯",德国杯 | 卡尔蔡司耶拿 vs 达姆施塔特 | 0-0 | 原声96 | 原声96
-https://pul-tenm.gkykp.com/live/sd-1-4550495.m3u8?txSecret=3131aa6c0901cf5ba5969804f531b931&txTime=6A8C46E1
+https://pul-tenm.gkykp.com/live/sd-1-4468181.m3u8?txSecret=5ed9a65d9f1b8cb40accb3d47d4acb4e&txTime=6A8C4AA0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1296.jpg?v=1780171883879" group-title="德国杯",德国杯 | 卡尔蔡司耶拿 vs 达姆施塔特 | 0-1 | 原声96 | 原声96
+https://pul-tenm.gkykp.com/live/sd-1-4550495.m3u8?txSecret=7d1eece08abba3ab0d1b8d676ee5090f&txTime=6A8C4AA0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1299.jpg?v=1780171883879" group-title="瑞士挑",瑞士挑 | 伊韦尔东 vs 阿劳 | 2-1 | 原声99 | 原声99
-https://pul-tenm.gkykp.com/live/sd-1-4556783.m3u8?txSecret=ac533a833557e7b67f8165d30463a500&txTime=6A8C46E1
+https://pul-tenm.gkykp.com/live/sd-1-4556783.m3u8?txSecret=345b2508468981905bbd1260291189da&txTime=6A8C4AA0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1304.jpg?v=1780171883879" group-title="波兰甲",波兰甲 | 拉多米亚克 vs 卢宾 | 0-0 | 原声104 | 原声104
-https://pul-tenm.gkykp.com/live/sd-1-4559288.m3u8?txSecret=b8c9b63140cea14e9850539b4d15e7cf&txTime=6A8C46E1
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1308.jpg?v=1780171883879" group-title="德国杯",德国杯 | 巴林格 vs 马格德堡 | 0-0 | 原声108 | 原声108
-https://pul-tenm.gkykp.com/live/sd-1-4550498.m3u8?txSecret=f7b973a2525edd2e85fb392f93b5d08f&txTime=6A8C46E1
+https://pul-tenm.gkykp.com/live/sd-1-4559288.m3u8?txSecret=9aa44e65be59ba8482bd2a44fb43972d&txTime=6A8C4A28
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1308.jpg?v=1780171883879" group-title="德国杯",德国杯 | 巴林格 vs 马格德堡 | 0-1 | 原声108 | 原声108
+https://pul-tenm.gkykp.com/live/sd-1-4550498.m3u8?txSecret=5fb08a85bdc39a79f38355249fd34eb9&txTime=6A8C4AA0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1368.jpg?v=1780171883879" group-title="德国杯",德国杯 | 肖特美因茨 vs 门兴 | 0-0 | 原声168 | 原声168
-https://pul-tenm.gkykp.com/live/sd-1-4550503.m3u8?txSecret=0cd30b4e58576d6a8fa0e67ff2bc7094&txTime=6A8C46E1
+https://pul-tenm.gkykp.com/live/sd-1-4550503.m3u8?txSecret=15ad65a6661c0a1301cd1f12163c2011&txTime=6A8C4AA0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1370.jpg?v=1780171883879" group-title="瑞典超",瑞典超 | 瓦斯特拉斯 vs 卡尔马 | 0-0 | 原声170 | 原声170
-https://pul-tenm.gkykp.com/live/sd-1-4467143.m3u8?txSecret=d6bcaf03022bc8d129a11b66ce3c1f74&txTime=6A8C46E1
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1397.jpg?v=1780171883879" group-title="中乙",中乙 | 杭州临平吴越 vs 广东铭途 | 1-0 | 原声197 | 原声197
-https://pul-tenm.gkykp.com/live/sd-1-4513138.m3u8?txSecret=048fd33fc1b4a6e2fb0cfb8079f04562&txTime=6A8C46E1
+https://pul-tenm.gkykp.com/live/sd-1-4467143.m3u8?txSecret=d15529267ed086d2cc36ef75fb88e0ec&txTime=6A8C4AA0
