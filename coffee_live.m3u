@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="联盟杯",联盟杯 | 莱昂 vs 皇家盐湖城 | 3-0 | 直播2 | 直播2
-https://hello.ooo0ooo.top/live/4614167.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="联盟杯",联盟杯 | 莱昂 vs 皇家盐湖城 | 3-0 | 直播2 | 原声20
-https://pul-tenm.gkykp.com/live/hd-en-1-4614167.m3u8?txSecret=0118099e4ab3c810e6ffdbda51050530&txTime=6A8FBD48
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 辅仁大学 vs 健行科技大学 | 44-50 | 直播4 | 直播4
-https://hello.ooo0ooo.top/live/3936497.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 辅仁大学 vs 健行科技大学 | 44-50 | 直播4 | 原声39
-https://pul-tenm.gkykp.com/live/sd-2-3936497.m3u8?txSecret=15df0dd295a901144bce31266c2ac601&txTime=6A8FBD48
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="墨联",墨联 | 野狼 vs 皇家部队 | 86-90 | 直播17 | 直播17
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="墨联",墨联 | 野狼 vs 皇家部队 | 90-91 | 直播17 | 直播17
 https://hello.ooo0ooo.top/live/3923943.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="墨联",墨联 | 野狼 vs 皇家部队 | 86-90 | 直播17 | 原声52
-https://pul-tenm.gkykp.com/live/sd-2-3923943.m3u8?txSecret=18f9f8bc7142e684039d5c30fcdb48fc&txTime=6A8FBD48
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="墨联",墨联 | 野狼 vs 皇家部队 | 90-91 | 直播17 | 原声52
+https://pul-tenm.gkykp.com/live/sd-2-3923943.m3u8?txSecret=f28a3f8f3c550a694df5434018678573&txTime=6A8FC090
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 辅仁大学 vs 健行科技大学 | 64-63 | 直播4 | 直播4
+https://hello.ooo0ooo.top/live/3936497.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="俱乐部友谊赛",俱乐部友谊赛 | 辅仁大学 vs 健行科技大学 | 64-63 | 直播4 | 原声39
+https://pul-tenm.gkykp.com/live/sd-2-3936497.m3u8?txSecret=9f0f0fbd50c459d708660e3650a11981&txTime=6A8FC090
