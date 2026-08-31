@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="亚杯预",亚杯预 | 中国香港 vs 新加坡 | 39-23 | 直播1 | 直播1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 伊拉克U20 vs 土库曼斯坦U20 | 0-1 | 直播9 | 直播9
+https://hello.ooo0ooo.top/live/4547065.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 伊拉克U20 vs 土库曼斯坦U20 | 0-1 | 直播9 | 原声198
+https://pul-tenm.gkykp.com/live/sd-1-4547065.m3u8?txSecret=94afd832b2c3b80f1cf1b39110dff518&txTime=6A969050
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="亚杯预",亚杯预 | 中国香港 vs 新加坡 | 57-29 | 直播1 | 直播1
 https://hello.ooo0ooo.top/live/3929893.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="亚杯预",亚杯预 | 中国香港 vs 新加坡 | 39-23 | 直播1 | 原声189
-https://pul-tenm.gkykp.com/live/sd-2-3929893.m3u8?txSecret=d0433cb50c4cbbda503410d517546c1e&txTime=6A968C90
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="亚杯预",亚杯预 | 越南 vs 斐济 | 20-23 | 直播7 | 直播7
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="亚杯预",亚杯预 | 中国香港 vs 新加坡 | 57-29 | 直播1 | 原声189
+https://pul-tenm.gkykp.com/live/sd-2-3929893.m3u8?txSecret=1088d6a45ccb962deede8af57e1550b9&txTime=6A969050
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="亚杯预",亚杯预 | 越南 vs 斐济 | 35-29 | 直播7 | 直播7
 https://hello.ooo0ooo.top/live/3929923.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="亚杯预",亚杯预 | 越南 vs 斐济 | 20-23 | 直播7 | 原声191
-https://pul-tenm.gkykp.com/live/sd-2-3929923.m3u8?txSecret=eb4e65985e9daf182e1692470bca36b0&txTime=6A968C90
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="亚杯预",亚杯预 | 越南 vs 斐济 | 35-29 | 直播7 | 原声191
+https://pul-tenm.gkykp.com/live/sd-2-3929923.m3u8?txSecret=d7ca1d5b149ea0047d8fb569aab4b1e6&txTime=6A969050
