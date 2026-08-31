@@ -1,41 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="亚冠二级",亚冠二级 | 万隆 vs 马尼拉挖掘者 | 0-0 | 直播1 | 直播1
-https://hello.ooo0ooo.top/live/4556858.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="亚冠二级",亚冠二级 | 万隆 vs 马尼拉挖掘者 | 0-0 | 直播1 | 原声187
-https://pul-tenm.gkykp.com/live/sd-1-4556858.m3u8?txSecret=e8085e3efe9485a8b874ed0a32c9976f&txTime=6A96D6A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 澳大利亚U20 vs 老挝U20 | 2-0 | 直播18 | 直播18
-https://hello.ooo0ooo.top/live/4547077.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 澳大利亚U20 vs 老挝U20 | 2-0 | 直播18 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4547077.m3u8?txSecret=dad16f60d44796d13b34a05c6d016942&txTime=6A96D6A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1022.jpg?v=1780171883879" group-title="亚美超",亚美超 | 萨达拉帕特 vs 休尼克FC | 3-0 | 直播22 | 直播22
-https://hello.ooo0ooo.top/live/4578905.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1022.jpg?v=1780171883879" group-title="亚美超",亚美超 | 萨达拉帕特 vs 休尼克FC | 3-0 | 直播22 | 原声51
-https://pul-tenm.gkykp.com/live/sd-1-4578905.m3u8?txSecret=509d2d823d569bcfbe34a3396145e026&txTime=6A96D6A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1021.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 新加坡U20 vs 不丹U20 | 3-1 | 直播21 | 直播21
-https://hello.ooo0ooo.top/live/4547093.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1021.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 新加坡U20 vs 不丹U20 | 3-1 | 直播21 | 原声48
-https://pul-tenm.gkykp.com/live/sd-1-4547093.m3u8?txSecret=6b2f4fe9f8de38857e6179c083894d7d&txTime=6A96D6A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1023.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 马尔代夫U20 vs 文莱U20 | 2-0 | 直播23 | 直播23
-https://hello.ooo0ooo.top/live/4547099.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1023.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 马尔代夫U20 vs 文莱U20 | 2-0 | 直播23 | 原声53
-https://pul-tenm.gkykp.com/live/sd-1-4547099.m3u8?txSecret=21ed5311b9f444f46ba0166f6ad86cf5&txTime=6A96D6A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 越南U20 vs 朝鲜U20 | 0-3 | 直播8 | 直播8
-https://hello.ooo0ooo.top/live/4547046.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 越南U20 vs 朝鲜U20 | 0-3 | 直播8 | 原声188
-https://pul-tenm.gkykp.com/live/sd-1-4547046.m3u8?txSecret=c4e3824f5f591f84d3d215fc4cae158e&txTime=6A96D6A0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="亚杯预",亚杯预 | 尼泊尔 vs 阿曼 | 34-44 | 直播17 | 直播17
+https://hello.ooo0ooo.top/live/3929870.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="亚杯预",亚杯预 | 尼泊尔 vs 阿曼 | 34-44 | 直播17 | 原声32
+https://pul-tenm.gkykp.com/live/sd-2-3929870.m3u8?txSecret=758929621866941048eb72de949b1133&txTime=6A96DA60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="埃及超",埃及超 | 佩特雷姆 vs 埃及国家银行 | 0-0 | 直播3 | 直播3
+https://hello.ooo0ooo.top/live/4614676.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="埃及超",埃及超 | 佩特雷姆 vs 埃及国家银行 | 0-0 | 直播3 | 原声34
+https://pul-tenm.gkykp.com/live/sd-1-4614676.m3u8?txSecret=8b71bfc6b2b75288ab2f3c2fbe3b6a9d&txTime=6A96DA60
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 泰国U20 vs 阿联酋U20 | 1-0 | 直播9 | 直播9
 https://hello.ooo0ooo.top/live/4547066.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 泰国U20 vs 阿联酋U20 | 1-0 | 直播9 | 原声23
-https://pul-tenm.gkykp.com/live/sd-1-4547066.m3u8?txSecret=4d1aa821620ce29134c588b1d221119e&txTime=6A96D6A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1020.jpg?v=1780171883879" group-title="英u21",英u21 | 布伦特福德U21 vs 桑德兰U21 | 4-1 | 直播20 | 直播20
-https://hello.ooo0ooo.top/live/4628043.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1020.jpg?v=1780171883879" group-title="英u21",英u21 | 布伦特福德U21 vs 桑德兰U21 | 4-1 | 直播20 | 原声47
-https://pul-tenm.gkykp.com/live/sd-1-4628043.m3u8?txSecret=612389c24f8f3f2156c6bc673c39ca02&txTime=6A96D6A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="亚杯预",亚杯预 | 尼泊尔 vs 阿曼 | 31-37 | 直播17 | 直播17
-https://hello.ooo0ooo.top/live/3929870.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1780171883879" group-title="亚杯预",亚杯预 | 尼泊尔 vs 阿曼 | 31-37 | 直播17 | 原声32
-https://pul-tenm.gkykp.com/live/sd-2-3929870.m3u8?txSecret=36e6a8551c827ba01a51ad08684b8b27&txTime=6A96D6A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 也门U20 vs 柬埔寨U20 | 1-2 | 直播25 | 直播25
-https://hello.ooo0ooo.top/live/4547072.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 也门U20 vs 柬埔寨U20 | 1-2 | 直播25 | 原声62
-https://pul-tenm.gkykp.com/live/sd-1-4547072.m3u8?txSecret=6edbb0c3142a7149bd0aaf2596171d72&txTime=6A96D6A0
+https://pul-tenm.gkykp.com/live/sd-1-4547066.m3u8?txSecret=8e3936867940c239ea65f7e41f388388&txTime=6A96DA60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="葡U23",葡U23 | 杜连斯U23 vs 布拉加U23 | 0-0 | 直播10 | 直播10
+https://hello.ooo0ooo.top/live/4609475.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="葡U23",葡U23 | 杜连斯U23 vs 布拉加U23 | 0-0 | 直播10 | 原声59
+https://pul-tenm.gkykp.com/live/sd-1-4609475.m3u8?txSecret=f5b355859efb1ec413318ff161ef3acd&txTime=6A96DA60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="亚杯预",亚杯预 | 斯里兰卡 vs 哈萨克斯坦 | 0-0 | 直播11 | 直播11
+https://hello.ooo0ooo.top/live/3929897.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="亚杯预",亚杯预 | 斯里兰卡 vs 哈萨克斯坦 | 0-0 | 直播11 | 原声90
+https://pul-tenm.gkykp.com/live/sd-2-3929897.m3u8?txSecret=33c1e60556a00daa2a6f94ddb9d37a12&txTime=6A96DA60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1031.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 约旦U20 vs 阿富汗U20 | 0-0 | 直播31 | 直播31
+https://hello.ooo0ooo.top/live/4547053.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1031.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 约旦U20 vs 阿富汗U20 | 0-0 | 直播31 | 原声57
+https://pul-tenm.gkykp.com/live/sd-1-4547053.m3u8?txSecret=b31332995d21a4376840df8bc1304bae&txTime=6A96DA60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="哈萨超",哈萨超 | 叶利迈塞米 vs 凯拉特 | 0-0 | 直播2 | 直播2
+https://hello.ooo0ooo.top/live/4507329.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="哈萨超",哈萨超 | 叶利迈塞米 vs 凯拉特 | 0-0 | 直播2 | 原声33
+https://pul-tenm.gkykp.com/live/sd-1-4507329.m3u8?txSecret=a8bdf42bc2e7cb97081f440a60d359eb&txTime=6A96DA60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1022.jpg?v=1780171883879" group-title="亚美超",亚美超 | 萨达拉帕特 vs 休尼克FC | 3-1 | 直播22 | 直播22
+https://hello.ooo0ooo.top/live/4578905.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1022.jpg?v=1780171883879" group-title="亚美超",亚美超 | 萨达拉帕特 vs 休尼克FC | 3-1 | 直播22 | 原声51
+https://pul-tenm.gkykp.com/live/sd-1-4578905.m3u8?txSecret=03863766d562844cb0390486d17d8d35&txTime=6A96D9E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1023.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 马尔代夫U20 vs 文莱U20 | 2-0 | 直播23 | 直播23
+https://hello.ooo0ooo.top/live/4547099.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1023.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 马尔代夫U20 vs 文莱U20 | 2-0 | 直播23 | 原声53
+https://pul-tenm.gkykp.com/live/sd-1-4547099.m3u8?txSecret=7a521fda64b353e7df668569fa17512d&txTime=6A96DA60
