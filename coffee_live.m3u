@@ -1,31 +1,39 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="乌克超",乌克超 | 切尔诺夫策 vs 基辅迪纳摩 | 0-0 | 直播4 | 直播4
 https://hello.ooo0ooo.top/live/4569649.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1032.jpg?v=1780171883879" group-title="拉脱超",拉脱超 | 利耶帕亚 vs 里加FC | 2-1 | 直播32 | 直播32
-https://hello.ooo0ooo.top/live/4495161.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1032.jpg?v=1780171883879" group-title="拉脱超",拉脱超 | 利耶帕亚 vs 里加FC | 2-1 | 直播32 | 原声23
-https://pul-tenm.gkykp.com/live/sd-1-4495161.m3u8?txSecret=b2567d6ec4559de88bd25de9fd8b7687&txTime=6A96E7F8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1030.jpg?v=1780171883879" group-title="阿塞超",阿塞超 | 纳希切万 vs 萨巴赫 | 0-0 | 直播30 | 直播30
-https://hello.ooo0ooo.top/live/4595592.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1030.jpg?v=1780171883879" group-title="阿塞超",阿塞超 | 纳希切万 vs 萨巴赫 | 0-0 | 直播30 | 原声55
-https://pul-tenm.gkykp.com/live/sd-1-4595592.m3u8?txSecret=a2a039cae07d73b5d00a1f39337d9b56&txTime=6A96E7F8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="亚杯预",亚杯预 | 斯里兰卡 vs 哈萨克斯坦 | 25-56 | 直播11 | 直播11
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="乌克超",乌克超 | 切尔诺夫策 vs 基辅迪纳摩 | 0-0 | 直播4 | 原声92
+https://pul-tenm.gkykp.com/live/sd-1-4569649.m3u8?txSecret=3b3b26cc05b80154c473d279db627773&txTime=6A96EBB8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="亚杯预",亚杯预 | 斯里兰卡 vs 哈萨克斯坦 | 37-69 | 直播11 | 直播11
 https://hello.ooo0ooo.top/live/3929897.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="亚杯预",亚杯预 | 斯里兰卡 vs 哈萨克斯坦 | 25-56 | 直播11 | 原声90
-https://pul-tenm.gkykp.com/live/sd-2-3929897.m3u8?txSecret=ad0aa128aa20f231e5d3d422526f557f&txTime=6A96E7F8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="葡U23",葡U23 | 杜连斯U23 vs 布拉加U23 | 1-0 | 直播10 | 直播10
-https://hello.ooo0ooo.top/live/4609475.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="葡U23",葡U23 | 杜连斯U23 vs 布拉加U23 | 1-0 | 直播10 | 原声59
-https://pul-tenm.gkykp.com/live/sd-1-4609475.m3u8?txSecret=a14c76dbfbbbbaf0c39d33e61c7256cf&txTime=6A96E7F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="亚杯预",亚杯预 | 斯里兰卡 vs 哈萨克斯坦 | 37-69 | 直播11 | 原声90
+https://pul-tenm.gkykp.com/live/sd-2-3929897.m3u8?txSecret=e5d76e48e15a79afafe433b738e14f3c&txTime=6A96EBB8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1099.jpg?v=1780171883879" group-title="格鲁甲",格鲁甲 | 加格拉 vs 伊比利亚1999 | 1-0 | 直播99 | 直播99
+https://hello.ooo0ooo.top/live/4479579.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1030.jpg?v=1780171883879" group-title="阿塞超",阿塞超 | 纳希切万 vs 萨巴赫 | 0-1 | 直播30 | 直播30
+https://hello.ooo0ooo.top/live/4595592.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1030.jpg?v=1780171883879" group-title="阿塞超",阿塞超 | 纳希切万 vs 萨巴赫 | 0-1 | 直播30 | 原声55
+https://pul-tenm.gkykp.com/live/sd-1-4595592.m3u8?txSecret=11ea4f8ce1097bdff4837682bf9e8ac4&txTime=6A96EBB8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1031.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 约旦U20 vs 阿富汗U20 | 1-0 | 直播31 | 直播31
 https://hello.ooo0ooo.top/live/4547053.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1031.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 约旦U20 vs 阿富汗U20 | 1-0 | 直播31 | 原声57
-https://pul-tenm.gkykp.com/live/sd-1-4547053.m3u8?txSecret=08e5b72b5a3d4392a8a4944f848ad25e&txTime=6A96E7F8
+https://pul-tenm.gkykp.com/live/sd-1-4547053.m3u8?txSecret=2e8e6137bd5489b524e4870922d1045a&txTime=6A96EBB8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1032.jpg?v=1780171883879" group-title="拉脱超",拉脱超 | 利耶帕亚 vs 里加FC | 2-1 | 直播32 | 直播32
+https://hello.ooo0ooo.top/live/4495161.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1032.jpg?v=1780171883879" group-title="拉脱超",拉脱超 | 利耶帕亚 vs 里加FC | 2-1 | 直播32 | 原声23
+https://pul-tenm.gkykp.com/live/sd-1-4495161.m3u8?txSecret=826f787373b1597bd769510cd04c6ca4&txTime=6A96EBB8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="埃及超",埃及超 | 佩特雷姆 vs 埃及国家银行 | 0-0 | 直播3 | 直播3
 https://hello.ooo0ooo.top/live/4614676.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="埃及超",埃及超 | 佩特雷姆 vs 埃及国家银行 | 0-0 | 直播3 | 原声34
-https://pul-tenm.gkykp.com/live/sd-1-4614676.m3u8?txSecret=fe099afbe37a23ff405496aa7d724ef6&txTime=6A96E7F8
+https://pul-tenm.gkykp.com/live/sd-1-4614676.m3u8?txSecret=ce357af17d724d7d88b21c65493ea7d8&txTime=6A96EBB8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="哈萨超",哈萨超 | 叶利迈塞米 vs 凯拉特 | 0-2 | 直播2 | 直播2
 https://hello.ooo0ooo.top/live/4507329.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="哈萨超",哈萨超 | 叶利迈塞米 vs 凯拉特 | 0-2 | 直播2 | 原声33
-https://pul-tenm.gkykp.com/live/sd-1-4507329.m3u8?txSecret=96075d951a3ee1f0a3483d90a9d3bcab&txTime=6A96E7F8
+https://pul-tenm.gkykp.com/live/sd-1-4507329.m3u8?txSecret=8d2c3c85cadb86dafe594119b8515b8a&txTime=6A96EBB8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1034.jpg?v=1780171883879" group-title="格鲁甲",格鲁甲 | 古泰斯拖比度 vs 梅夏特堤基布利 | 0-0 | 直播34 | 直播34
+https://hello.ooo0ooo.top/live/4479581.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1034.jpg?v=1780171883879" group-title="格鲁甲",格鲁甲 | 古泰斯拖比度 vs 梅夏特堤基布利 | 0-0 | 直播34 | 原声51
+https://pul-tenm.gkykp.com/live/sd-1-4479581.m3u8?txSecret=97adfa656675ed7af7acc2c0b3e664ab&txTime=6A96EBB8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="葡U23",葡U23 | 杜连斯U23 vs 布拉加U23 | 1-1 | 直播10 | 直播10
+https://hello.ooo0ooo.top/live/4609475.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="葡U23",葡U23 | 杜连斯U23 vs 布拉加U23 | 1-1 | 直播10 | 原声59
+https://pul-tenm.gkykp.com/live/sd-1-4609475.m3u8?txSecret=ebc25a67ecf5caae5b5b71ed3475c563&txTime=6A96EBB8
