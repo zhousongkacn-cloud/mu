@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="CBA夏季赛",CBA夏季赛 | 山东 vs 福建 | 0-0 | 直播1 | 直播1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="CBA夏季赛",CBA夏季赛 | 山东 vs 福建 | 10-12 | 直播1 | 直播1
 https://hello.ooo0ooo.top/live/3933348.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="CBA夏季赛",CBA夏季赛 | 山东 vs 福建 | 0-0 | 直播1 | 原声6
-https://pul-tenm.gkykp.com/live/sd-2-3933348.m3u8?txSecret=d640ded28c2424e236e775bfdc11864b&txTime=6A9B8538
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="墨西乙",墨西乙 | 特帕蒂特兰 vs 黄金河虎 | 1-4 | 直播4 | 直播4
-https://hello.ooo0ooo.top/live/4578820.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="墨西乙",墨西乙 | 特帕蒂特兰 vs 黄金河虎 | 1-4 | 直播4 | 原声13
-https://pul-tenm.gkykp.com/live/sd-1-4578820.m3u8?txSecret=2427002457b9d326da6460c6cf2a1ad9&txTime=6A9B8538
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="CBA夏季赛",CBA夏季赛 | 山东 vs 福建 | 10-12 | 直播1 | 原声6
+https://pul-tenm.gkykp.com/live/sd-2-3933348.m3u8?txSecret=a51bb27539e46698a5d85bcda38e2b22&txTime=6A9B88F8
