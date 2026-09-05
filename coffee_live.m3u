@@ -1,29 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1054.jpg?v=1780171883879" group-title="多米联",多米联 | 锡瓦奥 vs 马德里尔 | 0-0 | 直播54 | 直播54
-https://hello.ooo0ooo.top/live/4640105.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1054.jpg?v=1780171883879" group-title="多米联",多米联 | 锡瓦奥 vs 马德里尔 | 0-0 | 直播54 | 原声154
-https://pul-tenm.gkykp.com/live/sd-1-4640105.m3u8?txSecret=296f3b4dcae0404102c9dc70a5743651&txTime=6A9DE261
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1052.jpg?v=1780171883879" group-title="多米联",多米联 | 东部海豚 vs OM大学 | 0-1 | 直播52 | 直播52
-https://hello.ooo0ooo.top/live/4640104.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1052.jpg?v=1780171883879" group-title="多米联",多米联 | 东部海豚 vs OM大学 | 0-1 | 直播52 | 原声111
-https://pul-tenm.gkykp.com/live/sd-1-4640104.m3u8?txSecret=6bbdd854d42e86655c94550f93c791b7&txTime=6A9DE261
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 尤文图德 vs 戈亚尼亚竞技 | 2-1 | 直播4 | 直播4
+https://hello.ooo0ooo.top/live/4494698.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 尤文图德 vs 戈亚尼亚竞技 | 2-1 | 直播4 | 原声93
+https://pul-tenm.gkykp.com/live/sd-1-4494698.m3u8?txSecret=5b0c2b85642813a2552baf6c978004f7&txTime=6A9DE5A9
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1043.jpg?v=1780171883879" group-title="哥伦甲",哥伦甲 | 茨高 vs 云斯卡尔达斯 | 2-0 | 直播43 | 直播43
 https://hello.ooo0ooo.top/live/4569278.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1043.jpg?v=1780171883879" group-title="哥伦甲",哥伦甲 | 茨高 vs 云斯卡尔达斯 | 2-0 | 直播43 | 原声79
-https://pul-tenm.gkykp.com/live/sd-1-4569278.m3u8?txSecret=0cdb86a1c78b8c239251ff98dca55d89&txTime=6A9DE261
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 塞阿拉 vs 累西腓体育 | 0-0 | 直播14 | 直播14
-https://hello.ooo0ooo.top/live/4494694.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 塞阿拉 vs 累西腓体育 | 0-0 | 直播14 | 原声30
-https://pul-tenm.gkykp.com/live/sd-1-4494694.m3u8?txSecret=3af08127ae94bc9bc5acfb8a4beb427a&txTime=6A9DE261
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="玻利甲",玻利甲 | 奥罗拉 vs GV圣何塞 | 3-0 | 直播11 | 直播11
-https://hello.ooo0ooo.top/live/4616995.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="玻利甲",玻利甲 | 奥罗拉 vs GV圣何塞 | 3-0 | 直播11 | 原声64
-https://pul-tenm.gkykp.com/live/sd-1-4616995.m3u8?txSecret=01313f6560d117c8739cf3b1e62146ae&txTime=6A9DE261
+https://pul-tenm.gkykp.com/live/sd-1-4569278.m3u8?txSecret=d5d6066f82dc2a3e46c7618e3f5ae0ce&txTime=6A9DE5A9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="智利甲",智利甲 | 埃弗顿VM vs 天主大学 | 0-1 | 直播15 | 直播15
+https://hello.ooo0ooo.top/live/4476447.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="智利甲",智利甲 | 埃弗顿VM vs 天主大学 | 0-1 | 直播15 | 原声37
+https://pul-tenm.gkykp.com/live/sd-1-4476447.m3u8?txSecret=1a61d6f0ea3d8030127bb20827197e85&txTime=6A9DE5A9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1054.jpg?v=1780171883879" group-title="多米联",多米联 | 锡瓦奥 vs 马德里尔 | 0-0 | 直播54 | 直播54
+https://hello.ooo0ooo.top/live/4640105.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1054.jpg?v=1780171883879" group-title="多米联",多米联 | 锡瓦奥 vs 马德里尔 | 0-0 | 直播54 | 原声154
+https://pul-tenm.gkykp.com/live/sd-1-4640105.m3u8?txSecret=8e93ab39eaa54f8a4760355d2b094fe3&txTime=6A9DE5A9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="阿甲",阿甲 | 圣洛伦索 vs 塔勒瑞斯 | 0-0 | 直播1 | 直播1
+https://hello.ooo0ooo.top/live/4539743.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="阿甲",阿甲 | 圣洛伦索 vs 塔勒瑞斯 | 0-0 | 直播1 | 原声43
+https://pul-tenm.gkykp.com/live/sd-1-4539743.m3u8?txSecret=9574d464e73b17c1443721cfa22401be&txTime=6A9DE5A9
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="巴西甲",巴西甲 | 圣保罗 vs 米内罗竞技 | 0-0 | 直播12 | 直播12
 https://hello.ooo0ooo.top/live/4465869.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="巴西甲",巴西甲 | 圣保罗 vs 米内罗竞技 | 0-0 | 直播12 | 原声24
-https://pul-tenm.gkykp.com/live/sd-1-4465869.m3u8?txSecret=edd62c06b1a99b0029ce9e4405a1c497&txTime=6A9DE261
+https://pul-tenm.gkykp.com/live/sd-1-4465869.m3u8?txSecret=87d0d4557e0dee15620d1bc20efb5a76&txTime=6A9DE5A9
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="委内超",委内超 | 阿卡里瓜葡萄牙人 vs 萨莫拉FC | 0-0 | 直播10 | 直播10
 https://hello.ooo0ooo.top/live/4639339.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="委内超",委内超 | 阿卡里瓜葡萄牙人 vs 萨莫拉FC | 0-0 | 直播10 | 原声38
-https://pul-tenm.gkykp.com/live/sd-1-4639339.m3u8?txSecret=0ba8e814bd0112153abbc53a2b8d7dc2&txTime=6A9DE261
+https://pul-tenm.gkykp.com/live/sd-1-4639339.m3u8?txSecret=b484c29764a2b6c1e1ff8b693742e740&txTime=6A9DE5A9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="玻利甲",玻利甲 | 奥罗拉 vs GV圣何塞 | 3-0 | 直播11 | 直播11
+https://hello.ooo0ooo.top/live/4616995.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="玻利甲",玻利甲 | 奥罗拉 vs GV圣何塞 | 3-0 | 直播11 | 原声64
+https://pul-tenm.gkykp.com/live/sd-1-4616995.m3u8?txSecret=6eba7b4bdd70eb89c9f262a3d4aaf0bb&txTime=6A9DE5A9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 塞阿拉 vs 累西腓体育 | 0-0 | 直播14 | 直播14
+https://hello.ooo0ooo.top/live/4494694.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="巴西乙",巴西乙 | 塞阿拉 vs 累西腓体育 | 0-0 | 直播14 | 原声30
+https://pul-tenm.gkykp.com/live/sd-1-4494694.m3u8?txSecret=09f49ad1af9ac9db83510471c36c6259&txTime=6A9DE5A9
