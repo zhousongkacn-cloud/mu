@@ -1,25 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1020.jpg?v=1780171883879" group-title="CBA夏季赛",CBA夏季赛 | 福建 vs 辽宁 | 0-0 | 直播20 | 直播20
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1020.jpg?v=1780171883879" group-title="CBA夏季赛",CBA夏季赛 | 福建 vs 辽宁 | 10-12 | 直播20 | 直播20
 https://hello.ooo0ooo.top/live/3939290.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="澳威超",澳威超 | 悉尼联 vs 曼立联 | 2-1 | 直播7 | 直播7
-https://hello.ooo0ooo.top/live/4640496.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="澳威超",澳威超 | 悉尼联 vs 曼立联 | 2-1 | 直播7 | 原声82
-https://pul-tenm.gkykp.com/live/sd-1-4640496.m3u8?txSecret=def2c1346bde15149087b8a4d3a11f5b&txTime=6A9E4B60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1020.jpg?v=1780171883879" group-title="CBA夏季赛",CBA夏季赛 | 福建 vs 辽宁 | 10-12 | 直播20 | 原声100
+https://pul-tenm.gkykp.com/live/sd-2-3939290.m3u8?txSecret=e8694f131ec2e16436b0b87e57f1cc33&txTime=6A9E4F20
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="日职乙",日职乙 | 札幌冈萨多 vs 枥木市FC | 1-4 | 直播6 | 直播6
 https://hello.ooo0ooo.top/live/4555589.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="日职乙",日职乙 | 札幌冈萨多 vs 枥木市FC | 1-4 | 直播6 | 原声77
-https://pul-tenm.gkykp.com/live/sd-1-4555589.m3u8?txSecret=f25b8c34a402f8a9d7ee56b72f53da3a&txTime=6A9E4B60
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="澳维女超",澳维女超 | 艾云达尔女足 vs 布伦达拉鹰女足 | 2-2 | 直播5 | 直播5
-https://hello.ooo0ooo.top/live/4637001.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="澳维女超",澳维女超 | 艾云达尔女足 vs 布伦达拉鹰女足 | 2-2 | 直播5 | 原声76
-https://pul-tenm.gkykp.com/live/sd-1-4637001.m3u8?txSecret=b061bcfb1ae87b0b3141ff8e558fb34c&txTime=6A9E4B60
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 蒙古U20 vs 关岛U20 | 1-0 | 直播10 | 直播10
-https://hello.ooo0ooo.top/live/4547087.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 蒙古U20 vs 关岛U20 | 1-0 | 直播10 | 原声99
-https://pul-tenm.gkykp.com/live/sd-1-4547087.m3u8?txSecret=9b57047680d1786f32b7faba00ccba16&txTime=6A9E4B60
+https://pul-tenm.gkykp.com/live/sd-1-4555589.m3u8?txSecret=b74d72c9bbf35c591d6766f9d8858924&txTime=6A9E4F20
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="澳威北超",澳威北超 | 布罗德美度兰 vs 梅特兰 | 0-0 | 直播9 | 直播9
 https://hello.ooo0ooo.top/live/4636557.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1780171883879" group-title="澳威北超",澳威北超 | 布罗德美度兰 vs 梅特兰 | 0-0 | 直播9 | 原声96
-https://pul-tenm.gkykp.com/live/sd-1-4636557.m3u8?txSecret=df5954465e975e8d6ccecce8237e09d1&txTime=6A9E4B60
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1295.jpg?v=1780171883879" group-title="澳NBL",澳NBL | 墨尔本联 vs 伊拉瓦拉老鹰 | 51-43 | 原声95 | 原声95
-https://pul-tenm.gkykp.com/live/sd-2-3926026.m3u8?txSecret=2d7d7d097dddbd227c47855515312621&txTime=6A9E4B60
+https://pul-tenm.gkykp.com/live/sd-1-4636557.m3u8?txSecret=bdd90fd4b78f041b9e79cbe220c821ac&txTime=6A9E4F20
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="澳维女超",澳维女超 | 艾云达尔女足 vs 布伦达拉鹰女足 | 5-3 | 直播5 | 直播5
+https://hello.ooo0ooo.top/live/4637001.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="澳维女超",澳维女超 | 艾云达尔女足 vs 布伦达拉鹰女足 | 5-3 | 直播5 | 原声76
+https://pul-tenm.gkykp.com/live/sd-1-4637001.m3u8?txSecret=e9cada0db8d7a404c2c640f16732ba8d&txTime=6A9E4F20
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="澳威超",澳威超 | 悉尼联 vs 曼立联 | 2-1 | 直播7 | 直播7
+https://hello.ooo0ooo.top/live/4640496.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="澳威超",澳威超 | 悉尼联 vs 曼立联 | 2-1 | 直播7 | 原声82
+https://pul-tenm.gkykp.com/live/sd-1-4640496.m3u8?txSecret=ab135d00277a2de5eaa877d6e70d6a8d&txTime=6A9E4F20
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 蒙古U20 vs 关岛U20 | 2-0 | 直播10 | 直播10
+https://hello.ooo0ooo.top/live/4547087.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1780171883879" group-title="U20亚洲杯",U20亚洲杯 | 蒙古U20 vs 关岛U20 | 2-0 | 直播10 | 原声99
+https://pul-tenm.gkykp.com/live/sd-1-4547087.m3u8?txSecret=95ed4d331c51b75ebc2473e4e7f5fb3f&txTime=6A9E4F20
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1295.jpg?v=1780171883879" group-title="澳NBL",澳NBL | 墨尔本联 vs 伊拉瓦拉老鹰 | 51-45 | 原声95 | 原声95
+https://pul-tenm.gkykp.com/live/sd-2-3926026.m3u8?txSecret=3cbae04e7c3b1c45400c5e22a668bf3e&txTime=6A9E4F20
