@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1026.jpg?v=1780171883879" group-title="联盟杯",联盟杯 | 托卢卡 vs 蒙特雷 | 1-0 | 直播26 | 直播26
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1026.jpg?v=1780171883879" group-title="联盟杯",联盟杯 | 托卢卡 vs 蒙特雷 | 2-0 | 直播26 | 直播26
 https://hello.ooo0ooo.top/live/4639815.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1026.jpg?v=1780171883879" group-title="联盟杯",联盟杯 | 托卢卡 vs 蒙特雷 | 1-0 | 直播26 | 原声29
-https://pul-tenm.gkykp.com/live/sd-1-4639815.m3u8?txSecret=0948aad5b980a1754df58c3cbdf5d340&txTime=6A9F79B8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="美女职",美女职 | 西雅图统治女足 vs 圣地亚哥波浪女足 | 1-0 | 直播8 | 直播8
-https://hello.ooo0ooo.top/live/4511061.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="美女职",美女职 | 西雅图统治女足 vs 圣地亚哥波浪女足 | 1-0 | 直播8 | 原声17
-https://pul-tenm.gkykp.com/live/sd-1-4511061.m3u8?txSecret=8c90c452097d9fa5dd1c53db2106c1ac&txTime=6A9F79B8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1027.jpg?v=1780171883879" group-title="哥伦乙",哥伦乙 | 帕特里奥坦斯 vs 锡帕基拉老虎 | 1-0 | 直播27 | 直播27
-https://hello.ooo0ooo.top/live/4596255.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1027.jpg?v=1780171883879" group-title="哥伦乙",哥伦乙 | 帕特里奥坦斯 vs 锡帕基拉老虎 | 1-0 | 直播27 | 原声14
-https://pul-tenm.gkykp.com/live/sd-1-4596255.m3u8?txSecret=edb8d9213bbb4f864bff0afc35d37dc2&txTime=6A9F79B8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1026.jpg?v=1780171883879" group-title="联盟杯",联盟杯 | 托卢卡 vs 蒙特雷 | 2-0 | 直播26 | 原声29
+https://pul-tenm.gkykp.com/live/sd-1-4639815.m3u8?txSecret=7d71d5c1628acefe812958a017bb245e&txTime=6A9F7D78
