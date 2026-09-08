@@ -1,33 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="马足总",马足总 | 森美兰 vs 吉兰丹城 | 2-2 | 直播8 | 直播8
-https://hello.ooo0ooo.top/live/4628942.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1780171883879" group-title="马足总",马足总 | 森美兰 vs 吉兰丹城 | 2-2 | 直播8 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4628942.m3u8?txSecret=f2e45451927293d5890d275451261121&txTime=6AA134B0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="澳NBL",澳NBL | 东南墨尔本凤凰 vs 新西兰破坏者 | 59-52 | 直播11 | 直播11
-https://hello.ooo0ooo.top/live/3936536.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="澳NBL",澳NBL | 东南墨尔本凤凰 vs 新西兰破坏者 | 59-52 | 直播11 | 原声29
-https://pul-tenm.gkykp.com/live/sd-2-3936536.m3u8?txSecret=8cbf9ffb395caf2458109e6fdd25748d&txTime=6AA134B0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="葡U23",葡U23 | 波尔蒂芒人U23 vs 费尔格拉斯U23 | 0-1 | 直播16 | 直播16
-https://hello.ooo0ooo.top/live/4609705.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="葡U23",葡U23 | 波尔蒂芒人U23 vs 费尔格拉斯U23 | 0-1 | 直播16 | 原声10
-https://pul-tenm.gkykp.com/live/sd-1-4609705.m3u8?txSecret=e9af6bc43409a63d27c90cb62c7070df&txTime=6AA134B0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="欧青联",欧青联 | 雅典AEKU19 vs LASK林茨U19 | 0-0 | 直播1 | 直播1
-https://hello.ooo0ooo.top/live/4638771.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="欧青联",欧青联 | 雅典AEKU19 vs LASK林茨U19 | 0-0 | 直播1 | 原声7
-https://pul-tenm.gkykp.com/live/sd-1-4638771.m3u8?txSecret=3a7edb9b25fc40d589e11c502d152829&txTime=6AA134B0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="韩K联",韩K联 | 蔚山HD vs FC首尔 | 0-0 | 直播3 | 直播3
+https://hello.ooo0ooo.top/live/4480507.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1780171883879" group-title="韩K联",韩K联 | 蔚山HD vs FC首尔 | 0-0 | 直播3 | 原声53
+https://pul-tenm.gkykp.com/live/sd-1-4480507.m3u8?txSecret=311c9a0d2b58b42f9e9229d7e37c35ad&txTime=6AA13870
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="葡U23",葡U23 | 埃斯托里尔U23 vs 法马利康U23 | 0-0 | 直播13 | 直播13
 https://hello.ooo0ooo.top/live/4609483.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="葡U23",葡U23 | 埃斯托里尔U23 vs 法马利康U23 | 0-0 | 直播13 | 原声42
-https://pul-tenm.gkykp.com/live/sd-1-4609483.m3u8?txSecret=313004287b0f7ce758b65b48cdc94ed9&txTime=6AA134B0
+https://pul-tenm.gkykp.com/live/sd-1-4609483.m3u8?txSecret=214a0a1937e6b2329dba05e181363f2a&txTime=6AA13870
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="欧青联",欧青联 | 雅典AEKU19 vs LASK林茨U19 | 0-0 | 直播1 | 直播1
+https://hello.ooo0ooo.top/live/4638771.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="欧青联",欧青联 | 雅典AEKU19 vs LASK林茨U19 | 0-0 | 直播1 | 原声7
+https://pul-tenm.gkykp.com/live/sd-1-4638771.m3u8?txSecret=07814005cd2146554a9a3f36634a1d17&txTime=6AA13870
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="亚挑联",亚挑联 | 仰光联 vs 埃兹拉FC | 0-0 | 直播2 | 直播2
 https://hello.ooo0ooo.top/live/4584779.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="亚挑联",亚挑联 | 仰光联 vs 埃兹拉FC | 0-0 | 直播2 | 原声14
-https://pul-tenm.gkykp.com/live/sd-1-4584779.m3u8?txSecret=d4f29da285046acfee3dca66d1ecfbfd&txTime=6AA134B0
+https://pul-tenm.gkykp.com/live/sd-1-4584779.m3u8?txSecret=f2b19405ea3fd5f8bbd4a76654ffca62&txTime=6AA13870
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="澳NBL",澳NBL | 东南墨尔本凤凰 vs 新西兰破坏者 | 68-61 | 直播11 | 直播11
+https://hello.ooo0ooo.top/live/3936536.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="澳NBL",澳NBL | 东南墨尔本凤凰 vs 新西兰破坏者 | 68-61 | 直播11 | 原声29
+https://pul-tenm.gkykp.com/live/sd-2-3936536.m3u8?txSecret=b7a80ff476d30cca19fc510e2b909b41&txTime=6AA13870
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="乌克兰杯",乌克兰杯 | FC奥林匹亚 vs 克里夫巴斯 | 0-1 | 直播19 | 直播19
+https://hello.ooo0ooo.top/live/4639028.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="乌克兰杯",乌克兰杯 | FC奥林匹亚 vs 克里夫巴斯 | 0-1 | 直播19 | 原声15
+https://pul-tenm.gkykp.com/live/sd-1-4639028.m3u8?txSecret=842c341fa6a70c52d70703d3ad953687&txTime=6AA13870
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="葡U23",葡U23 | 波尔蒂芒人U23 vs 费尔格拉斯U23 | 0-1 | 直播16 | 直播16
+https://hello.ooo0ooo.top/live/4609705.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="葡U23",葡U23 | 波尔蒂芒人U23 vs 费尔格拉斯U23 | 0-1 | 直播16 | 原声10
+https://pul-tenm.gkykp.com/live/sd-1-4609705.m3u8?txSecret=d8acf97813e238cde32e5df81d775633&txTime=6AA13870
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="葡U23",葡U23 | 里奥阿维U23 vs 杜连斯U23 | 0-0 | 直播15 | 直播15
 https://hello.ooo0ooo.top/live/4609486.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1780171883879" group-title="葡U23",葡U23 | 里奥阿维U23 vs 杜连斯U23 | 0-0 | 直播15 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4609486.m3u8?txSecret=f0e934c24165f038e07407a97f114b6a&txTime=6AA134B0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="乌克兰杯",乌克兰杯 | FC奥林匹亚 vs 克里夫巴斯 | 0-0 | 直播19 | 直播19
-https://hello.ooo0ooo.top/live/4639028.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="乌克兰杯",乌克兰杯 | FC奥林匹亚 vs 克里夫巴斯 | 0-0 | 直播19 | 原声15
-https://pul-tenm.gkykp.com/live/sd-1-4639028.m3u8?txSecret=262b4547b72a9f5404f1e7bf499f0a08&txTime=6AA134B0
+https://pul-tenm.gkykp.com/live/sd-1-4609486.m3u8?txSecret=567f3d30265f052c03a638d043e92d5d&txTime=6AA13870
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="韩K联",韩K联 | 仁川联 vs 富川FC | 0-0 | 直播4 | 直播4
+https://hello.ooo0ooo.top/live/4480487.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1780171883879" group-title="韩K联",韩K联 | 仁川联 vs 富川FC | 0-0 | 直播4 | 原声52
+https://pul-tenm.gkykp.com/live/sd-1-4480487.m3u8?txSecret=727ef35ebfdd2da7d856b755f3288f9a&txTime=6AA13870
