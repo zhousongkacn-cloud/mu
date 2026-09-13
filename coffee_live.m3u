@@ -1,29 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="墨西超",墨西超 | 蓝十字 vs 墨西哥美洲 | 2-0 | 直播1 | 直播1
-https://hello.ooo0ooo.top/live/4553862.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="墨西超",墨西超 | 蓝十字 vs 墨西哥美洲 | 2-0 | 直播1 | 原声19
-https://pul-tenm.gkykp.com/live/sd-1-4553862.m3u8?txSecret=4c26e3214e12b6e534f98bbfeb03c1ae&txTime=6AA770C8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="亚运男篮",亚运男篮 | 中国台北 vs 卡塔尔 | 23-10 | 直播2 | 直播2
+https://hello.ooo0ooo.top/live/3931207.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="亚运男篮",亚运男篮 | 中国台北 vs 卡塔尔 | 23-10 | 直播2 | 原声45
+https://pul-tenm.gkykp.com/live/sd-2-3931207.m3u8?txSecret=88f6b409ee0ecb7d6b1caf417b24015e&txTime=6AA77489
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="美职业",美职业 | 洛杉矶银河 vs 西雅图海湾人 | 1-0 | 直播6 | 直播6
 https://hello.ooo0ooo.top/live/4460591.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="美职业",美职业 | 洛杉矶银河 vs 西雅图海湾人 | 1-0 | 直播6 | 原声12
-https://pul-tenm.gkykp.com/live/hd-en-1-4460591.m3u8?txSecret=556670719ecc376c54f40cd7e7b2587a&txTime=6AA770C8
+https://pul-tenm.gkykp.com/live/hd-en-1-4460591.m3u8?txSecret=1a363957f569bc131f2d78dd601b2ab8&txTime=6AA77489
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="墨西超",墨西超 | 蓝十字 vs 墨西哥美洲 | 3-0 | 直播1 | 直播1
+https://hello.ooo0ooo.top/live/4553862.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1780171883879" group-title="墨西超",墨西超 | 蓝十字 vs 墨西哥美洲 | 3-0 | 直播1 | 原声19
+https://pul-tenm.gkykp.com/live/sd-1-4553862.m3u8?txSecret=e00265d88f904adbab28ab0a5b0c63ae&txTime=6AA77489
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="美职业",美职业 | 圣何塞地震 vs 休斯敦迪纳摩 | 1-0 | 直播19 | 直播19
 https://hello.ooo0ooo.top/live/4460592.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1780171883879" group-title="美职业",美职业 | 圣何塞地震 vs 休斯敦迪纳摩 | 1-0 | 直播19 | 原声16
-https://pul-tenm.gkykp.com/live/hd-en-1-4460592.m3u8?txSecret=62622b39a3b42e2c92520cd941991e98&txTime=6AA770C8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1045.jpg?v=1780171883879" group-title="美乙",美乙 | 萨克拉门托 vs 底特律城 | 1-0 | 直播45 | 直播45
-https://hello.ooo0ooo.top/live/4473208.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1045.jpg?v=1780171883879" group-title="美乙",美乙 | 萨克拉门托 vs 底特律城 | 1-0 | 直播45 | 原声5
-https://pul-tenm.gkykp.com/live/sd-1-4473208.m3u8?txSecret=0d1dd75edd368df2b01d7ad0755ffe56&txTime=6AA770C8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="美乙",美乙 | 奥兰治蓝调 vs 拉斯维加斯之光 | 0-1 | 直播16 | 直播16
-https://hello.ooo0ooo.top/live/4473123.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="美乙",美乙 | 奥兰治蓝调 vs 拉斯维加斯之光 | 0-1 | 直播16 | 原声149
-https://pul-tenm.gkykp.com/live/sd-1-4473123.m3u8?txSecret=fee6ccf3d2a752fb3ae1b29ed406bed2&txTime=6AA770C8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="美乙",美乙 | 凤凰重生 vs 塔尔萨钻机工 | 2-0 | 直播18 | 直播18
-https://hello.ooo0ooo.top/live/4473142.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1780171883879" group-title="美乙",美乙 | 凤凰重生 vs 塔尔萨钻机工 | 2-0 | 直播18 | 原声150
-https://pul-tenm.gkykp.com/live/sd-1-4473142.m3u8?txSecret=2db886c2878f9b79c50067e9eac2f7dc&txTime=6AA770C8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="亚运男篮",亚运男篮 | 中国台北 vs 卡塔尔 | 0-0 | 直播2 | 直播2
-https://hello.ooo0ooo.top/live/3931207.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="亚运男篮",亚运男篮 | 中国台北 vs 卡塔尔 | 0-0 | 直播2 | 原声45
-https://pul-tenm.gkykp.com/live/sd-2-3931207.m3u8?txSecret=f844c4e368c2bc87150dd1b0bf356fcf&txTime=6AA770C8
+https://pul-tenm.gkykp.com/live/hd-en-1-4460592.m3u8?txSecret=2e901a58122dfc67c60676d94a6723a8&txTime=6AA77489
