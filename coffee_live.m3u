@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1789454340185" group-title="亚洲运动会男足",亚洲运动会男足 | 阿联酋U23 vs 伊朗U23 | 1-2 | 直播1 | 直播1
-https://hello.ooo0ooo.top/live/4594061.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1789454340185" group-title="亚洲运动会男足",亚洲运动会男足 | 阿联酋U23 vs 伊朗U23 | 1-2 | 直播1 | 原声12
-https://pul-tenm.gkykp.com/live/sd-1-4594061.m3u8?txSecret=eb3c62cfb093536137cf63c51f3da889&txTime=6AAB8C30
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1789454340185" group-title="亚运男篮",亚运男篮 | 中国 vs 沙特 | 0-0 | 直播10 | 直播10
+https://hello.ooo0ooo.top/live/3940804.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1789454340185" group-title="亚运男篮",亚运男篮 | 中国 vs 沙特 | 0-0 | 直播10 | 原声50
+https://pul-tenm.gkykp.com/live/sd-2-3940804.m3u8?txSecret=ddb7a2635ba9a20b56d9b4ee7495d3af&txTime=6AAB8F78
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1789454340185" group-title="亚洲运动会男足",亚洲运动会男足 | 泰国U23 vs 吉尔吉斯斯坦U23 | 0-0 | 直播2 | 直播2
+https://hello.ooo0ooo.top/live/4594055.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1789454340185" group-title="亚洲运动会男足",亚洲运动会男足 | 泰国U23 vs 吉尔吉斯斯坦U23 | 0-0 | 直播2 | 原声46
+https://pul-tenm.gkykp.com/live/sd-1-4594055.m3u8?txSecret=0d7a768ab24db911bc6b2ab38ad879d0&txTime=6AAB8FF0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1250.jpg?v=1789454340185" group-title="亚运男篮",亚运男篮 | 中国 vs 沙特 | 0-0 | 原声50 | 原声50
+https://pul-tenm.gkykp.com/live/sd-2-3940804.m3u8?txSecret=ed740b3f249b88cca419e97a47b3fdd4&txTime=6AAB8FF0
