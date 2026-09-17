@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1789454340185" group-title="西甲",西甲 | 马拉加 vs 比利亚雷亚尔 | 1-2 | 直播6 | 直播6
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1789454340185" group-title="西甲",西甲 | 马拉加 vs 比利亚雷亚尔 | 1-3 | 直播6 | 直播6
 https://hello.ooo0ooo.top/live/4565416.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1789454340185" group-title="西甲",西甲 | 马拉加 vs 比利亚雷亚尔 | 1-2 | 直播6 | 原声55
-https://pul-tenm.gkykp.com/live/hd-en-1-4565416.m3u8?txSecret=06ca6284a10e20b00c52084b54a7ebac&txTime=6AADA650
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1789454340185" group-title="欧联杯",欧联杯 | 贝西克塔斯 vs 马赛 | 4-1 | 直播19 | 直播19
-https://hello.ooo0ooo.top/live/4630520.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1789454340185" group-title="西甲",西甲 | 马拉加 vs 比利亚雷亚尔 | 1-3 | 直播6 | 原声55
+https://pul-tenm.gkykp.com/live/hd-en-1-4565416.m3u8?txSecret=b941893c76dc227e4a5eeccf96d41691&txTime=6AADA998
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1789454340185" group-title="厄乙",厄乙 | 维诺廷托FC vs 十月九日 | 0-0 | 直播15 | 直播15
 https://hello.ooo0ooo.top/live/4626070.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1789454340185" group-title="厄乙",厄乙 | 维诺廷托FC vs 十月九日 | 0-0 | 直播15 | 原声116
-https://pul-tenm.gkykp.com/live/sd-1-4626070.m3u8?txSecret=5e0be00dc28febde0b0d520c59a8338e&txTime=6AADA650
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1220.jpg?v=1789454340185" group-title="欧联杯",欧联杯 | 贝西克塔斯 vs 马赛 | 4-1 | 原声20 | 原声20
-/hls/4630520.m3u8
+https://pul-tenm.gkykp.com/live/sd-1-4626070.m3u8?txSecret=c08f21b33941c6377757767f9c6d73c8&txTime=6AADA998
