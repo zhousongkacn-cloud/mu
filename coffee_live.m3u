@@ -1,17 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1789454340185" group-title="阿甲",阿甲 | 科尔多瓦中央 vs 国防与司法 | 0-1 | 直播4 | 直播4
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1789454340185" group-title="阿甲",阿甲 | 科尔多瓦中央 vs 国防与司法 | 0-2 | 直播4 | 直播4
 https://hello.ooo0ooo.top/live/4539764.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1789454340185" group-title="阿甲",阿甲 | 科尔多瓦中央 vs 国防与司法 | 0-1 | 直播4 | 原声18
-https://pul-tenm.gkykp.com/live/sd-1-4539764.m3u8?txSecret=2610a1d71b8e7ddf0c98e7e8e2a2cc79&txTime=6AAF05E0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1789454340185" group-title="巴拉甲",巴拉甲 | 巴拉圭民族 vs 五月二日体育会 | 2-0 | 直播5 | 直播5
-https://hello.ooo0ooo.top/live/4631184.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1789454340185" group-title="巴拉甲",巴拉甲 | 巴拉圭民族 vs 五月二日体育会 | 2-0 | 直播5 | 原声19
-https://pul-tenm.gkykp.com/live/sd-1-4631184.m3u8?txSecret=d0eeaa78139fcf9866d6aacc8b112184&txTime=6AAF05E0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1789454340185" group-title="阿甲",阿甲 | 科尔多瓦中央 vs 国防与司法 | 0-2 | 直播4 | 原声18
+https://pul-tenm.gkykp.com/live/sd-1-4539764.m3u8?txSecret=71dbbf31c3926b3ccd2bc4a50639d474&txTime=6AAF0928
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1789454340185" group-title="哥伦甲",哥伦甲 | 里奥内格罗老鹰 vs 佩雷拉 | 1-0 | 直播3 | 直播3
 https://hello.ooo0ooo.top/live/4569295.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1789454340185" group-title="哥伦甲",哥伦甲 | 里奥内格罗老鹰 vs 佩雷拉 | 1-0 | 直播3 | 原声8
-https://pul-tenm.gkykp.com/live/sd-1-4569295.m3u8?txSecret=35c47c408ff867c4879e8655ce0b8076&txTime=6AAF05E0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1789454340185" group-title="秘鲁甲",秘鲁甲 | 阿利安萨竞技 vs 卡哈马卡商业联 | 2-1 | 直播1 | 直播1
-https://hello.ooo0ooo.top/live/4550665.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1789454340185" group-title="秘鲁甲",秘鲁甲 | 阿利安萨竞技 vs 卡哈马卡商业联 | 2-1 | 直播1 | 原声4
-https://pul-tenm.gkykp.com/live/sd-1-4550665.m3u8?txSecret=2141662fa0a0f4f832d5d07e8aa45275&txTime=6AAF05E0
+https://pul-tenm.gkykp.com/live/sd-1-4569295.m3u8?txSecret=d091b4ed6e08cfa3ecec2dd4a563f60e&txTime=6AAF0928
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1789454340185" group-title="巴拉甲",巴拉甲 | 巴拉圭民族 vs 五月二日体育会 | 2-0 | 直播5 | 直播5
+https://hello.ooo0ooo.top/live/4631184.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1789454340185" group-title="巴拉甲",巴拉甲 | 巴拉圭民族 vs 五月二日体育会 | 2-0 | 直播5 | 原声19
+https://pul-tenm.gkykp.com/live/sd-1-4631184.m3u8?txSecret=7cf4a9c45876fae41a2d5461e18ea92c&txTime=6AAF0928
