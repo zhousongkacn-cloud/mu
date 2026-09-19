@@ -1,11 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1789454340185" group-title="墨西超",墨西超 | 华雷斯 vs 老虎大学 | 2-0 | 直播2 | 直播2
-https://hello.ooo0ooo.top/live/4553868.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1789454340185" group-title="墨西超",墨西超 | 华雷斯 vs 老虎大学 | 2-0 | 直播2 | 原声22
-https://pul-tenm.gkykp.com/live/sd-1-4553868.m3u8?txSecret=61eed16c4accb25509493be19a9b4462&txTime=6AAF6671
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1789454340185" group-title="日职女甲",日职女甲 | 静冈产大女足 vs 横滨海鸥女足 | 0-0 | 直播1 | 直播1
+https://hello.ooo0ooo.top/live/4510868.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1789454340185" group-title="日职女甲",日职女甲 | 静冈产大女足 vs 横滨海鸥女足 | 0-0 | 直播1 | 原声6
+https://pul-tenm.gkykp.com/live/sd-1-4510868.m3u8?txSecret=0de1162ffd7eaff8cffc6cac1d1dcd63&txTime=6AAF6851
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1789454340185" group-title="日职乙",日职乙 | 札幌冈萨多 vs 大分三神 | 0-0 | 直播3 | 直播3
+https://hello.ooo0ooo.top/live/4555564.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1789454340185" group-title="日职乙",日职乙 | 札幌冈萨多 vs 大分三神 | 0-0 | 直播3 | 原声30
+https://pul-tenm.gkykp.com/live/sd-1-4555564.m3u8?txSecret=a402c0f13146663d10912d90f3a1ac1d&txTime=6AAF6851
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1789454340185" group-title="墨西乙",墨西乙 | 拉巴斯竞技 vs UAT走鹃 | 3-1 | 直播6 | 直播6
 https://hello.ooo0ooo.top/live/4578835.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1789454340185" group-title="墨西乙",墨西乙 | 拉巴斯竞技 vs UAT走鹃 | 3-1 | 直播6 | 原声23
-https://pul-tenm.gkykp.com/live/sd-1-4578835.m3u8?txSecret=b2fd57dde062001df355de7072e58fb1&txTime=6AAF6671
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1231.jpg?v=1789454340185" group-title="墨女超",墨女超 | 蒙特雷女足 vs 内卡萨女足 | 9-0 | 原声31 | 原声31
-https://pul-tenm.gkykp.com/live/sd-1-4599477.m3u8?txSecret=aae09b6faf41c28bcd85c3c3bb00fae0&txTime=6AAF6671
+https://pul-tenm.gkykp.com/live/sd-1-4578835.m3u8?txSecret=260ba8ef783b48d64e580d8e423f3a92&txTime=6AAF6851
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1789454340185" group-title="墨西超",墨西超 | 华雷斯 vs 老虎大学 | 2-0 | 直播2 | 直播2
+https://hello.ooo0ooo.top/live/4553868.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1789454340185" group-title="墨西超",墨西超 | 华雷斯 vs 老虎大学 | 2-0 | 直播2 | 原声22
+https://pul-tenm.gkykp.com/live/sd-1-4553868.m3u8?txSecret=782e0fac86dcbe8d718205506a3ed4b0&txTime=6AAF6851
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1231.jpg?v=1789454340185" group-title="墨女超",墨女超 | 蒙特雷女足 vs 内卡萨女足 | 10-0 | 原声31 | 原声31
+https://pul-tenm.gkykp.com/live/sd-1-4599477.m3u8?txSecret=2600ffe6836391dd253a552e3c60d2ce&txTime=6AAF6851
