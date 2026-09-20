@@ -1,13 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1789454340185" group-title="俱乐部友谊赛",俱乐部友谊赛 | 台湾艺大 vs 健行科技大学 | 75-48 | 直播25 | 直播25
-https://hello.ooo0ooo.top/live/3942303.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1789454340185" group-title="俱乐部友谊赛",俱乐部友谊赛 | 台湾艺大 vs 健行科技大学 | 75-48 | 直播25 | 原声173
-https://pul-tenm.gkykp.com/live/sd-2-3942303.m3u8?txSecret=930239cacb84dd0f0cff2cef7a22cba1&txTime=6AB0D5F0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1789454340185" group-title="亚洲运动会男足",亚洲运动会男足 | 中国香港U23 vs 泰国U23 | 0-0 | 直播3 | 直播3
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1789454340185" group-title="亚洲运动会男足",亚洲运动会男足 | 中国香港U23 vs 泰国U23 | 1-0 | 直播3 | 直播3
 https://hello.ooo0ooo.top/live/4594056.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1789454340185" group-title="亚洲运动会男足",亚洲运动会男足 | 中国香港U23 vs 泰国U23 | 0-0 | 直播3 | 原声34
-https://pul-tenm.gkykp.com/live/sd-1-4594056.m3u8?txSecret=068e75cc352c0f8277be034d59a5bdae&txTime=6AB0D5F0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1789454340185" group-title="亚洲运动会男足",亚洲运动会男足 | 中国香港U23 vs 泰国U23 | 1-0 | 直播3 | 原声34
+https://pul-tenm.gkykp.com/live/hd-en-1-4594056.m3u8?txSecret=9559dd6b9eeef14781a5f8859aaca825&txTime=6AB0D938
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1031.jpg?v=1789454340185" group-title="中U21",中U21 | 青岛海牛U20 vs 青岛西海岸U20 | 0-1 | 直播31 | 直播31
+https://hello.ooo0ooo.top/live/4647420.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1031.jpg?v=1789454340185" group-title="中U21",中U21 | 青岛海牛U20 vs 青岛西海岸U20 | 0-1 | 直播31 | 原声101
+https://pul-tenm.gkykp.com/live/sd-1-4647420.m3u8?txSecret=5d7a3b45dcc24201ee2bc02e92ba9970&txTime=6AB0D938
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1789454340185" group-title="澳维女超",澳维女超 | 波克海尔女足 vs 艾云达尔女足 | 1-0 | 直播1 | 直播1
 https://hello.ooo0ooo.top/live/4646070.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1789454340185" group-title="澳维女超",澳维女超 | 波克海尔女足 vs 艾云达尔女足 | 1-0 | 直播1 | 原声29
-https://pul-tenm.gkykp.com/live/sd-1-4646070.m3u8?txSecret=cafb89f3f797344303a5c66055dd599b&txTime=6AB0D5F0
+https://pul-tenm.gkykp.com/live/sd-1-4646070.m3u8?txSecret=63ddbcd8eda8497e09224daa9546a5cc&txTime=6AB0D938
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1030.jpg?v=1789454340185" group-title="中U21",中U21 | 陕西联合U20 vs 浙江俱乐部U20 | 0-0 | 直播30 | 直播30
+https://hello.ooo0ooo.top/live/4640394.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1030.jpg?v=1789454340185" group-title="中U21",中U21 | 陕西联合U20 vs 浙江俱乐部U20 | 0-0 | 直播30 | 原声52
+https://pul-tenm.gkykp.com/live/sd-1-4640394.m3u8?txSecret=127b64a75177c8f0d6553493bb1433a7&txTime=6AB0D938
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1789454340185" group-title="俱乐部友谊赛",俱乐部友谊赛 | 台湾艺大 vs 健行科技大学 | 84-61 | 直播25 | 直播25
+https://hello.ooo0ooo.top/live/3942303.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1789454340185" group-title="俱乐部友谊赛",俱乐部友谊赛 | 台湾艺大 vs 健行科技大学 | 84-61 | 直播25 | 原声173
+https://pul-tenm.gkykp.com/live/sd-2-3942303.m3u8?txSecret=7dc57f8b3e3dd59df9f7d7f673b96571&txTime=6AB0D938
