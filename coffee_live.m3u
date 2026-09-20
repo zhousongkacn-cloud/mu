@@ -1,13 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1789454340185" group-title="墨西超",墨西超 | 墨西哥美洲 vs 瓜达拉哈拉 | 0-2 | 直播16 | 直播16
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1789454340185" group-title="亚洲运动会男足",亚洲运动会男足 | 伊朗U23 vs 中国U23 | 0-0 | 直播9 | 直播9
+https://hello.ooo0ooo.top/live/4594059.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1789454340185" group-title="亚洲运动会男足",亚洲运动会男足 | 伊朗U23 vs 中国U23 | 0-0 | 直播9 | 原声24
+https://pul-tenm.gkykp.com/live/hd-zh-1-4594059.m3u8?txSecret=d4313b904eb88de4a3dace1b4a18fd24&txTime=6AB0B958
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1789454340185" group-title="墨西超",墨西超 | 墨西哥美洲 vs 瓜达拉哈拉 | 2-2 | 直播16 | 直播16
 https://hello.ooo0ooo.top/live/4553872.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1789454340185" group-title="墨西超",墨西超 | 墨西哥美洲 vs 瓜达拉哈拉 | 0-2 | 直播16 | 原声130
-https://pul-tenm.gkykp.com/live/sd-1-4553872.m3u8?txSecret=3bfeaa4d677306ff9e33f2bf34538732&txTime=6AB0B611
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1789454340185" group-title="日职丙",日职丙 | 金泽共进 vs 山口雷法 | 0-1 | 直播6 | 直播6
-https://hello.ooo0ooo.top/live/4556025.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1789454340185" group-title="日职丙",日职丙 | 金泽共进 vs 山口雷法 | 0-1 | 直播6 | 原声142
-https://pul-tenm.gkykp.com/live/sd-1-4556025.m3u8?txSecret=e7970e1936ad6ce5ea78648bdd1ca833&txTime=6AB0B611
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1789454340185" group-title="墨西超",墨西超 | 墨西哥美洲 vs 瓜达拉哈拉 | 2-2 | 直播16 | 原声130
+https://pul-tenm.gkykp.com/live/sd-1-4553872.m3u8?txSecret=e41621cb5acf0eab0a3355d794d046d3&txTime=6AB0B958
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1789454340185" group-title="日职女甲",日职女甲 | 伊贺女忍者女足 vs 爱媛FC女足 | 0-1 | 直播2 | 直播2
 https://hello.ooo0ooo.top/live/4510870.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1789454340185" group-title="日职女甲",日职女甲 | 伊贺女忍者女足 vs 爱媛FC女足 | 0-1 | 直播2 | 原声131
-https://pul-tenm.gkykp.com/live/sd-1-4510870.m3u8?txSecret=f7c71bab8e7a069e5396b1a74c9049ed&txTime=6AB0B611
+https://pul-tenm.gkykp.com/live/sd-1-4510870.m3u8?txSecret=33371e9a600eaf07810c87343725c10d&txTime=6AB0B958
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1789454340185" group-title="日职丙",日职丙 | 金泽共进 vs 山口雷法 | 0-1 | 直播6 | 直播6
+https://hello.ooo0ooo.top/live/4556025.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1789454340185" group-title="日职丙",日职丙 | 金泽共进 vs 山口雷法 | 0-1 | 直播6 | 原声142
+https://pul-tenm.gkykp.com/live/sd-1-4556025.m3u8?txSecret=9c8ffc3b0182d6d4b3123ad49ca329e4&txTime=6AB0B958
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1789454340185" group-title="日职女甲",日职女甲 | VONDS市原女足 vs 虎鲸鸭川女足 | 0-0 | 直播7 | 直播7
+https://hello.ooo0ooo.top/live/4510873.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1789454340185" group-title="日职女甲",日职女甲 | VONDS市原女足 vs 虎鲸鸭川女足 | 0-0 | 直播7 | 原声189
+https://pul-tenm.gkykp.com/live/sd-1-4510873.m3u8?txSecret=38da94b61c275e0729ec78577fa0b9fe&txTime=6AB0B958
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1024.jpg?v=1789454340185" group-title="澳NBL",澳NBL | 新西兰破坏者 vs 伊拉瓦拉老鹰 | 0-0 | 直播24 | 直播24
+https://hello.ooo0ooo.top/live/3926021.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1024.jpg?v=1789454340185" group-title="澳NBL",澳NBL | 新西兰破坏者 vs 伊拉瓦拉老鹰 | 0-0 | 直播24 | 原声25
+https://pul-tenm.gkykp.com/live/sd-2-3926021.m3u8?txSecret=ef4f25a667cf5067321f73fb2385505f&txTime=6AB0B958
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1789454340185" group-title="日职女甲",日职女甲 | 世田谷挑战女足 vs 日体大女足 | 0-0 | 直播8 | 直播8
+https://hello.ooo0ooo.top/live/4510871.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1789454340185" group-title="日职女甲",日职女甲 | 世田谷挑战女足 vs 日体大女足 | 0-0 | 直播8 | 原声191
+https://pul-tenm.gkykp.com/live/sd-1-4510871.m3u8?txSecret=4577f9192fff9225ccb8d5f5c15beaaf&txTime=6AB0B958
