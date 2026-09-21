@@ -1,13 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 新潟特选队U17 vs 缅甸U17 | 0-0 | 直播16 | 直播16
-https://hello.ooo0ooo.top/live/4648649.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1789454340185" group-title="印班超",印班超 | 班加罗尔根源 vs 哈尔FC | 1-0 | 直播12 | 直播12
-https://hello.ooo0ooo.top/live/4648748.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1789454340185" group-title="蒙古超",蒙古超 | 科布多西部 vs 伊尔赤姆 | 0-1 | 直播15 | 直播15
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1789454340185" group-title="澳NBL",澳NBL | 塔斯马尼亚跳伞蚁 vs 东南墨尔本凤凰 | 5-12 | 直播9 | 直播9
+https://hello.ooo0ooo.top/live/3926018.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1789454340185" group-title="澳NBL",澳NBL | 塔斯马尼亚跳伞蚁 vs 东南墨尔本凤凰 | 5-12 | 直播9 | 原声150
+https://pul-tenm.gkykp.com/live/sd-2-3926018.m3u8?txSecret=818db64ca0f06a7f74ef4d7b9014babf&txTime=6AB24DE0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1789454340185" group-title="蒙古超",蒙古超 | 科布多西部 vs 伊尔赤姆 | 2-2 | 直播15 | 直播15
 https://hello.ooo0ooo.top/live/4644094.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1789454340185" group-title="蒙古超",蒙古超 | 科布多西部 vs 伊尔赤姆 | 0-1 | 直播15 | 原声42
-https://pul-tenm.gkykp.com/live/sd-1-4644094.m3u8?txSecret=2b403447e934d62ebe2540808e21deb0&txTime=6AB24318
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1789454340185" group-title="俱乐部友谊赛",俱乐部友谊赛 | 台湾师范大学女篮 vs 中信学院女篮 | 71-14 | 直播11 | 直播11
-https://hello.ooo0ooo.top/live/3942814.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1789454340185" group-title="俱乐部友谊赛",俱乐部友谊赛 | 台湾师范大学女篮 vs 中信学院女篮 | 71-14 | 直播11 | 原声30
-https://pul-tenm.gkykp.com/live/sd-2-3942814.m3u8?txSecret=3eafe157eab9ba5c4f502718ec6b38c6&txTime=6AB24318
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1789454340185" group-title="蒙古超",蒙古超 | 科布多西部 vs 伊尔赤姆 | 2-2 | 直播15 | 原声42
+https://pul-tenm.gkykp.com/live/sd-1-4644094.m3u8?txSecret=007ba05b6f42a70d95ffd162544cbf4d&txTime=6AB24DE0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1789454340185" group-title="俱乐部友谊赛",俱乐部友谊赛 | 上海交通大学 vs 台湾艺大 | 0-4 | 直播13 | 直播13
+https://hello.ooo0ooo.top/live/3942818.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1789454340185" group-title="俱乐部友谊赛",俱乐部友谊赛 | 上海交通大学 vs 台湾艺大 | 0-4 | 直播13 | 原声40
+https://pul-tenm.gkykp.com/live/sd-2-3942818.m3u8?txSecret=37a92329172cdc25649c1cb1f3153ecf&txTime=6AB24DE0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 新潟特选队U17 vs 缅甸U17 | 2-0 | 直播16 | 直播16
+https://hello.ooo0ooo.top/live/4648649.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1789454340185" group-title="印班超",印班超 | 班加罗尔根源 vs 哈尔FC | 2-0 | 直播12 | 直播12
+https://hello.ooo0ooo.top/live/4648748.m3u8
