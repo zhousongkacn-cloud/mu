@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1789454340185" group-title="FIBA洲际杯",FIBA洲际杯 | 北控 vs 博卡青年 | 69-82 | 直播8 | 直播8
-https://hello.ooo0ooo.top/live/3931112.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1789454340185" group-title="FIBA洲际杯",FIBA洲际杯 | 北控 vs 博卡青年 | 69-82 | 直播8 | 原声54
-https://pul-tenm.gkykp.com/live/sd-2-3931112.m3u8?txSecret=86f6deaffa17eed9121a0a9bb99f541f&txTime=6AB3D098
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1789454340185" group-title="俱乐部友谊赛",俱乐部友谊赛 | 健行科技大学 vs 上海交通大学 | 51-69 | 直播9 | 直播9
-https://hello.ooo0ooo.top/live/3943186.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1789454340185" group-title="俱乐部友谊赛",俱乐部友谊赛 | 健行科技大学 vs 上海交通大学 | 51-69 | 直播9 | 原声17
-https://pul-tenm.gkykp.com/live/sd-2-3943186.m3u8?txSecret=d87f807c8a8622549512f3927dde6c82&txTime=6AB3D098
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1789454340185" group-title="英乙U21",英乙U21 | 查尔顿U21 vs 谢菲尔德联U21 | 2-1 | 直播4 | 直播4
 https://hello.ooo0ooo.top/live/4614876.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1789454340185" group-title="英乙U21",英乙U21 | 查尔顿U21 vs 谢菲尔德联U21 | 2-1 | 直播4 | 原声57
-https://pul-tenm.gkykp.com/live/sd-1-4614876.m3u8?txSecret=76416645691f72e085b6444322f8851f&txTime=6AB3D098
+https://pul-tenm.gkykp.com/live/sd-1-4614876.m3u8?txSecret=46d12ffacc1fb4ee53a2395093faa7ef&txTime=6AB3D3E0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1789454340185" group-title="俱乐部友谊赛",俱乐部友谊赛 | 健行科技大学 vs 上海交通大学 | 65-80 | 直播9 | 直播9
+https://hello.ooo0ooo.top/live/3943186.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1789454340185" group-title="俱乐部友谊赛",俱乐部友谊赛 | 健行科技大学 vs 上海交通大学 | 65-80 | 直播9 | 原声17
+https://pul-tenm.gkykp.com/live/sd-2-3943186.m3u8?txSecret=0d020c0899db8026596f9fbccd61c87e&txTime=6AB3D3E0
