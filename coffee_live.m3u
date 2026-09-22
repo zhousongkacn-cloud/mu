@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 克里丘马 vs 铁路工人 | 0-0 | 直播5 | 直播5
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 克里丘马 vs 铁路工人 | 0-1 | 直播5 | 直播5
 https://hello.ooo0ooo.top/live/4494722.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1789454340185" group-title="哥伦甲",哥伦甲 | 麦德林独立 vs 科尔多瓦美洲虎 | 0-0 | 直播1 | 直播1
-https://hello.ooo0ooo.top/live/4569302.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1789454340185" group-title="哥伦甲",哥伦甲 | 麦德林独立 vs 科尔多瓦美洲虎 | 0-0 | 直播1 | 原声55
-https://pul-tenm.gkykp.com/live/sd-1-4569302.m3u8?txSecret=167a8642412b7ff3cf4b8380b24fe55a&txTime=6AB459F0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1789454340185" group-title="智利杯",智利杯 | 蒙特港 vs 努布伦斯 | 2-0 | 直播2 | 直播2
-https://hello.ooo0ooo.top/live/4641683.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1789454340185" group-title="智利杯",智利杯 | 蒙特港 vs 努布伦斯 | 2-0 | 直播2 | 原声56
-https://pul-tenm.gkykp.com/live/sd-1-4641683.m3u8?txSecret=ae7004e0a0d825be06549b03e3f2eff2&txTime=6AB459F0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1059.jpg?v=1789454340185" group-title="玻利杯",玻利杯 | 国民波托西 vs 皇家波托斯 | 0-0 | 直播59 | 直播59
 https://hello.ooo0ooo.top/live/4615189.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1059.jpg?v=1789454340185" group-title="玻利杯",玻利杯 | 国民波托西 vs 皇家波托斯 | 0-0 | 直播59 | 原声14
-https://pul-tenm.gkykp.com/live/sd-1-4615189.m3u8?txSecret=3f13b3930a64db01b22544c8d6843d08&txTime=6AB459F0
+https://pul-tenm.gkykp.com/live/sd-1-4615189.m3u8?txSecret=ebd22e5300b577d7929576cee8c7fa47&txTime=6AB45D38
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1789454340185" group-title="哥伦甲",哥伦甲 | 麦德林独立 vs 科尔多瓦美洲虎 | 0-0 | 直播1 | 直播1
+https://hello.ooo0ooo.top/live/4569302.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1789454340185" group-title="哥伦甲",哥伦甲 | 麦德林独立 vs 科尔多瓦美洲虎 | 0-0 | 直播1 | 原声55
+https://pul-tenm.gkykp.com/live/sd-1-4569302.m3u8?txSecret=33527653c7340a6f658ad46fcf430db8&txTime=6AB45D38
