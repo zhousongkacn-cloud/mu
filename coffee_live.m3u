@@ -1,11 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 克里丘马 vs 铁路工人 | 0-1 | 直播5 | 直播5
-https://hello.ooo0ooo.top/live/4494722.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1059.jpg?v=1789454340185" group-title="玻利杯",玻利杯 | 国民波托西 vs 皇家波托斯 | 0-0 | 直播59 | 直播59
 https://hello.ooo0ooo.top/live/4615189.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1059.jpg?v=1789454340185" group-title="玻利杯",玻利杯 | 国民波托西 vs 皇家波托斯 | 0-0 | 直播59 | 原声14
-https://pul-tenm.gkykp.com/live/sd-1-4615189.m3u8?txSecret=ebd22e5300b577d7929576cee8c7fa47&txTime=6AB45D38
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1789454340185" group-title="哥伦甲",哥伦甲 | 麦德林独立 vs 科尔多瓦美洲虎 | 0-0 | 直播1 | 直播1
+https://pul-tenm.gkykp.com/live/sd-1-4615189.m3u8?txSecret=ec421756a54dcc2be20bc2ebf9090570&txTime=6AB46080
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1789454340185" group-title="哥伦甲",哥伦甲 | 麦德林独立 vs 科尔多瓦美洲虎 | 0-1 | 直播1 | 直播1
 https://hello.ooo0ooo.top/live/4569302.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1789454340185" group-title="哥伦甲",哥伦甲 | 麦德林独立 vs 科尔多瓦美洲虎 | 0-0 | 直播1 | 原声55
-https://pul-tenm.gkykp.com/live/sd-1-4569302.m3u8?txSecret=33527653c7340a6f658ad46fcf430db8&txTime=6AB45D38
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1789454340185" group-title="哥伦甲",哥伦甲 | 麦德林独立 vs 科尔多瓦美洲虎 | 0-1 | 直播1 | 原声55
+https://pul-tenm.gkykp.com/live/sd-1-4569302.m3u8?txSecret=d29b7d5b5ca2deb4abdf0c6a209f7ee3&txTime=6AB46080
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1789454340185" group-title="智利杯",智利杯 | 科布雷洛 vs 科其姆波 | 0-0 | 直播9 | 直播9
+https://hello.ooo0ooo.top/live/4641687.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1789454340185" group-title="智利杯",智利杯 | 科布雷洛 vs 科其姆波 | 0-0 | 直播9 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4641687.m3u8?txSecret=04825819f7e53f26c95454fdf102e3ee&txTime=6AB46080
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 克里丘马 vs 铁路工人 | 0-1 | 直播5 | 直播5
+https://hello.ooo0ooo.top/live/4494722.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1789454340185" group-title="智利杯",智利杯 | 奥达科斯 vs 科洛科洛 | 0-0 | 直播8 | 直播8
+https://hello.ooo0ooo.top/live/4641685.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1789454340185" group-title="智利杯",智利杯 | 奥达科斯 vs 科洛科洛 | 0-0 | 直播8 | 原声61
+https://pul-tenm.gkykp.com/live/sd-1-4641685.m3u8?txSecret=bd7778b3fa5dc304b6ec28d209521e16&txTime=6AB46080
