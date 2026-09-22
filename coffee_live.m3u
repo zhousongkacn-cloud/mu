@@ -1,27 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1262.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 斯文登 vs 纽波特郡 | 0-1 | 原声62 | 原声62
-https://pul-tenm.gkykp.com/live/sd-1-4568737.m3u8?txSecret=a7fd6b5ebc150dd17d863c73c4ab7d87&txTime=6AB421B0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1248.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 特兰米尔流浪 vs 什鲁斯伯里 | 0-0 | 原声48 | 原声48
-https://pul-tenm.gkykp.com/live/sd-1-4568689.m3u8?txSecret=4073294e836e6370223369212f90b857&txTime=6AB421B0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1208.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 诺茨郡 vs 格林斯比 | 1-0 | 原声8 | 原声8
-https://pul-tenm.gkykp.com/live/sd-1-4568695.m3u8?txSecret=4332ac0b087c00cf513593851f0f7cf1&txTime=6AB421B0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1257.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 普利茅斯 vs 水晶宫U21 | 3-0 | 原声57 | 原声57
-https://pul-tenm.gkykp.com/live/sd-1-4568734.m3u8?txSecret=1fbed4554e3e03afe5d3b01d9bc93b1f&txTime=6AB421B0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1210.jpg?v=1789454340185" group-title="欧女杯",欧女杯 | 皇家马德里女足 vs 巴黎圣日耳曼女足 | 0-0 | 原声10 | 原声10
-https://pul-tenm.gkykp.com/live/sd-1-4646509.m3u8?txSecret=db38b41719e1dc15be4899cb5aab2c57&txTime=6AB421B0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1252.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 吉林汉姆 vs 剑桥联 | 1-2 | 原声52 | 原声52
-https://pul-tenm.gkykp.com/live/sd-1-4568745.m3u8?txSecret=5822da9b776ade72931beee06e16d097&txTime=6AB421B0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1207.jpg?v=1789454340185" group-title="欧女杯",欧女杯 | 尤文图斯女足 vs 本菲卡女足 | 0-0 | 原声7 | 原声7
-https://pul-tenm.gkykp.com/live/sd-1-4646508.m3u8?txSecret=92c5a515b5399eb05d45778c2d44578d&txTime=6AB421B0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1250.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 约克城 vs 罗瑟汉姆 | 1-0 | 原声50 | 原声50
-https://pul-tenm.gkykp.com/live/sd-1-4568676.m3u8?txSecret=2c842d5945d2855db10abcd777fbffbe&txTime=6AB421B0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1253.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 索尔福德市 vs 谢周三 | 1-0 | 原声53 | 原声53
-https://pul-tenm.gkykp.com/live/sd-1-4638619.m3u8?txSecret=128af967f10681b2113b97538b2a713a&txTime=6AB421B0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1220.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 米尔顿凯恩斯 vs 克劳利 | 2-0 | 原声20 | 原声20
-https://pul-tenm.gkykp.com/live/sd-1-4568754.m3u8?txSecret=db220041c19917881f4bd3decdad0df0&txTime=6AB421B0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1202.jpg?v=1789454340185" group-title="欧女杯",欧女杯 | 阿森纳女足 vs HB克厄女足 | 0-0 | 原声2 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4646507.m3u8?txSecret=9a0d98e5e6d543f25b0c7b794b7cc375&txTime=6AB421B0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1254.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 切斯特菲尔德 vs 维尔港 | 0-1 | 原声54 | 原声54
-https://pul-tenm.gkykp.com/live/sd-1-4568680.m3u8?txSecret=51cca65291013607654cd044ed768a5c&txTime=6AB421B0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1263.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 沃尔索尔 vs 斯蒂夫尼奇 | 1-4 | 原声63 | 原声63
-https://pul-tenm.gkykp.com/live/sd-1-4568718.m3u8?txSecret=b9b31cd2cbbb7d0025790940de295563&txTime=6AB421B0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 切斯特菲尔德 vs 维尔港 | 0-1 | 直播17 | 直播17
+https://hello.ooo0ooo.top/live/4568680.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1017.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 切斯特菲尔德 vs 维尔港 | 0-1 | 直播17 | 原声54
+https://pul-tenm.gkykp.com/live/sd-1-4568680.m3u8?txSecret=8d50bd7e008d5a0f006742ac210b6a7b&txTime=6AB424F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 普利茅斯 vs 水晶宫U21 | 3-0 | 直播18 | 直播18
+https://hello.ooo0ooo.top/live/4568734.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1018.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 普利茅斯 vs 水晶宫U21 | 3-0 | 直播18 | 原声57
+https://pul-tenm.gkykp.com/live/sd-1-4568734.m3u8?txSecret=623ea3a7af4307c883bff3b58ca93f2c&txTime=6AB424F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 索尔福德市 vs 谢周三 | 1-1 | 直播16 | 直播16
+https://hello.ooo0ooo.top/live/4638619.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 索尔福德市 vs 谢周三 | 1-1 | 直播16 | 原声53
+https://pul-tenm.gkykp.com/live/sd-1-4638619.m3u8?txSecret=f8d2e20924befa0d0973d4362caa6d3d&txTime=6AB424F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 米尔顿凯恩斯 vs 克劳利 | 2-0 | 直播9 | 直播9
+https://hello.ooo0ooo.top/live/4568754.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 米尔顿凯恩斯 vs 克劳利 | 2-0 | 直播9 | 原声20
+https://pul-tenm.gkykp.com/live/sd-1-4568754.m3u8?txSecret=9b7c581fdcc6a4780b772a771153e3bc&txTime=6AB424F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1789454340185" group-title="欧女杯",欧女杯 | 尤文图斯女足 vs 本菲卡女足 | 0-0 | 直播4 | 直播4
+https://hello.ooo0ooo.top/live/4646508.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1789454340185" group-title="欧女杯",欧女杯 | 尤文图斯女足 vs 本菲卡女足 | 0-0 | 直播4 | 原声7
+https://pul-tenm.gkykp.com/live/sd-1-4646508.m3u8?txSecret=df4cb8208f830499c6077fe69d37df28&txTime=6AB424F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 吉林汉姆 vs 剑桥联 | 1-3 | 直播15 | 直播15
+https://hello.ooo0ooo.top/live/4568745.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1015.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 吉林汉姆 vs 剑桥联 | 1-3 | 直播15 | 原声52
+https://pul-tenm.gkykp.com/live/sd-1-4568745.m3u8?txSecret=c83fe8c643962ccb04b4d034504391ec&txTime=6AB424F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 诺茨郡 vs 格林斯比 | 1-0 | 直播7 | 直播7
+https://hello.ooo0ooo.top/live/4568695.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 诺茨郡 vs 格林斯比 | 1-0 | 直播7 | 原声8
+https://pul-tenm.gkykp.com/live/sd-1-4568695.m3u8?txSecret=3edd6ebaf4ce86c5236e581b0a08bc53&txTime=6AB424F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1789454340185" group-title="欧女杯",欧女杯 | 皇家马德里女足 vs 巴黎圣日耳曼女足 | 1-0 | 直播5 | 直播5
+https://hello.ooo0ooo.top/live/4646509.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1789454340185" group-title="欧女杯",欧女杯 | 皇家马德里女足 vs 巴黎圣日耳曼女足 | 1-0 | 直播5 | 原声10
+https://pul-tenm.gkykp.com/live/sd-1-4646509.m3u8?txSecret=094e76aa8e4afad9b44f300ae8d060d0&txTime=6AB424F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1020.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 沃尔索尔 vs 斯蒂夫尼奇 | 1-4 | 直播20 | 直播20
+https://hello.ooo0ooo.top/live/4568718.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1020.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 沃尔索尔 vs 斯蒂夫尼奇 | 1-4 | 直播20 | 原声63
+https://pul-tenm.gkykp.com/live/sd-1-4568718.m3u8?txSecret=398d753985754f34f6a9993aba4988b2&txTime=6AB424F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 斯文登 vs 纽波特郡 | 0-1 | 直播19 | 直播19
+https://hello.ooo0ooo.top/live/4568737.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 斯文登 vs 纽波特郡 | 0-1 | 直播19 | 原声62
+https://pul-tenm.gkykp.com/live/sd-1-4568737.m3u8?txSecret=cd029a2dbea0be4f1373bfb50f00beb8&txTime=6AB424F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 特兰米尔流浪 vs 什鲁斯伯里 | 0-0 | 直播12 | 直播12
+https://hello.ooo0ooo.top/live/4568689.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 特兰米尔流浪 vs 什鲁斯伯里 | 0-0 | 直播12 | 原声48
+https://pul-tenm.gkykp.com/live/sd-1-4568689.m3u8?txSecret=1aa9abcb7f177876db5576b32bd4e4f7&txTime=6AB424F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1789454340185" group-title="欧女杯",欧女杯 | 阿森纳女足 vs HB克厄女足 | 1-0 | 直播3 | 直播3
+https://hello.ooo0ooo.top/live/4646507.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1789454340185" group-title="欧女杯",欧女杯 | 阿森纳女足 vs HB克厄女足 | 1-0 | 直播3 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4646507.m3u8?txSecret=f2ed1be88637c4f2c349310a1d1d170f&txTime=6AB424F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 约克城 vs 罗瑟汉姆 | 1-0 | 直播14 | 直播14
+https://hello.ooo0ooo.top/live/4568676.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1789454340185" group-title="英锦赛",英锦赛 | 约克城 vs 罗瑟汉姆 | 1-0 | 直播14 | 原声50
+https://pul-tenm.gkykp.com/live/sd-1-4568676.m3u8?txSecret=d505a2881effc188d9ecc9a96159b508&txTime=6AB424F8
