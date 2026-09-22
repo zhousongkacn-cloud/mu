@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1789454340185" group-title="阿乙",阿乙 | 新芝加哥 vs 帕特罗纳图 | 1-1 | 直播3 | 直播3
-https://hello.ooo0ooo.top/live/4471432.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1789454340185" group-title="阿乙",阿乙 | 新芝加哥 vs 帕特罗纳图 | 1-1 | 直播3 | 原声12
-https://pul-tenm.gkykp.com/live/sd-1-4471432.m3u8?txSecret=38120cf3c7b0c6099d4dc9800bb1510d&txTime=6AB31608
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1789454340185" group-title="乌拉甲",乌拉甲 | 西班牙中心 vs 蒙得维的亚城图尔克 | 1-3 | 直播4 | 直播4
-https://hello.ooo0ooo.top/live/4646804.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1789454340185" group-title="乌拉甲",乌拉甲 | 西班牙中心 vs 蒙得维的亚城图尔克 | 1-3 | 直播4 | 原声17
-https://pul-tenm.gkykp.com/live/sd-1-4646804.m3u8?txSecret=c1a473a18060d6b6db5da05c25ada2ae&txTime=6AB31608
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1789454340185" group-title="墨女超",墨女超 | 莱昂女足 vs 华雷斯女足 | 0-0 | 直播6 | 直播6
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1789454340185" group-title="WNBA",WNBA | 自由人 vs 梦想 | 0-0 | 直播11 | 直播11
+https://hello.ooo0ooo.top/live/3908980.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1789454340185" group-title="WNBA",WNBA | 自由人 vs 梦想 | 0-0 | 直播11 | 原声21
+https://pul-tenm.gkykp.com/live/hd-en-2-3908980.m3u8?txSecret=844728333d6f41970f500bbcb48b98da&txTime=6AB319C8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1789454340185" group-title="墨女超",墨女超 | 莱昂女足 vs 华雷斯女足 | 0-1 | 直播6 | 直播6
 https://hello.ooo0ooo.top/live/4599482.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1789454340185" group-title="墨女超",墨女超 | 莱昂女足 vs 华雷斯女足 | 0-0 | 直播6 | 原声3
-https://pul-tenm.gkykp.com/live/sd-1-4599482.m3u8?txSecret=6cdd60b6c0ba2fe643713627da86a26e&txTime=6AB31608
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1203.jpg?v=1789454340185" group-title="墨女超",墨女超 | 莱昂女足 vs 华雷斯女足 | 0-0 | 原声3 | 原声3
-https://pul-tenm.gkykp.com/live/sd-1-4599482.m3u8?txSecret=d599a8daf8651518022aef2979f68d57&txTime=6AB31680
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1212.jpg?v=1789454340185" group-title="阿乙",阿乙 | 新芝加哥 vs 帕特罗纳图 | 1-1 | 原声12 | 原声12
-https://pul-tenm.gkykp.com/live/sd-1-4471432.m3u8?txSecret=3b0294b8b317b81889dc8d26f880a87a&txTime=6AB31680
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1789454340185" group-title="墨女超",墨女超 | 莱昂女足 vs 华雷斯女足 | 0-1 | 直播6 | 原声3
+https://pul-tenm.gkykp.com/live/sd-1-4599482.m3u8?txSecret=d933236006420b3da93036377e8c6c06&txTime=6AB319C8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1789454340185" group-title="墨女超",墨女超 | 托卢卡女足 vs 老虎大学女足 | 1-0 | 直播7 | 直播7
+https://hello.ooo0ooo.top/live/4599483.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1789454340185" group-title="阿甲",阿甲 | 拉努斯 vs 拉普拉塔大学生 | 0-0 | 直播8 | 直播8
+https://hello.ooo0ooo.top/live/4539768.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1008.jpg?v=1789454340185" group-title="阿甲",阿甲 | 拉努斯 vs 拉普拉塔大学生 | 0-0 | 直播8 | 原声22
+https://pul-tenm.gkykp.com/live/sd-1-4539768.m3u8?txSecret=c10e62b7ddd66af75c1b02b48101d5a5&txTime=6AB319C8
