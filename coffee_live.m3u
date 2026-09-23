@@ -1,17 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1789454340185" group-title="秘鲁甲",秘鲁甲 | AD塔尔玛 vs 西恩夏诺 | 1-1 | 直播3 | 直播3
-https://hello.ooo0ooo.top/live/4550640.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1789454340185" group-title="秘鲁甲",秘鲁甲 | AD塔尔玛 vs 西恩夏诺 | 1-1 | 直播3 | 原声8
-https://pul-tenm.gkykp.com/live/sd-1-4550640.m3u8?txSecret=7ec0553264bed4574d8ee849886e587b&txTime=6AB599A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1789454340185" group-title="智利杯",智利杯 | 库里科联 vs 康塞普西翁 | 0-2 | 直播5 | 直播5
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1789454340185" group-title="多米联",多米联 | 莫卡 vs 东部海豚 | 0-0 | 直播6 | 直播6
+https://hello.ooo0ooo.top/live/4649925.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1789454340185" group-title="多米联",多米联 | 莫卡 vs 东部海豚 | 0-0 | 直播6 | 原声37
+https://pul-tenm.gkykp.com/live/sd-1-4649925.m3u8?txSecret=875398ab6aa4f2815936fe51a279e753&txTime=6AB59D60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1789454340185" group-title="多米联",多米联 | 马德里尔 vs 哈拉瓦科阿俱乐部 | 0-0 | 直播10 | 直播10
+https://hello.ooo0ooo.top/live/4649926.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1789454340185" group-title="多米联",多米联 | 马德里尔 vs 哈拉瓦科阿俱乐部 | 0-0 | 直播10 | 原声41
+https://pul-tenm.gkykp.com/live/sd-1-4649926.m3u8?txSecret=a41052da64130c30d29471aec704a465&txTime=6AB59D60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1789454340185" group-title="智利杯",智利杯 | 库里科联 vs 康塞普西翁 | 0-3 | 直播5 | 直播5
 https://hello.ooo0ooo.top/live/4641689.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1789454340185" group-title="智利杯",智利杯 | 库里科联 vs 康塞普西翁 | 0-2 | 直播5 | 原声18
-https://pul-tenm.gkykp.com/live/sd-1-4641689.m3u8?txSecret=a9130234cef6bedf5ce1eb49cbb7a419&txTime=6AB599A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 巴哈马 vs 法属圣马丁岛 | 0-8 | 直播12 | 直播12
-https://hello.ooo0ooo.top/live/4642592.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 巴哈马 vs 法属圣马丁岛 | 0-8 | 直播12 | 原声36
-https://pul-tenm.gkykp.com/live/sd-1-4642592.m3u8?txSecret=247c351f9abba2475e73dfb1d5a0ad40&txTime=6AB599A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1789454340185" group-title="多米联",多米联 | 萨尔塞多 vs 锡瓦奥 | 0-0 | 直播16 | 直播16
-https://hello.ooo0ooo.top/live/4649205.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1789454340185" group-title="多米联",多米联 | 萨尔塞多 vs 锡瓦奥 | 0-0 | 直播16 | 原声19
-https://pul-tenm.gkykp.com/live/sd-1-4649205.m3u8?txSecret=1e2e609a98d9051cc48f7a48ff39ecc3&txTime=6AB599A0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1789454340185" group-title="智利杯",智利杯 | 库里科联 vs 康塞普西翁 | 0-3 | 直播5 | 原声18
+https://pul-tenm.gkykp.com/live/sd-1-4641689.m3u8?txSecret=f44602472998c82d44ae79978cb8cbf6&txTime=6AB59D60
