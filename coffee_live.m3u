@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1789454340185" group-title="世女锦",世女锦 | 意大利女足U20 vs 西班牙女足U20 | 0-1 | 直播3 | 直播3
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1789454340185" group-title="世女锦",世女锦 | 意大利女足U20 vs 西班牙女足U20 | 0-2 | 直播3 | 直播3
 https://hello.ooo0ooo.top/live/4648730.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1789454340185" group-title="世女锦",世女锦 | 意大利女足U20 vs 西班牙女足U20 | 0-1 | 直播3 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4648730.m3u8?txSecret=4fe09e3ac61d4cc06dc986c850cbb426&txTime=6AB52C68
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1789454340185" group-title="世女锦",世女锦 | 意大利女足U20 vs 西班牙女足U20 | 0-2 | 直播3 | 原声1
+https://pul-tenm.gkykp.com/live/sd-1-4648730.m3u8?txSecret=9eae00ac7dbcb0f113efa08e10669caa&txTime=6AB53028
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 芬兰U17 vs 法国U17 | 0-0 | 直播10 | 直播10
 https://hello.ooo0ooo.top/live/4648963.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1789454340185" group-title="捷克杯",捷克杯 | 卡列度 vs 俄斯特拉发 | 0-0 | 直播13 | 直播13
+https://hello.ooo0ooo.top/live/4631280.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1789454340185" group-title="捷克杯",捷克杯 | 卡列度 vs 俄斯特拉发 | 0-0 | 直播13 | 原声30
+https://pul-tenm.gkykp.com/live/sd-1-4631280.m3u8?txSecret=c5caedf4a83fb561e2387d87dd4af6ce&txTime=6AB53028
