@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1789454340185" group-title="中甲",中甲 | 无锡吴钩 vs 广西恒宸 | 0-0 | 直播25 | 直播25
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1789454340185" group-title="中甲",中甲 | 无锡吴钩 vs 广西恒宸 | 0-1 | 直播25 | 直播25
 https://hello.ooo0ooo.top/live/4505274.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1789454340185" group-title="中甲",中甲 | 无锡吴钩 vs 广西恒宸 | 0-0 | 直播25 | 原声31
-https://pul-tenm.gkykp.com/live/sd-1-4505274.m3u8?txSecret=da57345fe50070a2f17523cd2b5477d0&txTime=6AB7BA51
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1025.jpg?v=1789454340185" group-title="中甲",中甲 | 无锡吴钩 vs 广西恒宸 | 0-1 | 直播25 | 原声31
+https://pul-tenm.gkykp.com/live/sd-1-4505274.m3u8?txSecret=1c03069e75e65f7ad9bdd968ac900532&txTime=6AB7BE10
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1789454340185" group-title="印尼乙",印尼乙 | 巴厘巴板 vs 德扬FC | 0-1 | 直播19 | 直播19
+https://hello.ooo0ooo.top/live/4641243.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1019.jpg?v=1789454340185" group-title="印尼乙",印尼乙 | 巴厘巴板 vs 德扬FC | 0-1 | 直播19 | 原声42
+https://pul-tenm.gkykp.com/live/sd-1-4641243.m3u8?txSecret=34270822bdf1292f45d64f15171a7375&txTime=6AB7BE10
