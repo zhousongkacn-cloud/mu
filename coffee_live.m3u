@@ -1,27 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1789454340185" group-title="智利杯",智利杯 | 埃弗顿VM vs 智利大学 | 0-0 | 直播9 | 直播9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1789454340185" group-title="智利杯",智利杯 | 埃弗顿VM vs 智利大学 | 0-1 | 直播9 | 直播9
 https://hello.ooo0ooo.top/live/4641697.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1789454340185" group-title="智利杯",智利杯 | 埃弗顿VM vs 智利大学 | 0-0 | 直播9 | 原声19
-https://pul-tenm.gkykp.com/live/sd-1-4641697.m3u8?txSecret=41bec510b26150adbc4da6453eb4eda0&txTime=6AB71550
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1789454340185" group-title="WNBA",WNBA | 山猫 vs 狂热 | 41-22 | 直播6 | 直播6
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1009.jpg?v=1789454340185" group-title="智利杯",智利杯 | 埃弗顿VM vs 智利大学 | 0-1 | 直播9 | 原声19
+https://pul-tenm.gkykp.com/live/sd-1-4641697.m3u8?txSecret=9d2d46f3c30f7fc7116c8a23c5579ff8&txTime=6AB71910
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1789454340185" group-title="WNBA",WNBA | 阳光 vs 节奏 | 88-73 | 直播4 | 直播4
+https://hello.ooo0ooo.top/live/3908999.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1789454340185" group-title="WNBA",WNBA | 阳光 vs 节奏 | 88-73 | 直播4 | 原声8
+https://pul-tenm.gkykp.com/live/hd-en-2-3908999.m3u8?txSecret=1d0dc122d6f4935663e45b0637a786f4&txTime=6AB71910
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1789454340185" group-title="WNBA",WNBA | 山猫 vs 狂热 | 62-32 | 直播6 | 直播6
 https://hello.ooo0ooo.top/live/3908936.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1789454340185" group-title="WNBA",WNBA | 山猫 vs 狂热 | 41-22 | 直播6 | 原声21
-https://pul-tenm.gkykp.com/live/hd-en-2-3908936.m3u8?txSecret=8af2a122f8c0789cd7a9c23ee1dabae5&txTime=6AB71550
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1789454340185" group-title="WNBA",WNBA | 神秘人 vs 天空 | 63-44 | 直播5 | 直播5
-https://hello.ooo0ooo.top/live/3909030.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1789454340185" group-title="WNBA",WNBA | 神秘人 vs 天空 | 63-44 | 直播5 | 原声18
-https://pul-tenm.gkykp.com/live/hd-en-2-3909030.m3u8?txSecret=1f23ea26f72417fde3f153f0fcea3bbf&txTime=6AB71550
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 海地 vs 特立尼达和多巴哥 | 1-0 | 直播13 | 直播13
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1789454340185" group-title="WNBA",WNBA | 山猫 vs 狂热 | 62-32 | 直播6 | 原声21
+https://pul-tenm.gkykp.com/live/hd-en-2-3908936.m3u8?txSecret=74ed7977206840878066d9155ff2e168&txTime=6AB71910
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 开曼群岛 vs 多米尼克 | 0-0 | 直播10 | 直播10
+https://hello.ooo0ooo.top/live/4642583.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1789454340185" group-title="哥伦甲",哥伦甲 | 国民竞技 vs 百万富翁 | 0-0 | 直播1 | 直播1
+https://hello.ooo0ooo.top/live/4569306.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1001.jpg?v=1789454340185" group-title="哥伦甲",哥伦甲 | 国民竞技 vs 百万富翁 | 0-0 | 直播1 | 原声35
+https://pul-tenm.gkykp.com/live/sd-1-4569306.m3u8?txSecret=4e1c7539e0e4f9017c7b2649eb3f437a&txTime=6AB71910
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1789454340185" group-title="墨西乙",墨西乙 | 矿工 vs 海盗 | 0-0 | 直播3 | 直播3
+https://hello.ooo0ooo.top/live/4590772.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1003.jpg?v=1789454340185" group-title="墨西乙",墨西乙 | 矿工 vs 海盗 | 0-0 | 直播3 | 原声36
+https://pul-tenm.gkykp.com/live/sd-1-4590772.m3u8?txSecret=81f77cab395b25b1354dacf520a4ddc1&txTime=6AB71910
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 海地 vs 特立尼达和多巴哥 | 1-1 | 直播13 | 直播13
 https://hello.ooo0ooo.top/live/4642663.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 海地 vs 特立尼达和多巴哥 | 1-0 | 直播13 | 原声26
-https://pul-tenm.gkykp.com/live/sd-1-4642663.m3u8?txSecret=9107fbc41b7597321a2d1303d6762d85&txTime=6AB71550
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 海地 vs 特立尼达和多巴哥 | 1-1 | 直播13 | 原声26
+https://pul-tenm.gkykp.com/live/sd-1-4642663.m3u8?txSecret=5d55da87b7151de1fbd465f4c7e1c294&txTime=6AB71910
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 多米尼加共和国 vs 尼加拉瓜 | 2-1 | 直播12 | 直播12
 https://hello.ooo0ooo.top/live/4642647.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 多米尼加共和国 vs 尼加拉瓜 | 2-1 | 直播12 | 原声15
-https://pul-tenm.gkykp.com/live/sd-1-4642647.m3u8?txSecret=8df63ae81427ec1f10dee4b69db4f7a7&txTime=6AB71550
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1010.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 开曼群岛 vs 多米尼克 | 0-0 | 直播10 | 直播10
-https://hello.ooo0ooo.top/live/4642583.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1789454340185" group-title="WNBA",WNBA | 阳光 vs 节奏 | 73-58 | 直播4 | 直播4
-https://hello.ooo0ooo.top/live/3908999.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1004.jpg?v=1789454340185" group-title="WNBA",WNBA | 阳光 vs 节奏 | 73-58 | 直播4 | 原声8
-https://pul-tenm.gkykp.com/live/hd-en-2-3908999.m3u8?txSecret=a73dc95a44e4676f5f71b98e57339791&txTime=6AB71550
+https://pul-tenm.gkykp.com/live/sd-1-4642647.m3u8?txSecret=0f3fe843e1b18f0243640df6f2737868&txTime=6AB71910
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1789454340185" group-title="墨西乙",墨西乙 | 阿莱布里赫 vs 拉巴斯竞技 | 0-0 | 直播2 | 直播2
+https://hello.ooo0ooo.top/live/4578840.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1789454340185" group-title="墨西乙",墨西乙 | 阿莱布里赫 vs 拉巴斯竞技 | 0-0 | 直播2 | 原声7
+https://pul-tenm.gkykp.com/live/sd-1-4578840.m3u8?txSecret=5c1965713e58233874594ecba54e7aa0&txTime=6AB71910
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1789454340185" group-title="WNBA",WNBA | 神秘人 vs 天空 | 84-67 | 直播5 | 直播5
+https://hello.ooo0ooo.top/live/3909030.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1789454340185" group-title="WNBA",WNBA | 神秘人 vs 天空 | 84-67 | 直播5 | 原声18
+https://pul-tenm.gkykp.com/live/hd-en-2-3909030.m3u8?txSecret=757f2308f38a2cd7639ec0e4f8cf2145&txTime=6AB71910
