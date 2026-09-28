@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v6.jpg?v=1789454340185" group-title="中U21",中U21 | 云南玉昆U20 vs 青岛西海岸U20 | 0-0 | 直播2 | 直播2
-https://hello.ooo0ooo.top/live/4647440.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v6.jpg?v=1789454340185" group-title="中U21",中U21 | 云南玉昆U20 vs 青岛西海岸U20 | 0-0 | 直播2 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4647440.m3u8?txSecret=f693fb6aacff132d1a83b25be4e1cc11&txTime=6ABB6178
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v8.jpg?v=1789454340185" group-title="中U21",中U21 | 江西庐山U20 vs 青岛海牛U20 | 0-0 | 直播4 | 直播4
 https://hello.ooo0ooo.top/live/4647439.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v8.jpg?v=1789454340185" group-title="中U21",中U21 | 江西庐山U20 vs 青岛海牛U20 | 0-0 | 直播4 | 原声3
-https://pul-tenm.gkykp.com/live/sd-1-4647439.m3u8?txSecret=f195eae98f8a7e78cb0b39ea06dd752c&txTime=6ABB6178
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/205-v7.jpg?v=1789454340185" group-title="中U21",中U21 | 辽宁铁人U20 vs 宁波俱乐部U20 | 0-0 | 原声1 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4647438.m3u8?txSecret=188276b5a4677ec5fc0b5a578689538c&txTime=6ABB6178
+https://pul-tenm.gkykp.com/live/sd-1-4647439.m3u8?txSecret=895a784c986bb4a58dfd55a92715236c&txTime=6ABB6538
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v6.jpg?v=1789454340185" group-title="中U21",中U21 | 云南玉昆U20 vs 青岛西海岸U20 | 1-0 | 直播2 | 直播2
+https://hello.ooo0ooo.top/live/4647440.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v6.jpg?v=1789454340185" group-title="中U21",中U21 | 云南玉昆U20 vs 青岛西海岸U20 | 1-0 | 直播2 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4647440.m3u8?txSecret=7b27d65acaca0b457d3d429a4016aef6&txTime=6ABB6538
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/205-v7.jpg?v=1789454340185" group-title="中U21",中U21 | 辽宁铁人U20 vs 宁波俱乐部U20 | 1-0 | 原声1 | 原声1
+https://pul-tenm.gkykp.com/live/sd-1-4647438.m3u8?txSecret=15b62adba13a767391aa4f7c31c03086&txTime=6ABB6538
