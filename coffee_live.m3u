@@ -1,17 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v8.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 日本 vs 委内瑞拉 | 1-1 | 直播7 | 直播7
-https://hello.ooo0ooo.top/live/4601360.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v8.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 日本 vs 委内瑞拉 | 1-1 | 直播7 | 原声1
-https://pul-tenm.gkykp.com/live/hd-en-1-4601360.m3u8?txSecret=e473c0c6f277e3861b1847f1183bae29&txTime=6ABBAB88
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v9.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 韩国 vs 乌拉圭 | 0-3 | 直播4 | 直播4
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v9.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 韩国 vs 乌拉圭 | 0-4 | 直播4 | 直播4
 https://hello.ooo0ooo.top/live/4650043.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v9.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 韩国 vs 乌拉圭 | 0-3 | 直播4 | 原声3
-https://pul-tenm.gkykp.com/live/hd-en-1-4650043.m3u8?txSecret=0bd7fc9a4448566baebd67888eab127b&txTime=6ABBAB88
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v8.jpg?v=1789454340185" group-title="俄篮杯",俄篮杯 | SShOR库班火车头 vs TSK乌拉尔 | 57-67 | 直播8 | 直播8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v9.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 韩国 vs 乌拉圭 | 0-4 | 直播4 | 原声3
+https://pul-tenm.gkykp.com/live/hd-en-1-4650043.m3u8?txSecret=262983d3bd5079fb63ccc37dc13ab195&txTime=6ABBAF48
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v9.jpg?v=1789454340185" group-title="东盟杯",东盟杯 | 马来西亚 vs 印尼 | 0-0 | 直播3 | 直播3
+https://hello.ooo0ooo.top/live/4639759.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v9.jpg?v=1789454340185" group-title="东盟杯",东盟杯 | 马来西亚 vs 印尼 | 0-0 | 直播3 | 原声7
+https://pul-tenm.gkykp.com/live/hd-en-1-4639759.m3u8?txSecret=8c749255624eff1ca8bcb5fb48408b11&txTime=6ABBAF48
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v8.jpg?v=1789454340185" group-title="俄篮杯",俄篮杯 | SShOR库班火车头 vs TSK乌拉尔 | 66-89 | 直播8 | 直播8
 https://hello.ooo0ooo.top/live/3944547.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v8.jpg?v=1789454340185" group-title="俄篮杯",俄篮杯 | SShOR库班火车头 vs TSK乌拉尔 | 57-67 | 直播8 | 原声4
-https://pul-tenm.gkykp.com/live/sd-2-3944547.m3u8?txSecret=1a8894b1d4830c5630bab06bb32f7f69&txTime=6ABBAB88
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v6.jpg?v=1789454340185" group-title="印班超",印班超 | 斯图拉德 vs 哈尔FC | 1-1 | 直播9 | 直播9
-https://hello.ooo0ooo.top/live/4651377.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v6.jpg?v=1789454340185" group-title="印班超",印班超 | 斯图拉德 vs 哈尔FC | 1-1 | 直播9 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4651377.m3u8?txSecret=e3698f6d3f7de32b146795aa3caa1f9e&txTime=6ABBAB88
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v8.jpg?v=1789454340185" group-title="俄篮杯",俄篮杯 | SShOR库班火车头 vs TSK乌拉尔 | 66-89 | 直播8 | 原声4
+https://pul-tenm.gkykp.com/live/sd-2-3944547.m3u8?txSecret=cc73065deefeb5a065e5008e818c4949&txTime=6ABBAF48
