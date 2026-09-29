@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v13.jpg?v=1789454340185" group-title="WNBA",WNBA | 狂热 vs 王牌 | 18-26 | 直播5 | 直播5
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v13.jpg?v=1789454340185" group-title="WNBA",WNBA | 狂热 vs 王牌 | 31-35 | 直播5 | 直播5
 https://hello.ooo0ooo.top/live/3943751.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v13.jpg?v=1789454340185" group-title="WNBA",WNBA | 狂热 vs 王牌 | 18-26 | 直播5 | 原声4
-https://pul-tenm.gkykp.com/live/hd-en-2-3943751.m3u8?txSecret=132fcae60cfa0eb9fe4cac445bdb4522&txTime=6ABD9470
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v11.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 博塔弗戈SP vs 庞特普雷塔 | 1-0 | 直播9 | 直播9
-https://hello.ooo0ooo.top/live/4494730.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v11.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 博塔弗戈SP vs 庞特普雷塔 | 1-0 | 直播9 | 原声3
-https://pul-tenm.gkykp.com/live/sd-1-4494730.m3u8?txSecret=05562c97173f0b7be73a06f6681e6eee&txTime=6ABD9470
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v13.jpg?v=1789454340185" group-title="WNBA",WNBA | 狂热 vs 王牌 | 31-35 | 直播5 | 原声4
+https://pul-tenm.gkykp.com/live/hd-en-2-3943751.m3u8?txSecret=3aaefb8873c262448a26f98a0a3a2622&txTime=6ABD97B8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v14.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 安圭拉 vs 阿鲁巴 | 0-0 | 直播8 | 直播8
 https://hello.ooo0ooo.top/live/4642585.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/211-v15.jpg?v=1789454340185" group-title="哥伦乙",哥伦乙 | 马达莱纳联 vs 卡塔根纳 | 0-0 | 原声7 | 原声7
-https://pul-tenm.gkykp.com/live/sd-1-4596272.m3u8?txSecret=d03fe6510b36d40fe76f7fca6b54e490&txTime=6ABD9470
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v14.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 安圭拉 vs 阿鲁巴 | 0-0 | 直播8 | 原声5
+https://pul-tenm.gkykp.com/live/sd-1-4642585.m3u8?txSecret=f06b4a113d707a4d15e1eb7bf8edf327&txTime=6ABD97B8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v11.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 博塔弗戈SP vs 庞特普雷塔 | 2-0 | 直播9 | 直播9
+https://hello.ooo0ooo.top/live/4494730.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v11.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 博塔弗戈SP vs 庞特普雷塔 | 2-0 | 直播9 | 原声3
+https://pul-tenm.gkykp.com/live/sd-1-4494730.m3u8?txSecret=45c746b96c31d473895992550905a9a1&txTime=6ABD97B8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/211-v15.jpg?v=1789454340185" group-title="哥伦乙",哥伦乙 | 马达莱纳联 vs 卡塔根纳 | 0-1 | 原声7 | 原声7
+https://pul-tenm.gkykp.com/live/sd-1-4596272.m3u8?txSecret=1573e0e72ca7d9e01c94848ff2785bda&txTime=6ABD97B8
