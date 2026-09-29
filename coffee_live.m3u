@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/24-v7.jpg?v=1789454340185" group-title="印班超",印班超 | 卡纳塔卡启动 vs 抵抗者FC | 1-0 | 直播24 | 直播24
-https://hello.ooo0ooo.top/live/4651750.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/24-v7.jpg?v=1789454340185" group-title="印班超",印班超 | 卡纳塔卡启动 vs 抵抗者FC | 1-0 | 直播24 | 原声4
-https://pul-tenm.gkykp.com/live/sd-1-4651750.m3u8?txSecret=1c7492bc7719648aca2e7dfff8659f98&txTime=6ABCCF90
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v13.jpg?v=1789454340185" group-title="东盟杯",东盟杯 | 菲律宾 vs 巴基斯坦 | 0-0 | 直播3 | 直播3
 https://hello.ooo0ooo.top/live/4639760.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v13.jpg?v=1789454340185" group-title="东盟杯",东盟杯 | 菲律宾 vs 巴基斯坦 | 0-0 | 直播3 | 原声1
-https://pul-tenm.gkykp.com/live/hd-en-1-4639760.m3u8?txSecret=afedd7a2728650760d8f213f5743e5a9&txTime=6ABCCF90
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/206-v14.jpg?v=1789454340185" group-title="中冠",中冠 | 广东晨星创尔特 vs 武汉联镇 | 0-1 | 原声2 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4601448.m3u8?txSecret=972706108d454ce27e61c5174183f146&txTime=6ABCCF90
+https://pul-tenm.gkykp.com/live/hd-en-1-4639760.m3u8?txSecret=34289e285ba6741572675f70080ed4ff&txTime=6ABCD2D8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/24-v7.jpg?v=1789454340185" group-title="印班超",印班超 | 卡纳塔卡启动 vs 抵抗者FC | 1-0 | 直播24 | 直播24
+https://hello.ooo0ooo.top/live/4651750.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/24-v7.jpg?v=1789454340185" group-title="印班超",印班超 | 卡纳塔卡启动 vs 抵抗者FC | 1-0 | 直播24 | 原声4
+https://pul-tenm.gkykp.com/live/sd-1-4651750.m3u8?txSecret=cff3cd027d8402226ba1805b6984310b&txTime=6ABCD2D8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/206-v14.jpg?v=1789454340185" group-title="中冠",中冠 | 广东晨星创尔特 vs 武汉联镇 | 1-1 | 原声2 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4601448.m3u8?txSecret=e4f123f32114e7d1e36fab205e324bd0&txTime=6ABCD2D8
