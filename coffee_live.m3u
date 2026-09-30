@@ -1,9 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/26-v9.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 加拿大U18 vs 西班牙U18 | 0-0 | 直播26 | 直播26
+https://hello.ooo0ooo.top/live/4650071.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v17.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 阿尔巴尼亚U19 vs 立陶宛U19 | 1-1 | 直播7 | 直播7
 https://hello.ooo0ooo.top/live/4652051.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v17.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 阿尔巴尼亚U19 vs 立陶宛U19 | 1-1 | 直播7 | 原声12
-https://pul-tenm.gkykp.com/live/sd-1-4652051.m3u8?txSecret=57c15929f325559946a80550db0d661e&txTime=6ABE7408
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/25-v9.jpg?v=1789454340185" group-title="西亚锦",西亚锦 | 科威特SC vs 印度铁路公司 | 20-11 | 直播25 | 直播25
+https://pul-tenm.gkykp.com/live/sd-1-4652051.m3u8?txSecret=f15538133ba676405e1076a088089c7d&txTime=6ABE7570
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/25-v9.jpg?v=1789454340185" group-title="西亚锦",西亚锦 | 科威特SC vs 印度铁路公司 | 24-11 | 直播25 | 直播25
 https://hello.ooo0ooo.top/live/3943545.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/25-v9.jpg?v=1789454340185" group-title="西亚锦",西亚锦 | 科威特SC vs 印度铁路公司 | 20-11 | 直播25 | 原声8
-https://pul-tenm.gkykp.com/live/sd-2-3943545.m3u8?txSecret=4b089c696ee94f169a464b6bcf30d858&txTime=6ABE7408
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/25-v9.jpg?v=1789454340185" group-title="西亚锦",西亚锦 | 科威特SC vs 印度铁路公司 | 24-11 | 直播25 | 原声8
+https://pul-tenm.gkykp.com/live/sd-2-3943545.m3u8?txSecret=da1a2614c20c87903e504e36bfb30766&txTime=6ABE7570
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/205-v24.jpg?v=1789454340185" group-title="VTB",VTB | 萨拉托夫汽车 vs 乌拉尔马什 | 0-0 | 原声1 | 原声1
+https://pul-tenm.gkykp.com/live/sd-2-3936493.m3u8?txSecret=89a3bc3eb72b451fd13bb06d6a6a0a67&txTime=6ABE7570
