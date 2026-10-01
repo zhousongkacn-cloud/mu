@@ -1,23 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v24.jpg?v=1789454340185" group-title="东盟杯",东盟杯 | 马来西亚 vs 新加坡 | 2-0 | 直播3 | 直播3
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v24.jpg?v=1789454340185" group-title="东盟杯",东盟杯 | 马来西亚 vs 新加坡 | 3-0 | 直播3 | 直播3
 https://hello.ooo0ooo.top/live/4639765.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v24.jpg?v=1789454340185" group-title="东盟杯",东盟杯 | 马来西亚 vs 新加坡 | 2-0 | 直播3 | 原声11
-https://pul-tenm.gkykp.com/live/hd-en-1-4639765.m3u8?txSecret=78bf0c5f4b554e21fbf8229197774961&txTime=6ABFB520
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/15-v14.jpg?v=1789454340185" group-title="阿联酋杯",阿联酋杯 | 沙迦 vs 迪哈夫拉 | 1-0 | 直播15 | 直播15
-https://hello.ooo0ooo.top/live/4642832.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/15-v14.jpg?v=1789454340185" group-title="阿联酋杯",阿联酋杯 | 沙迦 vs 迪哈夫拉 | 1-0 | 直播15 | 原声15
-https://pul-tenm.gkykp.com/live/sd-1-4642832.m3u8?txSecret=8a23e45106563d87d8b365c6404db71b&txTime=6ABFB520
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v24.jpg?v=1789454340185" group-title="东盟杯",东盟杯 | 马来西亚 vs 新加坡 | 3-0 | 直播3 | 原声11
+https://pul-tenm.gkykp.com/live/hd-en-1-4639765.m3u8?txSecret=870ff523d2cadaf34c3d0627a9a86a31&txTime=6ABFB8E0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/13-v16.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 乌兹别克斯坦 vs 叙利亚 | 0-0 | 直播13 | 直播13
+https://hello.ooo0ooo.top/live/4650082.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/13-v16.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 乌兹别克斯坦 vs 叙利亚 | 0-0 | 直播13 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4650082.m3u8?txSecret=d3c3d0698424cd923bf32a4277e0a42e&txTime=6ABFB8E0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/23-v10.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 卡塔尔U19 vs 爱尔兰U19 | 0-0 | 直播23 | 直播23
+https://hello.ooo0ooo.top/live/4652089.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/23-v10.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 卡塔尔U19 vs 爱尔兰U19 | 0-0 | 直播23 | 原声12
+https://pul-tenm.gkykp.com/live/sd-1-4652089.m3u8?txSecret=0be643abef4ddb1c552d101ce791a072&txTime=6ABFB8E0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v15.jpg?v=1789454340185" group-title="球会友谊",球会友谊 | 多瑙斯特雷达 vs 普斯卡什学院 | 1-0 | 直播14 | 直播14
 https://hello.ooo0ooo.top/live/4651910.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v15.jpg?v=1789454340185" group-title="球会友谊",球会友谊 | 多瑙斯特雷达 vs 普斯卡什学院 | 1-0 | 直播14 | 原声13
-https://pul-tenm.gkykp.com/live/sd-1-4651910.m3u8?txSecret=1b30f09636038bb4a880d69cfd0968c9&txTime=6ABFB520
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v18.jpg?v=1789454340185" group-title="俄篮超",俄篮超 | 列夫达 vs 新西伯利亚 | 49-42 | 直播9 | 直播9
-https://hello.ooo0ooo.top/live/3939791.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v18.jpg?v=1789454340185" group-title="俄篮超",俄篮超 | 列夫达 vs 新西伯利亚 | 49-42 | 直播9 | 原声4
-https://pul-tenm.gkykp.com/live/sd-2-3939791.m3u8?txSecret=2f4726fca9041659aced1ffbfffa2714&txTime=6ABFB520
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/12-v18.jpg?v=1789454340185" group-title="阿联酋杯",阿联酋杯 | 迪拜联合 vs 迪拜哈塔 | 0-0 | 直播12 | 直播12
+https://pul-tenm.gkykp.com/live/sd-1-4651910.m3u8?txSecret=67777ba2516f4529ffcc51b01f24e871&txTime=6ABFB8E0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/15-v14.jpg?v=1789454340185" group-title="阿联酋杯",阿联酋杯 | 沙迦 vs 迪哈夫拉 | 1-0 | 直播15 | 直播15
+https://hello.ooo0ooo.top/live/4642832.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/15-v14.jpg?v=1789454340185" group-title="阿联酋杯",阿联酋杯 | 沙迦 vs 迪哈夫拉 | 1-0 | 直播15 | 原声15
+https://pul-tenm.gkykp.com/live/sd-1-4642832.m3u8?txSecret=8166a1001f8cd3f7ebea8d3bfe0d2f2c&txTime=6ABFB8E0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/12-v18.jpg?v=1789454340185" group-title="阿联酋杯",阿联酋杯 | 迪拜联合 vs 迪拜哈塔 | 0-1 | 直播12 | 直播12
 https://hello.ooo0ooo.top/live/4642831.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/12-v18.jpg?v=1789454340185" group-title="阿联酋杯",阿联酋杯 | 迪拜联合 vs 迪拜哈塔 | 0-0 | 直播12 | 原声14
-https://pul-tenm.gkykp.com/live/sd-1-4642831.m3u8?txSecret=fb87aee576f47d2f6ca67693ce0d0832&txTime=6ABFB520
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/12-v18.jpg?v=1789454340185" group-title="阿联酋杯",阿联酋杯 | 迪拜联合 vs 迪拜哈塔 | 0-1 | 直播12 | 原声14
+https://pul-tenm.gkykp.com/live/sd-1-4642831.m3u8?txSecret=261d390fd9699dce5bf499525a0ed812&txTime=6ABFB8E0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v18.jpg?v=1789454340185" group-title="俄篮超",俄篮超 | 列夫达 vs 新西伯利亚 | 52-44 | 直播9 | 直播9
+https://hello.ooo0ooo.top/live/3939791.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v18.jpg?v=1789454340185" group-title="俄篮超",俄篮超 | 列夫达 vs 新西伯利亚 | 52-44 | 直播9 | 原声4
+https://pul-tenm.gkykp.com/live/sd-2-3939791.m3u8?txSecret=e9823380280075d423527486aaa9ef40&txTime=6ABFB8E0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/213-v21.jpg?v=1789454340185" group-title="东盟杯",东盟杯 | 印尼 vs 孟加拉国 | 6-1 | 原声9 | 原声9
-https://pul-tenm.gkykp.com/live/hd-en-1-4639764.m3u8?txSecret=f7cf15b2e3bbc8b2894eb7e02cd8be80&txTime=6ABFB520
+https://pul-tenm.gkykp.com/live/hd-en-1-4639764.m3u8?txSecret=6fa9d914a6258eb9d34ebb8b21f6553b&txTime=6ABFB8E0
