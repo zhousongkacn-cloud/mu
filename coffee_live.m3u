@@ -1,9 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v17.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 德国U16 vs 希腊U16 | 0-0 | 直播9 | 直播9
+https://hello.ooo0ooo.top/live/4652074.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v19.jpg?v=1789454340185" group-title="印班超",印班超 | 哈尔FC vs 班加罗尔联合会 | 0-0 | 直播8 | 直播8
 https://hello.ooo0ooo.top/live/4652111.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v19.jpg?v=1789454340185" group-title="印班超",印班超 | 哈尔FC vs 班加罗尔联合会 | 0-0 | 直播8 | 原声7
-https://pul-tenm.gkykp.com/live/sd-1-4652111.m3u8?txSecret=696f8f1ca16ce19d36b1088015e57a98&txTime=6ABF6ED0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/209-v22.jpg?v=1789454340185" group-title="蒙古超",蒙古超 | 伊尔赤姆 vs 中央骏马 | 0-1 | 原声5 | 原声5
-https://pul-tenm.gkykp.com/live/sd-1-4644102.m3u8?txSecret=424ce8849706424a9756f656a603ca0d&txTime=6ABF6ED0
+https://pul-tenm.gkykp.com/live/sd-1-4652111.m3u8?txSecret=ba7677a3d63894c07c87a067fea8f57c&txTime=6ABF7218
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/206-v28.jpg?v=1789454340185" group-title="中冠",中冠 | 吴川青年 vs 江苏常晋 | 1-0 | 原声2 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4601449.m3u8?txSecret=c04ca7a6f278335b4c2bc68337712073&txTime=6ABF6ED0
+https://pul-tenm.gkykp.com/live/sd-1-4601449.m3u8?txSecret=7f3e40bfcb308a84774e2961bb1723df&txTime=6ABF7218
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/209-v22.jpg?v=1789454340185" group-title="蒙古超",蒙古超 | 伊尔赤姆 vs 中央骏马 | 0-1 | 原声5 | 原声5
+https://pul-tenm.gkykp.com/live/sd-1-4644102.m3u8?txSecret=b3a0c1dea68efefd2027f5434131261d&txTime=6ABF7218
