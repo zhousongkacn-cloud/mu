@@ -1,21 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/813-v8.jpg?v=1789454340185" group-title="欧国联",欧国联 | 丹麦 vs 葡萄牙 | 2-4 | 爱奇艺1 | 爱奇艺1
-https://live01-cn-ali.lmqvw.com/live/65586398_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/25-v12.jpg?v=1789454340185" group-title="欧篮联",欧篮联 | 巴黎 vs 萨拉基利斯 | 79-78 | 直播25 | 直播25
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v21.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 多米尼克 vs 圭亚那 | 0-0 | 直播7 | 直播7
+https://hello.ooo0ooo.top/live/4642615.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v21.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 多米尼克 vs 圭亚那 | 0-0 | 直播7 | 原声4
+https://pul-tenm.gkykp.com/live/sd-1-4642615.m3u8?txSecret=62dd1402d1a5d932fdba53f33060cc93&txTime=6AC01B50
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/25-v12.jpg?v=1789454340185" group-title="欧篮联",欧篮联 | 巴黎 vs 萨拉基利斯 | 82-78 | 直播25 | 直播25
 https://hello.ooo0ooo.top/live/3926721.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/25-v12.jpg?v=1789454340185" group-title="欧篮联",欧篮联 | 巴黎 vs 萨拉基利斯 | 79-78 | 直播25 | 原声34
-https://pul-tenm.gkykp.com/live/sd-2-3926721.m3u8?txSecret=69a91d2d9f6acef2edbc3a4b48cd2077&txTime=6AC01791
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/25-v12.jpg?v=1789454340185" group-title="欧篮联",欧篮联 | 巴黎 vs 萨拉基利斯 | 82-78 | 直播25 | 原声34
+https://pul-tenm.gkykp.com/live/sd-2-3926721.m3u8?txSecret=e4448096972334732b96026c8df521a9&txTime=6AC01970
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/17-v14.jpg?v=1789454340185" group-title="哥伦乙",哥伦乙 | 恩维加多 vs 奥尔索马尔索 | 0-0 | 直播17 | 直播17
 https://hello.ooo0ooo.top/live/4596243.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/17-v14.jpg?v=1789454340185" group-title="哥伦乙",哥伦乙 | 恩维加多 vs 奥尔索马尔索 | 0-0 | 直播17 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4596243.m3u8?txSecret=626f8272b5e55ff6299c87a7ef3fa443&txTime=6AC01791
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/24-v12.jpg?v=1789454340185" group-title="欧篮联",欧篮联 | 博洛尼亚 vs 奥林匹亚科斯 | 96-94 | 直播24 | 直播24
-https://hello.ooo0ooo.top/live/3926818.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/24-v12.jpg?v=1789454340185" group-title="欧篮联",欧篮联 | 博洛尼亚 vs 奥林匹亚科斯 | 96-94 | 直播24 | 原声9
-https://pul-tenm.gkykp.com/live/sd-2-3926818.m3u8?txSecret=93eb026ed47e47ea64fe98d21677abd5&txTime=6AC01268
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/217-v17.jpg?v=1789454340185" group-title="欧女杯",欧女杯 | 曼彻斯特城女足 vs 皇家马德里女足 | 1-1 | 原声13 | 原声13
-https://pul-tenm.gkykp.com/live/sd-1-4646521.m3u8?txSecret=6c279af2ada8d2314444126686ca3b98&txTime=6AC01791
+https://pul-tenm.gkykp.com/live/sd-1-4596243.m3u8?txSecret=d4ac04116a1dfd5aa2f418631956476f&txTime=6AC01B50
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/205-v33.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 美属维尔京群岛 vs 法属圣马丁岛 | 0-1 | 原声1 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4642605.m3u8?txSecret=826a1e7fdf15688165c94ede3ffe480f&txTime=6AC01791
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/228-v8.jpg?v=1789454340185" group-title="欧女杯",欧女杯 | 巴黎圣日耳曼女足 vs 旧海弗莱鲁汶女足 | 5-0 | 原声24 | 原声24
-https://pul-tenm.gkykp.com/live/sd-1-4646522.m3u8?txSecret=7a046845372e7534f57058308f43b2e2&txTime=6AC01791
+https://pul-tenm.gkykp.com/live/sd-1-4642605.m3u8?txSecret=be9c905923788f3af4a8dc579b7c5eae&txTime=6AC01B50
