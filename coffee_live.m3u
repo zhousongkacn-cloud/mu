@@ -1,9 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v24.jpg?v=1789454340185" group-title="东盟杯",东盟杯 | 马来西亚 vs 新加坡 | 1-0 | 直播3 | 直播3
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v24.jpg?v=1789454340185" group-title="东盟杯",东盟杯 | 马来西亚 vs 新加坡 | 2-0 | 直播3 | 直播3
 https://hello.ooo0ooo.top/live/4639765.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v24.jpg?v=1789454340185" group-title="东盟杯",东盟杯 | 马来西亚 vs 新加坡 | 1-0 | 直播3 | 原声11
-https://pul-tenm.gkykp.com/live/hd-en-1-4639765.m3u8?txSecret=8b5965fd2e22f0f63373bb65565d34c2&txTime=6ABFA710
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/213-v21.jpg?v=1789454340185" group-title="东盟杯",东盟杯 | 印尼 vs 孟加拉国 | 1-0 | 原声9 | 原声9
-https://pul-tenm.gkykp.com/live/hd-en-1-4639764.m3u8?txSecret=b711c542988847263e1a9fe209f90b0e&txTime=6ABFA710
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v24.jpg?v=1789454340185" group-title="东盟杯",东盟杯 | 马来西亚 vs 新加坡 | 2-0 | 直播3 | 原声11
+https://pul-tenm.gkykp.com/live/hd-en-1-4639765.m3u8?txSecret=1ca9f0049cba70cc21f41d03649a7ecb&txTime=6ABFAA58
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v18.jpg?v=1789454340185" group-title="俄篮超",俄篮超 | 列夫达 vs 新西伯利亚 | 0-0 | 直播9 | 直播9
+https://hello.ooo0ooo.top/live/3939791.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v18.jpg?v=1789454340185" group-title="俄篮超",俄篮超 | 列夫达 vs 新西伯利亚 | 0-0 | 直播9 | 原声4
+https://pul-tenm.gkykp.com/live/sd-2-3939791.m3u8?txSecret=d5bcb615b75aaa4cd2f440a1185b3a5c&txTime=6ABFAA58
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v15.jpg?v=1789454340185" group-title="球会友谊",球会友谊 | 多瑙斯特雷达 vs 普斯卡什学院 | 0-0 | 直播14 | 直播14
+https://hello.ooo0ooo.top/live/4651910.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v15.jpg?v=1789454340185" group-title="球会友谊",球会友谊 | 多瑙斯特雷达 vs 普斯卡什学院 | 0-0 | 直播14 | 原声13
+https://pul-tenm.gkykp.com/live/sd-1-4651910.m3u8?txSecret=9b9d22b1beaf0861f5301aa2caa4c8f2&txTime=6ABFAA58
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/215-v21.jpg?v=1789454340185" group-title="东盟杯",东盟杯 | 马来西亚 vs 新加坡 | 2-0 | 原声11 | 原声11
+https://pul-tenm.gkykp.com/live/hd-en-1-4639765.m3u8?txSecret=3d5d86fe5bc0829cf602e906263146fd&txTime=6ABFAAD0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/206-v29.jpg?v=1789454340185" group-title="中冠",中冠 | 榆林矿工旅投 vs 大连聚惺晟恒 | 1-0 | 原声2 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4601443.m3u8?txSecret=26c18de004ea01150a6bc593551fc91c&txTime=6ABFA710
+https://pul-tenm.gkykp.com/live/sd-1-4601443.m3u8?txSecret=50f1ff7db42de8e4f7579502ff34e6b0&txTime=6ABFAAD0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/208-v25.jpg?v=1789454340185" group-title="俄篮超",俄篮超 | 列夫达 vs 新西伯利亚 | 0-0 | 原声4 | 原声4
+https://pul-tenm.gkykp.com/live/sd-2-3939791.m3u8?txSecret=c51556be09aef8352067ccba8022548e&txTime=6ABFAAD0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/217-v15.jpg?v=1789454340185" group-title="球会友谊",球会友谊 | 多瑙斯特雷达 vs 普斯卡什学院 | 0-0 | 原声13 | 原声13
+https://pul-tenm.gkykp.com/live/sd-1-4651910.m3u8?txSecret=2c5b7743012b76f69bc943f4ed4ee31e&txTime=6ABFAAD0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/213-v21.jpg?v=1789454340185" group-title="东盟杯",东盟杯 | 印尼 vs 孟加拉国 | 2-0 | 原声9 | 原声9
+https://pul-tenm.gkykp.com/live/hd-en-1-4639764.m3u8?txSecret=39b4c5163a6632e7c3b94b8ed76db314&txTime=6ABFAAD0
