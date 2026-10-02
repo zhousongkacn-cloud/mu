@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/17-v17.jpg?v=1789454340185" group-title="球会友谊",球会友谊 | 法兰克福 vs 布伦瑞克 | 3-0 | 直播17 | 直播17
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/17-v17.jpg?v=1789454340185" group-title="球会友谊",球会友谊 | 法兰克福 vs 布伦瑞克 | 4-0 | 直播17 | 直播17
 https://hello.ooo0ooo.top/live/4651448.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/17-v17.jpg?v=1789454340185" group-title="球会友谊",球会友谊 | 法兰克福 vs 布伦瑞克 | 3-0 | 直播17 | 原声15
-https://pul-tenm.gkykp.com/live/sd-1-4651448.m3u8?txSecret=0b4f23d0edfa641cc39d794e3850e56f&txTime=6AC11F00
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/17-v17.jpg?v=1789454340185" group-title="球会友谊",球会友谊 | 法兰克福 vs 布伦瑞克 | 4-0 | 直播17 | 原声15
+https://pul-tenm.gkykp.com/live/sd-1-4651448.m3u8?txSecret=ae658fb9186349aae5f62d40a4fbdba5&txTime=6AC11FF1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v29.jpg?v=1789454340185" group-title="阿联酋杯",阿联酋杯 | 迪拜青年国民 vs 迪拜胜利 | 0-0 | 直播3 | 直播3
+https://hello.ooo0ooo.top/live/4642836.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v29.jpg?v=1789454340185" group-title="阿联酋杯",阿联酋杯 | 迪拜青年国民 vs 迪拜胜利 | 0-0 | 直播3 | 原声1
+https://pul-tenm.gkykp.com/live/sd-1-4642836.m3u8?txSecret=869e3fd969fd3892803b23f54135e9f5&txTime=6AC122C0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/211-v28.jpg?v=1789454340185" group-title="欧国联",欧国联 | 哈萨克斯坦 vs 摩尔多瓦 | 1-2 | 原声7 | 原声7
-https://pul-tenm.gkykp.com/live/hd-en-1-4518002.m3u8?txSecret=0ad628e634b836133993a635e8641100&txTime=6AC11F00
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/221-v13.jpg?v=1789454340185" group-title="球会友谊",球会友谊 | 阿劳 vs 年轻人 | 0-1 | 原声17 | 原声17
-https://pul-tenm.gkykp.com/live/sd-1-4651450.m3u8?txSecret=c9f9980551ea0891ae7476f63a86dce6&txTime=6AC11F00
+https://pul-tenm.gkykp.com/live/hd-en-1-4518002.m3u8?txSecret=583a982a46ec0b6cd385fe4851cc5e38&txTime=6AC122C0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/221-v13.jpg?v=1789454340185" group-title="球会友谊",球会友谊 | 阿劳 vs 年轻人 | 0-2 | 原声17 | 原声17
+https://pul-tenm.gkykp.com/live/sd-1-4651450.m3u8?txSecret=39e2a5bb78e0d275df8b4ebb669035d9&txTime=6AC122C0
