@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v8.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 尼加拉瓜 vs 多米尼加共和国 | 1-1 | 直播1 | 直播1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v8.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 尼加拉瓜 vs 多米尼加共和国 | 1-2 | 直播1 | 直播1
 https://hello.ooo0ooo.top/live/4642650.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v8.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 尼加拉瓜 vs 多米尼加共和国 | 1-1 | 直播1 | 原声5
-https://pul-tenm.gkykp.com/live/sd-1-4642650.m3u8?txSecret=31c80944f886a87511b24acc514cc648&txTime=6AC46778
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v15.jpg?v=1789454340185" group-title="哥伦甲",哥伦甲 | 拉尼洛斯 vs 卡利美洲 | 1-2 | 直播4 | 直播4
-https://hello.ooo0ooo.top/live/4569323.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v15.jpg?v=1789454340185" group-title="哥伦甲",哥伦甲 | 拉尼洛斯 vs 卡利美洲 | 1-2 | 直播4 | 原声4
-https://pul-tenm.gkykp.com/live/sd-1-4569323.m3u8?txSecret=000d59dca8b96bdfc217dfea696145df&txTime=6AC46778
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v8.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 尼加拉瓜 vs 多米尼加共和国 | 1-2 | 直播1 | 原声5
+https://pul-tenm.gkykp.com/live/sd-1-4642650.m3u8?txSecret=dfe961187d27653f558d40d44fb6ce49&txTime=6AC46AC0
