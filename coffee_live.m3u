@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/206-v59.jpg?v=1789454340185" group-title="挪甲",挪甲 | 摩斯 vs 康斯文格 | 0-2 | 原声2 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4467876.m3u8?txSecret=67ea2c4153814e041932ce679ccdf5a4&txTime=6AC53DB0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/217-v39.jpg?v=1789454340185" group-title="波篮甲",波篮甲 | 昂维厄 vs 瓦布希克 | 69-69 | 原声13 | 原声13
-https://pul-tenm.gkykp.com/live/sd-2-3928713.m3u8?txSecret=a033da62187174622c9dc047d4b94e86&txTime=6AC53DB0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/205-v62.jpg?v=1789454340185" group-title="德篮甲",德篮甲 | 维切塔 vs 布伦瑞克 | 23-29 | 原声1 | 原声1
-https://pul-tenm.gkykp.com/live/sd-2-3936184.m3u8?txSecret=68d00b54d24ad3eed17c7c25ef9f87a9&txTime=6AC53DB0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/224-v29.jpg?v=1789454340185" group-title="欧国联",欧国联 | 法国 vs 比利时 | 0-0 | 原声20 | 原声20
+https://pul-tenm.gkykp.com/live/hd-en-1-4518039.m3u8?txSecret=919f147f59052be2693aaeed955bf04c&txTime=6AC540F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/211-v47.jpg?v=1789454340185" group-title="西乙",西乙 | 科尔多瓦 vs 特内里费 | 1-0 | 原声7 | 原声7
+https://pul-tenm.gkykp.com/live/sd-1-4567295.m3u8?txSecret=8bdbb38fe461d660dfd87f56f1e97620&txTime=6AC540F8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/209-v52.jpg?v=1789454340185" group-title="俄篮超",俄篮超 | 库尔斯克罗斯人 vs 尤格拉 | 81-68 | 原声5 | 原声5
 https://pul-tenm.gkykp.com/live/sd-2-3939554.m3u8?txSecret=ad2e5dd3ed67d1966e216484876bfdcc&txTime=6AC524D8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/211-v47.jpg?v=1789454340185" group-title="西乙",西乙 | 科尔多瓦 vs 特内里费 | 0-0 | 原声7 | 原声7
-https://pul-tenm.gkykp.com/live/sd-1-4567295.m3u8?txSecret=fb549339ddecb6103b6bba608740c438&txTime=6AC53DB0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/205-v62.jpg?v=1789454340185" group-title="德篮甲",德篮甲 | 维切塔 vs 布伦瑞克 | 35-41 | 原声1 | 原声1
+https://pul-tenm.gkykp.com/live/sd-2-3936184.m3u8?txSecret=12e7ca5e92d26785e4bcd631f794741d&txTime=6AC540F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/206-v59.jpg?v=1789454340185" group-title="挪甲",挪甲 | 摩斯 vs 康斯文格 | 0-2 | 原声2 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4467876.m3u8?txSecret=2e031969fd5cecfae30694e952683723&txTime=6AC540F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/217-v39.jpg?v=1789454340185" group-title="波篮甲",波篮甲 | 昂维厄 vs 瓦布希克 | 76-81 | 原声13 | 原声13
+https://pul-tenm.gkykp.com/live/sd-2-3928713.m3u8?txSecret=59026ef6c20a368cee5e70f669b5fa99&txTime=6AC540F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/232-v20.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 列支敦士登 vs 直布罗陀 | 0-0 | 原声28 | 原声28
+https://pul-tenm.gkykp.com/live/sd-1-4650114.m3u8?txSecret=d5a5ce9dc3fa9cba095ce085f4f60a37&txTime=6AC540F8
