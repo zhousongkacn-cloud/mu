@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v40.jpg?v=1789454340185" group-title="阿乙",阿乙 | 新芝加哥 vs 迈普 | 0-0 | 直播5 | 直播5
-https://hello.ooo0ooo.top/live/4471467.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v40.jpg?v=1789454340185" group-title="阿乙",阿乙 | 新芝加哥 vs 迈普 | 0-0 | 直播5 | 原声5
-https://pul-tenm.gkykp.com/live/sd-1-4471467.m3u8?txSecret=51b0ae988ac95e8379cc8ed1e5173119&txTime=6AC56A38
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v47.jpg?v=1789454340185" group-title="巴拉甲",巴拉甲 | 特立尼登斯 vs 卢克尼奥竞技 | 3-2 | 直播3 | 直播3
-https://hello.ooo0ooo.top/live/4631199.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v47.jpg?v=1789454340185" group-title="巴拉甲",巴拉甲 | 特立尼登斯 vs 卢克尼奥竞技 | 3-2 | 直播3 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4631199.m3u8?txSecret=e5908c08fc2377905b44c2abf228e25c&txTime=6AC56A38
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v12.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 古巴 vs 圣基茨和尼维斯 | 1-1 | 直播1 | 直播1
 https://hello.ooo0ooo.top/live/4642630.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v12.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 古巴 vs 圣基茨和尼维斯 | 1-1 | 直播1 | 原声6
-https://pul-tenm.gkykp.com/live/sd-1-4642630.m3u8?txSecret=e49b11937e9a084cb7d8075b01fd0ecf&txTime=6AC56A38
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/208-v55.jpg?v=1789454340185" group-title="阿甲",阿甲 | 利斯特雷 vs 科尔多瓦中央 | 1-1 | 原声4 | 原声4
-https://pul-tenm.gkykp.com/live/sd-1-4539781.m3u8?txSecret=7347079de6272e555919ab319fc405d4&txTime=6AC56A38
+https://pul-tenm.gkykp.com/live/sd-1-4642630.m3u8?txSecret=86c6e7c80f7258d8cfa72a1570d2f3b6&txTime=6AC56BA0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v47.jpg?v=1789454340185" group-title="巴拉甲",巴拉甲 | 特立尼登斯 vs 卢克尼奥竞技 | 3-2 | 直播3 | 直播3
+https://hello.ooo0ooo.top/live/4631199.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v47.jpg?v=1789454340185" group-title="巴拉甲",巴拉甲 | 特立尼登斯 vs 卢克尼奥竞技 | 3-2 | 直播3 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4631199.m3u8?txSecret=c0d89f94b33eba5a75352a8f246bc06a&txTime=6AC56BA0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v40.jpg?v=1789454340185" group-title="阿乙",阿乙 | 新芝加哥 vs 迈普 | 0-0 | 直播5 | 直播5
+https://hello.ooo0ooo.top/live/4471467.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v40.jpg?v=1789454340185" group-title="阿乙",阿乙 | 新芝加哥 vs 迈普 | 0-0 | 直播5 | 原声5
+https://pul-tenm.gkykp.com/live/sd-1-4471467.m3u8?txSecret=39c70ce60d6e631928df4d94f96b7aec&txTime=6AC56BA0
