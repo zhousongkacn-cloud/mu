@@ -1,29 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/224-v29.jpg?v=1789454340185" group-title="欧国联",欧国联 | 法国 vs 比利时 | 0-1 | 原声20 | 原声20
-https://pul-tenm.gkykp.com/live/hd-en-1-4518039.m3u8?txSecret=532e2b7b8dd7e13ebc3634a909d8c823&txTime=6AC55430
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/225-v21.jpg?v=1789454340185" group-title="欧国联",欧国联 | 意大利 vs 土耳其 | 1-1 | 原声21 | 原声21
-https://pul-tenm.gkykp.com/live/hd-en-1-4518040.m3u8?txSecret=0e7b5e9d0f13fdd0bb7b9e8bc87b77b5&txTime=6AC55430
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/228-v23.jpg?v=1789454340185" group-title="欧国联",欧国联 | 北爱尔兰 vs 格鲁吉亚 | 0-0 | 原声24 | 原声24
-https://pul-tenm.gkykp.com/live/hd-en-1-4518042.m3u8?txSecret=823c83871f7c19466b2fd4d0e74f940b&txTime=6AC55430
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/229-v23.jpg?v=1789454340185" group-title="欧国联",欧国联 | 罗马尼亚 vs 瑞典 | 0-1 | 原声25 | 原声25
-https://pul-tenm.gkykp.com/live/hd-en-1-4518043.m3u8?txSecret=c356dbb93c570ebffcbd1cbb4c338f75&txTime=6AC55430
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/226-v23.jpg?v=1789454340185" group-title="欧国联",欧国联 | 乌克兰 vs 匈牙利 | 0-1 | 原声22 | 原声22
-https://pul-tenm.gkykp.com/live/hd-en-1-4518041.m3u8?txSecret=cd18afd31cf6d13052c406fd06cb8564&txTime=6AC55430
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/231-v19.jpg?v=1789454340185" group-title="欧国联",欧国联 | 黑山 vs 亚美尼亚 | 0-0 | 原声27 | 原声27
-https://pul-tenm.gkykp.com/live/hd-en-1-4518045.m3u8?txSecret=39e5c0edd8a0af1611de5c3b6d20832c&txTime=6AC55430
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/232-v20.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 列支敦士登 vs 直布罗陀 | 0-2 | 原声28 | 原声28
-https://pul-tenm.gkykp.com/live/sd-1-4650114.m3u8?txSecret=71f62002bdcb40dc82874090026cd504&txTime=6AC55430
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/206-v60.jpg?v=1789454340185" group-title="巴拉甲",巴拉甲 | 特立尼登斯 vs 卢克尼奥竞技 | 1-0 | 原声2 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4631199.m3u8?txSecret=12a186a451d556deae017bccdb2e0cbd&txTime=6AC55430
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/70ded7a479aa84ea26b4677f99485f88.png" group-title="欧国联",欧国联 | 法国 vs 比利时 | 0-1 | 直播11 | 直播11
+https://hello.ooo0ooo.top/live/4518039.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/70ded7a479aa84ea26b4677f99485f88.png" group-title="欧国联",欧国联 | 法国 vs 比利时 | 0-1 | 直播11 | 原声20
+https://pul-tenm.gkykp.com/live/hd-en-1-4518039.m3u8?txSecret=b3e515a2b8b4e33f96c60acfb110f181&txTime=6AC55778
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/6b4a5eb452bf0ce6bcbeed86685ca363.png" group-title="阿乙",阿乙 | 新芝加哥 vs 迈普 | 0-0 | 直播5 | 直播5
+https://hello.ooo0ooo.top/live/4471467.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/6b4a5eb452bf0ce6bcbeed86685ca363.png" group-title="阿乙",阿乙 | 新芝加哥 vs 迈普 | 0-0 | 直播5 | 原声5
+https://pul-tenm.gkykp.com/live/sd-1-4471467.m3u8?txSecret=c0cce74b725b18fd96d9d4712792bb37&txTime=6AC55778
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/1f8d87e1161af68b81bace188a1ec624.png" group-title="欧国联",欧国联 | 罗马尼亚 vs 瑞典 | 0-1 | 直播16 | 直播16
+https://hello.ooo0ooo.top/live/4518043.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/1f8d87e1161af68b81bace188a1ec624.png" group-title="欧国联",欧国联 | 罗马尼亚 vs 瑞典 | 0-1 | 直播16 | 原声25
+https://pul-tenm.gkykp.com/live/hd-en-1-4518043.m3u8?txSecret=f843f4b74ca9048200e122d949d36cb5&txTime=6AC55778
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/5af80f0ac47bcfb345b13da6b49d7bae.png" group-title="巴拉甲",巴拉甲 | 特立尼登斯 vs 卢克尼奥竞技 | 1-0 | 直播3 | 直播3
+https://hello.ooo0ooo.top/live/4631199.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/5af80f0ac47bcfb345b13da6b49d7bae.png" group-title="巴拉甲",巴拉甲 | 特立尼登斯 vs 卢克尼奥竞技 | 1-0 | 直播3 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4631199.m3u8?txSecret=a817a76ab790da0c09ff4dbad903aaea&txTime=6AC55778
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/5de6f7a36339ef5bedc3dc8741a1e222.png" group-title="欧国联",欧国联 | 乌克兰 vs 匈牙利 | 0-1 | 直播14 | 直播14
+https://hello.ooo0ooo.top/live/4518041.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/5de6f7a36339ef5bedc3dc8741a1e222.png" group-title="欧国联",欧国联 | 乌克兰 vs 匈牙利 | 0-1 | 直播14 | 原声22
+https://pul-tenm.gkykp.com/live/hd-en-1-4518041.m3u8?txSecret=277853d6ce65f9e7a8a6b944ba6ceb04&txTime=6AC55778
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/cd6fd11fd9ca07c46747cb03b87f4dbb.png" group-title="西乙",西乙 | 科尔多瓦 vs 特内里费 | 3-2 | 直播10 | 直播10
+https://hello.ooo0ooo.top/live/4567295.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/cd6fd11fd9ca07c46747cb03b87f4dbb.png" group-title="西乙",西乙 | 科尔多瓦 vs 特内里费 | 3-2 | 直播10 | 原声7
+https://pul-tenm.gkykp.com/live/sd-1-4567295.m3u8?txSecret=8f5cf082e225bbfea1a87e15f8a0c5bd&txTime=6AC55778
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/290d84b729b946cb974902162ff7064e.png" group-title="欧国联",欧国联 | 波黑 vs 波兰 | 0-0 | 直播17 | 直播17
+https://hello.ooo0ooo.top/live/4518044.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/290d84b729b946cb974902162ff7064e.png" group-title="欧国联",欧国联 | 波黑 vs 波兰 | 0-0 | 直播17 | 原声26
+https://pul-tenm.gkykp.com/live/hd-en-1-4518044.m3u8?txSecret=608527acb39af755cadfde9ab2258afe&txTime=6AC55778
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/a7ce4026f43a4491f1284bb38d96f440.png" group-title="国际友谊",国际友谊 | 列支敦士登 vs 直布罗陀 | 0-2 | 直播22 | 直播22
+https://hello.ooo0ooo.top/live/4650114.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/a7ce4026f43a4491f1284bb38d96f440.png" group-title="国际友谊",国际友谊 | 列支敦士登 vs 直布罗陀 | 0-2 | 直播22 | 原声28
+https://pul-tenm.gkykp.com/live/sd-1-4650114.m3u8?txSecret=2f5cba4047b6f72413f104a1e79d8d17&txTime=6AC55778
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/9866b8a83d35abdd89ed76d565d71f75.png" group-title="欧国联",欧国联 | 黑山 vs 亚美尼亚 | 0-0 | 直播18 | 直播18
+https://hello.ooo0ooo.top/live/4518045.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/9866b8a83d35abdd89ed76d565d71f75.png" group-title="欧国联",欧国联 | 黑山 vs 亚美尼亚 | 0-0 | 直播18 | 原声27
+https://pul-tenm.gkykp.com/live/hd-en-1-4518045.m3u8?txSecret=46b2124fe3d8a841b62e97b2909f2232&txTime=6AC55778
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/775bc655c77d679c193f1982dac04668.png" group-title="欧国联",欧国联 | 意大利 vs 土耳其 | 2-1 | 直播12 | 直播12
+https://hello.ooo0ooo.top/live/4518040.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/775bc655c77d679c193f1982dac04668.png" group-title="欧国联",欧国联 | 意大利 vs 土耳其 | 2-1 | 直播12 | 原声21
+https://pul-tenm.gkykp.com/live/hd-en-1-4518040.m3u8?txSecret=8d15959da427a31592568d502e358877&txTime=6AC55778
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/218344619d8fb95d504ccfa11804073f.png" group-title="欧国联",欧国联 | 北爱尔兰 vs 格鲁吉亚 | 0-0 | 直播15 | 直播15
+https://hello.ooo0ooo.top/live/4518042.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/218344619d8fb95d504ccfa11804073f.png" group-title="欧国联",欧国联 | 北爱尔兰 vs 格鲁吉亚 | 0-0 | 直播15 | 原声24
+https://pul-tenm.gkykp.com/live/hd-en-1-4518042.m3u8?txSecret=0b561c404ace27191c6b4e7e47718417&txTime=6AC55778
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/207-v31.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 瓜德罗普 vs 圣卢西亚 | 0-1 | 原声3 | 原声3
-https://pul-tenm.gkykp.com/live/sd-1-4642607.m3u8?txSecret=b6bcbe8629ba78c364abd9df216df4fb&txTime=6AC55430
+https://pul-tenm.gkykp.com/live/sd-1-4642607.m3u8?txSecret=7a2df33d58a0defcf5caff52d31e6f65&txTime=6AC55778
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/205-v62.jpg?v=1789454340185" group-title="德篮甲",德篮甲 | 维切塔 vs 布伦瑞克 | 87-93 | 原声1 | 原声1
 https://pul-tenm.gkykp.com/live/sd-2-3936184.m3u8?txSecret=7ebf7940ebef3984e8ca851a1d44410f&txTime=6AC55250
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/211-v47.jpg?v=1789454340185" group-title="西乙",西乙 | 科尔多瓦 vs 特内里费 | 2-1 | 原声7 | 原声7
-https://pul-tenm.gkykp.com/live/sd-1-4567295.m3u8?txSecret=523acd7502bd4681b8e9a8600509432f&txTime=6AC55430
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/230-v20.jpg?v=1789454340185" group-title="欧国联",欧国联 | 波黑 vs 波兰 | 0-0 | 原声26 | 原声26
-https://pul-tenm.gkykp.com/live/hd-en-1-4518044.m3u8?txSecret=d1cf124aa9ff00bfb554d8bdf76e1117&txTime=6AC55430
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/208-v55.jpg?v=1789454340185" group-title="阿甲",阿甲 | 利斯特雷 vs 科尔多瓦中央 | 1-0 | 原声4 | 原声4
-https://pul-tenm.gkykp.com/live/sd-1-4539781.m3u8?txSecret=5dd895cbc70ccfaf085f4b2292d3a37b&txTime=6AC55430
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/209-v53.jpg?v=1789454340185" group-title="阿乙",阿乙 | 新芝加哥 vs 迈普 | 0-0 | 原声5 | 原声5
-https://pul-tenm.gkykp.com/live/sd-1-4471467.m3u8?txSecret=e8769abc03ebd14df830a761a6230db0&txTime=6AC55430
+https://pul-tenm.gkykp.com/live/sd-1-4539781.m3u8?txSecret=32a17b02f6e42a37f2090ca5bbd322c2&txTime=6AC55778
