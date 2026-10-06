@@ -1,35 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/12-v35.jpg?v=1789454340185" group-title="NBA",NBA | 76人 vs 尼克斯 | 72-58 | 直播12 | 直播12
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/12-v35.jpg?v=1789454340185" group-title="NBA",NBA | 76人 vs 尼克斯 | 75-63 | 直播12 | 直播12
 https://hello.ooo0ooo.top/live/3944613.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/12-v35.jpg?v=1789454340185" group-title="NBA",NBA | 76人 vs 尼克斯 | 72-58 | 直播12 | 原声2
-https://pul-tenm.gkykp.com/live/hd-en-2-3944613.m3u8?txSecret=7a0ba209fd819503eb8e0e453739e5cc&txTime=6AC58EC8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/15-v33.jpg?v=1789454340185" group-title="NBA",NBA | 雄鹿 vs 森林狼 | 4-5 | 直播15 | 直播15
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/12-v35.jpg?v=1789454340185" group-title="NBA",NBA | 76人 vs 尼克斯 | 75-63 | 直播12 | 原声2
+https://pul-tenm.gkykp.com/live/hd-en-2-3944613.m3u8?txSecret=b9d929a472a8fde3091c87150302af41&txTime=6AC59288
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/15-v33.jpg?v=1789454340185" group-title="NBA",NBA | 雄鹿 vs 森林狼 | 16-22 | 直播15 | 直播15
 https://hello.ooo0ooo.top/live/3944614.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/15-v33.jpg?v=1789454340185" group-title="NBA",NBA | 雄鹿 vs 森林狼 | 4-5 | 直播15 | 原声17
-https://pul-tenm.gkykp.com/live/hd-en-2-3944614.m3u8?txSecret=23ebbe874e71c55d5883df6a47071039&txTime=6AC58EC8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/13-v32.jpg?v=1789454340185" group-title="NBA",NBA | 活塞 vs 太阳 | 45-58 | 直播13 | 直播13
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/15-v33.jpg?v=1789454340185" group-title="NBA",NBA | 雄鹿 vs 森林狼 | 16-22 | 直播15 | 原声17
+https://pul-tenm.gkykp.com/live/hd-en-2-3944614.m3u8?txSecret=271f97315ae9b7a155ec5e6cff41dbd9&txTime=6AC59288
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/13-v32.jpg?v=1789454340185" group-title="NBA",NBA | 活塞 vs 太阳 | 50-68 | 直播13 | 直播13
 https://hello.ooo0ooo.top/live/3931456.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/13-v32.jpg?v=1789454340185" group-title="NBA",NBA | 活塞 vs 太阳 | 45-58 | 直播13 | 原声13
-https://pul-tenm.gkykp.com/live/hd-en-2-3931456.m3u8?txSecret=ed10240da5590e403055949e5729be43&txTime=6AC58EC8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/13-v32.jpg?v=1789454340185" group-title="NBA",NBA | 活塞 vs 太阳 | 50-68 | 直播13 | 原声13
+https://pul-tenm.gkykp.com/live/hd-en-2-3931456.m3u8?txSecret=aca6e2f010eba72fda7e2d0fb5d19f4d&txTime=6AC59288
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v48.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 格林纳达 vs 博内尔岛 | 1-1 | 直播3 | 直播3
 https://hello.ooo0ooo.top/live/4642600.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v48.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 格林纳达 vs 博内尔岛 | 1-1 | 直播3 | 原声14
-https://pul-tenm.gkykp.com/live/sd-1-4642600.m3u8?txSecret=9e2148f7f9f3b5f01dd39cb4d35b2443&txTime=6AC58EC8
+https://pul-tenm.gkykp.com/live/sd-1-4642600.m3u8?txSecret=1728b0ac31009600f3f52947d3039e9f&txTime=6AC59288
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/17-v32.jpg?v=1789454340185" group-title="哥伦乙",哥伦乙 | 奥尔索马尔索 vs 奎迪奥 | 0-0 | 直播17 | 直播17
+https://hello.ooo0ooo.top/live/4596285.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/17-v32.jpg?v=1789454340185" group-title="哥伦乙",哥伦乙 | 奥尔索马尔索 vs 奎迪奥 | 0-0 | 直播17 | 原声21
+https://pul-tenm.gkykp.com/live/sd-1-4596285.m3u8?txSecret=c181c348202d03999eb0a2aa63d5037c&txTime=6AC59288
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v34.jpg?v=1789454340185" group-title="NBA",NBA | 老鹰 vs 灰熊 | 61-81 | 直播14 | 直播14
 https://hello.ooo0ooo.top/live/3925688.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v34.jpg?v=1789454340185" group-title="NBA",NBA | 老鹰 vs 灰熊 | 61-81 | 直播14 | 原声12
-https://pul-tenm.gkykp.com/live/hd-en-2-3925688.m3u8?txSecret=e81982289901e0ac55fde4305f2b07e3&txTime=6AC58EC8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v41.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 百慕大群岛 vs 巴巴多斯 | 0-0 | 直播5 | 直播5
-https://hello.ooo0ooo.top/live/4642631.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v41.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 百慕大群岛 vs 巴巴多斯 | 0-0 | 直播5 | 原声15
-https://pul-tenm.gkykp.com/live/sd-1-4642631.m3u8?txSecret=df9b1718e7178dd510c3bb5b0a6d6423&txTime=6AC58EC8
+https://pul-tenm.gkykp.com/live/hd-en-2-3925688.m3u8?txSecret=19e05bc502b55c0098c2df8e2a3b746c&txTime=6AC59288
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/11-v37.jpg?v=1789454340185" group-title="阿甲",阿甲 | 班菲尔德 vs 罗萨里奥中央 | 0-0 | 直播11 | 直播11
 https://hello.ooo0ooo.top/live/4539778.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/11-v37.jpg?v=1789454340185" group-title="阿甲",阿甲 | 班菲尔德 vs 罗萨里奥中央 | 0-0 | 直播11 | 原声20
-https://pul-tenm.gkykp.com/live/sd-1-4539778.m3u8?txSecret=22a2ca23a6270c37e35dce7bc16a8d50&txTime=6AC58EC8
+https://pul-tenm.gkykp.com/live/sd-1-4539778.m3u8?txSecret=f7c8ce38de4ebb87dc11b1228f34c13a&txTime=6AC59288
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v41.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 百慕大群岛 vs 巴巴多斯 | 0-0 | 直播5 | 直播5
+https://hello.ooo0ooo.top/live/4642631.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v41.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 百慕大群岛 vs 巴巴多斯 | 0-0 | 直播5 | 原声15
+https://pul-tenm.gkykp.com/live/sd-1-4642631.m3u8?txSecret=ad1d55a1a0082f9287cdcec03dd1504c&txTime=6AC59288
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v40.jpg?v=1789454340185" group-title="乌拉甲",乌拉甲 | 乌拉圭民族 vs 蒙得维的亚城图尔克 | 2-0 | 直播10 | 直播10
 https://hello.ooo0ooo.top/live/4650293.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/220-v33.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 危地马拉 vs 苏里南 | 0-0 | 原声16 | 原声16
-https://pul-tenm.gkykp.com/live/sd-1-4642656.m3u8?txSecret=c683a0e900ec6e9c68b461bcbbd15a93&txTime=6AC58EC8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/210-v17.jpg?v=1789454340185" group-title="哥伦甲",哥伦甲 | 麦德林独立 vs 圣塔菲 | 0-0 | 原声6 | 原声6
-https://pul-tenm.gkykp.com/live/sd-1-4569321.m3u8?txSecret=5ba7c0e0a6a24b12efe3add6d06efd21&txTime=6AC58EC8
+https://pul-tenm.gkykp.com/live/sd-1-4569321.m3u8?txSecret=026e927ed2c3caacc61ace6b7df7a20a&txTime=6AC59288
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/220-v33.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 危地马拉 vs 苏里南 | 0-0 | 原声16 | 原声16
+https://pul-tenm.gkykp.com/live/sd-1-4642656.m3u8?txSecret=8b274bde2061bc411b7ed0436a61d592&txTime=6AC59288
