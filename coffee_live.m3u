@@ -1,9 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/18-v30.jpg?v=1789454340185" group-title="玻利杯",玻利杯 | 皇家波托斯 vs 圣安东尼奥布鲁布鲁 | 1-0 | 直播18 | 直播18
+https://hello.ooo0ooo.top/live/4615293.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/18-v30.jpg?v=1789454340185" group-title="玻利杯",玻利杯 | 皇家波托斯 vs 圣安东尼奥布鲁布鲁 | 1-0 | 直播18 | 原声1
+https://pul-tenm.gkykp.com/live/sd-1-4615293.m3u8?txSecret=9a9d32f0afe7b5d8670c7a6cdaeebe8b&txTime=6AC6C428
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/16-v34.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 圣文森特和格林纳丁斯 vs 荷属圣马丁岛 | 3-0 | 直播16 | 直播16
 https://hello.ooo0ooo.top/live/4642616.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/16-v34.jpg?v=1789454340185" group-title="中北美国联",中北美国联 | 圣文森特和格林纳丁斯 vs 荷属圣马丁岛 | 3-0 | 直播16 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4642616.m3u8?txSecret=04bffb4c59cd4de19ea38a02646c56d8&txTime=6AC6C068
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/18-v30.jpg?v=1789454340185" group-title="玻利杯",玻利杯 | 皇家波托斯 vs 圣安东尼奥布鲁布鲁 | 0-0 | 直播18 | 直播18
-https://hello.ooo0ooo.top/live/4615293.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/18-v30.jpg?v=1789454340185" group-title="玻利杯",玻利杯 | 皇家波托斯 vs 圣安东尼奥布鲁布鲁 | 0-0 | 直播18 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4615293.m3u8?txSecret=a407780e7a5b7229eb0bbe4c92ef9d1a&txTime=6AC6C068
+https://pul-tenm.gkykp.com/live/sd-1-4642616.m3u8?txSecret=b61b82cfede4b80e97cacea7a0f97ac9&txTime=6AC6C428
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/207-v38.jpg?v=1789454340185" group-title="巴拉甲",巴拉甲 | 亚松森奥林匹亚 vs 巴拉圭民族 | 0-0 | 原声3 | 原声3
+https://pul-tenm.gkykp.com/live/sd-1-4631197.m3u8?txSecret=33dcb99db73d66844dce31d68c99b576&txTime=6AC6C428
