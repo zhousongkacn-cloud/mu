@@ -1,47 +1,67 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/426-v8227.jpg?v=1789454340185" group-title="NBA",NBA | 步行者 vs 森林狼 | 19-20 | 中文解说22 | 中文解说22
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_426_v8227.jpg?v=1789454340185" group-title="NBA",NBA | 步行者 vs 森林狼 | 37-33 | 中文解说22 | 中文解说22
 https://live01-cn-ali.xdbrk.com/live/50057477_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/426-v8227.jpg?v=1789454340185" group-title="NBA",NBA | 步行者 vs 森林狼 | 19-20 | 中文解说22 | 直播13
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_426_v8227.jpg?v=1789454340185" group-title="NBA",NBA | 步行者 vs 森林狼 | 37-33 | 中文解说22 | 直播13
 https://hello.ooo0ooo.top/live/3944615.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/426-v8227.jpg?v=1789454340185" group-title="NBA",NBA | 步行者 vs 森林狼 | 19-20 | 中文解说22 | 原声22
-https://pul-tenm.gkykp.com/live/hd-en-2-3944615.m3u8?txSecret=463a568803a40f6de5c5e7835bc26a04&txTime=6AC82700
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_426_v8227.jpg?v=1789454340185" group-title="NBA",NBA | 步行者 vs 森林狼 | 37-33 | 中文解说22 | 原声22
+https://pul-tenm.gkykp.com/live/hd-en-2-3944615.m3u8?txSecret=519474e817fbdaaa5f33d681af9f377d&txTime=6AC82AC1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_407_v8242.jpg?v=1789454340185" group-title="NBA",NBA | 雷霆 vs 雄鹿 | 0-0 | 中文解说3 | 中文解说3
+https://live01-cn-ali.xdbrk.com/live/75177771_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_433_v8218.jpg?v=1789454340185" group-title="NBA",NBA | 公牛 vs 太阳 | 0-0 | 中文解说29 | 中文解说29
+https://live01-cn-ali.xdbrk.com/live/33927113_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_406_v8272.jpg?v=1789454340185" group-title="NBA",NBA | 灰熊 vs 魔术 | 0-0 | 中文解说2 | 中文解说2
+https://live01-cn-ali.xdbrk.com/live/89357445_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v43.jpg?v=1789454340185" group-title="WNBA",WNBA | 梦想 vs 自由人 | 9-14 | 直播14 | 直播14
+https://hello.ooo0ooo.top/live/3944797.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v43.jpg?v=1789454340185" group-title="WNBA",WNBA | 梦想 vs 自由人 | 9-14 | 直播14 | 原声27
+https://pul-tenm.gkykp.com/live/hd-en-2-3944797.m3u8?txSecret=64b33c44093eec9236ee58a249f51bf9&txTime=6AC82AC1
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v48.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 维多利亚 vs 沙佩科恩斯 | 1-0 | 直播7 | 直播7
 https://hello.ooo0ooo.top/live/4465865.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v48.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 维多利亚 vs 沙佩科恩斯 | 1-0 | 直播7 | 原声21
-https://pul-tenm.gkykp.com/live/sd-1-4465865.m3u8?txSecret=1e4ad483bec91add1c725f576b8623d6&txTime=6AC82700
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v49.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 阿瓦伊 vs 隆德里纳 | 2-0 | 直播5 | 直播5
+https://pul-tenm.gkykp.com/live/sd-1-4465865.m3u8?txSecret=488697e45a31ec5ccb759b1b3519bad3&txTime=6AC82AC1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v49.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 阿瓦伊 vs 隆德里纳 | 2-1 | 直播5 | 直播5
 https://hello.ooo0ooo.top/live/4494748.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v49.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 阿瓦伊 vs 隆德里纳 | 2-0 | 直播5 | 原声14
-https://pul-tenm.gkykp.com/live/sd-1-4494748.m3u8?txSecret=878b1e5b140d606f3197204679f8f087&txTime=6AC82700
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v49.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 阿瓦伊 vs 隆德里纳 | 2-1 | 直播5 | 原声14
+https://pul-tenm.gkykp.com/live/sd-1-4494748.m3u8?txSecret=d2cb93917d3a21f2b5a1d6c002977d57&txTime=6AC82AC1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/11-v45.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 维拉诺瓦 vs 库亚巴 | 0-0 | 直播11 | 直播11
+https://hello.ooo0ooo.top/live/4494755.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/11-v45.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 维拉诺瓦 vs 库亚巴 | 0-0 | 直播11 | 原声26
+https://pul-tenm.gkykp.com/live/sd-1-4494755.m3u8?txSecret=3bdf2f4ca5922ed6c9d2cc2fdf0d17f7&txTime=6AC82AC1
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/17-v40.jpg?v=1789454340185" group-title="加拿职",加拿职 | 弗尔戈FC vs 太平洋FC | 0-0 | 直播17 | 直播17
 https://hello.ooo0ooo.top/live/4492285.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/17-v40.jpg?v=1789454340185" group-title="加拿职",加拿职 | 弗尔戈FC vs 太平洋FC | 0-0 | 直播17 | 原声20
-https://pul-tenm.gkykp.com/live/sd-1-4492285.m3u8?txSecret=bb72f6a915c2a6b813b53aa6f52d6461&txTime=6AC82700
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/28-v26.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 哥斯达黎加U16 vs 波多黎各U16 | 0-0 | 直播28 | 直播28
-https://hello.ooo0ooo.top/live/4654939.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/24-v31.jpg?v=1789454340185" group-title="智利杯",智利杯 | 科其姆波 vs 科布雷洛 | 1-1 | 直播24 | 直播24
-https://hello.ooo0ooo.top/live/4641688.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/24-v31.jpg?v=1789454340185" group-title="智利杯",智利杯 | 科其姆波 vs 科布雷洛 | 1-1 | 直播24 | 原声11
-https://pul-tenm.gkykp.com/live/sd-1-4641688.m3u8?txSecret=ad28a5630334966d44252c5d8da1c37d&txTime=6AC82700
+https://pul-tenm.gkykp.com/live/sd-1-4492285.m3u8?txSecret=f98a60652e710411b618d56947f08bc1&txTime=6AC82AC1
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v30.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 铁路工人 vs 博塔弗戈SP | 1-1 | 直播6 | 直播6
 https://hello.ooo0ooo.top/live/4494752.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v30.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 铁路工人 vs 博塔弗戈SP | 1-1 | 直播6 | 原声17
-https://pul-tenm.gkykp.com/live/sd-1-4494752.m3u8?txSecret=92921ff64c24f324c231665b1ae8b4f7&txTime=6AC82700
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v56.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 布拉干蒂诺RB vs 米拉索 | 0-0 | 直播3 | 直播3
-https://hello.ooo0ooo.top/live/4465842.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v56.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 布拉干蒂诺RB vs 米拉索 | 0-0 | 直播3 | 原声12
-https://pul-tenm.gkykp.com/live/sd-1-4465842.m3u8?txSecret=f00a14399ae20ec9f780814f26a5ff26&txTime=6AC82700
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v44.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 博塔弗戈 vs 瓦斯科达伽马 | 0-0 | 直播8 | 直播8
-https://hello.ooo0ooo.top/live/4465795.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v44.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 博塔弗戈 vs 瓦斯科达伽马 | 0-0 | 直播8 | 原声23
-https://pul-tenm.gkykp.com/live/sd-1-4465795.m3u8?txSecret=8634ec8930af55846a506e8d769b060a&txTime=6AC82700
+https://pul-tenm.gkykp.com/live/sd-1-4494752.m3u8?txSecret=82827ab081c3c8ebcd8829c2f310f2b4&txTime=6AC82AC1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/28-v26.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 哥斯达黎加U16 vs 波多黎各U16 | 0-0 | 直播28 | 直播28
+https://hello.ooo0ooo.top/live/4654939.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v20.jpg?v=1789454340185" group-title="哥伦乙",哥伦乙 | 卡利博卡青年 vs 马达莱纳联 | 1-1 | 直播1 | 直播1
 https://hello.ooo0ooo.top/live/4596222.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v20.jpg?v=1789454340185" group-title="哥伦乙",哥伦乙 | 卡利博卡青年 vs 马达莱纳联 | 1-1 | 直播1 | 原声4
-https://pul-tenm.gkykp.com/live/sd-1-4596222.m3u8?txSecret=744c05a3c045c7b4fe92d244a85aaee5&txTime=6AC82700
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/217-v49.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 巴西国际 vs 科林蒂安 | 1-0 | 原声13 | 原声13
-https://pul-tenm.gkykp.com/live/sd-1-4465866.m3u8?txSecret=b33d5262bea4a11daf9d0537f247ac31&txTime=6AC82700
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/211-v59.jpg?v=1789454340185" group-title="智利杯",智利杯 | 安托法加斯塔 vs 智利大学 | 2-0 | 原声7 | 原声7
-https://pul-tenm.gkykp.com/live/sd-1-4651998.m3u8?txSecret=693c9e42f0f32712fcee6ab574e97006&txTime=6AC82700
+https://pul-tenm.gkykp.com/live/sd-1-4596222.m3u8?txSecret=22d422c0d88c5b4a6a06a7d2012443c6&txTime=6AC82AC1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v48.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 雷加塔斯巴西 vs 戈亚尼亚竞技 | 0-0 | 直播10 | 直播10
+https://hello.ooo0ooo.top/live/4494750.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v48.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 雷加塔斯巴西 vs 戈亚尼亚竞技 | 0-0 | 直播10 | 原声25
+https://pul-tenm.gkykp.com/live/sd-1-4494750.m3u8?txSecret=425f5a37ec734ef84147c91e85d3f446&txTime=6AC82AC1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/24-v31.jpg?v=1789454340185" group-title="智利杯",智利杯 | 科其姆波 vs 科布雷洛 | 2-1 | 直播24 | 直播24
+https://hello.ooo0ooo.top/live/4641688.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/24-v31.jpg?v=1789454340185" group-title="智利杯",智利杯 | 科其姆波 vs 科布雷洛 | 2-1 | 直播24 | 原声11
+https://pul-tenm.gkykp.com/live/sd-1-4641688.m3u8?txSecret=1242e042272c9dc891d58dfdff6329e3&txTime=6AC82AC1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v56.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 布拉干蒂诺RB vs 米拉索 | 1-0 | 直播3 | 直播3
+https://hello.ooo0ooo.top/live/4465842.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v56.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 布拉干蒂诺RB vs 米拉索 | 1-0 | 直播3 | 原声12
+https://pul-tenm.gkykp.com/live/sd-1-4465842.m3u8?txSecret=00465f750f3db53ffd50b7b27d8c7ed0&txTime=6AC82AC1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v44.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 博塔弗戈 vs 瓦斯科达伽马 | 0-0 | 直播8 | 直播8
+https://hello.ooo0ooo.top/live/4465795.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v44.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 博塔弗戈 vs 瓦斯科达伽马 | 0-0 | 直播8 | 原声23
+https://pul-tenm.gkykp.com/live/sd-1-4465795.m3u8?txSecret=9a6a69f4d8f7f88a22e338da7bce2add&txTime=6AC82AC1
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/205-v77.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 雷莫 vs 格雷米奥 | 0-1 | 原声1 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4465786.m3u8?txSecret=1c7373f741a09bf2012dfd78a2ca2b7b&txTime=6AC82700
+https://pul-tenm.gkykp.com/live/sd-1-4465786.m3u8?txSecret=509dc396775579c471a865d26f0d8eab&txTime=6AC82AC1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/211-v59.jpg?v=1789454340185" group-title="智利杯",智利杯 | 安托法加斯塔 vs 智利大学 | 2-0 | 原声7 | 原声7
+https://pul-tenm.gkykp.com/live/sd-1-4651998.m3u8?txSecret=c12fc910d6952ddbb1f330ad2fcbb379&txTime=6AC82AC1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/217-v49.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 巴西国际 vs 科林蒂安 | 1-0 | 原声13 | 原声13
+https://pul-tenm.gkykp.com/live/sd-1-4465866.m3u8?txSecret=0d974d74a657ed74c1f144b0ce760c8d&txTime=6AC82AC1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/228-v28.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 米内罗美洲 vs 福塔雷萨 | 0-1 | 原声24 | 原声24
+https://pul-tenm.gkykp.com/live/sd-1-4494747.m3u8?txSecret=c503e12d4f78ab8ce82de7aaacabeafc&txTime=6AC82AC1
