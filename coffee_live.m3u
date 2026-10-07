@@ -1,11 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v40.jpg?v=1789454340185" group-title="澳NBL",澳NBL | 阿德莱德36人 vs 墨尔本联 | 21-31 | 直播14 | 直播14
-https://hello.ooo0ooo.top/live/3926000.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v40.jpg?v=1789454340185" group-title="澳NBL",澳NBL | 阿德莱德36人 vs 墨尔本联 | 21-31 | 直播14 | 原声4
-https://pul-tenm.gkykp.com/live/hd-en-2-3926000.m3u8?txSecret=69e08398e89acb0c2c519a1a25c24794&txTime=6AC75B18
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/11-v42.jpg?v=1789454340185" group-title="印班超",印班超 | 马德拉斯工兵 vs 班加罗尔B队 | 2-1 | 直播11 | 直播11
 https://hello.ooo0ooo.top/live/4655239.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/11-v42.jpg?v=1789454340185" group-title="印班超",印班超 | 马德拉斯工兵 vs 班加罗尔B队 | 2-1 | 直播11 | 原声3
-https://pul-tenm.gkykp.com/live/sd-1-4655239.m3u8?txSecret=410dda07095a64cdadd8cb8f6023092a&txTime=6AC75B18
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/206-v69.jpg?v=1789454340185" group-title="中乙",中乙 | 泰安天贶 vs 赣州瑞狮 | 1-0 | 原声2 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4640234.m3u8?txSecret=c579797888dc16da5a53ad7dbe0ffc58&txTime=6AC75B18
+https://pul-tenm.gkykp.com/live/sd-1-4655239.m3u8?txSecret=097b70af8d2b50dac5e12b33f93cea38&txTime=6AC75ED8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v40.jpg?v=1789454340185" group-title="澳NBL",澳NBL | 阿德莱德36人 vs 墨尔本联 | 30-45 | 直播14 | 直播14
+https://hello.ooo0ooo.top/live/3926000.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v40.jpg?v=1789454340185" group-title="澳NBL",澳NBL | 阿德莱德36人 vs 墨尔本联 | 30-45 | 直播14 | 原声4
+https://pul-tenm.gkykp.com/live/hd-en-2-3926000.m3u8?txSecret=dcd09fbd90497abd94a32221ea5c4ad4&txTime=6AC75ED8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/16-v36.jpg?v=1789454340185" group-title="菲州长杯",菲州长杯 | 公路勇士 vs 澳门黑骑士 | 0-0 | 直播16 | 直播16
+https://hello.ooo0ooo.top/live/3925293.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/12-v40.jpg?v=1789454340185" group-title="天皇杯",天皇杯 | 浦和红钻 vs RB大宫松鼠 | 0-0 | 直播12 | 直播12
+https://hello.ooo0ooo.top/live/4639832.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/12-v40.jpg?v=1789454340185" group-title="天皇杯",天皇杯 | 浦和红钻 vs RB大宫松鼠 | 0-0 | 直播12 | 原声1
+https://pul-tenm.gkykp.com/live/sd-1-4639832.m3u8?txSecret=27a692ce891dc8fe395ca8dcaeadff4f&txTime=6AC75ED8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/206-v69.jpg?v=1789454340185" group-title="中乙",中乙 | 泰安天贶 vs 赣州瑞狮 | 2-0 | 原声2 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4640234.m3u8?txSecret=5638d6301e32402209947444b69e8baa&txTime=6AC75ED8
