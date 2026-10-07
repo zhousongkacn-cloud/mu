@@ -1,27 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_409_v8259.jpg?v=1789454340185" group-title="NBA",NBA | 勇士 vs 湖人 | 102-80 | 中文解说5 | 中文解说5
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_409_v8259.jpg?v=1789454340185" group-title="NBA",NBA | 勇士 vs 湖人 | 124-93 | 中文解说5 | 中文解说5
 https://live01-cn-ali.xdbrk.com/live/62115550_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_409_v8259.jpg?v=1789454340185" group-title="NBA",NBA | 勇士 vs 湖人 | 102-80 | 中文解说5 | 直播15
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_409_v8259.jpg?v=1789454340185" group-title="NBA",NBA | 勇士 vs 湖人 | 124-93 | 中文解说5 | 直播15
 https://hello.ooo0ooo.top/live/3925690.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_409_v8259.jpg?v=1789454340185" group-title="NBA",NBA | 勇士 vs 湖人 | 102-80 | 中文解说5 | 原声5
-https://pul-tenm.gkykp.com/live/hd-en-2-3925690.m3u8?txSecret=a91801ea24fe04f4668a20186aedb342&txTime=6AC71888
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_409_v8259.jpg?v=1789454340185" group-title="NBA",NBA | 勇士 vs 湖人 | 124-93 | 中文解说5 | 原声5
+https://pul-tenm.gkykp.com/live/hd-en-2-3925690.m3u8?txSecret=9ecde16d3935d57f1ef94adbbaa2c2ca&txTime=6AC71BD0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/17-v37.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 墨西哥 vs 智利 | 0-2 | 直播17 | 直播17
 https://hello.ooo0ooo.top/live/4650125.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/17-v37.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 墨西哥 vs 智利 | 0-2 | 直播17 | 原声4
-https://pul-tenm.gkykp.com/live/hd-en-1-4650125.m3u8?txSecret=51cc8851755a9cf931c518c25e190fb7&txTime=6AC71888
+https://pul-tenm.gkykp.com/live/hd-en-1-4650125.m3u8?txSecret=831c0c1db37ba6401c86c45337dc538a&txTime=6AC71BD0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/19-v26.jpg?v=1789454340185" group-title="墨联",墨联 | 黑豹 vs 红魔鬼 | 66-69 | 直播19 | 直播19
+https://hello.ooo0ooo.top/live/3923897.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/19-v26.jpg?v=1789454340185" group-title="墨联",墨联 | 黑豹 vs 红魔鬼 | 66-69 | 直播19 | 原声10
+https://pul-tenm.gkykp.com/live/sd-2-3923897.m3u8?txSecret=80f2979b03c4cfbb17ebec0b4696d80c&txTime=6AC71BD0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/18-v31.jpg?v=1789454340185" group-title="墨联",墨联 | 矿工 vs 圣徒 | 96-75 | 直播18 | 直播18
 https://hello.ooo0ooo.top/live/3923940.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/18-v31.jpg?v=1789454340185" group-title="墨联",墨联 | 矿工 vs 圣徒 | 96-75 | 直播18 | 原声21
 https://pul-tenm.gkykp.com/live/sd-2-3923940.m3u8?txSecret=8a29be1b8991ed94937e97b904836be8&txTime=6AC711F8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/19-v26.jpg?v=1789454340185" group-title="墨联",墨联 | 黑豹 vs 红魔鬼 | 55-61 | 直播19 | 直播19
-https://hello.ooo0ooo.top/live/3923897.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/19-v26.jpg?v=1789454340185" group-title="墨联",墨联 | 黑豹 vs 红魔鬼 | 55-61 | 直播19 | 原声10
-https://pul-tenm.gkykp.com/live/sd-2-3923897.m3u8?txSecret=7073e0367bc19683041189711cdd8901&txTime=6AC71888
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/16-v35.jpg?v=1789454340185" group-title="墨联",墨联 | 草莓种植者 vs 金人 | 85-105 | 直播16 | 直播16
-https://hello.ooo0ooo.top/live/3924017.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/16-v35.jpg?v=1789454340185" group-title="墨联",墨联 | 草莓种植者 vs 金人 | 85-105 | 直播16 | 原声6
-https://pul-tenm.gkykp.com/live/sd-2-3924017.m3u8?txSecret=9d5dd223090c960a8ea5a491708c9258&txTime=6AC71540
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/211-v54.jpg?v=1789454340185" group-title="墨联",墨联 | 太阳 vs 皇家部队 | 51-40 | 原声7 | 原声7
-https://pul-tenm.gkykp.com/live/sd-2-3923932.m3u8?txSecret=8e2e69efb662deb2e0f3f2fa86e8bda8&txTime=6AC70BE0
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/226-v27.jpg?v=1789454340185" group-title="墨联",墨联 | 太空人 vs 淘金者 | 96-89 | 原声22 | 原声22
 https://pul-tenm.gkykp.com/live/sd-2-3923973.m3u8?txSecret=d30a45e4166e305fff90b90f3da815af&txTime=6AC71798
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/211-v54.jpg?v=1789454340185" group-title="墨联",墨联 | 太阳 vs 皇家部队 | 52-40 | 原声7 | 原声7
+https://pul-tenm.gkykp.com/live/sd-2-3923932.m3u8?txSecret=8e2e69efb662deb2e0f3f2fa86e8bda8&txTime=6AC70BE0
