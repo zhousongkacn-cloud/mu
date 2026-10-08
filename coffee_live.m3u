@@ -1,9 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_413_v8243.jpg?v=1789454340185" group-title="NBA",NBA | 骑士 vs 凯尔特人 | 0-0 | 中文解说9 | 中文解说9
+https://live01-cn-ali.xdbrk.com/live/42430680_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v25.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 桑托斯 vs 弗拉门戈 | 0-0 | 直播1 | 直播1
+https://hello.ooo0ooo.top/live/4465845.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v25.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 桑托斯 vs 弗拉门戈 | 0-0 | 直播1 | 原声3
+https://pul-tenm.gkykp.com/live/sd-1-4465845.m3u8?txSecret=9bcb419d83ec0a3539c9c2df8d5f413c&txTime=6AC96E30
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v60.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 累西腓航海 vs 诺瓦里桑蒂诺 | 0-1 | 直播3 | 直播3
+https://hello.ooo0ooo.top/live/4495732.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v60.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 累西腓航海 vs 诺瓦里桑蒂诺 | 0-1 | 直播3 | 原声7
+https://pul-tenm.gkykp.com/live/sd-1-4495732.m3u8?txSecret=3d069a8ae60c08df2f35be0aec7d31ee&txTime=6AC96E30
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v18.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 塞阿拉 vs 克里丘马 | 0-0 | 直播4 | 直播4
 https://hello.ooo0ooo.top/live/4494749.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v18.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 塞阿拉 vs 克里丘马 | 0-0 | 直播4 | 原声5
-https://pul-tenm.gkykp.com/live/sd-1-4494749.m3u8?txSecret=5c8d0c110c4dbba36b33406a39e2024c&txTime=6AC96A70
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v52.jpg?v=1789454340185" group-title="秘鲁甲",秘鲁甲 | 格劳竞技 vs 洛斯香卡斯 | 0-0 | 直播7 | 直播7
-https://hello.ooo0ooo.top/live/4550642.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v52.jpg?v=1789454340185" group-title="秘鲁甲",秘鲁甲 | 格劳竞技 vs 洛斯香卡斯 | 0-0 | 直播7 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4550642.m3u8?txSecret=c3abb3a6c1b324c2185c8bd32dac3f59&txTime=6AC96A70
+https://pul-tenm.gkykp.com/live/sd-1-4494749.m3u8?txSecret=b4568c87eefa79c2115a2759610ff55f&txTime=6AC96E30
