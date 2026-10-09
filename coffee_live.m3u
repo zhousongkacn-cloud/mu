@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/409-v8270.jpg?v=1789454340185" group-title="NBA",NBA | 湖人 vs 国王 | 86-70 | 中文解说5 | 中文解说5
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/409-v8270.jpg?v=1789454340185" group-title="NBA",NBA | 湖人 vs 国王 | 101-84 | 中文解说5 | 中文解说5
 https://live01-cn-ali.xdbrk.com/live/13219628_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/409-v8270.jpg?v=1789454340185" group-title="NBA",NBA | 湖人 vs 国王 | 86-70 | 中文解说5 | 直播4
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/409-v8270.jpg?v=1789454340185" group-title="NBA",NBA | 湖人 vs 国王 | 101-84 | 中文解说5 | 直播4
 https://hello.ooo0ooo.top/live/3925711.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/409-v8270.jpg?v=1789454340185" group-title="NBA",NBA | 湖人 vs 国王 | 86-70 | 中文解说5 | 原声5
-https://pul-tenm.gkykp.com/live/hd-en-2-3925711.m3u8?txSecret=6f39d28ed92a3a4ab048b170dc335f9f&txTime=6AC9C291
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/409-v8270.jpg?v=1789454340185" group-title="NBA",NBA | 湖人 vs 国王 | 101-84 | 中文解说5 | 原声5
+https://pul-tenm.gkykp.com/live/hd-en-2-3925711.m3u8?txSecret=4747b566d972c98939a6606966eb8288&txTime=6AC9C5D8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v26.jpg?v=1789454340185" group-title="韩K联",韩K联 | 大田市民 vs 全北现代 | 0-0 | 直播1 | 直播1
+https://hello.ooo0ooo.top/live/4480473.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v61.jpg?v=1789454340185" group-title="韩K3联",韩K3联 | 杨平 vs 蔚山市民 | 0-0 | 直播3 | 直播3
+https://hello.ooo0ooo.top/live/4495498.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v61.jpg?v=1789454340185" group-title="韩K3联",韩K3联 | 杨平 vs 蔚山市民 | 0-0 | 直播3 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4495498.m3u8?txSecret=0707a3265244f5723a4304698c806d21&txTime=6AC9C5D8
