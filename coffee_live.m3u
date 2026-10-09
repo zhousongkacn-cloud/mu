@@ -1,13 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/409-v8270.jpg?v=1789454340185" group-title="NBA",NBA | 湖人 vs 国王 | 101-84 | 中文解说5 | 中文解说5
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/409-v8270.jpg?v=1789454340185" group-title="NBA",NBA | 湖人 vs 国王 | 110-102 | 中文解说5 | 中文解说5
 https://live01-cn-ali.xdbrk.com/live/13219628_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/409-v8270.jpg?v=1789454340185" group-title="NBA",NBA | 湖人 vs 国王 | 101-84 | 中文解说5 | 直播4
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/409-v8270.jpg?v=1789454340185" group-title="NBA",NBA | 湖人 vs 国王 | 110-102 | 中文解说5 | 直播4
 https://hello.ooo0ooo.top/live/3925711.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/409-v8270.jpg?v=1789454340185" group-title="NBA",NBA | 湖人 vs 国王 | 101-84 | 中文解说5 | 原声5
-https://pul-tenm.gkykp.com/live/hd-en-2-3925711.m3u8?txSecret=4747b566d972c98939a6606966eb8288&txTime=6AC9C5D8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v26.jpg?v=1789454340185" group-title="韩K联",韩K联 | 大田市民 vs 全北现代 | 0-0 | 直播1 | 直播1
-https://hello.ooo0ooo.top/live/4480473.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/409-v8270.jpg?v=1789454340185" group-title="NBA",NBA | 湖人 vs 国王 | 110-102 | 中文解说5 | 原声5
+https://pul-tenm.gkykp.com/live/hd-en-2-3925711.m3u8?txSecret=4abbaf5b05c7724073269ed341dda69e&txTime=6AC9C998
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v14.jpg?v=1789454340185" group-title="韩K2联",韩K2联 | 水原FC vs 华城FC | 0-0 | 直播2 | 直播2
+https://hello.ooo0ooo.top/live/4481210.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v14.jpg?v=1789454340185" group-title="韩K2联",韩K2联 | 水原FC vs 华城FC | 0-0 | 直播2 | 原声4
+https://pul-tenm.gkykp.com/live/sd-1-4481210.m3u8?txSecret=80e73c749cd9a2991f2b33fcb783799c&txTime=6AC9C998
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v52.jpg?v=1789454340185" group-title="韩篮甲",韩篮甲 | 水原KT音速弹 vs 高阳索诺天枪 | 14-14 | 直播10 | 直播10
+https://hello.ooo0ooo.top/live/3933642.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v52.jpg?v=1789454340185" group-title="韩篮甲",韩篮甲 | 水原KT音速弹 vs 高阳索诺天枪 | 14-14 | 直播10 | 原声6
+https://pul-tenm.gkykp.com/live/sd-2-3933642.m3u8?txSecret=9d34d6412ef00a70c20a1a1802e95463&txTime=6AC9C998
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v61.jpg?v=1789454340185" group-title="韩K3联",韩K3联 | 杨平 vs 蔚山市民 | 0-0 | 直播3 | 直播3
 https://hello.ooo0ooo.top/live/4495498.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v61.jpg?v=1789454340185" group-title="韩K3联",韩K3联 | 杨平 vs 蔚山市民 | 0-0 | 直播3 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4495498.m3u8?txSecret=0707a3265244f5723a4304698c806d21&txTime=6AC9C5D8
+https://pul-tenm.gkykp.com/live/sd-1-4495498.m3u8?txSecret=2f55da60a680c1736b4b3ae46b9395f1&txTime=6AC9C998
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v26.jpg?v=1789454340185" group-title="韩K联",韩K联 | 大田市民 vs 全北现代 | 0-0 | 直播1 | 直播1
+https://hello.ooo0ooo.top/live/4480473.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v26.jpg?v=1789454340185" group-title="韩K联",韩K联 | 大田市民 vs 全北现代 | 0-0 | 直播1 | 原声1
+https://pul-tenm.gkykp.com/live/sd-1-4480473.m3u8?txSecret=b0e0536096f8cae98ea0dc52d5882e34&txTime=6AC9C998
