@@ -1,31 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v64.jpg?v=1789454340185" group-title="日篮B1",日篮B1 | 横滨海盗 vs 千叶喷射机 | 95-96 | 直播8 | 直播8
-https://hello.ooo0ooo.top/live/3934077.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v64.jpg?v=1789454340185" group-title="日篮B1",日篮B1 | 横滨海盗 vs 千叶喷射机 | 95-96 | 直播8 | 原声5
-https://pul-tenm.gkykp.com/live/sd-2-3934077.m3u8?txSecret=0590aa43aec46da7138d9d825af00ad4&txTime=6ACDEB90
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v46.jpg?v=1789454340185" group-title="日篮B1",日篮B1 | 长崎维尔卡 vs 神户鹳鸟 | 85-69 | 直播9 | 直播9
-https://hello.ooo0ooo.top/live/3935090.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v46.jpg?v=1789454340185" group-title="日篮B1",日篮B1 | 长崎维尔卡 vs 神户鹳鸟 | 85-69 | 直播9 | 原声6
-https://pul-tenm.gkykp.com/live/sd-2-3935090.m3u8?txSecret=6c9afb33bd2bc47f46bb93b2275411dc&txTime=6ACDE6E0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v31.jpg?v=1789454340185" group-title="中乙",中乙 | 大连可为 vs 杭州临平吴越 | 0-0 | 直播2 | 直播2
-https://hello.ooo0ooo.top/live/4640172.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v31.jpg?v=1789454340185" group-title="中乙",中乙 | 大连可为 vs 杭州临平吴越 | 0-0 | 直播2 | 原声4
-https://pul-tenm.gkykp.com/live/sd-1-4640172.m3u8?txSecret=8e77bbac0182dd319f66f553e645f2b8&txTime=6ACDEB90
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v77.jpg?v=1789454340185" group-title="中乙",中乙 | 广州蒲公英 vs 上海赛更达 | 2-0 | 直播3 | 直播3
-https://hello.ooo0ooo.top/live/4640206.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v77.jpg?v=1789454340185" group-title="中乙",中乙 | 广州蒲公英 vs 上海赛更达 | 2-0 | 直播3 | 原声9
-https://pul-tenm.gkykp.com/live/sd-1-4640206.m3u8?txSecret=5d56e4210d1be7cb4643e03066d5cf3a&txTime=6ACDEB90
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/13-v60.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 芬兰女足U19 vs 比利时女足U19 | 0-0 | 直播13 | 直播13
-https://hello.ooo0ooo.top/live/4657069.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/13-v60.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 芬兰女足U19 vs 比利时女足U19 | 0-0 | 直播13 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4657069.m3u8?txSecret=5bb2c45cf98b309fb35cbbe208951b62&txTime=6ACDEB90
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/12-v61.jpg?v=1789454340185" group-title="印班超",印班超 | 帕里克玛 vs 马德拉斯工兵 | 0-2 | 直播12 | 直播12
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v42.jpg?v=1789454340185" group-title="中乙",中乙 | 山西崇德荣海 vs 江西庐山 | 2-1 | 直播1 | 直播1
+https://hello.ooo0ooo.top/live/4640171.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v42.jpg?v=1789454340185" group-title="中乙",中乙 | 山西崇德荣海 vs 江西庐山 | 2-1 | 直播1 | 原声8
+https://pul-tenm.gkykp.com/live/sd-1-4640171.m3u8?txSecret=fdb7add083e5b52df46948ee43431a87&txTime=6ACDEED8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/12-v61.jpg?v=1789454340185" group-title="印班超",印班超 | 帕里克玛 vs 马德拉斯工兵 | 1-2 | 直播12 | 直播12
 https://hello.ooo0ooo.top/live/4656887.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v77.jpg?v=1789454340185" group-title="中乙",中乙 | 广州蒲公英 vs 上海赛更达 | 2-1 | 直播3 | 直播3
+https://hello.ooo0ooo.top/live/4640206.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v77.jpg?v=1789454340185" group-title="中乙",中乙 | 广州蒲公英 vs 上海赛更达 | 2-1 | 直播3 | 原声9
+https://pul-tenm.gkykp.com/live/sd-1-4640206.m3u8?txSecret=b8eb44f444632f9d27390f3c21e8b03e&txTime=6ACDEED8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v31.jpg?v=1789454340185" group-title="中乙",中乙 | 大连可为 vs 杭州临平吴越 | 0-1 | 直播2 | 直播2
+https://hello.ooo0ooo.top/live/4640172.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v31.jpg?v=1789454340185" group-title="中乙",中乙 | 大连可为 vs 杭州临平吴越 | 0-1 | 直播2 | 原声4
+https://pul-tenm.gkykp.com/live/sd-1-4640172.m3u8?txSecret=e50aeba7ad2959e8c915b38e5772b2fa&txTime=6ACDEED8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v67.jpg?v=1789454340185" group-title="越女联",越女联 | 胡志明市B队女足 vs 越南煤矿女足 | 1-2 | 直播10 | 直播10
 https://hello.ooo0ooo.top/live/4552817.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v67.jpg?v=1789454340185" group-title="越女联",越女联 | 胡志明市B队女足 vs 越南煤矿女足 | 1-2 | 直播10 | 原声10
-https://pul-tenm.gkykp.com/live/sd-1-4552817.m3u8?txSecret=32f6c0f255ca7f54a580b1a8bf6128f8&txTime=6ACDE410
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v42.jpg?v=1789454340185" group-title="中乙",中乙 | 山西崇德荣海 vs 江西庐山 | 1-1 | 直播1 | 直播1
-https://hello.ooo0ooo.top/live/4640171.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v42.jpg?v=1789454340185" group-title="中乙",中乙 | 山西崇德荣海 vs 江西庐山 | 1-1 | 直播1 | 原声8
-https://pul-tenm.gkykp.com/live/sd-1-4640171.m3u8?txSecret=e8f943abca0e6fcbf7db901eeb9b5fc5&txTime=6ACDEB90
+https://pul-tenm.gkykp.com/live/sd-1-4552817.m3u8?txSecret=58bea4fbfa9b9e29b8844df84e6bafe8&txTime=6ACDEF50
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/13-v60.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 芬兰女足U19 vs 比利时女足U19 | 0-0 | 直播13 | 直播13
+https://hello.ooo0ooo.top/live/4657069.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/13-v60.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 芬兰女足U19 vs 比利时女足U19 | 0-0 | 直播13 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4657069.m3u8?txSecret=b0aeace62629e02abee5c4eb5f98221d&txTime=6ACDEF50
