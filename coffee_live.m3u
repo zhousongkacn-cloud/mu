@@ -1,25 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/405-v8310.jpg?v=1789454340185" group-title="NBA",NBA | 爵士 vs 马刺 | 111-90 | 中文解说1 | 中文解说1
-https://live01-cn-ali.xdbrk.com/live/98010515_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/405-v8310.jpg?v=1789454340185" group-title="NBA",NBA | 爵士 vs 马刺 | 111-90 | 中文解说1 | 直播12
-https://hello.ooo0ooo.top/live/3925715.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/405-v8310.jpg?v=1789454340185" group-title="NBA",NBA | 爵士 vs 马刺 | 111-90 | 中文解说1 | 原声1
-https://pul-tenm.gkykp.com/live/hd-en-2-3925715.m3u8?txSecret=e5f2fc0002a386ffe67537d71935b183&txTime=6ACEF378
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v68.jpg?v=1789454340185" group-title="墨联",墨联 | 金人 vs 淘金者 | 46-46 | 直播8 | 直播8
-https://hello.ooo0ooo.top/live/3946473.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v68.jpg?v=1789454340185" group-title="墨联",墨联 | 金人 vs 淘金者 | 46-46 | 直播8 | 原声2
-https://pul-tenm.gkykp.com/live/sd-2-3946473.m3u8?txSecret=553149bc5d05c6c3a3b09fe25e602a04&txTime=6ACEE5E0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v73.jpg?v=1789454340185" group-title="墨联",墨联 | 蜜蜂 vs 圣徒 | 52-51 | 直播5 | 直播5
-https://hello.ooo0ooo.top/live/3946477.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v73.jpg?v=1789454340185" group-title="墨联",墨联 | 蜜蜂 vs 圣徒 | 52-51 | 直播5 | 原声7
-https://pul-tenm.gkykp.com/live/sd-2-3946477.m3u8?txSecret=b02c8996228f400bd656dd94d5e50682&txTime=6ACEF378
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v46.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 萨尔瓦多女足 vs 巴拉圭女足 | 2-1 | 直播1 | 直播1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v46.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 萨尔瓦多女足 vs 巴拉圭女足 | 2-2 | 直播1 | 直播1
 https://hello.ooo0ooo.top/live/4657087.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v46.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 萨尔瓦多女足 vs 巴拉圭女足 | 2-1 | 直播1 | 原声3
-https://pul-tenm.gkykp.com/live/sd-1-4657087.m3u8?txSecret=7496b35abde43a103ef8ef54497696fe&txTime=6ACEF378
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/13-v64.jpg?v=1789454340185" group-title="墨联",墨联 | 矿工 vs 红魔鬼 | 51-49 | 直播13 | 直播13
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v46.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 萨尔瓦多女足 vs 巴拉圭女足 | 2-2 | 直播1 | 原声3
+https://pul-tenm.gkykp.com/live/sd-1-4657087.m3u8?txSecret=c2fb008f5c19c68afc763b3787cf1864&txTime=6ACEF6C0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v68.jpg?v=1789454340185" group-title="墨联",墨联 | 金人 vs 淘金者 | 46-52 | 直播8 | 直播8
+https://hello.ooo0ooo.top/live/3946473.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v68.jpg?v=1789454340185" group-title="墨联",墨联 | 金人 vs 淘金者 | 46-52 | 直播8 | 原声2
+https://pul-tenm.gkykp.com/live/sd-2-3946473.m3u8?txSecret=553149bc5d05c6c3a3b09fe25e602a04&txTime=6ACEE5E0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/13-v64.jpg?v=1789454340185" group-title="墨联",墨联 | 矿工 vs 红魔鬼 | 62-56 | 直播13 | 直播13
 https://hello.ooo0ooo.top/live/3946479.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/13-v64.jpg?v=1789454340185" group-title="墨联",墨联 | 矿工 vs 红魔鬼 | 51-49 | 直播13 | 原声8
-https://pul-tenm.gkykp.com/live/sd-2-3946479.m3u8?txSecret=749606248fbee0f61445dc225b83fcff&txTime=6ACEF378
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/208-v104.jpg?v=1789454340185" group-title="墨联",墨联 | 野狼 vs 草莓种植者 | 37-46 | 原声4 | 原声4
-https://pul-tenm.gkykp.com/live/sd-2-3946475.m3u8?txSecret=99dfd5de77e5009af679f28a72b92dd2&txTime=6ACEF378
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/13-v64.jpg?v=1789454340185" group-title="墨联",墨联 | 矿工 vs 红魔鬼 | 62-56 | 直播13 | 原声8
+https://pul-tenm.gkykp.com/live/sd-2-3946479.m3u8?txSecret=7427b89149c52df944b7093004a16054&txTime=6ACEF6C0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v73.jpg?v=1789454340185" group-title="墨联",墨联 | 蜜蜂 vs 圣徒 | 57-61 | 直播5 | 直播5
+https://hello.ooo0ooo.top/live/3946477.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v73.jpg?v=1789454340185" group-title="墨联",墨联 | 蜜蜂 vs 圣徒 | 57-61 | 直播5 | 原声7
+https://pul-tenm.gkykp.com/live/sd-2-3946477.m3u8?txSecret=083ca9d49e00f4a5974170ff22a284c6&txTime=6ACEF6C0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/208-v104.jpg?v=1789454340185" group-title="墨联",墨联 | 野狼 vs 草莓种植者 | 52-54 | 原声4 | 原声4
+https://pul-tenm.gkykp.com/live/sd-2-3946475.m3u8?txSecret=d6a4052c637aaff69c82168a07add1f2&txTime=6ACEF6C0
