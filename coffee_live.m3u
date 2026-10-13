@@ -1,9 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_409_v8302.jpg?v=1789454340185" group-title="NBA",NBA | 魔术 vs 骑士 | 0-0 | 中文解说5 | 中文解说5
+https://live01-cn-ali.xdbrk.com/live/64023610_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v77.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 委内瑞拉女足 vs 哥伦比亚女足 | 0-2 | 直播5 | 直播5
 https://hello.ooo0ooo.top/live/4657724.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v77.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 委内瑞拉女足 vs 哥伦比亚女足 | 0-2 | 直播5 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4657724.m3u8?txSecret=1e0f656895fec44725bf038c9c9c1000&txTime=6AD001F0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v84.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 巴西竞技 vs 隆德里纳 | 0-0 | 直播3 | 直播3
+https://pul-tenm.gkykp.com/live/sd-1-4657724.m3u8?txSecret=07b313863bac8cb9b03350f110bf71a4&txTime=6AD005B0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v84.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 巴西竞技 vs 隆德里纳 | 0-1 | 直播3 | 直播3
 https://hello.ooo0ooo.top/live/4494756.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v84.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 巴西竞技 vs 隆德里纳 | 0-0 | 直播3 | 原声4
-https://pul-tenm.gkykp.com/live/sd-1-4494756.m3u8?txSecret=ed18c9c8aff2120cb30ef2868338e65f&txTime=6AD001F0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v84.jpg?v=1789454340185" group-title="巴西乙",巴西乙 | 巴西竞技 vs 隆德里纳 | 0-1 | 直播3 | 原声4
+https://pul-tenm.gkykp.com/live/sd-1-4494756.m3u8?txSecret=9ab490a965d64fb196bc0a2d1f841581&txTime=6AD005B0
