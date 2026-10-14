@@ -1,35 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_409_v8302.jpg?v=1789454340185" group-title="NBA",NBA | 魔术 vs 骑士 | 108-83 | 中文解说5 | 中文解说5
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/409-v8302.jpg?v=1789454340185" group-title="NBA",NBA | 魔术 vs 骑士 | 121-103 | 中文解说5 | 中文解说5
 https://live01-cn-ali.xdbrk.com/live/64023610_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_409_v8302.jpg?v=1789454340185" group-title="NBA",NBA | 魔术 vs 骑士 | 108-83 | 中文解说5 | 直播9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/409-v8302.jpg?v=1789454340185" group-title="NBA",NBA | 魔术 vs 骑士 | 121-103 | 中文解说5 | 直播9
 https://hello.ooo0ooo.top/live/3925703.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_409_v8302.jpg?v=1789454340185" group-title="NBA",NBA | 魔术 vs 骑士 | 108-83 | 中文解说5 | 原声5
-https://pul-tenm.gkykp.com/live/hd-en-2-3925703.m3u8?txSecret=2c5930feb95d17e4daa9aa32dea23c3a&txTime=6AD02518
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v75.jpg?v=1789454340185" group-title="NBA",NBA | 雷霆 vs 步行者 | 41-52 | 直播10 | 直播10
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/409-v8302.jpg?v=1789454340185" group-title="NBA",NBA | 魔术 vs 骑士 | 121-103 | 中文解说5 | 原声5
+https://pul-tenm.gkykp.com/live/hd-en-2-3925703.m3u8?txSecret=45564f5de9fab2a34e21e43d572ad3c8&txTime=6AD028D8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v75.jpg?v=1789454340185" group-title="NBA",NBA | 雷霆 vs 步行者 | 59-61 | 直播10 | 直播10
 https://hello.ooo0ooo.top/live/3931446.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v75.jpg?v=1789454340185" group-title="NBA",NBA | 雷霆 vs 步行者 | 41-52 | 直播10 | 原声8
-https://pul-tenm.gkykp.com/live/hd-en-2-3931446.m3u8?txSecret=f8eee89b7f9b3215f7dca98d40d29078&txTime=6AD02518
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v72.jpg?v=1789454340185" group-title="NBA",NBA | 猛龙 vs 尼克斯 | 115-78 | 直播8 | 直播8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v75.jpg?v=1789454340185" group-title="NBA",NBA | 雷霆 vs 步行者 | 59-61 | 直播10 | 原声8
+https://pul-tenm.gkykp.com/live/hd-en-2-3931446.m3u8?txSecret=9886a25c7a4a3167933a98be80b1f29a&txTime=6AD028D8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v72.jpg?v=1789454340185" group-title="NBA",NBA | 猛龙 vs 尼克斯 | 126-81 | 直播8 | 直播8
 https://hello.ooo0ooo.top/live/3931453.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v72.jpg?v=1789454340185" group-title="NBA",NBA | 猛龙 vs 尼克斯 | 115-78 | 直播8 | 原声6
-https://pul-tenm.gkykp.com/live/hd-en-2-3931453.m3u8?txSecret=eeaf080ca631205f3c571ddb06b61c5d&txTime=6AD02518
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v42.jpg?v=1789454340185" group-title="南球杯",南球杯 | 博卡青年 vs 瓦斯科达伽马 | 0-1 | 直播4 | 直播4
-https://hello.ooo0ooo.top/live/4646721.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v42.jpg?v=1789454340185" group-title="南球杯",南球杯 | 博卡青年 vs 瓦斯科达伽马 | 0-1 | 直播4 | 原声10
-https://pul-tenm.gkykp.com/live/sd-1-4646721.m3u8?txSecret=710b1afb25ca0a9b28e1f33d17585292&txTime=6AD02518
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/13-v68.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 美国女足 vs 西班牙女足 | 2-2 | 直播13 | 直播13
-https://hello.ooo0ooo.top/live/4657725.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/13-v68.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 美国女足 vs 西班牙女足 | 2-2 | 直播13 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4657725.m3u8?txSecret=e23b7394a1d6428bca47c728ac92e88b&txTime=6AD02518
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v69.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 巴西女足 vs 阿根廷女足 | 2-2 | 直播14 | 直播14
-https://hello.ooo0ooo.top/live/4657726.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v69.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 巴西女足 vs 阿根廷女足 | 2-2 | 直播14 | 原声9
-https://pul-tenm.gkykp.com/live/sd-1-4657726.m3u8?txSecret=0117e9a9ce8f97c98a48ba0ea58f2ea4&txTime=6AD02518
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v72.jpg?v=1789454340185" group-title="NBA",NBA | 猛龙 vs 尼克斯 | 126-81 | 直播8 | 原声6
+https://pul-tenm.gkykp.com/live/hd-en-2-3931453.m3u8?txSecret=12ab0dfeab93de894a166b22fe2bfdbe&txTime=6AD028D8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v58.jpg?v=1789454340185" group-title="哥伦甲",哥伦甲 | 布卡拉曼加 vs 里奥内格罗老鹰 | 1-0 | 直播6 | 直播6
 https://hello.ooo0ooo.top/live/4569257.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v58.jpg?v=1789454340185" group-title="哥伦甲",哥伦甲 | 布卡拉曼加 vs 里奥内格罗老鹰 | 1-0 | 直播6 | 原声3
-https://pul-tenm.gkykp.com/live/sd-1-4569257.m3u8?txSecret=551fadb0b7bb537314c6e658da6ef35f&txTime=6AD02518
+https://pul-tenm.gkykp.com/live/sd-1-4569257.m3u8?txSecret=2a06809e83f091d686bb0beaa8ae7308&txTime=6AD028D8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v42.jpg?v=1789454340185" group-title="南球杯",南球杯 | 博卡青年 vs 瓦斯科达伽马 | 0-1 | 直播4 | 直播4
+https://hello.ooo0ooo.top/live/4646721.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v42.jpg?v=1789454340185" group-title="南球杯",南球杯 | 博卡青年 vs 瓦斯科达伽马 | 0-1 | 直播4 | 原声10
+https://pul-tenm.gkykp.com/live/sd-1-4646721.m3u8?txSecret=99e3b0f5c852079c5b536c6ff10e0f3b&txTime=6AD028D8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v40.jpg?v=1789454340185" group-title="哥斯甲",哥斯甲 | 肯塔吉内斯 vs 蓬塔雷纳斯 | 1-1 | 直播2 | 直播2
 https://hello.ooo0ooo.top/live/4553999.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v40.jpg?v=1789454340185" group-title="哥斯甲",哥斯甲 | 肯塔吉内斯 vs 蓬塔雷纳斯 | 1-1 | 直播2 | 原声7
-https://pul-tenm.gkykp.com/live/sd-1-4553999.m3u8?txSecret=5b51381905e3ebf51c24864c24b0d1aa&txTime=6AD02518
+https://pul-tenm.gkykp.com/live/sd-1-4553999.m3u8?txSecret=456c51600a18892078031d606b367fba&txTime=6AD028D8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v69.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 巴西女足 vs 阿根廷女足 | 2-2 | 直播14 | 直播14
+https://hello.ooo0ooo.top/live/4657726.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v69.jpg?v=1789454340185" group-title="国际友谊",国际友谊 | 巴西女足 vs 阿根廷女足 | 2-2 | 直播14 | 原声9
+https://pul-tenm.gkykp.com/live/sd-1-4657726.m3u8?txSecret=9cf7e03db8b33109ecf4e2dfe466bac4&txTime=6AD028D8
