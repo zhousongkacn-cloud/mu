@@ -1,43 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v86.jpg?v=1789454340185" group-title="亚冠二级",亚冠二级 | 墨尔本胜利 vs FC首尔 | 3-0 | 直播3 | 直播3
-https://hello.ooo0ooo.top/live/4621352.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v86.jpg?v=1789454340185" group-title="亚冠二级",亚冠二级 | 墨尔本胜利 vs FC首尔 | 3-0 | 直播3 | 原声3
-https://pul-tenm.gkykp.com/live/hd-en-1-4621352.m3u8?txSecret=7725380a2380b995842618bb629545e7&txTime=6AD09D18
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v60.jpg?v=1789454340185" group-title="日联杯",日联杯 | 横滨FC vs 浦和红钻 | 0-0 | 直播6 | 直播6
-https://hello.ooo0ooo.top/live/4651926.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v60.jpg?v=1789454340185" group-title="日联杯",日联杯 | 横滨FC vs 浦和红钻 | 0-0 | 直播6 | 原声11
-https://pul-tenm.gkykp.com/live/sd-1-4651926.m3u8?txSecret=9add2a8307e32faa4fe513c830e50a74&txTime=6AD09D18
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/12-v70.jpg?v=1789454340185" group-title="澳NBL",澳NBL | 悉尼国王 vs 新西兰破坏者 | 61-51 | 直播12 | 直播12
-https://hello.ooo0ooo.top/live/3925994.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/12-v70.jpg?v=1789454340185" group-title="澳NBL",澳NBL | 悉尼国王 vs 新西兰破坏者 | 61-51 | 直播12 | 原声2
-https://pul-tenm.gkykp.com/live/hd-en-2-3925994.m3u8?txSecret=dda153f17317fc50f48a910bd82de09b&txTime=6AD09D18
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/29-v36.jpg?v=1789454340185" group-title="菲州长杯",菲州长杯 | 泰丰吉普 vs 生力啤 | 24-28 | 直播29 | 直播29
-https://hello.ooo0ooo.top/live/3925312.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/29-v36.jpg?v=1789454340185" group-title="菲州长杯",菲州长杯 | 泰丰吉普 vs 生力啤 | 24-28 | 直播29 | 原声10
-https://pul-tenm.gkykp.com/live/hd-en-2-3925312.m3u8?txSecret=c349243360f3c6ee42b5011ad563e4df&txTime=6AD09D18
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v52.jpg?v=1789454340185" group-title="中U21",中U21 | 上海海港U20 vs 湖北青年星U20 | 2-2 | 直播1 | 直播1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v52.jpg?v=1789454340185" group-title="中U21",中U21 | 上海海港U20 vs 湖北青年星U20 | 2-3 | 直播1 | 直播1
 https://hello.ooo0ooo.top/live/4640414.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v52.jpg?v=1789454340185" group-title="中U21",中U21 | 上海海港U20 vs 湖北青年星U20 | 2-2 | 直播1 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4640414.m3u8?txSecret=9cbd2e231e2c9358214755a7eb50d07c&txTime=6AD09D18
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/26-v45.jpg?v=1789454340185" group-title="柬杯",柬杯 | 坎达尔省 vs 西哈努克 | 1-0 | 直播26 | 直播26
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v52.jpg?v=1789454340185" group-title="中U21",中U21 | 上海海港U20 vs 湖北青年星U20 | 2-3 | 直播1 | 原声1
+https://pul-tenm.gkykp.com/live/sd-1-4640414.m3u8?txSecret=4c38c32eb2ca6f09d8dfd39fb3421e96&txTime=6AD0A060
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v60.jpg?v=1789454340185" group-title="日联杯",日联杯 | 横滨FC vs 浦和红钻 | 0-1 | 直播6 | 直播6
+https://hello.ooo0ooo.top/live/4651926.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v60.jpg?v=1789454340185" group-title="日联杯",日联杯 | 横滨FC vs 浦和红钻 | 0-1 | 直播6 | 原声11
+https://pul-tenm.gkykp.com/live/sd-1-4651926.m3u8?txSecret=abc0cf080e18c1c140d1bae89dad2bad&txTime=6AD0A060
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/26-v45.jpg?v=1789454340185" group-title="柬杯",柬杯 | 坎达尔省 vs 西哈努克 | 1-1 | 直播26 | 直播26
 https://hello.ooo0ooo.top/live/4657746.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/26-v45.jpg?v=1789454340185" group-title="柬杯",柬杯 | 坎达尔省 vs 西哈努克 | 1-0 | 直播26 | 原声6
-https://pul-tenm.gkykp.com/live/sd-1-4657746.m3u8?txSecret=9bf15f2cea21dda5edb90b2f48e91e7b&txTime=6AD09D18
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/30-v39.jpg?v=1789454340185" group-title="VTB",VTB | 海参崴迪纳摩 vs 莫斯科中央陆军 | 0-0 | 直播30 | 直播30
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/26-v45.jpg?v=1789454340185" group-title="柬杯",柬杯 | 坎达尔省 vs 西哈努克 | 1-1 | 直播26 | 原声6
+https://pul-tenm.gkykp.com/live/sd-1-4657746.m3u8?txSecret=84c4fd20e9f268dd8b2644c71cf13eef&txTime=6AD0A060
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/30-v39.jpg?v=1789454340185" group-title="VTB",VTB | 海参崴迪纳摩 vs 莫斯科中央陆军 | 5-15 | 直播30 | 直播30
 https://hello.ooo0ooo.top/live/3936486.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/30-v39.jpg?v=1789454340185" group-title="VTB",VTB | 海参崴迪纳摩 vs 莫斯科中央陆军 | 0-0 | 直播30 | 原声12
-https://pul-tenm.gkykp.com/live/sd-2-3936486.m3u8?txSecret=4eaa46952e968de6e546abd5d042f2c9&txTime=6AD09D18
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/23-v51.jpg?v=1789454340185" group-title="印班超",印班超 | 班加罗尔城 vs 阿格尼普拉 | 2-0 | 直播23 | 直播23
-https://hello.ooo0ooo.top/live/4658014.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/23-v51.jpg?v=1789454340185" group-title="印班超",印班超 | 班加罗尔城 vs 阿格尼普拉 | 2-0 | 直播23 | 原声5
-https://pul-tenm.gkykp.com/live/sd-1-4658014.m3u8?txSecret=a88c52155021727088a0e5530d0c5c17&txTime=6AD09D18
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/30-v39.jpg?v=1789454340185" group-title="VTB",VTB | 海参崴迪纳摩 vs 莫斯科中央陆军 | 5-15 | 直播30 | 原声12
+https://pul-tenm.gkykp.com/live/sd-2-3936486.m3u8?txSecret=953da19b0775a2bc0e9f146972198b4d&txTime=6AD0A060
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/12-v70.jpg?v=1789454340185" group-title="澳NBL",澳NBL | 悉尼国王 vs 新西兰破坏者 | 67-61 | 直播12 | 直播12
+https://hello.ooo0ooo.top/live/3925994.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/12-v70.jpg?v=1789454340185" group-title="澳NBL",澳NBL | 悉尼国王 vs 新西兰破坏者 | 67-61 | 直播12 | 原声2
+https://pul-tenm.gkykp.com/live/hd-en-2-3925994.m3u8?txSecret=efc70c4b9bd5616a838f415210091753&txTime=6AD0A060
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v43.jpg?v=1789454340185" group-title="蒙古超",蒙古超 | 乌兰巴托FC vs 科布多西部 | 6-0 | 直播4 | 直播4
 https://hello.ooo0ooo.top/live/4644112.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/28-v43.jpg?v=1789454340185" group-title="柬杯",柬杯 | 磅士卑省 vs 特本克蒙 | 0-6 | 直播28 | 直播28
-https://hello.ooo0ooo.top/live/4658322.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/28-v43.jpg?v=1789454340185" group-title="柬杯",柬杯 | 磅士卑省 vs 特本克蒙 | 0-6 | 直播28 | 原声7
-https://pul-tenm.gkykp.com/live/sd-1-4658322.m3u8?txSecret=8e97202611b24411e337a011feca3818&txTime=6AD09D18
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/27-v47.jpg?v=1789454340185" group-title="俄杯",俄杯 | SKA哈巴罗夫斯克 vs 基洛夫迪纳摩 | 1-0 | 直播27 | 直播27
 https://hello.ooo0ooo.top/live/4645754.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/27-v47.jpg?v=1789454340185" group-title="俄杯",俄杯 | SKA哈巴罗夫斯克 vs 基洛夫迪纳摩 | 1-0 | 直播27 | 原声8
-https://pul-tenm.gkykp.com/live/sd-1-4645754.m3u8?txSecret=61efb8ef963ff449fbb6fe96415be026&txTime=6AD092C8
+https://pul-tenm.gkykp.com/live/sd-1-4645754.m3u8?txSecret=e47ebc5e1afbb71b59b10ae471174c0f&txTime=6AD0A060
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/29-v36.jpg?v=1789454340185" group-title="菲州长杯",菲州长杯 | 泰丰吉普 vs 生力啤 | 35-35 | 直播29 | 直播29
+https://hello.ooo0ooo.top/live/3925312.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/29-v36.jpg?v=1789454340185" group-title="菲州长杯",菲州长杯 | 泰丰吉普 vs 生力啤 | 35-35 | 直播29 | 原声10
+https://pul-tenm.gkykp.com/live/hd-en-2-3925312.m3u8?txSecret=232f4fc4509a3408c68f92d1836bbcb9&txTime=6AD0A060
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/28-v43.jpg?v=1789454340185" group-title="柬杯",柬杯 | 磅士卑省 vs 特本克蒙 | 1-6 | 直播28 | 直播28
+https://hello.ooo0ooo.top/live/4658322.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/28-v43.jpg?v=1789454340185" group-title="柬杯",柬杯 | 磅士卑省 vs 特本克蒙 | 1-6 | 直播28 | 原声7
+https://pul-tenm.gkykp.com/live/sd-1-4658322.m3u8?txSecret=e1529e9b755cb047c0013d784c71c050&txTime=6AD0A060
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/23-v51.jpg?v=1789454340185" group-title="印班超",印班超 | 班加罗尔城 vs 阿格尼普拉 | 2-0 | 直播23 | 直播23
+https://hello.ooo0ooo.top/live/4658014.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/23-v51.jpg?v=1789454340185" group-title="印班超",印班超 | 班加罗尔城 vs 阿格尼普拉 | 2-0 | 直播23 | 原声5
+https://pul-tenm.gkykp.com/live/sd-1-4658014.m3u8?txSecret=8be20d6fb1b01442251680b5cafadd7b&txTime=6AD0A060
