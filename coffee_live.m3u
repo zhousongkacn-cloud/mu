@@ -1,19 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_430_v8246.jpg?v=1789454340185" group-title="NBA",NBA | 快船 vs 掘金 | 81-69 | 中文解说26 | 中文解说26
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_430_v8246.jpg?v=1789454340185" group-title="NBA",NBA | 快船 vs 掘金 | 96-81 | 中文解说26 | 中文解说26
 https://live01-cn-ali.xdbrk.com/live/54289894_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_430_v8246.jpg?v=1789454340185" group-title="NBA",NBA | 快船 vs 掘金 | 81-69 | 中文解说26 | 直播27
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_430_v8246.jpg?v=1789454340185" group-title="NBA",NBA | 快船 vs 掘金 | 96-81 | 中文解说26 | 直播27
 https://hello.ooo0ooo.top/live/3944624.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_430_v8246.jpg?v=1789454340185" group-title="NBA",NBA | 快船 vs 掘金 | 81-69 | 中文解说26 | 原声26
-https://pul-tenm.gkykp.com/live/hd-en-2-3944624.m3u8?txSecret=828b2f8bbe61a53dd3304b3ddfd72f64&txTime=6AD1A488
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_430_v8246.jpg?v=1789454340185" group-title="NBA",NBA | 快船 vs 掘金 | 96-81 | 中文解说26 | 原声26
+https://pul-tenm.gkykp.com/live/hd-en-2-3944624.m3u8?txSecret=c4f1834afb448acdfea68ac398e39354&txTime=6AD1A7D0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/20-v52.jpg?v=1789454340185" group-title="美职业",美职业 | 洛杉矶银河 vs 波特兰伐木工 | 2-0 | 直播20 | 直播20
+https://hello.ooo0ooo.top/live/4460453.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/20-v52.jpg?v=1789454340185" group-title="美职业",美职业 | 洛杉矶银河 vs 波特兰伐木工 | 2-0 | 直播20 | 原声2
+https://pul-tenm.gkykp.com/live/hd-en-1-4460453.m3u8?txSecret=25ff103d3a84bef34487ff21d13e8faf&txTime=6AD1A848
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v83.jpg?v=1789454340185" group-title="美职业",美职业 | 洛杉矶FC vs 奥斯汀FC | 3-1 | 直播5 | 直播5
 https://hello.ooo0ooo.top/live/4460454.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v83.jpg?v=1789454340185" group-title="美职业",美职业 | 洛杉矶FC vs 奥斯汀FC | 3-1 | 直播5 | 原声7
-https://pul-tenm.gkykp.com/live/hd-en-1-4460454.m3u8?txSecret=f061862b08eeb0f927e6adb6f11d7811&txTime=6AD1A488
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/20-v52.jpg?v=1789454340185" group-title="美职业",美职业 | 洛杉矶银河 vs 波特兰伐木工 | 1-0 | 直播20 | 直播20
-https://hello.ooo0ooo.top/live/4460453.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/20-v52.jpg?v=1789454340185" group-title="美职业",美职业 | 洛杉矶银河 vs 波特兰伐木工 | 1-0 | 直播20 | 原声2
-https://pul-tenm.gkykp.com/live/hd-en-1-4460453.m3u8?txSecret=30cbd920785d19940c624654c9de5497&txTime=6AD1A488
+https://pul-tenm.gkykp.com/live/hd-en-1-4460454.m3u8?txSecret=ef134bdc2512ee9e4263e73c2e05d708&txTime=6AD1A848
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/19-v52.jpg?v=1789454340185" group-title="美职业",美职业 | 圣地亚哥FC vs 休斯敦迪纳摩 | 2-3 | 直播19 | 直播19
 https://hello.ooo0ooo.top/live/4460455.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/19-v52.jpg?v=1789454340185" group-title="美职业",美职业 | 圣地亚哥FC vs 休斯敦迪纳摩 | 2-3 | 直播19 | 原声25
-https://pul-tenm.gkykp.com/live/hd-en-1-4460455.m3u8?txSecret=7e0cfedc24659e4c2488220983120ab0&txTime=6AD1A488
+https://pul-tenm.gkykp.com/live/hd-en-1-4460455.m3u8?txSecret=f08638372a446fb7e154cb1d2ec476f6&txTime=6AD1A848
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/230-v48.jpg?v=1789454340185" group-title="NBA",NBA | 快船 vs 掘金 | 96-81 | 原声26 | 原声26
+https://pul-tenm.gkykp.com/live/hd-en-2-3944624.m3u8?txSecret=549435ff5628dc162a075be22e2b2fe4&txTime=6AD1A848
