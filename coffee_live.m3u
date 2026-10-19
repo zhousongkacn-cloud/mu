@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/23-v70.jpg?v=1789454340185" group-title="CBA",CBA | 北控 vs 上海 | 62-64 | 直播23 | 直播23
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/23-v70.jpg?v=1789454340185" group-title="CBA",CBA | 北控 vs 上海 | 62-66 | 直播23 | 直播23
 https://hello.ooo0ooo.top/live/3941076.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/23-v70.jpg?v=1789454340185" group-title="CBA",CBA | 北控 vs 上海 | 62-64 | 直播23 | 原声25
-https://pul-tenm.gkykp.com/live/hd-zh-2-3941076.m3u8?txSecret=5e02c4924dcd970ac868f9c82926b8c7&txTime=6AD76198
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/24-v71.jpg?v=1789454340185" group-title="CBA",CBA | 江苏 vs 深圳 | 54-42 | 直播24 | 直播24
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/23-v70.jpg?v=1789454340185" group-title="CBA",CBA | 北控 vs 上海 | 62-66 | 直播23 | 原声25
+https://pul-tenm.gkykp.com/live/hd-zh-2-3941076.m3u8?txSecret=df22ae16fb943a3084ade062de30c23a&txTime=6AD76210
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/24-v71.jpg?v=1789454340185" group-title="CBA",CBA | 江苏 vs 深圳 | 55-44 | 直播24 | 直播24
 https://hello.ooo0ooo.top/live/3941077.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/24-v71.jpg?v=1789454340185" group-title="CBA",CBA | 江苏 vs 深圳 | 54-42 | 直播24 | 原声26
-https://pul-tenm.gkykp.com/live/hd-zh-2-3941077.m3u8?txSecret=f13d5fd9f575317b8380892fafbcb425&txTime=6AD76198
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/24-v71.jpg?v=1789454340185" group-title="CBA",CBA | 江苏 vs 深圳 | 55-44 | 直播24 | 原声26
+https://pul-tenm.gkykp.com/live/hd-zh-2-3941077.m3u8?txSecret=49e9815ff01cc2c7f5a89ddb36229bfc&txTime=6AD76210
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v66.jpg?v=1789454340185" group-title="白俄超",白俄超 | 博布鲁伊斯克 vs 斯拉维亚莫兹里 | 0-0 | 直播2 | 直播2
 https://hello.ooo0ooo.top/live/4502944.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v66.jpg?v=1789454340185" group-title="白俄超",白俄超 | 博布鲁伊斯克 vs 斯拉维亚莫兹里 | 0-0 | 直播2 | 原声2
@@ -23,7 +23,3 @@ https://pul-tenm.gkykp.com/live/sd-1-4650389.m3u8?txSecret=653c4debfa886fd07cc10
 https://hello.ooo0ooo.top/live/3934517.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/22-v67.jpg?v=1789454340185" group-title="日篮B1",日篮B1 | 琉球黄金帝王 vs 滋贺湖 | 99-67 | 直播22 | 原声5
 https://pul-tenm.gkykp.com/live/sd-2-3934517.m3u8?txSecret=decebccd01227982a200363c4fee532e&txTime=6AD76210
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/229-v68.jpg?v=1789454340185" group-title="CBA",CBA | 北控 vs 上海 | 62-64 | 原声25 | 原声25
-https://pul-tenm.gkykp.com/live/hd-zh-2-3941076.m3u8?txSecret=df22ae16fb943a3084ade062de30c23a&txTime=6AD76210
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/230-v64.jpg?v=1789454340185" group-title="CBA",CBA | 江苏 vs 深圳 | 54-42 | 原声26 | 原声26
-https://pul-tenm.gkykp.com/live/hd-zh-2-3941077.m3u8?txSecret=49e9815ff01cc2c7f5a89ddb36229bfc&txTime=6AD76210
