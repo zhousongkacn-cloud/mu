@@ -1,101 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_424_v8287.jpg?v=1789454340185" group-title="NBA",NBA | 火箭 vs 独行侠 | 72-42 | 中文解说20 | 中文解说20
-https://live01-cn-ali.xdbrk.com/live/89572456_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_424_v8287.jpg?v=1789454340185" group-title="NBA",NBA | 火箭 vs 独行侠 | 72-42 | 中文解说20 | 直播21
-https://hello.ooo0ooo.top/live/3931533.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_424_v8287.jpg?v=1789454340185" group-title="NBA",NBA | 火箭 vs 独行侠 | 72-42 | 中文解说20 | 原声20
-https://pul-tenm.gkykp.com/live/hd-en-2-3931533.m3u8?txSecret=85059bd1537740a87ac0c788a5ac0728&txTime=6ADABF28
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_416_v8321.jpg?v=1789454340185" group-title="NBA",NBA | 热火 vs 森林狼 | 90-114 | 中文解说12 | 中文解说12
-https://live01-cn-ali.xdbrk.com/live/31792883_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_416_v8321.jpg?v=1789454340185" group-title="NBA",NBA | 热火 vs 森林狼 | 90-114 | 中文解说12 | 直播11
-https://hello.ooo0ooo.top/live/3931238.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_416_v8321.jpg?v=1789454340185" group-title="NBA",NBA | 热火 vs 森林狼 | 90-114 | 中文解说12 | 原声12
-https://pul-tenm.gkykp.com/live/hd-en-2-3931238.m3u8?txSecret=8882d6d4c6e28d676f101a494fb9c4d2&txTime=6ADABF28
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_407_v8325.jpg?v=1789454340185" group-title="NBA",NBA | 湖人 vs 勇士 | 0-0 | 中文解说3 | 中文解说3
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/407-v8325.jpg?v=1789454340185" group-title="NBA",NBA | 湖人 vs 勇士 | 0-0 | 中文解说3 | 中文解说3
 https://live01-cn-ali.xdbrk.com/live/41140648_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_407_v8325.jpg?v=1789454340185" group-title="NBA",NBA | 湖人 vs 勇士 | 0-0 | 中文解说3 | 直播22
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/407-v8325.jpg?v=1789454340185" group-title="NBA",NBA | 湖人 vs 勇士 | 0-0 | 中文解说3 | 直播22
 https://hello.ooo0ooo.top/live/3931239.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_407_v8325.jpg?v=1789454340185" group-title="NBA",NBA | 湖人 vs 勇士 | 0-0 | 中文解说3 | 原声3
-https://pul-tenm.gkykp.com/live/hd-en-2-3931239.m3u8?txSecret=c27e74aa84bc409c6c456fb3b832c53d&txTime=6ADABF28
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/18-v81.jpg?v=1789454340185" group-title="NBA",NBA | 鹈鹕 vs 步行者 | 92-86 | 直播18 | 直播18
-https://hello.ooo0ooo.top/live/3931532.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/18-v81.jpg?v=1789454340185" group-title="NBA",NBA | 鹈鹕 vs 步行者 | 92-86 | 直播18 | 原声16
-https://pul-tenm.gkykp.com/live/hd-en-2-3931532.m3u8?txSecret=ea059e104ae0808e3414fa6f40131f37&txTime=6ADABF28
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/16-v95.jpg?v=1789454340185" group-title="NBA",NBA | 猛龙 vs 公牛 | 121-75 | 直播16 | 直播16
-https://hello.ooo0ooo.top/live/3931530.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/16-v95.jpg?v=1789454340185" group-title="NBA",NBA | 猛龙 vs 公牛 | 121-75 | 直播16 | 原声14
-https://pul-tenm.gkykp.com/live/hd-en-2-3931530.m3u8?txSecret=09088109b9057ad67cf8c0e9cb2762e6&txTime=6ADABF28
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/23-v76.jpg?v=1789454340185" group-title="NBA",NBA | 开拓者 vs 太阳 | 0-0 | 直播23 | 直播23
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/407-v8325.jpg?v=1789454340185" group-title="NBA",NBA | 湖人 vs 勇士 | 0-0 | 中文解说3 | 原声3
+https://pul-tenm.gkykp.com/live/hd-en-2-3931239.m3u8?txSecret=4f72a03e7352afee508ae31405b6a954&txTime=6ADAC2E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_424_v8287.jpg?v=1789454340185" group-title="NBA",NBA | 火箭 vs 独行侠 | 86-51 | 中文解说20 | 中文解说20
+https://live01-cn-ali.xdbrk.com/live/89572456_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_424_v8287.jpg?v=1789454340185" group-title="NBA",NBA | 火箭 vs 独行侠 | 86-51 | 中文解说20 | 直播21
+https://hello.ooo0ooo.top/live/3931533.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_424_v8287.jpg?v=1789454340185" group-title="NBA",NBA | 火箭 vs 独行侠 | 86-51 | 中文解说20 | 原声20
+https://pul-tenm.gkykp.com/live/hd-en-2-3931533.m3u8?txSecret=da56000aa2bbd2cca1bf1669850df0ca&txTime=6ADAC2E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_416_v8321.jpg?v=1789454340185" group-title="NBA",NBA | 热火 vs 森林狼 | 102-127 | 中文解说12 | 中文解说12
+https://live01-cn-ali.xdbrk.com/live/31792883_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_416_v8321.jpg?v=1789454340185" group-title="NBA",NBA | 热火 vs 森林狼 | 102-127 | 中文解说12 | 直播11
+https://hello.ooo0ooo.top/live/3931238.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_416_v8321.jpg?v=1789454340185" group-title="NBA",NBA | 热火 vs 森林狼 | 102-127 | 中文解说12 | 原声12
+https://pul-tenm.gkykp.com/live/hd-en-2-3931238.m3u8?txSecret=dd71f10c76bde95cb1500c9e4974fa68&txTime=6ADAC2E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_408_v8359.jpg?v=1789454340185" group-title="NBA",NBA | 开拓者 vs 太阳 | 0-0 | 中文解说4 | 中文解说4
+https://live01-cn-ali.xdbrk.com/live/32580327_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_408_v8359.jpg?v=1789454340185" group-title="NBA",NBA | 开拓者 vs 太阳 | 0-0 | 中文解说4 | 直播23
 https://hello.ooo0ooo.top/live/3931534.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/23-v76.jpg?v=1789454340185" group-title="NBA",NBA | 开拓者 vs 太阳 | 0-0 | 直播23 | 原声4
-https://pul-tenm.gkykp.com/live/hd-en-2-3931534.m3u8?txSecret=f7ab4fe06632f6123b297c69790eb783&txTime=6ADABF28
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/15-v96.jpg?v=1789454340185" group-title="NBA",NBA | 篮网 vs 黄蜂 | 92-102 | 直播15 | 直播15
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_408_v8359.jpg?v=1789454340185" group-title="NBA",NBA | 开拓者 vs 太阳 | 0-0 | 中文解说4 | 原声4
+https://pul-tenm.gkykp.com/live/hd-en-2-3931534.m3u8?txSecret=24715d5e9af51709d68a1a1bd82c695b&txTime=6ADAC2E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/18-v81.jpg?v=1789454340185" group-title="NBA",NBA | 鹈鹕 vs 步行者 | 104-104 | 直播18 | 直播18
+https://hello.ooo0ooo.top/live/3931532.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/18-v81.jpg?v=1789454340185" group-title="NBA",NBA | 鹈鹕 vs 步行者 | 104-104 | 直播18 | 原声16
+https://pul-tenm.gkykp.com/live/hd-en-2-3931532.m3u8?txSecret=82597b2c281e208a22afb659a8b694cf&txTime=6ADAC2E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/16-v95.jpg?v=1789454340185" group-title="NBA",NBA | 猛龙 vs 公牛 | 134-88 | 直播16 | 直播16
+https://hello.ooo0ooo.top/live/3931530.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/16-v95.jpg?v=1789454340185" group-title="NBA",NBA | 猛龙 vs 公牛 | 134-88 | 直播16 | 原声14
+https://pul-tenm.gkykp.com/live/hd-en-2-3931530.m3u8?txSecret=09371fa9b0f27bdce6aee6dfde090c07&txTime=6ADAC2E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/15-v96.jpg?v=1789454340185" group-title="NBA",NBA | 篮网 vs 黄蜂 | 103-110 | 直播15 | 直播15
 https://hello.ooo0ooo.top/live/3931529.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/15-v96.jpg?v=1789454340185" group-title="NBA",NBA | 篮网 vs 黄蜂 | 92-102 | 直播15 | 原声13
-https://pul-tenm.gkykp.com/live/hd-en-2-3931529.m3u8?txSecret=df084ce8a0c2690b1e159c23f8b16545&txTime=6ADABF28
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/19-v74.jpg?v=1789454340185" group-title="WNBA",WNBA | 梦想 vs 女武神 | 78-60 | 直播19 | 直播19
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/15-v96.jpg?v=1789454340185" group-title="NBA",NBA | 篮网 vs 黄蜂 | 103-110 | 直播15 | 原声13
+https://pul-tenm.gkykp.com/live/hd-en-2-3931529.m3u8?txSecret=69bdb4a3b391bd3e9f6fc0fa187cc96f&txTime=6ADAC2E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/19-v74.jpg?v=1789454340185" group-title="WNBA",WNBA | 梦想 vs 女武神 | 87-67 | 直播19 | 直播19
 https://hello.ooo0ooo.top/live/3946632.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/19-v74.jpg?v=1789454340185" group-title="WNBA",WNBA | 梦想 vs 女武神 | 78-60 | 直播19 | 原声17
-https://pul-tenm.gkykp.com/live/hd-en-2-3946632.m3u8?txSecret=7a3dd0198ece4d74df2adebf4d3c5d2f&txTime=6ADABF28
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/19-v74.jpg?v=1789454340185" group-title="WNBA",WNBA | 梦想 vs 女武神 | 87-67 | 直播19 | 原声17
+https://pul-tenm.gkykp.com/live/hd-en-2-3946632.m3u8?txSecret=19a19f6c7c8755cac076ce0affc66dec&txTime=6ADAC2E8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/24-v77.jpg?v=1789454340185" group-title="美公开赛",美公开赛 | 哥伦布机员 vs 圣路易斯城 | 0-0 | 直播24 | 直播24
 https://hello.ooo0ooo.top/live/4659298.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/24-v77.jpg?v=1789454340185" group-title="美公开赛",美公开赛 | 哥伦布机员 vs 圣路易斯城 | 0-0 | 直播24 | 原声18
-https://pul-tenm.gkykp.com/live/hd-en-1-4659298.m3u8?txSecret=c6925952b41f775deedb1c66efda645e&txTime=6ADABF28
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v80.jpg?v=1789454340185" group-title="自由杯",自由杯 | 帕尔梅拉斯 vs 弗鲁米嫩塞 | 0-0 | 直播4 | 直播4
+https://pul-tenm.gkykp.com/live/hd-en-1-4659298.m3u8?txSecret=11d6e790cf2400b4600397f23b7b6beb&txTime=6ADAC2E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v80.jpg?v=1789454340185" group-title="自由杯",自由杯 | 帕尔梅拉斯 vs 弗鲁米嫩塞 | 0-1 | 直播4 | 直播4
 https://hello.ooo0ooo.top/live/4647083.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v80.jpg?v=1789454340185" group-title="自由杯",自由杯 | 帕尔梅拉斯 vs 弗鲁米嫩塞 | 0-0 | 直播4 | 原声19
-https://pul-tenm.gkykp.com/live/hd-en-1-4647083.m3u8?txSecret=32342e7d6276116f3ebb04726f92404e&txTime=6ADABF28
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v93.jpg?v=1789454340185" group-title="墨西超",墨西超 | 托卢卡 vs 蒂华纳 | 0-1 | 直播6 | 直播6
-https://hello.ooo0ooo.top/live/4553909.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v93.jpg?v=1789454340185" group-title="墨西超",墨西超 | 托卢卡 vs 蒂华纳 | 0-1 | 直播6 | 原声26
-https://pul-tenm.gkykp.com/live/sd-1-4553909.m3u8?txSecret=bc5b96bf0df17e9ae0fa1f253471deeb&txTime=6ADABF28
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v115.jpg?v=1789454340185" group-title="墨西超",墨西超 | 普埃布拉 vs 蒙特雷 | 0-3 | 直播5 | 直播5
-https://hello.ooo0ooo.top/live/4553908.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v115.jpg?v=1789454340185" group-title="墨西超",墨西超 | 普埃布拉 vs 蒙特雷 | 0-3 | 直播5 | 原声25
-https://pul-tenm.gkykp.com/live/hd-en-1-4553908.m3u8?txSecret=1e63e8fa5797ba042ee6e3f83efad834&txTime=6ADABF28
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/27-v72.jpg?v=1789454340185" group-title="玻利杯",玻利杯 | 东方石油 vs 国民波托西 | 3-1 | 直播27 | 直播27
-https://hello.ooo0ooo.top/live/4656880.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/27-v72.jpg?v=1789454340185" group-title="玻利杯",玻利杯 | 东方石油 vs 国民波托西 | 3-1 | 直播27 | 原声23
-https://pul-tenm.gkykp.com/live/sd-1-4656880.m3u8?txSecret=a6e7a461f87e884114f41da5f9e46d67&txTime=6ADABF28
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/28-v68.jpg?v=1789454340185" group-title="加拿冠",加拿冠 | 蒙特利尔CF vs 弗尔戈FC | 1-1 | 直播28 | 直播28
-https://hello.ooo0ooo.top/live/4659277.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/28-v68.jpg?v=1789454340185" group-title="加拿冠",加拿冠 | 蒙特利尔CF vs 弗尔戈FC | 1-1 | 直播28 | 原声24
-https://pul-tenm.gkykp.com/live/sd-1-4659277.m3u8?txSecret=9748f79c5006ac4e71e7081c7d3c4083&txTime=6ADABF28
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v80.jpg?v=1789454340185" group-title="自由杯",自由杯 | 帕尔梅拉斯 vs 弗鲁米嫩塞 | 0-1 | 直播4 | 原声19
+https://pul-tenm.gkykp.com/live/hd-en-1-4647083.m3u8?txSecret=c68f66d4017c6f2542d7a29e74dec9ef&txTime=6ADAC2E8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v112.jpg?v=1789454340185" group-title="墨西超",墨西超 | 阿特拉斯 vs 墨西哥美洲 | 0-2 | 直播7 | 直播7
 https://hello.ooo0ooo.top/live/4553907.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v112.jpg?v=1789454340185" group-title="墨西超",墨西超 | 阿特拉斯 vs 墨西哥美洲 | 0-2 | 直播7 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4553907.m3u8?txSecret=cecb00e4df68fc56cd47700adeaae633&txTime=6ADABF28
+https://pul-tenm.gkykp.com/live/sd-1-4553907.m3u8?txSecret=4c8013515dde630883477ee41a0bf5c8&txTime=6ADAC2E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v115.jpg?v=1789454340185" group-title="墨西超",墨西超 | 普埃布拉 vs 蒙特雷 | 0-3 | 直播5 | 直播5
+https://hello.ooo0ooo.top/live/4553908.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v115.jpg?v=1789454340185" group-title="墨西超",墨西超 | 普埃布拉 vs 蒙特雷 | 0-3 | 直播5 | 原声25
+https://pul-tenm.gkykp.com/live/hd-en-1-4553908.m3u8?txSecret=0ab94829c3ba81287d129416077ad7d0&txTime=6ADAC2E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/27-v72.jpg?v=1789454340185" group-title="玻利杯",玻利杯 | 东方石油 vs 国民波托西 | 3-2 | 直播27 | 直播27
+https://hello.ooo0ooo.top/live/4656880.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/27-v72.jpg?v=1789454340185" group-title="玻利杯",玻利杯 | 东方石油 vs 国民波托西 | 3-2 | 直播27 | 原声23
+https://pul-tenm.gkykp.com/live/sd-1-4656880.m3u8?txSecret=dcf99e022b90879359295abaf6e03d97&txTime=6ADAC2E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v93.jpg?v=1789454340185" group-title="墨西超",墨西超 | 托卢卡 vs 蒂华纳 | 0-1 | 直播6 | 直播6
+https://hello.ooo0ooo.top/live/4553909.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v93.jpg?v=1789454340185" group-title="墨西超",墨西超 | 托卢卡 vs 蒂华纳 | 0-1 | 直播6 | 原声26
+https://pul-tenm.gkykp.com/live/sd-1-4553909.m3u8?txSecret=967f7913c49c051ede8826086ce3c623&txTime=6ADAC2E8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v108.jpg?v=1789454340185" group-title="哥伦甲",哥伦甲 | 圣塔菲 vs 科尔多瓦美洲虎 | 1-0 | 直播10 | 直播10
 https://hello.ooo0ooo.top/live/4569264.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/207-v128.jpg?v=1789454340185" group-title="NBA",NBA | 湖人 vs 勇士 | 0-0 | 原声3 | 原声3
-https://pul-tenm.gkykp.com/live/hd-en-2-3931239.m3u8?txSecret=3fc2293875fd9f9b892f3401f275992b&txTime=6ADABFA0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/216-v123.jpg?v=1789454340185" group-title="NBA",NBA | 热火 vs 森林狼 | 90-114 | 原声12 | 原声12
-https://pul-tenm.gkykp.com/live/hd-en-2-3931238.m3u8?txSecret=3e336fea24fc2d2f77c1de6fa3c272e0&txTime=6ADABFA0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/221-v90.jpg?v=1789454340185" group-title="WNBA",WNBA | 梦想 vs 女武神 | 78-60 | 原声17 | 原声17
-https://pul-tenm.gkykp.com/live/hd-en-2-3946632.m3u8?txSecret=658afdbfc9337204fa48d99b43da2edd&txTime=6ADABFA0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/219-v107.jpg?v=1789454340185" group-title="NBA",NBA | 灰熊 vs 爵士 | 96-76 | 原声15 | 原声15
-https://pul-tenm.gkykp.com/live/hd-en-2-3931531.m3u8?txSecret=f024153df0f78b41ed1928936a6cf209&txTime=6ADABFA0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/208-v162.jpg?v=1789454340185" group-title="NBA",NBA | 开拓者 vs 太阳 | 0-0 | 原声4 | 原声4
-https://pul-tenm.gkykp.com/live/hd-en-2-3931534.m3u8?txSecret=e1be6fbe9aa11f3fcf957b770dac7aa1&txTime=6ADABFA0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/217-v119.jpg?v=1789454340185" group-title="NBA",NBA | 篮网 vs 黄蜂 | 92-102 | 原声13 | 原声13
-https://pul-tenm.gkykp.com/live/hd-en-2-3931529.m3u8?txSecret=3fe4919e00bcd90ade7dfd26dfcd0a2b&txTime=6ADABFA0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/224-v91.jpg?v=1789454340185" group-title="NBA",NBA | 火箭 vs 独行侠 | 72-42 | 原声20 | 原声20
-https://pul-tenm.gkykp.com/live/hd-en-2-3931533.m3u8?txSecret=ff68d21844c9b066bf4568e2b3a69c65&txTime=6ADABFA0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/223-v73.jpg?v=1789454340185" group-title="自由杯",自由杯 | 帕尔梅拉斯 vs 弗鲁米嫩塞 | 0-0 | 原声19 | 原声19
-https://pul-tenm.gkykp.com/live/hd-en-1-4647083.m3u8?txSecret=756cb4cbb923d93b9e01212bf7ba815b&txTime=6ADABFA0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/229-v75.jpg?v=1789454340185" group-title="墨西超",墨西超 | 普埃布拉 vs 蒙特雷 | 0-3 | 原声25 | 原声25
-https://pul-tenm.gkykp.com/live/hd-en-1-4553908.m3u8?txSecret=3307966160c5d7d51803aaea80a0739b&txTime=6ADABFA0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/222-v85.jpg?v=1789454340185" group-title="美公开赛",美公开赛 | 哥伦布机员 vs 圣路易斯城 | 0-0 | 原声18 | 原声18
-https://pul-tenm.gkykp.com/live/hd-en-1-4659298.m3u8?txSecret=b86b0062abfd1d928af6b5ce8e39eac5&txTime=6ADABFA0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/218-v114.jpg?v=1789454340185" group-title="NBA",NBA | 猛龙 vs 公牛 | 121-75 | 原声14 | 原声14
-https://pul-tenm.gkykp.com/live/hd-en-2-3931530.m3u8?txSecret=befd84a8eeeaefe77d3aab4da262486c&txTime=6ADABFA0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/228-v78.jpg?v=1789454340185" group-title="加拿冠",加拿冠 | 蒙特利尔CF vs 弗尔戈FC | 1-1 | 原声24 | 原声24
-https://pul-tenm.gkykp.com/live/sd-1-4659277.m3u8?txSecret=8aa0e9826e77e434469524aeef842f51&txTime=6ADABFA0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/219-v107.jpg?v=1789454340185" group-title="NBA",NBA | 灰熊 vs 爵士 | 112-92 | 原声15 | 原声15
+https://pul-tenm.gkykp.com/live/hd-en-2-3931531.m3u8?txSecret=903b818af610f563704d231c5d14f8ce&txTime=6ADAC2E8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/226-v83.jpg?v=1789454340185" group-title="哥伦杯",哥伦杯 | 巴瑞库拉 vs 卡利美洲 | 0-4 | 原声22 | 原声22
-https://pul-tenm.gkykp.com/live/sd-1-4656301.m3u8?txSecret=800285b238bd32d0ee8613c2a51bc5d2&txTime=6ADABFA0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/230-v70.jpg?v=1789454340185" group-title="墨西超",墨西超 | 托卢卡 vs 蒂华纳 | 0-1 | 原声26 | 原声26
-https://pul-tenm.gkykp.com/live/sd-1-4553909.m3u8?txSecret=4bda91d0e2c6a6b78e9274b34709f8a6&txTime=6ADABFA0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/205-v178.jpg?v=1789454340185" group-title="墨西超",墨西超 | 阿特拉斯 vs 墨西哥美洲 | 0-2 | 原声1 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4553907.m3u8?txSecret=f1b29116956dec10d4b944da80c00d89&txTime=6ADABFA0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/227-v79.jpg?v=1789454340185" group-title="玻利杯",玻利杯 | 东方石油 vs 国民波托西 | 3-1 | 原声23 | 原声23
-https://pul-tenm.gkykp.com/live/sd-1-4656880.m3u8?txSecret=1fde6ac1cbf04c10b2ca42bd617ff6e3&txTime=6ADABFA0
+https://pul-tenm.gkykp.com/live/sd-1-4656301.m3u8?txSecret=18442dee79dc4855a38c4203b644c026&txTime=6ADAC2E8
