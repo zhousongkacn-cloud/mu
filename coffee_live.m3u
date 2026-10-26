@@ -1,15 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v133.jpg?v=1789454340185" group-title="印班超",印班超 | SC班加罗尔 vs 抵抗者FC | 3-1 | 直播7 | 直播7
-https://hello.ooo0ooo.top/live/4661858.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v133.jpg?v=1789454340185" group-title="印班超",印班超 | SC班加罗尔 vs 抵抗者FC | 3-1 | 直播7 | 原声3
-https://pul-tenm.gkykp.com/live/sd-1-4661858.m3u8?txSecret=7b242c8bcb4a083eb9fb1992f0b060a8&txTime=6AE04F38
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v114.jpg?v=1789454340185" group-title="中女甲",中女甲 | 山西喜华女足 vs 山东体彩女足B队 | 0-1 | 直播1 | 直播1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v114.jpg?v=1789454340185" group-title="中女甲",中女甲 | 山西喜华女足 vs 山东体彩女足B队 | 0-2 | 直播1 | 直播1
 https://hello.ooo0ooo.top/live/4650333.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v114.jpg?v=1789454340185" group-title="中女甲",中女甲 | 山西喜华女足 vs 山东体彩女足B队 | 0-1 | 直播1 | 原声4
-https://pul-tenm.gkykp.com/live/sd-1-4650333.m3u8?txSecret=486ff92fc75f6f3e2883760430b7f0ef&txTime=6AE04F38
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v114.jpg?v=1789454340185" group-title="中女甲",中女甲 | 山西喜华女足 vs 山东体彩女足B队 | 0-2 | 直播1 | 原声4
+https://pul-tenm.gkykp.com/live/sd-1-4650333.m3u8?txSecret=905f6c24c63f07d0d59069163edaf095&txTime=6AE05280
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v100.jpg?v=1789454340185" group-title="中女甲",中女甲 | 广东体彩粤湛女足 vs 浙江杭州女足B队 | 1-0 | 直播2 | 直播2
 https://hello.ooo0ooo.top/live/4650334.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v146.jpg?v=1789454340185" group-title="中女甲",中女甲 | 大连足校女足 vs 天津圣德女足 | 1-0 | 直播3 | 直播3
 https://hello.ooo0ooo.top/live/4650335.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v146.jpg?v=1789454340185" group-title="中女甲",中女甲 | 大连足校女足 vs 天津圣德女足 | 1-0 | 直播3 | 原声6
-https://pul-tenm.gkykp.com/live/sd-1-4650335.m3u8?txSecret=80a8123cd349c825911b4715ab8cfa4c&txTime=6AE04F38
+https://pul-tenm.gkykp.com/live/sd-1-4650335.m3u8?txSecret=9656c66aa6b7581e16a4bb4064fde5d8&txTime=6AE05280
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v102.jpg?v=1789454340185" group-title="中U21",中U21 | 武汉三镇U20 vs 山东泰山U20 | 0-0 | 直播4 | 直播4
+https://hello.ooo0ooo.top/live/4640431.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v102.jpg?v=1789454340185" group-title="中U21",中U21 | 武汉三镇U20 vs 山东泰山U20 | 0-0 | 直播4 | 原声7
+https://pul-tenm.gkykp.com/live/sd-1-4640431.m3u8?txSecret=2c24a8c12bfdb6f0a42ea58cd0369990&txTime=6AE05280
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/42-v58.jpg?v=1789454340185" group-title="中乙",中乙 | 山东泰山B队 vs 江西庐山 | 0-0 | 直播42 | 直播42
+https://hello.ooo0ooo.top/live/4640178.m3u8
