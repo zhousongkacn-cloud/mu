@@ -1,27 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v142.jpg?v=1789454340185" group-title="NBA",NBA | 老鹰 vs 骑士 | 0-0 | 直播10 | 直播10
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_407_v8381.jpg?v=1789454340185" group-title="NBA",NBA | 老鹰 vs 骑士 | 0-4 | 中文解说3 | 中文解说3
+https://live01-cn-ali.xdbrk.com/live/40513916_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_407_v8381.jpg?v=1789454340185" group-title="NBA",NBA | 老鹰 vs 骑士 | 0-4 | 中文解说3 | 直播10
 https://hello.ooo0ooo.top/live/3931586.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v142.jpg?v=1789454340185" group-title="NBA",NBA | 老鹰 vs 骑士 | 0-0 | 直播10 | 原声3
-https://pul-tenm.gkykp.com/live/hd-en-2-3931586.m3u8?txSecret=f166fa7653312b27f4fd161d32e40a9d&txTime=6AE52F81
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_407_v8381.jpg?v=1789454340185" group-title="NBA",NBA | 老鹰 vs 骑士 | 0-4 | 中文解说3 | 原声3
+https://pul-tenm.gkykp.com/live/hd-en-2-3931586.m3u8?txSecret=1e3c46fc017e9ffa387fef23a45c8f5f&txTime=6AE532C9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_405_v8432.jpg?v=1789454340185" group-title="NBA",NBA | 鹈鹕 vs 国王 | 5-5 | 中文解说1 | 中文解说1
+https://live01-cn-ali.xdbrk.com/live/36577559_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_405_v8432.jpg?v=1789454340185" group-title="NBA",NBA | 鹈鹕 vs 国王 | 5-5 | 中文解说1 | 直播9
+https://hello.ooo0ooo.top/live/3931587.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_405_v8432.jpg?v=1789454340185" group-title="NBA",NBA | 鹈鹕 vs 国王 | 5-5 | 中文解说1 | 原声1
+https://pul-tenm.gkykp.com/live/hd-en-2-3931587.m3u8?txSecret=1997f929704de5997087ef8c07cc0ff7&txTime=6AE532C9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v149.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 奥萨斯科 vs 皮涅鲁斯 | 39-49 | 直播7 | 直播7
+https://hello.ooo0ooo.top/live/3939685.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v149.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 奥萨斯科 vs 皮涅鲁斯 | 39-49 | 直播7 | 原声7
+https://pul-tenm.gkykp.com/live/sd-2-3939685.m3u8?txSecret=6b8462eaeb62de645583c7e8c6c235a1&txTime=6AE532C9
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v120.jpg?v=1789454340185" group-title="哥伦甲",哥伦甲 | 卡利美洲 vs 福塔雷绍查 | 0-0 | 直播4 | 直播4
 https://hello.ooo0ooo.top/live/4569235.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v120.jpg?v=1789454340185" group-title="哥伦甲",哥伦甲 | 卡利美洲 vs 福塔雷绍查 | 0-0 | 直播4 | 原声9
-https://pul-tenm.gkykp.com/live/sd-1-4569235.m3u8?txSecret=4695cc141a72dd357e15a776b6d895fd&txTime=6AE52F81
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v147.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 米纳斯 vs 巴西利亚 | 43-33 | 直播8 | 直播8
-https://hello.ooo0ooo.top/live/3939770.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v122.jpg?v=1789454340185" group-title="NBA",NBA | 鹈鹕 vs 国王 | 0-0 | 直播9 | 直播9
-https://hello.ooo0ooo.top/live/3931587.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v122.jpg?v=1789454340185" group-title="NBA",NBA | 鹈鹕 vs 国王 | 0-0 | 直播9 | 原声1
-https://pul-tenm.gkykp.com/live/hd-en-2-3931587.m3u8?txSecret=c238200dc58a3c8195122a23dc98a7c7&txTime=6AE52F81
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v149.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 奥萨斯科 vs 皮涅鲁斯 | 35-40 | 直播7 | 直播7
-https://hello.ooo0ooo.top/live/3939685.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v149.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 奥萨斯科 vs 皮涅鲁斯 | 35-40 | 直播7 | 原声7
-https://pul-tenm.gkykp.com/live/sd-2-3939685.m3u8?txSecret=b7c05fba497d73a08035b29eb44b1211&txTime=6AE52F81
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v117.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 米内罗竞技 vs 克鲁塞罗 | 0-1 | 直播2 | 直播2
-https://hello.ooo0ooo.top/live/4465955.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v117.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 米内罗竞技 vs 克鲁塞罗 | 0-1 | 直播2 | 原声6
-https://pul-tenm.gkykp.com/live/sd-1-4465955.m3u8?txSecret=7d1c777e2dc0a751a91dc7cc15e5f3ad&txTime=6AE52F81
+https://pul-tenm.gkykp.com/live/sd-1-4569235.m3u8?txSecret=7516b73d2063f74c42c7a56a5bf6d1f2&txTime=6AE532C9
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v165.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 瓦斯科达伽马 vs 弗拉门戈 | 1-2 | 直播3 | 直播3
 https://hello.ooo0ooo.top/live/4465949.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v165.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 瓦斯科达伽马 vs 弗拉门戈 | 1-2 | 直播3 | 原声4
-https://pul-tenm.gkykp.com/live/sd-1-4465949.m3u8?txSecret=810ecf3ce7c8adc531c10769dea700a5&txTime=6AE52F81
+https://pul-tenm.gkykp.com/live/sd-1-4465949.m3u8?txSecret=e73234496b984eaad26416f4a93423e5&txTime=6AE532C9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v147.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 米纳斯 vs 巴西利亚 | 51-46 | 直播8 | 直播8
+https://hello.ooo0ooo.top/live/3939770.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v117.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 米内罗竞技 vs 克鲁塞罗 | 0-1 | 直播2 | 直播2
+https://hello.ooo0ooo.top/live/4465955.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v117.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 米内罗竞技 vs 克鲁塞罗 | 0-1 | 直播2 | 原声6
+https://pul-tenm.gkykp.com/live/sd-1-4465955.m3u8?txSecret=4c0060f9a19efbb6e75cd87e18501946&txTime=6AE532C9
