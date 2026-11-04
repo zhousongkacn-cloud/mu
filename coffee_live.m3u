@@ -1,17 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v153.jpg?v=1789454340185" group-title="欧青联",欧青联 | 切尔西U19 vs 塔林弗洛拉U19 | 2-3 | 直播14 | 直播14
-https://hello.ooo0ooo.top/live/4661970.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v153.jpg?v=1789454340185" group-title="欧青联",欧青联 | 切尔西U19 vs 塔林弗洛拉U19 | 2-3 | 直播14 | 原声6
-https://pul-tenm.gkykp.com/live/sd-1-4661970.m3u8?txSecret=781c39d58ddabfbacc34ab8ec057b9cd&txTime=6AEC9978
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/19-v124.jpg?v=1789454340185" group-title="亚冠二级",亚冠二级 | 阿卡达格 vs 高尔高赫 | 0-0 | 直播19 | 直播19
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/19-v124.jpg?v=1789454340185" group-title="亚冠二级",亚冠二级 | 阿卡达格 vs 高尔高赫 | 1-0 | 直播19 | 直播19
 https://hello.ooo0ooo.top/live/4621323.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/19-v124.jpg?v=1789454340185" group-title="亚冠二级",亚冠二级 | 阿卡达格 vs 高尔高赫 | 0-0 | 直播19 | 原声12
-https://pul-tenm.gkykp.com/live/hd-en-1-4621323.m3u8?txSecret=4e54f7ba32b176d42d1cbb1732de6520&txTime=6AEC9978
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v195.jpg?v=1789454340185" group-title="欧青联",欧青联 | 多特蒙德U19 vs 皇家贝蒂斯U19 | 0-0 | 直播3 | 直播3
-https://hello.ooo0ooo.top/live/4638832.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v195.jpg?v=1789454340185" group-title="欧青联",欧青联 | 多特蒙德U19 vs 皇家贝蒂斯U19 | 0-0 | 直播3 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4638832.m3u8?txSecret=a84ae4555e667eaa566874d117b58895&txTime=6AEC9978
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v149.jpg?v=1789454340185" group-title="葡U23",葡U23 | 莱里亚U23 vs 埃斯托里尔U23 | 0-0 | 直播9 | 直播9
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/19-v124.jpg?v=1789454340185" group-title="亚冠二级",亚冠二级 | 阿卡达格 vs 高尔高赫 | 1-0 | 直播19 | 原声12
+https://pul-tenm.gkykp.com/live/hd-en-1-4621323.m3u8?txSecret=0c6a67b9a765adf19e21fddf387b5d89&txTime=6AECA080
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v164.jpg?v=1789454340185" group-title="欧联杯",欧联杯 | 雷恩 vs 奥林匹亚科斯 | 0-0 | 直播6 | 直播6
+https://hello.ooo0ooo.top/live/4630649.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v164.jpg?v=1789454340185" group-title="欧联杯",欧联杯 | 雷恩 vs 奥林匹亚科斯 | 0-0 | 直播6 | 原声3
+https://pul-tenm.gkykp.com/live/hd-en-1-4630649.m3u8?txSecret=b897e3ebd8b667bc6f1e3bc598a557c6&txTime=6AECA080
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v149.jpg?v=1789454340185" group-title="葡U23",葡U23 | 莱里亚U23 vs 埃斯托里尔U23 | 0-1 | 直播9 | 直播9
 https://hello.ooo0ooo.top/live/4609527.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v149.jpg?v=1789454340185" group-title="葡U23",葡U23 | 莱里亚U23 vs 埃斯托里尔U23 | 0-0 | 直播9 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4609527.m3u8?txSecret=f7336569245078e9465af4bcd934aa56&txTime=6AEC9978
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v149.jpg?v=1789454340185" group-title="葡U23",葡U23 | 莱里亚U23 vs 埃斯托里尔U23 | 0-1 | 直播9 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4609527.m3u8?txSecret=cb80fb0b5198925411123eb8d50438a3&txTime=6AECA080
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v195.jpg?v=1789454340185" group-title="欧青联",欧青联 | 多特蒙德U19 vs 皇家贝蒂斯U19 | 2-1 | 直播3 | 直播3
+https://hello.ooo0ooo.top/live/4638832.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v195.jpg?v=1789454340185" group-title="欧青联",欧青联 | 多特蒙德U19 vs 皇家贝蒂斯U19 | 2-1 | 直播3 | 原声1
+https://pul-tenm.gkykp.com/live/sd-1-4638832.m3u8?txSecret=ba9a9e606416c4e35f3c51bb9c37637d&txTime=6AECA080
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/20-v122.jpg?v=1789454340185" group-title="埃及杯",埃及杯 | 马哈拉 vs 亚历山大港联合 | 0-0 | 直播20 | 直播20
+https://hello.ooo0ooo.top/live/4664041.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/20-v122.jpg?v=1789454340185" group-title="埃及杯",埃及杯 | 马哈拉 vs 亚历山大港联合 | 0-0 | 直播20 | 原声16
+https://pul-tenm.gkykp.com/live/sd-1-4664041.m3u8?txSecret=7f7180dbb11f7ab2c3de939aa49dc140&txTime=6AECA080
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/38-v83.jpg?v=1789454340185" group-title="埃及联赛杯",埃及联赛杯 | 泽德FC vs 杰艾斯 | 0-0 | 直播38 | 直播38
+https://hello.ooo0ooo.top/live/4649147.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/38-v83.jpg?v=1789454340185" group-title="埃及联赛杯",埃及联赛杯 | 泽德FC vs 杰艾斯 | 0-0 | 直播38 | 原声4
+https://pul-tenm.gkykp.com/live/sd-1-4649147.m3u8?txSecret=be4a38e0e43a4a3e21342ec6972387e7&txTime=6AECA080
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/208-v254.jpg?v=1789454340185" group-title="埃及联赛杯",埃及联赛杯 | 泽德FC vs 杰艾斯 | 0-0 | 原声4 | 原声4
+https://pul-tenm.gkykp.com/live/sd-1-4649147.m3u8?txSecret=f59bc085e13fe182e82b74b1a9905035&txTime=6AECA0F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/205-v277.jpg?v=1789454340185" group-title="欧青联",欧青联 | 多特蒙德U19 vs 皇家贝蒂斯U19 | 2-1 | 原声1 | 原声1
+https://pul-tenm.gkykp.com/live/sd-1-4638832.m3u8?txSecret=138f73fee4c3e98739c710d7100d669b&txTime=6AECA0F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/206-v267.jpg?v=1789454340185" group-title="葡U23",葡U23 | 莱里亚U23 vs 埃斯托里尔U23 | 0-1 | 原声2 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4609527.m3u8?txSecret=13a31437bce4a2036712945ba6348a47&txTime=6AECA0F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/220-v160.jpg?v=1789454340185" group-title="埃及杯",埃及杯 | 马哈拉 vs 亚历山大港联合 | 0-0 | 原声16 | 原声16
+https://pul-tenm.gkykp.com/live/sd-1-4664041.m3u8?txSecret=a9b4310ec9a03f7b2c57539b9820f4ff&txTime=6AECA0F8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/216-v193.jpg?v=1789454340185" group-title="亚冠二级",亚冠二级 | 阿卡达格 vs 高尔高赫 | 1-0 | 原声12 | 原声12
+https://pul-tenm.gkykp.com/live/hd-en-1-4621323.m3u8?txSecret=13b536551b97691fb67659da9579732f&txTime=6AECA0F8
