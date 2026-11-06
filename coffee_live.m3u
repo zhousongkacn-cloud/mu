@@ -1,17 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/415-v8410.jpg?v=1789454340185" group-title="NBA",NBA | 勇士 vs 热火 | 111-95 | 中文解说11 | 中文解说11
-https://live01-cn-ali.xqnbu.com/live/89430014_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/415-v8410.jpg?v=1789454340185" group-title="NBA",NBA | 勇士 vs 热火 | 111-95 | 中文解说11 | 直播7
-https://hello.ooo0ooo.top/live/3931630.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/415-v8410.jpg?v=1789454340185" group-title="NBA",NBA | 勇士 vs 热火 | 111-95 | 中文解说11 | 原声7
-https://pul-tenm.gkykp.com/live/hd-en-2-3931630.m3u8?txSecret=0f6101adb29d34d0d3b3a82186a97f1c&txTime=6AEEB758
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/11-v175.jpg?v=1789454340185" group-title="NCAA",NCAA | 亚利桑那大学 vs 加州科大 | 81-56 | 直播11 | 直播11
-https://hello.ooo0ooo.top/live/3950933.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/11-v175.jpg?v=1789454340185" group-title="NCAA",NCAA | 亚利桑那大学 vs 加州科大 | 81-56 | 直播11 | 原声4
-https://pul-tenm.gkykp.com/live/sd-2-3950933.m3u8?txSecret=c014c0b3f5f3931325352d0b06164628&txTime=6AEEB758
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v182.jpg?v=1789454340185" group-title="NCAA",NCAA | 佩珀代因大学 vs 拉塞拉大学 | 97-54 | 直播8 | 直播8
-https://hello.ooo0ooo.top/live/3956837.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v173.jpg?v=1789454340185" group-title="蒙古超",蒙古超 | 乌兰巴托FC vs 中央骏马 | 2-1 | 直播6 | 直播6
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v173.jpg?v=1789454340185" group-title="蒙古超",蒙古超 | 乌兰巴托FC vs 中央骏马 | 3-1 | 直播6 | 直播6
 https://hello.ooo0ooo.top/live/4661424.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v173.jpg?v=1789454340185" group-title="蒙古超",蒙古超 | 乌兰巴托FC vs 中央骏马 | 2-1 | 直播6 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4661424.m3u8?txSecret=781622ed051e569290b61d445ff01985&txTime=6AEEB758
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v173.jpg?v=1789454340185" group-title="蒙古超",蒙古超 | 乌兰巴托FC vs 中央骏马 | 3-1 | 直播6 | 原声1
+https://pul-tenm.gkykp.com/live/sd-1-4661424.m3u8?txSecret=dd5ca9c6d0b7fdc47bf821911220ca78&txTime=6AEEBAA1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v182.jpg?v=1789454340185" group-title="NCAA",NCAA | 佩珀代因大学 vs 拉塞拉大学 | 106-66 | 直播8 | 直播8
+https://hello.ooo0ooo.top/live/3956837.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/11-v175.jpg?v=1789454340185" group-title="NCAA",NCAA | 亚利桑那大学 vs 加州科大 | 100-76 | 直播11 | 直播11
+https://hello.ooo0ooo.top/live/3950933.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/11-v175.jpg?v=1789454340185" group-title="NCAA",NCAA | 亚利桑那大学 vs 加州科大 | 100-76 | 直播11 | 原声4
+https://pul-tenm.gkykp.com/live/sd-2-3950933.m3u8?txSecret=d0a91fdbd8bc65331d24b9a9c505696f&txTime=6AEEBAA1
