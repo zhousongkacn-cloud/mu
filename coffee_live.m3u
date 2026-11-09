@@ -1,13 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v177.jpg?v=1789454340185" group-title="厄瓜甲",厄瓜甲 | 理工大学竞技 vs 曼塔 | 1-2 | 直播2 | 直播2
-https://hello.ooo0ooo.top/live/4646998.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v177.jpg?v=1789454340185" group-title="厄瓜甲",厄瓜甲 | 理工大学竞技 vs 曼塔 | 1-2 | 直播2 | 原声8
-https://pul-tenm.gkykp.com/live/sd-1-4646998.m3u8?txSecret=b4b1c8851d9d36bfd973226c8ea0755e&txTime=6AF39A70
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/15-v168.jpg?v=1789454340185" group-title="牙买超",牙买超 | 查珀尔顿 vs 竞技联队 | 0-0 | 直播15 | 直播15
-https://hello.ooo0ooo.top/live/4659008.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/15-v168.jpg?v=1789454340185" group-title="牙买超",牙买超 | 查珀尔顿 vs 竞技联队 | 0-0 | 直播15 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4659008.m3u8?txSecret=c96ef336d160acac42959168ce1205ba&txTime=6AF39A70
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v195.jpg?v=1789454340185" group-title="巴拉甲",巴拉甲 | 卢克尼奥竞技 vs 五月二日体育会 | 0-0 | 直播1 | 直播1
 https://hello.ooo0ooo.top/live/4631234.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v195.jpg?v=1789454340185" group-title="巴拉甲",巴拉甲 | 卢克尼奥竞技 vs 五月二日体育会 | 0-0 | 直播1 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4631234.m3u8?txSecret=a4c73474ae78522dddefc2f57cb6441a&txTime=6AF39A70
+https://pul-tenm.gkykp.com/live/sd-1-4631234.m3u8?txSecret=abbc7bed7290040b5e6beb49c9fac6ce&txTime=6AF39E30
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v178.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 福塔雷萨 vs 科林蒂安 | 13-14 | 直播9 | 直播9
+https://hello.ooo0ooo.top/live/3939555.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v178.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 福塔雷萨 vs 科林蒂安 | 13-14 | 直播9 | 原声3
+https://pul-tenm.gkykp.com/live/sd-2-3939555.m3u8?txSecret=426ca1213dcc61f42faa5133e08e087e&txTime=6AF39E30
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/15-v168.jpg?v=1789454340185" group-title="牙买超",牙买超 | 查珀尔顿 vs 竞技联队 | 0-0 | 直播15 | 直播15
+https://hello.ooo0ooo.top/live/4659008.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/15-v168.jpg?v=1789454340185" group-title="牙买超",牙买超 | 查珀尔顿 vs 竞技联队 | 0-0 | 直播15 | 原声1
+https://pul-tenm.gkykp.com/live/sd-1-4659008.m3u8?txSecret=80b87fd6c1425d98ef3206115ea88438&txTime=6AF39E30
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v177.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 帕图 vs 巴乌鲁 | 21-21 | 直播4 | 直播4
+https://hello.ooo0ooo.top/live/3939752.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v201.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 尤尼奥科林蒂安 vs 巴西利亚 | 21-14 | 直播8 | 直播8
+https://hello.ooo0ooo.top/live/3939568.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v201.jpg?v=1789454340185" group-title="巴西甲",巴西甲 | 尤尼奥科林蒂安 vs 巴西利亚 | 21-14 | 直播8 | 原声4
+https://pul-tenm.gkykp.com/live/sd-2-3939568.m3u8?txSecret=7ad382b24e14f6c4f4ce762a97f20f09&txTime=6AF39E30
