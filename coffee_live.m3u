@@ -1,9 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v183.jpg?v=1794310853091" group-title="澳NBL",澳NBL | 东南墨尔本凤凰 vs 伊拉瓦拉老鹰 | 15-12 | 直播9 | 直播9
+https://hello.ooo0ooo.top/live/3925964.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v183.jpg?v=1794310853091" group-title="澳NBL",澳NBL | 东南墨尔本凤凰 vs 伊拉瓦拉老鹰 | 15-12 | 直播9 | 原声1
+https://pul-tenm.gkykp.com/live/sd-2-3925964.m3u8?txSecret=48db8bab6907364e0edcf31294216d92&txTime=6AF57980
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v184.jpg?v=1794310853091" group-title="印班超",印班超 | 马德拉斯工兵 vs 班加罗尔根源 | 0-1 | 直播2 | 直播2
+https://hello.ooo0ooo.top/live/4665808.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/18-v155.jpg?v=1794310853091" group-title="U17亚洲杯",U17亚洲杯 | 关岛U17 vs 巴勒斯坦U17 | 0-4 | 直播18 | 直播18
 https://hello.ooo0ooo.top/live/4638967.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/18-v155.jpg?v=1794310853091" group-title="U17亚洲杯",U17亚洲杯 | 关岛U17 vs 巴勒斯坦U17 | 0-4 | 直播18 | 原声3
-https://pul-tenm.gkykp.com/live/sd-1-4638967.m3u8?txSecret=425adcf070b381a26caba0f2f7dd7409&txTime=6AF57890
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/20-v147.jpg?v=1794310853091" group-title="U17亚洲杯",U17亚洲杯 | 马尔代夫U17 vs 中国香港U17 | 0-2 | 直播20 | 直播20
+https://pul-tenm.gkykp.com/live/sd-1-4638967.m3u8?txSecret=10de0d443308b693701912725956d286&txTime=6AF57C50
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/20-v147.jpg?v=1794310853091" group-title="U17亚洲杯",U17亚洲杯 | 马尔代夫U17 vs 中国香港U17 | 0-3 | 直播20 | 直播20
 https://hello.ooo0ooo.top/live/4638938.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v184.jpg?v=1794310853091" group-title="印班超",印班超 | 马德拉斯工兵 vs 班加罗尔根源 | 0-1 | 直播2 | 直播2
-https://hello.ooo0ooo.top/live/4665808.m3u8
