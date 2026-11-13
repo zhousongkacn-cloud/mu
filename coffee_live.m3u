@@ -1,15 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_411_v8476.jpg?v=1794310853091" group-title="NBA",NBA | 太阳 vs 黄蜂 | 59-62 | 中文解说7 | 中文解说7
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/411-v8476.jpg?v=1794310853091" group-title="NBA",NBA | 太阳 vs 黄蜂 | 72-70 | 中文解说7 | 中文解说7
 https://live01-cn-ali.xqnbu.com/live/58104935_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_411_v8476.jpg?v=1794310853091" group-title="NBA",NBA | 太阳 vs 黄蜂 | 59-62 | 中文解说7 | 直播12
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/411-v8476.jpg?v=1794310853091" group-title="NBA",NBA | 太阳 vs 黄蜂 | 72-70 | 中文解说7 | 直播12
 https://hello.ooo0ooo.top/live/3931672.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_411_v8476.jpg?v=1794310853091" group-title="NBA",NBA | 太阳 vs 黄蜂 | 59-62 | 中文解说7 | 原声7
-https://pul-tenm.gkykp.com/live/hd-en-2-3931672.m3u8?txSecret=3d8b954c12881d2329912242aaf1634d&txTime=6AF7D540
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/411-v8476.jpg?v=1794310853091" group-title="NBA",NBA | 太阳 vs 黄蜂 | 72-70 | 中文解说7 | 原声7
+https://pul-tenm.gkykp.com/live/hd-en-2-3931672.m3u8?txSecret=564a7827c02358cabc5dd4506b582261&txTime=6AF7D901
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v196.jpg?v=1794310853091" group-title="印班超",印班超 | 皇家班加罗尔 vs 班加罗尔梦幻联 | 0-0 | 直播2 | 直播2
+https://hello.ooo0ooo.top/live/4666021.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v196.jpg?v=1794310853091" group-title="印班超",印班超 | 皇家班加罗尔 vs 班加罗尔梦幻联 | 0-0 | 直播2 | 原声4
+https://pul-tenm.gkykp.com/live/sd-1-4666021.m3u8?txSecret=13f444fcac55b0c974da7b01af2cdf84&txTime=6AF7D901
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v190.jpg?v=1794310853091" group-title="NCAA",NCAA | 杨百翰大学 vs 蒙大拿州立大学 | 81-63 | 直播4 | 直播4
+https://hello.ooo0ooo.top/live/3950339.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v190.jpg?v=1794310853091" group-title="NCAA",NCAA | 杨百翰大学 vs 蒙大拿州立大学 | 81-63 | 直播4 | 原声2
+https://pul-tenm.gkykp.com/live/sd-2-3950339.m3u8?txSecret=520254de6a19102a73bc031c729fce4a&txTime=6AF7D811
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v240.jpg?v=1794310853091" group-title="墨西乙",墨西乙 | 莫雷利亚 vs 瓜达拉哈拉大学 | 1-0 | 直播3 | 直播3
 https://hello.ooo0ooo.top/live/4667149.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v240.jpg?v=1794310853091" group-title="墨西乙",墨西乙 | 莫雷利亚 vs 瓜达拉哈拉大学 | 1-0 | 直播3 | 原声6
-https://pul-tenm.gkykp.com/live/sd-1-4667149.m3u8?txSecret=410f75370fab95d5b2b6e3567179cee3&txTime=6AF7D540
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v190.jpg?v=1794310853091" group-title="NCAA",NCAA | 杨百翰大学 vs 蒙大拿州立大学 | 70-56 | 直播4 | 直播4
-https://hello.ooo0ooo.top/live/3950339.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v190.jpg?v=1794310853091" group-title="NCAA",NCAA | 杨百翰大学 vs 蒙大拿州立大学 | 70-56 | 直播4 | 原声2
-https://pul-tenm.gkykp.com/live/sd-2-3950339.m3u8?txSecret=d9bc5e6c2819fa4f9c3f7da5d69e0670&txTime=6AF7D540
+https://pul-tenm.gkykp.com/live/sd-1-4667149.m3u8?txSecret=027ec41a88541979b333975a42972aa5&txTime=6AF7D901
