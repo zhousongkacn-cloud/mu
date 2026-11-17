@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v236.jpg?v=1794310853091" group-title="U17亚洲杯",U17亚洲杯 | 巴勒斯坦U17 vs 印度U17 | 0-1 | 直播7 | 直播7
-https://hello.ooo0ooo.top/live/4638972.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v236.jpg?v=1794310853091" group-title="U17亚洲杯",U17亚洲杯 | 巴勒斯坦U17 vs 印度U17 | 0-1 | 直播7 | 原声3
-https://pul-tenm.gkykp.com/live/sd-1-4638972.m3u8?txSecret=625036862d3c4db79c7d22461486bb7b&txTime=6AFD5A88
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v219.jpg?v=1794310853091" group-title="U17亚洲杯",U17亚洲杯 | 伊拉克U17 vs 马尔代夫U17 | 0-0 | 直播10 | 直播10
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v247.jpg?v=1794310853091" group-title="澳女篮",澳女篮 | 阿德莱德闪电女篮 vs 吉朗毒液女篮 | 9-0 | 直播5 | 直播5
+https://hello.ooo0ooo.top/live/3925784.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v247.jpg?v=1794310853091" group-title="澳女篮",澳女篮 | 阿德莱德闪电女篮 vs 吉朗毒液女篮 | 9-0 | 直播5 | 原声5
+https://pul-tenm.gkykp.com/live/sd-2-3925784.m3u8?txSecret=eb0a1f3de62b9209b357541fe31d25e2&txTime=6AFD5E48
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v219.jpg?v=1794310853091" group-title="U17亚洲杯",U17亚洲杯 | 伊拉克U17 vs 马尔代夫U17 | 1-0 | 直播10 | 直播10
 https://hello.ooo0ooo.top/live/4638941.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v236.jpg?v=1794310853091" group-title="U17亚洲杯",U17亚洲杯 | 巴勒斯坦U17 vs 印度U17 | 1-1 | 直播7 | 直播7
+https://hello.ooo0ooo.top/live/4638972.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v236.jpg?v=1794310853091" group-title="U17亚洲杯",U17亚洲杯 | 巴勒斯坦U17 vs 印度U17 | 1-1 | 直播7 | 原声3
+https://pul-tenm.gkykp.com/live/sd-1-4638972.m3u8?txSecret=1b6c3918d2e008b00c68a3321106c991&txTime=6AFD5E48
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v218.jpg?v=1794310853091" group-title="印班超",印班超 | 斯图拉德 vs 班加罗尔城 | 0-0 | 直播2 | 直播2
 https://hello.ooo0ooo.top/live/4667424.m3u8
