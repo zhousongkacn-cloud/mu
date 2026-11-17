@@ -1,19 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v234.jpg?v=1794310853091" group-title="国际友谊",国际友谊 | 文莱 vs 阿曼 | 0-3 | 直播8 | 直播8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v234.jpg?v=1794310853091" group-title="国际友谊",国际友谊 | 文莱 vs 阿曼 | 0-4 | 直播8 | 直播8
 https://hello.ooo0ooo.top/live/4669400.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v247.jpg?v=1794310853091" group-title="澳女篮",澳女篮 | 阿德莱德闪电女篮 vs 吉朗毒液女篮 | 78-69 | 直播5 | 直播5
 https://hello.ooo0ooo.top/live/3925784.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v247.jpg?v=1794310853091" group-title="澳女篮",澳女篮 | 阿德莱德闪电女篮 vs 吉朗毒液女篮 | 78-69 | 直播5 | 原声5
-https://pul-tenm.gkykp.com/live/sd-2-3925784.m3u8?txSecret=2a5ba899046b33c99a62b24ca6ba49ff&txTime=6AFD7360
+https://pul-tenm.gkykp.com/live/sd-2-3925784.m3u8?txSecret=f384ed52f03401005366b1158f61ab3c&txTime=6AFD73D8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/23-v162.jpg?v=1794310853091" group-title="欧青u17",欧青u17 | 亚美尼亚U17 vs 卢森堡U17 | 0-0 | 直播23 | 直播23
+https://hello.ooo0ooo.top/live/4552891.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/11-v221.jpg?v=1794310853091" group-title="韩篮甲",韩篮甲 | 原州东浦新世代 vs 安养赤红火箭 | 0-0 | 直播11 | 直播11
+https://hello.ooo0ooo.top/live/3933633.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/11-v221.jpg?v=1794310853091" group-title="韩篮甲",韩篮甲 | 原州东浦新世代 vs 安养赤红火箭 | 0-0 | 直播11 | 原声10
+https://pul-tenm.gkykp.com/live/sd-2-3933633.m3u8?txSecret=89fd3c49f2a037182fb8f3a413ff5dfc&txTime=6AFD76A8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/21-v164.jpg?v=1794310853091" group-title="U17亚洲杯",U17亚洲杯 | 约旦U17 vs 伊朗U17 | 0-2 | 直播21 | 直播21
+https://hello.ooo0ooo.top/live/4638961.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/21-v164.jpg?v=1794310853091" group-title="U17亚洲杯",U17亚洲杯 | 约旦U17 vs 伊朗U17 | 0-2 | 直播21 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4638961.m3u8?txSecret=eb4b3e8f03b694a15c1f96ff5c5c665a&txTime=6AFD76A8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/40-v105.jpg?v=1794310853091" group-title="欧青U19",欧青U19 | 列支敦士登U19 vs 土耳其U19 | 0-0 | 直播40 | 直播40
+https://hello.ooo0ooo.top/live/4666232.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v236.jpg?v=1794310853091" group-title="U17亚洲杯",U17亚洲杯 | 巴勒斯坦U17 vs 印度U17 | 1-1 | 直播7 | 直播7
 https://hello.ooo0ooo.top/live/4638972.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v236.jpg?v=1794310853091" group-title="U17亚洲杯",U17亚洲杯 | 巴勒斯坦U17 vs 印度U17 | 1-1 | 直播7 | 原声3
 https://pul-tenm.gkykp.com/live/sd-1-4638972.m3u8?txSecret=0d5bbe126d47fd0a01c8d79458e77929&txTime=6AFD64D8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2-v218.jpg?v=1794310853091" group-title="印班超",印班超 | 斯图拉德 vs 班加罗尔城 | 2-1 | 直播2 | 直播2
-https://hello.ooo0ooo.top/live/4667424.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/21-v164.jpg?v=1794310853091" group-title="U17亚洲杯",U17亚洲杯 | 约旦U17 vs 伊朗U17 | 0-2 | 直播21 | 直播21
-https://hello.ooo0ooo.top/live/4638961.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/21-v164.jpg?v=1794310853091" group-title="U17亚洲杯",U17亚洲杯 | 约旦U17 vs 伊朗U17 | 0-2 | 直播21 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4638961.m3u8?txSecret=25ddcf03217f85344c3607c95b27be4c&txTime=6AFD7360
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v219.jpg?v=1794310853091" group-title="U17亚洲杯",U17亚洲杯 | 伊拉克U17 vs 马尔代夫U17 | 5-0 | 直播10 | 直播10
 https://hello.ooo0ooo.top/live/4638941.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/25-v152.jpg?v=1794310853091" group-title="欧青u17",欧青u17 | 北爱尔兰U17 vs 德国U17 | 0-0 | 直播25 | 直播25
+https://hello.ooo0ooo.top/live/4552842.m3u8
