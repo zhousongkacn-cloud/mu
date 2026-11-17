@@ -1,41 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/812-v22.jpg?v=1794310853091" group-title="欧国联",欧国联 | 丹麦 vs 挪威 | 2-3 | 爱奇艺2 | 爱奇艺2
-https://live01-cn-ali.xqnbu.com/live/65586398_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/812-v22.jpg?v=1794310853091" group-title="欧国联",欧国联 | 丹麦 vs 挪威 | 2-3 | 爱奇艺2 | 直播21
-https://hello.ooo0ooo.top/live/4518125.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/812-v22.jpg?v=1794310853091" group-title="欧国联",欧国联 | 丹麦 vs 挪威 | 2-3 | 爱奇艺2 | 原声41
-https://pul-tenm.gkykp.com/live/hd-en-1-4518125.m3u8?txSecret=b7cc14001b56856d52e1639b57b7ecbb&txTime=6AFE1C20
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v233.jpg?v=1794310853091" group-title="非洲杯",非洲杯 | 尼日尔 vs 摩洛哥 | 0-1 | 直播6 | 直播6
 https://hello.ooo0ooo.top/live/4642742.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v233.jpg?v=1794310853091" group-title="非洲杯",非洲杯 | 尼日尔 vs 摩洛哥 | 0-1 | 直播6 | 原声29
-https://pul-tenm.gkykp.com/live/sd-1-4642742.m3u8?txSecret=465546fbd0e57b759b64bb5b8bea81dd&txTime=6AFE1C20
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/43-v99.jpg?v=1794310853091" group-title="篮冠联",篮冠联 | 尤文图特 vs 波尔图 | 74-70 | 直播43 | 直播43
-https://hello.ooo0ooo.top/live/3939939.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/43-v99.jpg?v=1794310853091" group-title="篮冠联",篮冠联 | 尤文图特 vs 波尔图 | 74-70 | 直播43 | 原声18
-https://pul-tenm.gkykp.com/live/sd-2-3939939.m3u8?txSecret=1036a1d1c2118c38649c710dcc482146&txTime=6AFE1518
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/42-v102.jpg?v=1794310853091" group-title="欧篮联",欧篮联 | 巴塞罗那 vs 巴黎 | 86-89 | 直播42 | 直播42
-https://hello.ooo0ooo.top/live/3926674.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/42-v102.jpg?v=1794310853091" group-title="欧篮联",欧篮联 | 巴塞罗那 vs 巴黎 | 86-89 | 直播42 | 原声12
-https://pul-tenm.gkykp.com/live/sd-2-3926674.m3u8?txSecret=5f5288275f73f6a70396502cf9aeaf3e&txTime=6AFE1C20
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v222.jpg?v=1794310853091" group-title="欧篮联",欧篮联 | 博洛尼亚 vs 帕纳辛纳科斯 | 71-66 | 直播10 | 直播10
+https://pul-tenm.gkykp.com/live/sd-1-4642742.m3u8?txSecret=54db50757463bfca89deef35053526cc&txTime=6AFE1F68
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v222.jpg?v=1794310853091" group-title="欧篮联",欧篮联 | 博洛尼亚 vs 帕纳辛纳科斯 | 79-77 | 直播10 | 直播10
 https://hello.ooo0ooo.top/live/3926681.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v222.jpg?v=1794310853091" group-title="欧篮联",欧篮联 | 博洛尼亚 vs 帕纳辛纳科斯 | 71-66 | 直播10 | 原声30
-https://pul-tenm.gkykp.com/live/sd-2-3926681.m3u8?txSecret=3cc66aa6efdf493e711cda8b6a52e093&txTime=6AFE1C20
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/44-v96.jpg?v=1794310853091" group-title="欧篮联",欧篮联 | 米兰奥林匹亚 vs 贝尔格莱德红星 | 91-77 | 直播44 | 直播44
-https://hello.ooo0ooo.top/live/3926599.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/44-v96.jpg?v=1794310853091" group-title="欧篮联",欧篮联 | 米兰奥林匹亚 vs 贝尔格莱德红星 | 91-77 | 直播44 | 原声11
-https://pul-tenm.gkykp.com/live/sd-2-3926599.m3u8?txSecret=29b7132a42aea735f2582e1436d3e10b&txTime=6AFE16F8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/47-v84.jpg?v=1794310853091" group-title="欧篮联",欧篮联 | 贝尔格莱德游击 vs 瓦伦西亚 | 64-73 | 直播47 | 直播47
-https://hello.ooo0ooo.top/live/3926832.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/47-v84.jpg?v=1794310853091" group-title="欧篮联",欧篮联 | 贝尔格莱德游击 vs 瓦伦西亚 | 64-73 | 直播47 | 原声49
-https://pul-tenm.gkykp.com/live/sd-2-3926832.m3u8?txSecret=aab5fc2856faec2227a81857f88d74ec&txTime=6AFE1C20
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/23-v164.jpg?v=1794310853091" group-title="NCAA",NCAA | 圣母大学 vs 佛罗里达大学 | 0-0 | 直播23 | 直播23
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v222.jpg?v=1794310853091" group-title="欧篮联",欧篮联 | 博洛尼亚 vs 帕纳辛纳科斯 | 79-77 | 直播10 | 原声30
+https://pul-tenm.gkykp.com/live/sd-2-3926681.m3u8?txSecret=ee0df0557372650143cd4e7c131900f5&txTime=6AFE1F68
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/23-v164.jpg?v=1794310853091" group-title="NCAA",NCAA | 圣母大学 vs 佛罗里达大学 | 2-8 | 直播23 | 直播23
 https://hello.ooo0ooo.top/live/3949394.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/45-v90.jpg?v=1794310853091" group-title="欧篮联",欧篮联 | 巴斯克尼亚 vs 特拉维夫夏普尔 | 82-85 | 直播45 | 直播45
-https://hello.ooo0ooo.top/live/3926524.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/45-v90.jpg?v=1794310853091" group-title="欧篮联",欧篮联 | 巴斯克尼亚 vs 特拉维夫夏普尔 | 82-85 | 直播45 | 原声9
-https://pul-tenm.gkykp.com/live/sd-2-3926524.m3u8?txSecret=bb1559f107a9f28ce4f8c3e298d1fca9&txTime=6AFE1770
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/46-v84.jpg?v=1794310853091" group-title="欧协杯",欧协杯 | 伦敦雄狮 vs 希奥利艾 | 68-55 | 直播46 | 直播46
-https://hello.ooo0ooo.top/live/3957994.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/46-v84.jpg?v=1794310853091" group-title="欧协杯",欧协杯 | 伦敦雄狮 vs 希奥利艾 | 68-55 | 直播46 | 原声28
-https://pul-tenm.gkykp.com/live/sd-2-3957994.m3u8?txSecret=fc2b77b3a7e69fedf595954ab8e93134&txTime=6AFE1860
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/47-v84.jpg?v=1794310853091" group-title="欧篮联",欧篮联 | 贝尔格莱德游击 vs 瓦伦西亚 | 64-76 | 直播47 | 直播47
+https://hello.ooo0ooo.top/live/3926832.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/47-v84.jpg?v=1794310853091" group-title="欧篮联",欧篮联 | 贝尔格莱德游击 vs 瓦伦西亚 | 64-76 | 直播47 | 原声49
+https://pul-tenm.gkykp.com/live/sd-2-3926832.m3u8?txSecret=421721c0b554087a107ddc0161b6de28&txTime=6AFE1C99
