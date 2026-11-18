@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v226.jpg?v=1794310853091" group-title="沙特甲",沙特甲 | 哈萨正义 vs 塞卡凯阿拉伯 | 0-1 | 直播10 | 直播10
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v226.jpg?v=1794310853091" group-title="沙特甲",沙特甲 | 哈萨正义 vs 塞卡凯阿拉伯 | 1-2 | 直播10 | 直播10
 https://hello.ooo0ooo.top/live/4602050.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v226.jpg?v=1794310853091" group-title="沙特甲",沙特甲 | 哈萨正义 vs 塞卡凯阿拉伯 | 0-1 | 直播10 | 原声5
-https://pul-tenm.gkykp.com/live/sd-1-4602050.m3u8?txSecret=072c86d8610d7438a59c835c1e7dc9a2&txTime=6AFF0B30
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v240.jpg?v=1794310853091" group-title="印度甲",印度甲 | 班加罗尔联合会 vs 斯雷尼迪FC | 2-2 | 直播8 | 直播8
-https://hello.ooo0ooo.top/live/4660089.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v240.jpg?v=1794310853091" group-title="印度甲",印度甲 | 班加罗尔联合会 vs 斯雷尼迪FC | 2-2 | 直播8 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4660089.m3u8?txSecret=11b7604e93ad111c15c5328fa372bd34&txTime=6AFF0B30
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v267.jpg?v=1794310853091" group-title="VTB",VTB | 乌拉尔马什 vs 库班火车头 | 15-20 | 直播3 | 直播3
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v226.jpg?v=1794310853091" group-title="沙特甲",沙特甲 | 哈萨正义 vs 塞卡凯阿拉伯 | 1-2 | 直播10 | 原声5
+https://pul-tenm.gkykp.com/live/sd-1-4602050.m3u8?txSecret=f7b61c3711376c37ed47574ef2a2e88f&txTime=6AFF0EF0
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/2af31d7d31ede6bdc78d73574aec1751.png" group-title="塞尔杯",塞尔杯 | 杜博西卡 vs 尼什拉德尼基 | 0-0 | 直播34 | 直播34
+https://hello.ooo0ooo.top/live/4658528.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v267.jpg?v=1794310853091" group-title="VTB",VTB | 乌拉尔马什 vs 库班火车头 | 33-31 | 直播3 | 直播3
 https://hello.ooo0ooo.top/live/3936384.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v267.jpg?v=1794310853091" group-title="VTB",VTB | 乌拉尔马什 vs 库班火车头 | 15-20 | 直播3 | 原声2
-https://pul-tenm.gkykp.com/live/sd-2-3936384.m3u8?txSecret=e800f2030c721969887bba950efbb243&txTime=6AFF0B30
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v267.jpg?v=1794310853091" group-title="VTB",VTB | 乌拉尔马什 vs 库班火车头 | 33-31 | 直播3 | 原声2
+https://pul-tenm.gkykp.com/live/sd-2-3936384.m3u8?txSecret=2b9bca3c8d64af859d09d9cbfa651f65&txTime=6AFF0EF0
