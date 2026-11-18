@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v267.jpg?v=1794310853091" group-title="VTB",VTB | 乌拉尔马什 vs 库班火车头 | 0-0 | 直播3 | 直播3
-https://hello.ooo0ooo.top/live/3936384.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v267.jpg?v=1794310853091" group-title="VTB",VTB | 乌拉尔马什 vs 库班火车头 | 0-0 | 直播3 | 原声2
-https://pul-tenm.gkykp.com/live/sd-2-3936384.m3u8?txSecret=d0785d1fa134464e6a71b89b0ee3f506&txTime=6AFF07E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v226.jpg?v=1794310853091" group-title="沙特甲",沙特甲 | 哈萨正义 vs 塞卡凯阿拉伯 | 0-1 | 直播10 | 直播10
+https://hello.ooo0ooo.top/live/4602050.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v226.jpg?v=1794310853091" group-title="沙特甲",沙特甲 | 哈萨正义 vs 塞卡凯阿拉伯 | 0-1 | 直播10 | 原声5
+https://pul-tenm.gkykp.com/live/sd-1-4602050.m3u8?txSecret=072c86d8610d7438a59c835c1e7dc9a2&txTime=6AFF0B30
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v240.jpg?v=1794310853091" group-title="印度甲",印度甲 | 班加罗尔联合会 vs 斯雷尼迪FC | 2-2 | 直播8 | 直播8
 https://hello.ooo0ooo.top/live/4660089.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v240.jpg?v=1794310853091" group-title="印度甲",印度甲 | 班加罗尔联合会 vs 斯雷尼迪FC | 2-2 | 直播8 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4660089.m3u8?txSecret=20c9360776e13b86f6e4a26ae2202c35&txTime=6AFF07E8
+https://pul-tenm.gkykp.com/live/sd-1-4660089.m3u8?txSecret=11b7604e93ad111c15c5328fa372bd34&txTime=6AFF0B30
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v267.jpg?v=1794310853091" group-title="VTB",VTB | 乌拉尔马什 vs 库班火车头 | 15-20 | 直播3 | 直播3
+https://hello.ooo0ooo.top/live/3936384.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v267.jpg?v=1794310853091" group-title="VTB",VTB | 乌拉尔马什 vs 库班火车头 | 15-20 | 直播3 | 原声2
+https://pul-tenm.gkykp.com/live/sd-2-3936384.m3u8?txSecret=e800f2030c721969887bba950efbb243&txTime=6AFF0B30
