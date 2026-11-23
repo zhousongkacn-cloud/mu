@@ -1,15 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v264.jpg?v=1794310853091" group-title="东亚锦标U15",东亚锦标U15 | 中国澳门U15 vs 关岛U15 | 0-0 | 直播6 | 直播6
-https://hello.ooo0ooo.top/live/4665676.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v267.jpg?v=1794310853091" group-title="缅甸联",缅甸联 | 治尼兰德 vs 伊洛瓦底联 | 2-2 | 直播7 | 直播7
+https://hello.ooo0ooo.top/live/4640983.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v267.jpg?v=1794310853091" group-title="缅甸联",缅甸联 | 治尼兰德 vs 伊洛瓦底联 | 2-2 | 直播7 | 原声2
+https://pul-tenm.gkykp.com/live/sd-1-4640983.m3u8?txSecret=b5472d2c4e54776a2f1a63f29794cf64&txTime=6B056020
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v292.jpg?v=1794310853091" group-title="印班超",印班超 | 马德拉斯工兵 vs 斯图拉德 | 1-2 | 直播3 | 直播3
 https://hello.ooo0ooo.top/live/4669912.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v292.jpg?v=1794310853091" group-title="印班超",印班超 | 马德拉斯工兵 vs 斯图拉德 | 1-2 | 直播3 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4669912.m3u8?txSecret=e9a4cd231938aa2c2d5ff1746b0993bc&txTime=6B055C60
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v267.jpg?v=1794310853091" group-title="缅甸联",缅甸联 | 治尼兰德 vs 伊洛瓦底联 | 0-1 | 直播7 | 直播7
-https://hello.ooo0ooo.top/live/4640983.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v267.jpg?v=1794310853091" group-title="缅甸联",缅甸联 | 治尼兰德 vs 伊洛瓦底联 | 0-1 | 直播7 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4640983.m3u8?txSecret=d99dc78a4b12ea26619c2ebbe7816cbe&txTime=6B055C60
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v278.jpg?v=1794310853091" group-title="缅甸联",缅甸联 | 仰光城 vs 汉达瓦迪联 | 1-0 | 直播5 | 直播5
+https://pul-tenm.gkykp.com/live/sd-1-4669912.m3u8?txSecret=3a861c9736b9bb41d1aef861058488cc&txTime=6B056020
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v278.jpg?v=1794310853091" group-title="缅甸联",缅甸联 | 仰光城 vs 汉达瓦迪联 | 2-0 | 直播5 | 直播5
 https://hello.ooo0ooo.top/live/4640982.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v278.jpg?v=1794310853091" group-title="缅甸联",缅甸联 | 仰光城 vs 汉达瓦迪联 | 1-0 | 直播5 | 原声3
-https://pul-tenm.gkykp.com/live/sd-1-4640982.m3u8?txSecret=92b7926d07c3c9a44d3059f53c2f1545&txTime=6B055C60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v278.jpg?v=1794310853091" group-title="缅甸联",缅甸联 | 仰光城 vs 汉达瓦迪联 | 2-0 | 直播5 | 原声3
+https://pul-tenm.gkykp.com/live/sd-1-4640982.m3u8?txSecret=bf34c5c3fba645fac6ffd5d792dd387d&txTime=6B056020
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/6-v264.jpg?v=1794310853091" group-title="东亚锦标U15",东亚锦标U15 | 中国澳门U15 vs 关岛U15 | 0-0 | 直播6 | 直播6
+https://hello.ooo0ooo.top/live/4665676.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v237.jpg?v=1794310853091" group-title="韩女甲",韩女甲 | 新韩银行大鸟女篮 vs 富川KEB女篮 | 0-0 | 直播9 | 直播9
+https://hello.ooo0ooo.top/live/3946111.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v237.jpg?v=1794310853091" group-title="韩女甲",韩女甲 | 新韩银行大鸟女篮 vs 富川KEB女篮 | 0-0 | 直播9 | 原声4
+https://pul-tenm.gkykp.com/live/sd-2-3946111.m3u8?txSecret=99411aa8b322d12f1d91519417315ae4&txTime=6B056020
