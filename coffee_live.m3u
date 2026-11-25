@@ -1,7 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/405-v8622.jpg?v=1794310853091" group-title="亚冠二级",亚冠二级 | 墨尔本胜利 vs 越电信体工 | 0-0 | 中文解说1 | 中文解说1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_405_v8622.jpg?v=1794310853091" group-title="亚冠二级",亚冠二级 | 墨尔本胜利 vs 越电信体工 | 0-0 | 中文解说1 | 中文解说1
 https://live01-cn-ali.xqnbu.com/live/20367912_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/405-v8622.jpg?v=1794310853091" group-title="亚冠二级",亚冠二级 | 墨尔本胜利 vs 越电信体工 | 0-0 | 中文解说1 | 直播2
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_405_v8622.jpg?v=1794310853091" group-title="亚冠二级",亚冠二级 | 墨尔本胜利 vs 越电信体工 | 0-0 | 中文解说1 | 直播2
 https://hello.ooo0ooo.top/live/4621353.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/405-v8622.jpg?v=1794310853091" group-title="亚冠二级",亚冠二级 | 墨尔本胜利 vs 越电信体工 | 0-0 | 中文解说1 | 原声1
-https://pul-tenm.gkykp.com/live/hd-en-1-4621353.m3u8?txSecret=247ed5533260bc81d1a671cc8a8c8b90&txTime=6B07F150
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_405_v8622.jpg?v=1794310853091" group-title="亚冠二级",亚冠二级 | 墨尔本胜利 vs 越电信体工 | 0-0 | 中文解说1 | 原声1
+https://pul-tenm.gkykp.com/live/hd-en-1-4621353.m3u8?txSecret=5831a91caf313bde54acbc4258046e11&txTime=6B07F510
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/45-v104.jpg?v=1794310853091" group-title="缅甸联",缅甸联 | 掸邦联 vs 蒂察尔阿尔曼 | 0-0 | 直播45 | 直播45
+https://hello.ooo0ooo.top/live/4640984.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/45-v104.jpg?v=1794310853091" group-title="缅甸联",缅甸联 | 掸邦联 vs 蒂察尔阿尔曼 | 0-0 | 直播45 | 原声12
+https://pul-tenm.gkykp.com/live/sd-1-4640984.m3u8?txSecret=ebb253a7e071aeaad98083eab3c83aa6&txTime=6B07F510
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/42-v114.jpg?v=1794310853091" group-title="缅甸联",缅甸联 | 仰光联 vs 妙瓦底 | 0-0 | 直播42 | 直播42
+https://hello.ooo0ooo.top/live/4640963.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/42-v114.jpg?v=1794310853091" group-title="缅甸联",缅甸联 | 仰光联 vs 妙瓦底 | 0-0 | 直播42 | 原声11
+https://pul-tenm.gkykp.com/live/sd-1-4640963.m3u8?txSecret=c3c40d0d9afa7418e94b9c51f403ba50&txTime=6B07F510
