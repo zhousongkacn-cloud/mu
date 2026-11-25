@@ -1,7 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_405_v8626.jpg?v=1794310853091" group-title="NBA",NBA | 76人 vs 热火 | 0-6 | 中文解说1 | 中文解说1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/405-v8626.jpg?v=1794310853091" group-title="NBA",NBA | 76人 vs 热火 | 23-26 | 中文解说1 | 中文解说1
 https://live01-cn-ali.xqnbu.com/live/65173191_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_405_v8626.jpg?v=1794310853091" group-title="NBA",NBA | 76人 vs 热火 | 0-6 | 中文解说1 | 直播5
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/405-v8626.jpg?v=1794310853091" group-title="NBA",NBA | 76人 vs 热火 | 23-26 | 中文解说1 | 直播5
 https://hello.ooo0ooo.top/live/3931499.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_405_v8626.jpg?v=1794310853091" group-title="NBA",NBA | 76人 vs 热火 | 0-6 | 中文解说1 | 原声1
-https://pul-tenm.gkykp.com/live/hd-en-2-3931499.m3u8?txSecret=5d9a508a078298534dc76d67cfb7ef5a&txTime=6B08AF28
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/405-v8626.jpg?v=1794310853091" group-title="NBA",NBA | 76人 vs 热火 | 23-26 | 中文解说1 | 原声1
+https://pul-tenm.gkykp.com/live/hd-en-2-3931499.m3u8?txSecret=b1aba894c8c43820cec084ce6db5c3cf&txTime=6B08B2E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/14-v244.jpg?v=1794310853091" group-title="NCAA",NCAA | 内布拉斯加大学 vs 南方大学 | 36-14 | 直播14 | 直播14
+https://hello.ooo0ooo.top/live/3951668.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v254.jpg?v=1794310853091" group-title="NCAA",NCAA | 佛罗里达国际大学 vs 阿肯色州立 | 67-71 | 直播4 | 直播4
+https://hello.ooo0ooo.top/live/3953047.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/13-v247.jpg?v=1794310853091" group-title="NCAA",NCAA | 加州大学河滨分校 vs 波特兰州立大学 | 12-22 | 直播13 | 直播13
+https://hello.ooo0ooo.top/live/3953090.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/13-v247.jpg?v=1794310853091" group-title="NCAA",NCAA | 加州大学河滨分校 vs 波特兰州立大学 | 12-22 | 直播13 | 原声9
+https://pul-tenm.gkykp.com/live/sd-2-3953090.m3u8?txSecret=83d9af546e5f9edd666498a7ac55ed87&txTime=6B08B2E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v250.jpg?v=1794310853091" group-title="NCAA",NCAA | 新奥尔良大学 vs 格兰布林大学 | 51-53 | 直播9 | 直播9
+https://hello.ooo0ooo.top/live/3952467.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/9-v250.jpg?v=1794310853091" group-title="NCAA",NCAA | 新奥尔良大学 vs 格兰布林大学 | 51-53 | 直播9 | 原声7
+https://pul-tenm.gkykp.com/live/sd-2-3952467.m3u8?txSecret=443278ee91c378b422948feb7053c822&txTime=6B08B2E8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v261.jpg?v=1794310853091" group-title="NCAA",NCAA | 得州农工大学 vs 泽维尔大学 | 45-60 | 直播10 | 直播10
+https://hello.ooo0ooo.top/live/3949620.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/10-v261.jpg?v=1794310853091" group-title="NCAA",NCAA | 得州农工大学 vs 泽维尔大学 | 45-60 | 直播10 | 原声8
+https://pul-tenm.gkykp.com/live/sd-2-3949620.m3u8?txSecret=0195039d16fa83890c078a626ea0049d&txTime=6B08B2E8
