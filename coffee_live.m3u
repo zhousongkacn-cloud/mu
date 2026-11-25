@@ -1,67 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/448-v8285.jpg?v=1794310853091" group-title="亚冠二级",亚冠二级 | 万隆 vs FC首尔 | 2-1 | 中文解说44 | 中文解说44
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/448-v8285.jpg?v=1794310853091" group-title="亚冠二级",亚冠二级 | 万隆 vs FC首尔 | 3-1 | 中文解说44 | 中文解说44
 https://live01-cn-ali.xqnbu.com/live/74537975_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/448-v8285.jpg?v=1794310853091" group-title="亚冠二级",亚冠二级 | 万隆 vs FC首尔 | 2-1 | 中文解说44 | 直播39
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/448-v8285.jpg?v=1794310853091" group-title="亚冠二级",亚冠二级 | 万隆 vs FC首尔 | 3-1 | 中文解说44 | 直播39
 https://hello.ooo0ooo.top/live/4621358.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/448-v8285.jpg?v=1794310853091" group-title="亚冠二级",亚冠二级 | 万隆 vs FC首尔 | 2-1 | 中文解说44 | 原声44
-https://pul-tenm.gkykp.com/live/hd-en-1-4621358.m3u8?txSecret=922915e5e63cb4b01b8384c938ba45df&txTime=6B083728
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/40-v121.jpg?v=1794310853091" group-title="U17世界杯",U17世界杯 | 厄瓜多尔U17 vs 韩国U17 | 0-3 | 直播40 | 直播40
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/448-v8285.jpg?v=1794310853091" group-title="亚冠二级",亚冠二级 | 万隆 vs FC首尔 | 3-1 | 中文解说44 | 原声44
+https://pul-tenm.gkykp.com/live/hd-en-1-4621358.m3u8?txSecret=9bcb356f66a301563437ccef48866c7a&txTime=6B083B60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/40-v121.jpg?v=1794310853091" group-title="U17世界杯",U17世界杯 | 厄瓜多尔U17 vs 韩国U17 | 1-3 | 直播40 | 直播40
 https://hello.ooo0ooo.top/live/4544855.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/40-v121.jpg?v=1794310853091" group-title="U17世界杯",U17世界杯 | 厄瓜多尔U17 vs 韩国U17 | 0-3 | 直播40 | 原声5
-https://pul-tenm.gkykp.com/live/sd-1-4544855.m3u8?txSecret=2dddeb456db6e4cef2c17efc87035a87&txTime=6B083728
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/40-v121.jpg?v=1794310853091" group-title="U17世界杯",U17世界杯 | 厄瓜多尔U17 vs 韩国U17 | 1-3 | 直播40 | 原声5
+https://pul-tenm.gkykp.com/live/sd-1-4544855.m3u8?txSecret=344b774ac4510d801864f132ac5ef471&txTime=6B083B60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v251.jpg?v=1794310853091" group-title="U17世界杯",U17世界杯 | 乌拉圭U17 vs 法国U17 | 0-2 | 直播4 | 直播4
+https://hello.ooo0ooo.top/live/4544874.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v251.jpg?v=1794310853091" group-title="U17世界杯",U17世界杯 | 乌拉圭U17 vs 法国U17 | 0-2 | 直播4 | 原声15
+https://pul-tenm.gkykp.com/live/sd-1-4544874.m3u8?txSecret=bf95360d36915252c69f00fcf6bfcf12&txTime=6B083B60
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v291.jpg?v=1794310853091" group-title="亚冠二级",亚冠二级 | 纳萨夫 vs 哈尔迪亚 | 0-0 | 直播5 | 直播5
 https://hello.ooo0ooo.top/live/4621304.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5-v291.jpg?v=1794310853091" group-title="亚冠二级",亚冠二级 | 纳萨夫 vs 哈尔迪亚 | 0-0 | 直播5 | 原声17
-https://pul-tenm.gkykp.com/live/hd-en-1-4621304.m3u8?txSecret=508bd2d3c3d70a890f1cac3599818124&txTime=6B083728
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v303.jpg?v=1794310853091" group-title="U17世界杯",U17世界杯 | 海地U17 vs 沙特阿拉伯U17 | 0-0 | 直播3 | 直播3
-https://hello.ooo0ooo.top/live/4544857.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v303.jpg?v=1794310853091" group-title="U17世界杯",U17世界杯 | 海地U17 vs 沙特阿拉伯U17 | 0-0 | 直播3 | 原声14
-https://pul-tenm.gkykp.com/live/sd-1-4544857.m3u8?txSecret=4932a6a1b43c0330f63fd25feb0fe7d6&txTime=6B083728
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/28-v164.jpg?v=1794310853091" group-title="沙特甲",沙特甲 | 安瓦尔 vs 积尼达 | 2-1 | 直播28 | 直播28
-https://hello.ooo0ooo.top/live/4602065.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/28-v164.jpg?v=1794310853091" group-title="沙特甲",沙特甲 | 安瓦尔 vs 积尼达 | 2-1 | 直播28 | 原声13
-https://pul-tenm.gkykp.com/live/sd-1-4602065.m3u8?txSecret=535332bd1aaf5a53bf8f808ae1fb0528&txTime=6B083728
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/26-v175.jpg?v=1794310853091" group-title="沙特甲",沙特甲 | 布凯里耶 vs 麦加统一 | 1-4 | 直播26 | 直播26
+https://pul-tenm.gkykp.com/live/hd-en-1-4621304.m3u8?txSecret=ce7dff449886ccfee975c31a00377683&txTime=6B083B60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/26-v175.jpg?v=1794310853091" group-title="沙特甲",沙特甲 | 布凯里耶 vs 麦加统一 | 2-4 | 直播26 | 直播26
 https://hello.ooo0ooo.top/live/4602066.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/26-v175.jpg?v=1794310853091" group-title="沙特甲",沙特甲 | 布凯里耶 vs 麦加统一 | 1-4 | 直播26 | 原声4
-https://pul-tenm.gkykp.com/live/sd-1-4602066.m3u8?txSecret=5ea1643749f0edd46ced41723096079c&txTime=6B0837A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/37-v125.jpg?v=1794310853091" group-title="俄甲",俄甲 | 下卡姆斯克石油 vs 伏尔加格勒 | 1-1 | 直播37 | 直播37
-https://hello.ooo0ooo.top/live/4576575.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/37-v125.jpg?v=1794310853091" group-title="俄甲",俄甲 | 下卡姆斯克石油 vs 伏尔加格勒 | 1-1 | 直播37 | 原声12
-https://pul-tenm.gkykp.com/live/sd-1-4576575.m3u8?txSecret=bec7415c8752a296576ad51e7b1373b3&txTime=6B0837A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v251.jpg?v=1794310853091" group-title="U17世界杯",U17世界杯 | 乌拉圭U17 vs 法国U17 | 0-0 | 直播4 | 直播4
-https://hello.ooo0ooo.top/live/4544874.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v251.jpg?v=1794310853091" group-title="U17世界杯",U17世界杯 | 乌拉圭U17 vs 法国U17 | 0-0 | 直播4 | 原声15
-https://pul-tenm.gkykp.com/live/sd-1-4544874.m3u8?txSecret=a7ec10d4fc07c88dc3c7b60c041355bb&txTime=6B083728
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/41-v120.jpg?v=1794310853091" group-title="U17世界杯",U17世界杯 | 乌干达U17 vs 新喀里多尼亚U17 | 5-0 | 直播41 | 直播41
-https://hello.ooo0ooo.top/live/4544916.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/41-v120.jpg?v=1794310853091" group-title="U17世界杯",U17世界杯 | 乌干达U17 vs 新喀里多尼亚U17 | 5-0 | 直播41 | 原声6
-https://pul-tenm.gkykp.com/live/sd-1-4544916.m3u8?txSecret=4273fb85aa247f72e866b46c0e8cebbf&txTime=6B0837A0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/26-v175.jpg?v=1794310853091" group-title="沙特甲",沙特甲 | 布凯里耶 vs 麦加统一 | 2-4 | 直播26 | 原声4
+https://pul-tenm.gkykp.com/live/sd-1-4602066.m3u8?txSecret=dd0cd8b878a5d0dc584cf8676788899e&txTime=6B083B60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v303.jpg?v=1794310853091" group-title="U17世界杯",U17世界杯 | 海地U17 vs 沙特阿拉伯U17 | 1-0 | 直播3 | 直播3
+https://hello.ooo0ooo.top/live/4544857.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v303.jpg?v=1794310853091" group-title="U17世界杯",U17世界杯 | 海地U17 vs 沙特阿拉伯U17 | 1-0 | 直播3 | 原声14
+https://pul-tenm.gkykp.com/live/sd-1-4544857.m3u8?txSecret=e1e7acf77aeb338af4c157fb31a308a8&txTime=6B083B60
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v283.jpg?v=1794310853091" group-title="印度甲",印度甲 | 西隆拉庄 vs 纳加兰 | 0-2 | 直播1 | 直播1
 https://hello.ooo0ooo.top/live/4660098.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v283.jpg?v=1794310853091" group-title="印度甲",印度甲 | 西隆拉庄 vs 纳加兰 | 0-2 | 直播1 | 原声3
-https://pul-tenm.gkykp.com/live/sd-1-4660098.m3u8?txSecret=e418c3f9068abeecc2b3e13a73fb5c31&txTime=6B0837A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/39-v121.jpg?v=1794310853091" group-title="亚冠二级",亚冠二级 | 万隆 vs FC首尔 | 2-1 | 直播39 | 原声44
-https://pul-tenm.gkykp.com/live/hd-en-1-4621358.m3u8?txSecret=994e48ac6cc8e14c280e80600eb6cc52&txTime=6B0837A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/45-v105.jpg?v=1794310853091" group-title="欧青联",欧青联 | 葡萄牙体育U19 vs 曼彻斯特联U19 | 0-1 | 直播45 | 直播45
-https://hello.ooo0ooo.top/live/4638854.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/45-v105.jpg?v=1794310853091" group-title="欧青联",欧青联 | 葡萄牙体育U19 vs 曼彻斯特联U19 | 0-1 | 直播45 | 原声9
-https://pul-tenm.gkykp.com/live/sd-1-4638854.m3u8?txSecret=6e7463c5d7475785eff1de8ddf602d18&txTime=6B083728
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/25-v177.jpg?v=1794310853091" group-title="塞尔超",塞尔超 | 尼什拉德尼基 vs 潘切沃泽勒 | 0-2 | 直播25 | 直播25
-https://hello.ooo0ooo.top/live/4554659.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/25-v177.jpg?v=1794310853091" group-title="塞尔超",塞尔超 | 尼什拉德尼基 vs 潘切沃泽勒 | 0-2 | 直播25 | 原声2
-https://pul-tenm.gkykp.com/live/sd-1-4554659.m3u8?txSecret=d2bd7db49d62c20ac03b6ff94270d963&txTime=6B0837A0
+https://pul-tenm.gkykp.com/live/sd-1-4660098.m3u8?txSecret=6830726d0fab6aadf6d2575f8867b21f&txTime=6B083B60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/37-v125.jpg?v=1794310853091" group-title="俄甲",俄甲 | 下卡姆斯克石油 vs 伏尔加格勒 | 2-1 | 直播37 | 直播37
+https://hello.ooo0ooo.top/live/4576575.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/37-v125.jpg?v=1794310853091" group-title="俄甲",俄甲 | 下卡姆斯克石油 vs 伏尔加格勒 | 2-1 | 直播37 | 原声12
+https://pul-tenm.gkykp.com/live/sd-1-4576575.m3u8?txSecret=3b0f97ef6e2f8715b372fc9ac1dd6829&txTime=6B083AE8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/43-v111.jpg?v=1794310853091" group-title="乌克超",乌克超 | 克里夫巴斯 vs 哈尔科夫冶金 | 0-2 | 直播43 | 直播43
 https://hello.ooo0ooo.top/live/4569668.m3u8
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/43-v111.jpg?v=1794310853091" group-title="乌克超",乌克超 | 克里夫巴斯 vs 哈尔科夫冶金 | 0-2 | 直播43 | 原声1
-https://pul-tenm.gkykp.com/live/sd-1-4569668.m3u8?txSecret=1f6dfe01198871f7989976aaf083d74f&txTime=6B0837A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/219-v264.jpg?v=1794310853091" group-title="U17世界杯",U17世界杯 | 乌拉圭U17 vs 法国U17 | 0-0 | 原声15 | 原声15
-https://pul-tenm.gkykp.com/live/sd-1-4544874.m3u8?txSecret=f414bc8a4183888b814e1eecef138f90&txTime=6B0837A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/217-v287.jpg?v=1794310853091" group-title="沙特甲",沙特甲 | 安瓦尔 vs 积尼达 | 2-1 | 原声13 | 原声13
-https://pul-tenm.gkykp.com/live/sd-1-4602065.m3u8?txSecret=dbfe02443173d27db2d6fa771836d775&txTime=6B0837A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/221-v241.jpg?v=1794310853091" group-title="亚冠二级",亚冠二级 | 纳萨夫 vs 哈尔迪亚 | 0-0 | 原声17 | 原声17
-https://pul-tenm.gkykp.com/live/hd-en-1-4621304.m3u8?txSecret=7f91c58cf4917cd37250abc321b024a5&txTime=6B0837A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/209-v383.jpg?v=1794310853091" group-title="U17世界杯",U17世界杯 | 厄瓜多尔U17 vs 韩国U17 | 0-3 | 原声5 | 原声5
-https://pul-tenm.gkykp.com/live/sd-1-4544855.m3u8?txSecret=9d300df169ac9dcd9559f9f35ee15d4b&txTime=6B0837A0
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/218-v281.jpg?v=1794310853091" group-title="U17世界杯",U17世界杯 | 海地U17 vs 沙特阿拉伯U17 | 0-0 | 原声14 | 原声14
-https://pul-tenm.gkykp.com/live/sd-1-4544857.m3u8?txSecret=b27948f24a7d3370a135e420dc5cf1d0&txTime=6B0837A0
+https://pul-tenm.gkykp.com/live/sd-1-4569668.m3u8?txSecret=8152c1b4128d7832029868b4e1b6fb7d&txTime=6B083B60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/41-v120.jpg?v=1794310853091" group-title="U17世界杯",U17世界杯 | 乌干达U17 vs 新喀里多尼亚U17 | 6-0 | 直播41 | 直播41
+https://hello.ooo0ooo.top/live/4544916.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/41-v120.jpg?v=1794310853091" group-title="U17世界杯",U17世界杯 | 乌干达U17 vs 新喀里多尼亚U17 | 6-0 | 直播41 | 原声6
+https://pul-tenm.gkykp.com/live/sd-1-4544916.m3u8?txSecret=3ef36da5705ad71ba914f9741fa9a435&txTime=6B083B60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/45-v105.jpg?v=1794310853091" group-title="欧青联",欧青联 | 葡萄牙体育U19 vs 曼彻斯特联U19 | 0-1 | 直播45 | 直播45
+https://hello.ooo0ooo.top/live/4638854.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/45-v105.jpg?v=1794310853091" group-title="欧青联",欧青联 | 葡萄牙体育U19 vs 曼彻斯特联U19 | 0-1 | 直播45 | 原声9
+https://pul-tenm.gkykp.com/live/sd-1-4638854.m3u8?txSecret=1524acdcee4af1b11f0fbeb83a22b93d&txTime=6B083B60
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/28-v164.jpg?v=1794310853091" group-title="沙特甲",沙特甲 | 安瓦尔 vs 积尼达 | 2-1 | 直播28 | 直播28
+https://hello.ooo0ooo.top/live/4602065.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/28-v164.jpg?v=1794310853091" group-title="沙特甲",沙特甲 | 安瓦尔 vs 积尼达 | 2-1 | 直播28 | 原声13
+https://pul-tenm.gkykp.com/live/sd-1-4602065.m3u8?txSecret=1906ce397600b3c31cad5e6b23a56e6e&txTime=6B083B60
