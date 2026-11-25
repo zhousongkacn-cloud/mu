@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/405-v8626.jpg?v=1794310853091" group-title="NBA",NBA | 76人 vs 热火 | 0-0 | 中文解说1 | 中文解说1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_405_v8626.jpg?v=1794310853091" group-title="NBA",NBA | 76人 vs 热火 | 0-6 | 中文解说1 | 中文解说1
 https://live01-cn-ali.xqnbu.com/live/65173191_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/405-v8626.jpg?v=1794310853091" group-title="NBA",NBA | 76人 vs 热火 | 0-0 | 中文解说1 | 直播5
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_405_v8626.jpg?v=1794310853091" group-title="NBA",NBA | 76人 vs 热火 | 0-6 | 中文解说1 | 直播5
 https://hello.ooo0ooo.top/live/3931499.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/405-v8626.jpg?v=1794310853091" group-title="NBA",NBA | 76人 vs 热火 | 0-0 | 中文解说1 | 原声1
-https://pul-tenm.gkykp.com/live/hd-en-2-3931499.m3u8?txSecret=e343458ee31243fdb72e8282d922a4d1&txTime=6B08AB68
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/33-v141.jpg?v=1794310853091" group-title="欧篮联",欧篮联 | 皇家马德里 vs 萨拉基利斯 | 108-93 | 直播33 | 直播33
-https://hello.ooo0ooo.top/live/3926643.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/33-v141.jpg?v=1794310853091" group-title="欧篮联",欧篮联 | 皇家马德里 vs 萨拉基利斯 | 108-93 | 直播33 | 原声16
-https://pul-tenm.gkykp.com/live/sd-2-3926643.m3u8?txSecret=a258eaaf98c0c4e50ec58fdd2f3cd4b8&txTime=6B08AA78
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/qq_405_v8626.jpg?v=1794310853091" group-title="NBA",NBA | 76人 vs 热火 | 0-6 | 中文解说1 | 原声1
+https://pul-tenm.gkykp.com/live/hd-en-2-3931499.m3u8?txSecret=5d9a508a078298534dc76d67cfb7ef5a&txTime=6B08AF28
