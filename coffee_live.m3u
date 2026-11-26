@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/425-v8409.jpg?v=1794310853091" group-title="NFL",NFL | 老鹰 vs 牛仔 | 0-0 | 中文解说21 | 中文解说21
 https://live01-cn-ali.xqnbu.com/live/94813870_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v285.jpg?v=1794310853091" group-title="NCAA",NCAA | 爱荷华州立 vs 田纳西大学 | 28-39 | 直播7 | 直播7
-https://hello.ooo0ooo.top/live/3961580.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v280.jpg?v=1794310853091" group-title="NCAA",NCAA | 密歇根大学 vs 迈阿密大学 | 53-74 | 直播8 | 直播8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v310.jpg?v=1794310853091" group-title="世预美",世预美 | 乌拉圭 vs 加拿大 | 24-10 | 直播3 | 直播3
+https://hello.ooo0ooo.top/live/3931131.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3-v310.jpg?v=1794310853091" group-title="世预美",世预美 | 乌拉圭 vs 加拿大 | 24-10 | 直播3 | 原声1
+https://pul-tenm.gkykp.com/live/sd-2-3931131.m3u8?txSecret=35370246ec06e03809feee3b543bb395&txTime=6B0A03F0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/8-v280.jpg?v=1794310853091" group-title="NCAA",NCAA | 密歇根大学 vs 迈阿密大学 | 63-92 | 直播8 | 直播8
 https://hello.ooo0ooo.top/live/3961577.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/7-v285.jpg?v=1794310853091" group-title="NCAA",NCAA | 爱荷华州立 vs 田纳西大学 | 41-51 | 直播7 | 直播7
+https://hello.ooo0ooo.top/live/3961580.m3u8
