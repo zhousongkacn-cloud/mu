@@ -1,7 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/425-v8409.jpg?v=1794310853091" group-title="NFL",NFL | 老鹰 vs 牛仔 | 0-0 | 中文解说21 | 中文解说21
 https://live01-cn-ali.xqnbu.com/live/94813870_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v290.jpg?v=1794310853091" group-title="巴西甲",巴西甲 | 圣保罗 vs 雷莫 | 1-1 | 直播1 | 直播1
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v261.jpg?v=1794310853091" group-title="世预美",世预美 | 阿根廷 vs 巴哈马 | 20-14 | 直播4 | 直播4
+https://hello.ooo0ooo.top/live/3931129.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/4-v261.jpg?v=1794310853091" group-title="世预美",世预美 | 阿根廷 vs 巴哈马 | 20-14 | 直播4 | 原声2
+https://pul-tenm.gkykp.com/live/sd-2-3931129.m3u8?txSecret=8db03ecfc6fd8b4eddb4f76dd0613268&txTime=6B0A2790
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v290.jpg?v=1794310853091" group-title="巴西甲",巴西甲 | 圣保罗 vs 雷莫 | 3-1 | 直播1 | 直播1
 https://hello.ooo0ooo.top/live/4465921.m3u8
-#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v290.jpg?v=1794310853091" group-title="巴西甲",巴西甲 | 圣保罗 vs 雷莫 | 1-1 | 直播1 | 原声4
-https://pul-tenm.gkykp.com/live/sd-1-4465921.m3u8?txSecret=941f67965cc1244b0961a6903edfce55&txTime=6B0A23D0
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1-v290.jpg?v=1794310853091" group-title="巴西甲",巴西甲 | 圣保罗 vs 雷莫 | 3-1 | 直播1 | 原声4
+https://pul-tenm.gkykp.com/live/sd-1-4465921.m3u8?txSecret=30fe779cf2b9216162b746b8b4634e68&txTime=6B0A2790
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/27-v176.jpg?v=1794310853091" group-title="墨西超",墨西超 | 帕丘卡 vs 瓜达拉哈拉 | 0-0 | 直播27 | 直播27
+https://hello.ooo0ooo.top/live/4671966.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/27-v176.jpg?v=1794310853091" group-title="墨西超",墨西超 | 帕丘卡 vs 瓜达拉哈拉 | 0-0 | 直播27 | 原声3
+https://pul-tenm.gkykp.com/live/sd-1-4671966.m3u8?txSecret=c7087b5c29c9b0cdd3861c27debbdb37&txTime=6B0A2790
